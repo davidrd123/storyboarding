@@ -1,0 +1,13 @@
+# Images — kept local, not published (artist source art is copyrighted; outputs are local artifacts)
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+*.mp4
+*.mov
+
+# Local machine / editor state
+.claude/settings.local.json
+.obsidian/
+.DS_Store
