@@ -427,6 +427,52 @@ T06a-iso scored **equal or better on every dimension**. The role-labeled composi
 
 ---
 
+## Round 2 — iterations (2026-05-21)
+
+### T03b — Cold rage with anti-overt fencing (iteration on T03)
+
+**Mode:** genesis · **Model:** gemini-3-pro-image-preview
+**Test question:** T03's "cold rage held in" rendered as overt snarl (CBF 68). Can sharpened negative prose ("lips closed, no teeth, NO snarl, flat affect, micro-tension at jaw") land suppressed cold rage, or is an expression-sheet reference the only path?
+
+**References:** Image 1 `cowboy_hero_ref.jpg` (identity) · Image 2 `damaggio_03_msrev_cowboy.jpg` (style)
+**Output:** `outputs/2026-05-21/gemini-3-pro-image-preview/01_p0-t03b-cold-rage-antiovert_61fbeef9/p0-t03b-cold-rage-antiovert_01.png`
+**Result notes:** Snarl gone — mouth closed, flat affect. Shot widened from MCU toward a fuller MS, well + ruins behind. **Eyeball caveat:** reads to me as closer to neutral/calm than actively "wound tight"; the suppressed/neutral boundary is genuinely fuzzy. Flash read it as contained cold rage.
+
+**Calibrated score (gemini-3.5-flash):**
+| PF | PrF | SL | SH | SS | CBF | Decision |
+|---|---|---|---|---|---|---|
+| 84 | 83 | 85 | 82 | 84 | 85 | accept |
+
+Judge quote: *"successfully meets the core test of depicting suppressed cold rage with a closed mouth and no teeth. This confirms that precise negative prompting can achieve the desired expression without an expression sheet."*
+
+**Verdict (refined from T03):** Prose with explicit negative fencing CAN hit contained emotion on a single panel — CBF rose 68 → 85. This narrows the expression-sheet's role: it's not required to land the emotion *once*, it's required to land it *consistently across many panels*. Single-panel emotional specificity is a prose-solvable problem; cross-panel emotional consistency is the bible's job.
+
+**Successful phrase:** `"lips closed, no teeth showing, mouth a flat hard line; flat affect; NO snarl, NO bared teeth, NO open mouth"` — explicit negative fencing suppresses the model's default toward legible/overt emotion.
+
+**Open nuance:** the eyeball-vs-Flash divergence on neutral-vs-suppressed is worth a human gut-check before treating this as fully solved. The model avoided the snarl; whether it landed *cold rage* specifically vs. *generic stoicism* is a judgment call.
+
+### T06b — Geometric token-deconstruct prose (refinement on T06a)
+
+**Mode:** genesis · **Model:** gemini-3-pro-image-preview
+**Test question:** T06a proved simple prose carries low-angle framing (CBF 85). Does the *sharpened* geometric vocabulary (camera below belt line, horizon at lower fifth, central vertical column, depth stack, sweeping foreground) outperform or match it?
+
+**References:** Image 1 `cowboy_hero_ref.jpg` (identity) · Image 2 `damaggio_01_establishing.jpg` (style). No compositional ref.
+**Output:** `outputs/2026-05-21/gemini-3-pro-image-preview/01_p0-t06b-geometric-prose_1df7ea88/p0-t06b-geometric-prose_01.png`
+**Result notes:** Low-angle dune-crest shot, figure central, horizon low, sweeping foreground. Slightly flatter than T06a's dramatic upward angle by eye, but structurally on-spec. (One transient 502 from Google on first fire; succeeded on retry.)
+
+**Calibrated score (gemini-3.5-flash):**
+| PF | PrF | SL | SH | SS | CBF | Decision |
+|---|---|---|---|---|---|---|
+| 82 | 84 | 85 | 83 | 81 | 85 | accept |
+
+Judge quote: *"The geometric prose successfully guided the layout, producing a precise low-angle composition... This validates the token-deconstruct strategy."*
+
+**Verdict:** Geometric token-deconstruct prose matches simple prose (both CBF 85). Camera framing is firmly a **prose slot**, and Patrick's clean-plate → token-deconstruct path (`patterns/image-generation-control-lessons.md` §14) is the validated camera-control strategy. No compositional reference pack needed. Combined with T06a, the compositional-skeleton-transfer question is fully closed.
+
+**Successful phrase:** `"Camera positioned low, below the subject's belt line, looking up at him. Horizon sits at the lower fifth of the frame. The figure fills the central vertical column."` — explicit geometric vocabulary lands camera framing without a reference.
+
+---
+
 ## Successful Phrases
 
 | Phrase | Unlocked | First seen in |

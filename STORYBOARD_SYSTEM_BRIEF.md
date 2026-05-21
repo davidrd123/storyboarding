@@ -182,9 +182,15 @@ visual:    flat affect, eyes hard and unmoving, jaw set, no movement
 use-for:   [confrontation hold, moment-before-violence, dressing-down]
 opposite:  amused
 related:   [determined, tactical]
+hash:      sha256:8f3a…       # content hash of the local file — keys the local→host sync
+fal_url:   https://fal.media/files/…   # current upload handle; refreshed when stale
 ```
 
 `synonyms` matters more than it looks — when an LLM prompt assembler is mapping a beat description ("seethes at the order") to a bible asset, generous tagging is what makes the lookup land.
+
+**One record, three jobs.** This sidecar is simultaneously the human-readable catalog ("which image is which"), the prompt-assembly index (`synonyms`/`use-for` drive ref selection), and — captioned with film terms + emotional state — the eventual Track-B training caption. Ben's "do we include caption docs with each image?" and the "local registry to know which is which" question are the same artifact seen from different doors; don't build three systems.
+
+**Asset hosting: local is source of truth; the host is a cache.** Canonical assets live locally (organized as the bible folders already are). Hosted handles (fal storage, Google File API) are working references, not the store of record — fal's default retention is 30 days (extendable via header) and Google's File API expires in ~48h, and fal's own docs say to keep your own copies for guaranteed availability. The `hash` + `fal_url` fields drive a **content-addressed sync**: before a call, hash the local file, reuse the recorded URL if the hash matches, otherwise upload once and record. Editing an asset changes its hash, which forces a re-upload — so a stale URL can never silently reference an old version. No hand-maintained "what's uploaded" ledger; the manifest derives itself from hashes. The display (a browsable thumbnail+caption catalog) is just a view over these sidecars — in an Obsidian vault it renders for free.
 
 ### 3.5 Composite vs atomized references
 

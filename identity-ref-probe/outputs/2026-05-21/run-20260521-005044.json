@@ -1,0 +1,18 @@
+{
+  "created_at": "2026-05-21T00:50:46-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "job_count": 1,
+  "failure_count": 1,
+  "results": [
+    {
+      "status": "error",
+      "created_at": "2026-05-21T00:50:46-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+      "source_index": 1,
+      "title": "cowboy-turnaround-sheet",
+      "model": "gemini-3-pro-image-preview",
+      "prompt": "Image 1 is the cowboy character reference.\nImage 2 is a style reference.\n\nGenerate a CHARACTER MODEL SHEET of the cowboy from Image 1: the same character shown from four angles in a single row on a clean neutral cream background \u2014 front view, three-quarter front view, side profile, and back view. Neutral standing pose, arms relaxed at sides. Identical costume across all four views: hat, neck scarf, jacket, holster belt, trousers, boots. Even flat studio lighting, no dramatic shadows, no environment, no props beyond the costume.\n\nPreserve from Image 1: face structure, beard pattern, hat shape, scarf, jacket, build, weathered look.\nBorrow from Image 2: ink wash treatment, loose linework, duotone sepia/olive palette, cross-hatch shadow.\nDo NOT borrow from Image 2: subject, composition, scene elements, background, other characters.\n\n16:9 aspect ratio.",
+      "error": "503 UNAVAILABLE. {'error': {'code': 503, 'message': 'The service is currently unavailable.', 'status': 'UNAVAILABLE'}}"
+    }
+  ]
+}

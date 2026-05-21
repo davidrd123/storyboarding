@@ -189,3 +189,23 @@ Adding AI to compositing
 - Hardest part used to be the digital matte painting
 	- Matching lighting etc.
 - 15s
+
+
+----
+
+
+All the panels on one page
+Trouble breaking out of an anchor... from corner of the room,
+- Break down the image into text, jiggle the text to get back the room
+
+Very shot dependent 
+
+TTV exploration with seedance is expensive
+
+very specific style...
+
+Generating from a wide first... so you can punch in more easily
+
+Have to build out worlds... do the wide first so it has it in context & then do the coverage you want
+
+Test out gpt-image-2

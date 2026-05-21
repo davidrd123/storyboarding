@@ -263,6 +263,27 @@ Things the meeting raised that weren't resolved:
 
 ---
 
+## Post-meeting Slack thread — 2026-05-19 evening
+
+Ben followed up over Slack the same evening. Two messages, which turned out to be the two ends of one arc.
+
+**8:04 PM — hosting + captioning clarity check.**
+> "so we upload everything to FAL so the ref images live in a folder (like we would have a LoRA up there) then our API calls to LLM says 'grab those images as style refs'. Do we include caption docs w each image for greater clarity?"
+
+Resolution:
+- The hosting model is right in spirit — upload refs, reference them by URL per call. Two clarifications: (1) the call *enumerates which* URLs to attach; the model doesn't auto-grab from a folder. (2) The LoRA analogy is imperfect — refs *condition a single call*; a LoRA *bakes into the model*. (Matters for his 8:37 message.)
+- Local is source of truth; the host (fal/Google) is a cache. fal retention is 30 days default (extendable), Google File API ~48h. Don't treat either as the store of record. Content-addressed sync (hash-keyed) makes the bookkeeping self-maintaining — see `STORYBOARD_SYSTEM_BRIEF.md` §3.4.
+- Caption docs: yes — but they're the same artifact as the metadata sidecar / "which-image-is-which" registry. One record, three jobs (human clarity / prompt-assembly index / Track-B training caption). Folded into brief §3.4.
+
+**8:37 PM — "train then fix faces."**
+> "as good as both LLMs are -- they still put a little 'generic AI' in there. wonder if it's better to train a model and then just 'fix' faces, props, etc."
+
+Ben independently reconstructed **Recipe 1 / Track B**. His "generic AI" observation matches the Phase 0 finding exactly (closed-model linework trends a hair too polished vs. Damaggio's looseness — `phase-0/FINDINGS.md`). "Train a model then fix faces/props" *is* Recipe 1 (`STORYBOARD_SYSTEM_BRIEF.md` Recipe reconciliation), and a LoRA is already named as the cleanest path to closing the looseness gap. The catch he's not seeing: cold-start — a LoRA needs ~40–80 captioned in-style images we don't have on day one, which is why Track A bootstraps.
+
+**The arc:** his two messages connect. Captioning refs now (8:04) is the data-collection step that makes training-a-model later (8:37) possible — Track A both ships immediately *and* accumulates the captioned corpus a Track-B LoRA trains on (see §9 above). The caption sidecar is the Track A → Track B bridge, not housekeeping.
+
+---
+
 ## What didn't change
 
 For closure: these brief items remain unchanged after the meeting.

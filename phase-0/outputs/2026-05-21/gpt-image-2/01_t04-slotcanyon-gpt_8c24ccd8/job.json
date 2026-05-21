@@ -1,0 +1,27 @@
+{
+  "title": "t04-slotcanyon-gpt",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "STYLE: European bande dessin\u00e9e ink wash. Duotone palette \u2014 warm cream paper + sepia/olive ink. Loose confident linework, cross-hatch for shadow and material texture, atmospheric falloff in the distance. No vibrant color, no rendered polish, no photographic detail.\n\nMS, eye level. The cowboy from Image 1 riding a horse at a walk down a dry riverbed between tall sandstone walls. Narrow slot canyon, late morning, cool shadow on canyon walls, hot light hitting the top edge. Quiet, watchful. Cowboy and horse centered in lower third, canyon walls frame him on both sides. Tired, alert, reins held loose in one hand. Preserve face/beard/hat/scarf/jacket from Image 1. Borrow ink wash, palette, linework, atmospheric haze from Image 2. Do NOT borrow subject or composition from Image 2.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/characters/cowboy_hero_ref.jpg",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/style/damaggio_01_establishing.jpg"
+  ],
+  "endpoint": "edit",
+  "latency_seconds": 140.24,
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/outputs/2026-05-21/gpt-image-2/01_t04-slotcanyon-gpt_8c24ccd8/t04-slotcanyon-gpt_01.png",
+  "usage": {
+    "input_tokens": 1115,
+    "input_tokens_details": {
+      "image_tokens": 928,
+      "text_tokens": 187
+    },
+    "output_tokens": 4312,
+    "total_tokens": 5427,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}

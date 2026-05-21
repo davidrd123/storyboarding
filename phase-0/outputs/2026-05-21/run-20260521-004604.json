@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-05-21T00:46:26-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-05-21T00:46:26-07:00",
+      "started_at": "2026-05-21T00:46:05-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+      "source_index": 1,
+      "mode": "image",
+      "title": "p0-t03b-cold-rage-antiovert",
+      "model": "gemini-3-pro-image-preview",
+      "prompt": "MCU low angle slight push-in. Cowboy from Image 1. Cold rage held in and suppressed: lips closed, no teeth showing, mouth a flat hard line; flat affect, the face barely moves; micro-tension at the jaw; eyes hard, narrowed, and still, locked off-frame right; NO snarl, NO bared teeth, NO open mouth. Dust on cheek. Hat shadowing upper half of face. Hand near holster grip but not on it. Body wound tight but motionless. Beside a brick well in desert ruins, late afternoon, long shadows, warm light from frame left, deep shadow off-side, dust haze. Cowboy frame right, eyeline pulls to empty left third.\n\nPreserve face/beard/hat/scarf/jacket from Image 1. Borrow ink wash/palette/linework from Image 2.\n\n16:9 aspect ratio.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": null,
+        "temperature": 0.7,
+        "system_prompt": "STYLE: European bande dessin\u00e9e ink wash. Duotone palette \u2014 warm cream paper + sepia/olive ink. Loose confident linework, cross-hatch for shadow and material texture, atmospheric falloff in the distance. No vibrant color, no rendered polish, no photographic detail.",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/characters/cowboy_hero_ref.jpg",
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/style/damaggio_03_msrev_cowboy.jpg"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/characters/cowboy_hero_ref.jpg",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/style/damaggio_03_msrev_cowboy.jpg"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/outputs/2026-05-21/gemini-3-pro-image-preview/01_p0-t03b-cold-rage-antiovert_61fbeef9",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/outputs/2026-05-21/gemini-3-pro-image-preview/01_p0-t03b-cold-rage-antiovert_61fbeef9/p0-t03b-cold-rage-antiovert_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

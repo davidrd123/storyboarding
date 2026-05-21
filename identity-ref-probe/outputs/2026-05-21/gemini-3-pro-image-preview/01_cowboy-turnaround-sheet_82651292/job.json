@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-21T00:52:28-07:00",
+  "started_at": "2026-05-21T00:52:06-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "cowboy-turnaround-sheet",
+  "model": "gemini-3-pro-image-preview",
+  "prompt": "Image 1 is the cowboy character reference.\nImage 2 is a style reference.\n\nGenerate a CHARACTER MODEL SHEET of the cowboy from Image 1: the same character shown from four angles in a single row on a clean neutral cream background \u2014 front view, three-quarter front view, side profile, and back view. Neutral standing pose, arms relaxed at sides. Identical costume across all four views: hat, neck scarf, jacket, holster belt, trousers, boots. Even flat studio lighting, no dramatic shadows, no environment, no props beyond the costume.\n\nPreserve from Image 1: face structure, beard pattern, hat shape, scarf, jacket, build, weathered look.\nBorrow from Image 2: ink wash treatment, loose linework, duotone sepia/olive palette, cross-hatch shadow.\nDo NOT borrow from Image 2: subject, composition, scene elements, background, other characters.\n\n16:9 aspect ratio.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": 0.7,
+    "system_prompt": "STYLE: European bande dessin\u00e9e ink wash. Duotone palette \u2014 warm cream paper + sepia/olive ink. Loose confident linework, cross-hatch for shadow and material texture. No vibrant color, no rendered polish, no photographic detail. This is a clean character model sheet \u2014 flat even lighting, neutral background, no mood.",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/characters/cowboy_hero_ref.jpg",
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/style/damaggio_03_msrev_cowboy.jpg"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/characters/cowboy_hero_ref.jpg",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/style/damaggio_03_msrev_cowboy.jpg"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/identity-ref-probe/outputs/2026-05-21/gemini-3-pro-image-preview/01_cowboy-turnaround-sheet_82651292",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/identity-ref-probe/outputs/2026-05-21/gemini-3-pro-image-preview/01_cowboy-turnaround-sheet_82651292/cowboy-turnaround-sheet_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

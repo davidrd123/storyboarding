@@ -154,6 +154,65 @@ TESTS: dict[str, dict] = {
             "continuity."
         ),
     },
+    "T03b": {
+        "prompt": (
+            "MCU low angle slight push-in. Cowboy from Image 1. Cold rage held "
+            "in and suppressed: lips closed, no teeth showing, mouth a flat "
+            "hard line; flat affect, the face barely moves; micro-tension at "
+            "the jaw; eyes hard, narrowed, and still, locked off-frame right; "
+            "NO snarl, NO bared teeth, NO open mouth. Dust on cheek. Hat "
+            "shadowing upper half of face. Hand near holster grip but not on "
+            "it. Body wound tight but motionless. Beside a brick well in "
+            "desert ruins, late afternoon, long shadows, warm light from frame "
+            "left, deep shadow off-side, dust haze. Cowboy frame right, "
+            "eyeline pulls to empty left third. Preserve face/beard/hat/scarf/"
+            "jacket from Image 1. Borrow ink wash/palette/linework from Image "
+            "2. 16:9."
+        ),
+        "intent": (
+            "Phase-0 test 3b — iteration on T03. T03's prose 'cold rage held "
+            "in' rendered as overt snarl with bared teeth (CBF 68). This "
+            "re-fire adds explicit anti-overt fencing (lips closed, no teeth, "
+            "flat affect, NO snarl). Question: can sharpened negative prose "
+            "land suppressed cold rage, or is an expression-sheet reference "
+            "the only reliable path? Success = closed-mouth contained anger, "
+            "not bared-teeth rage. If this still renders overt, the expression "
+            "sheet is confirmed as load-bearing (prose cannot carry this slot)."
+        ),
+        "image_path": None,
+        "identity_refs": [str(REPO / "refs/characters/cowboy_hero_ref.jpg")],
+        "style_refs": [str(REPO / "refs/style/damaggio_03_msrev_cowboy.jpg")],
+    },
+    "T06b": {
+        "prompt": (
+            "Image 1 is the cowboy character reference. Image 2 is a style "
+            "reference. Preserve from Image 1: face, beard, hat, scarf, "
+            "jacket, build. Borrow from Image 2: ink wash, palette, linework, "
+            "atmospheric haze. Do NOT borrow from Image 2: subject, "
+            "composition, location, props. Generate: the cowboy from Image 1 "
+            "standing alone at the top of a dune. Camera positioned low, below "
+            "the subject's belt line, looking up at him. Horizon sits at the "
+            "lower fifth of the frame. The figure fills the central vertical "
+            "column. Sky fills the upper two thirds. Foreground dune crest "
+            "sweeps up toward him; midground and background fall away below. "
+            "Late afternoon backlight, single figure. 16:9."
+        ),
+        "intent": (
+            "Phase-0 test 6b — refinement on T06a. T06a proved prose carries "
+            "low-angle framing without a compositional reference (CBF 85). "
+            "This re-fire swaps the simple prose ('looking down toward the "
+            "camera, sky fills upper two thirds') for sharpened geometric "
+            "vocabulary (camera below belt line, horizon at lower fifth, "
+            "central vertical column, depth stack, sweeping foreground). "
+            "Question: does the explicit geometric token-deconstruct prose "
+            "outperform or match the simple prose baseline? Success = a clean "
+            "low-angle dune shot at least as strong as T06a, validating "
+            "Patrick's token-deconstruct path as the camera-control strategy."
+        ),
+        "image_path": None,
+        "identity_refs": [str(REPO / "refs/characters/cowboy_hero_ref.jpg")],
+        "style_refs": [str(REPO / "refs/style/damaggio_01_establishing.jpg")],
+    },
     "T06a_iso": {
         "prompt": (
             "Image 1 is the cowboy character reference. Image 2 is a style "

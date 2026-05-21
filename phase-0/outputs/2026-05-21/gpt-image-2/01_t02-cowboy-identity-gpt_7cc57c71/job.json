@@ -1,0 +1,26 @@
+{
+  "title": "t02-cowboy-identity-gpt",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "STYLE: European bande dessin\u00e9e ink wash. Duotone palette \u2014 warm cream paper + sepia/olive ink. Loose confident linework, cross-hatch for shadow and material texture, atmospheric falloff in the distance. No vibrant color, no rendered polish, no photographic detail.\n\nMCU of the cowboy from Image 1 standing at the edge of a mesa overlook, late afternoon, alone, looking out across the valley, wind in the scarf, three-quarter front angle, fills the right two thirds of frame. Preserve face/beard/hat/scarf/jacket/build from Image 1. Borrow ink wash, duotone palette, linework, cross-hatch from Image 2. Do NOT borrow subject or composition from Image 2.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/characters/cowboy_hero_ref.jpg",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/refs/style/damaggio_02_action.jpg"
+  ],
+  "endpoint": "edit",
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/phase-0/outputs/2026-05-21/gpt-image-2/01_t02-cowboy-identity-gpt_7cc57c71/t02-cowboy-identity-gpt_01.png",
+  "usage": {
+    "input_tokens": 1087,
+    "input_tokens_details": {
+      "image_tokens": 928,
+      "text_tokens": 159
+    },
+    "output_tokens": 4312,
+    "total_tokens": 5399,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}
