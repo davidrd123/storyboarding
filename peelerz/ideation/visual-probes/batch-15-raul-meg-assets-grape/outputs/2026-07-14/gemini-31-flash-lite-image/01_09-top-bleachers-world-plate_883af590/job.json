@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T03:14:54-07:00",
+  "started_at": "2026-07-14T03:14:39-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/world-plate.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "09 top bleachers world plate",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 controls Raul and Meg's faces, hair, age, clothing, friendship, and Peelerz product. Do not reproduce its park. Image 2 controls only the high-school football field, descending aluminum bleachers, evening floodlights, and distant-game scale. Remove every orange glow, anime effect, altered player, firework, and supernatural event from Image 2. WORLD GEOGRAPHY \u2014 Place Raul and Meg together on the very top row of unusually tall bleachers. They occupy the upper-right third of a wide frame. Several completely empty aluminum rows descend below and around them before reaching the ordinary crowd much farther down; the small live game is visible on the field beyond. Open evening sky fills nearly half the image. No seats or people exist above them. BEAT \u2014 A quiet moment before anything changes. They casually share Peelerz, relaxed and familiar, looking intermittently toward the distant game. Natural body language, not posing for camera. CAMERA \u2014 cinematic wide establishing shot from slightly below and across their row, 35mm lens, readable faces but environment dominant, soft blue-gold dusk and practical stadium light. AVOID \u2014 crowded row around them, park bench, daytime noon, empty stadium, giant teenagers, romance, looking into camera, transformation effects, gummy creatures.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage or storyboard grid. Preserve the attached teenagers' identities, age, hair, and clothing. Establish a reusable world plate with clear geography and generous negative space. No transformation, anime energy, candy characters, surreal effects, captions, borders, watermarks, or added package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

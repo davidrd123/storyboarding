@@ -1,0 +1,26 @@
+{
+  "title": "hephaestus-panelE-gaze-hero",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "Match the exact painterly cinematic concept-art style, palette, color, and rendering of the reference image \u2014 cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze, visible brushwork. Reproduce its look precisely; introduce no style not present in the reference.\n\nA single cinematic CLOSE-UP, full frame, 16:9 \u2014 one panel of a storyboard rendered as a finished hero frame.\n\nSHOT: tight close-up on the face of one golden automaton just lifted from the assembly line, filling most of the frame in three-quarter profile turned toward screen-LEFT \u2014 it faces its maker, who is off-frame left.\n\nTHE MOMENT: its eyes \u2014 until now blank and serene, identical to a thousand others \u2014 are opening for the very first time, a faint inner light waking behind them, the first flicker of awareness meeting the maker's gaze off-frame. Uncanny, tender, unsettling: flawless craftsmanship becoming a someone. The whole story is in this face \u2014 does it look back? It does.\n\nMATERIALITY: burnished gold, calm classical Hellenistic features, visible hand-wrought seams along the jaw and temple, faint tool-marks, a bead of cooling solder at the throat seam; slightly matte and hammered, hand-made \u2014 NOT chrome, no mirror gloss.\n\nLIGHT: cool electric-blue key raking the far side of the face into violet shadow; a warm orange welder-rim catching the near cheekbone; deep volumetric haze behind.\n\nBACKGROUND: thrown far out of focus \u2014 the long line of identical golden faces recedes into blue dark, so this one face reads as singular against the multitude.\n\nCOMPOSITION: the face right-of-center, its gaze leading left into negative space toward the unseen maker (180 axis: it looks screen-left). A held breath \u2014 the instant a thing becomes a being.\n\nPainterly cinematic concept-art, visible brushwork; no chrome gloss, no photoreal skin.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "endpoint": "edit",
+  "latency_seconds": 105.07,
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-panelE-gaze-hero_49060ca7/hephaestus-panelE-gaze-hero_01.png",
+  "usage": {
+    "input_tokens": 1600,
+    "input_tokens_details": {
+      "image_tokens": 1196,
+      "text_tokens": 404
+    },
+    "output_tokens": 4312,
+    "total_tokens": 5912,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}

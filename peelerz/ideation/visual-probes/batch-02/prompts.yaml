@@ -1,0 +1,107 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-image-preview
+  aspect_ratio: "16:9"
+  image_size: "1K"
+  num_outputs: 1
+
+jobs:
+  - title: "tina giant hand peels car baseline"
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Create a photoreal cinematic candy-commercial styleframe that answers the director's literal
+      question: what if a giant hand peels open Tina's car? Preserve the same 18-year-old Tina,
+      casual wardrobe, pink Lychee Peelerz candy and package, rideshare car, and ordinary sunny
+      neighborhood from the references. Use a wide three-quarter exterior view. One enormous human
+      hand reaches down from outside the frame, pinches a clearly visible seam along the car roof,
+      and peels the car's outer body backward in one flexible sheet like skin from a fruit. Tina stays
+      seated and clearly visible inside, calmly holding the freshly bitten pink candy. Make the giant
+      hand, the pinched seam, and the single curling sheet instantly readable. Playful scale, not
+      threatening or grotesque. This is a simple baseline: one event, no second transformation, no
+      rainbow, no candyland, no magical particles, no extra characters, no text, no watermark.
+
+  - title: "tina gummy skin becomes canopy mutation"
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+      - ../../../script/PEELERZ - 04 - parachute flight.png
+    prompt: >
+      Create a photoreal cinematic candy-commercial styleframe that tests one continuous-material
+      mutation of the Tina sequence. Preserve Tina's face, age, wardrobe, pink Lychee Peelerz candy
+      and package, car, and grounded neighborhood realism from the references. The car's outer skin
+      has stretched into ONE translucent pink gummy membrane: it is still visibly attached to the
+      peeled-open car below, rises as one broad curling strip, and spreads overhead into a soft
+      canopy carrying Tina upward. Tina grips the attached gummy sheet with one hand and holds the
+      bitten candy with the other. The viewer must be able to trace one uninterrupted material from
+      car body to peel strip to canopy. It should feel elastic and fruit-like, not nylon or cloth.
+      One physical rule only. No rainbow parachute, no candyland, no floating candy shower, no
+      unrelated effects, no text, no watermark.
+
+  - title: "raul multi flavor candy mecha baseline"
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+      - ../../../script/PEELERZ - 07 - mango voltron.png
+    prompt: >
+      Create a bold cinematic commercial styleframe answering the director's literal question: a
+      better giant transformation built from multiple Peelerz candies and flavors. Preserve Raul and
+      Meg's faces, teen age, styling, candy packages, and mango Peelerz from the references, but place
+      them on high-school football bleachers. Raul stands at the center of an ORIGINAL modular candy
+      mecha assembled around him. Distinct translucent candy modules remain visibly separate by
+      flavor and color: mango-gold legs, lychee-pink torso, green-apple arm, grape-purple arm, with
+      curled peel strips locking the pieces together at the joints. Raul's real face remains visible
+      at the center; Meg watches from the bleachers holding her package. Make the assembly logic and
+      flavor modularity readable in one hero frame, playful and premium rather than toy clutter. No
+      likeness to any existing robot franchise, no logos beyond Peelerz packaging, no weapons, no
+      candyland, no text, no watermark.
+
+  - title: "giant raul eats small raul baseline"
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 07 - mango voltron.png
+    prompt: >
+      Create a photoreal surreal candy-commercial styleframe answering the director's literal scale
+      gag: a giant version of Raul leans down into frame and eats him. Preserve Raul and Meg's faces,
+      age, wardrobe, mango Peelerz candy and packaging from the references, on high-school football
+      bleachers. Normal-size Raul sits in the foreground holding a freshly bitten mango candy. From
+      above the stadium, a forty-foot mango-powered version of the SAME Raul bends down into frame,
+      face enormous and clearly recognizable, opening his mouth as his fingers gently lift the tiny
+      Raul toward it like another candy. Meg looks up, dryly unimpressed. Make both scales and the
+      identity match unmistakable in one frame. The tone is mischievous and impossible, never horror:
+      no teeth close-up, no injury, no distress, no gore. No extra magic, no candyland, no text, no
+      watermark.
+
+  - title: "couple anchored two world handoff baseline"
+    images:
+      - ../../../script/PEELERZ - 10 - campus connection.png
+      - ../../../references/CZI5V2VRc7s/frames-24fps/CZI5V2VRc7s_t41.500.png
+    prompt: >
+      Create a cinematic commercial styleframe testing a clean world-transition grammar. Preserve
+      Liz and John's faces, teen age, wardrobe, relative positions, Peelerz candies and packages from
+      the campus reference. Keep the couple centered and physically continuous while the camera makes
+      a circular move around them. Catch the exact handoff frame: the left half remains the ordinary
+      live-action college quad, while a crisp moving boundary passing behind and between them converts
+      the right half into a flat hand-painted animated fruit grove. Their bodies and eyeline remain
+      stable across the seam, as if the worlds change but the couple does not. Use the second reference
+      ONLY for the formal idea of centered people anchored during a medium transition; do not copy its
+      characters, costumes, franchise imagery, or graphic style. One clean boundary, two legible
+      worlds, no portal ring, no collage clutter, no text, no watermark.
+
+  - title: "couple gummy film redraws world mutation"
+    images:
+      - ../../../script/PEELERZ - 10 - campus connection.png
+      - ../../../references/CZI5V2VRc7s/frames-24fps/CZI5V2VRc7s_t41.500.png
+    prompt: >
+      Create a cinematic candy-commercial styleframe that gives the couple's world change a visible
+      Peelerz material cause. Preserve Liz and John's faces, teen age, wardrobe, positions, candies,
+      and packages from the campus reference. They remain centered and connected during a circular
+      camera move. One broad translucent gummy peel-film curls around them in a vertical arc. Ahead of
+      the film is the ordinary live-action campus; directly behind the same continuous film, the quad
+      has been redrawn as a lush flat hand-painted fruit grove. The film itself is the crisp transition
+      boundary and visibly begins at the curled peel in Liz's hand. The eye should trace one material
+      from candy peel to sweeping film to transformed world. Use the second reference ONLY for anchored
+      subjects during a medium handoff; do not copy its characters, franchise imagery, or visual style.
+      One cause and one transformation, no portal ring, no candy explosion, no collage clutter, no
+      text, no watermark.

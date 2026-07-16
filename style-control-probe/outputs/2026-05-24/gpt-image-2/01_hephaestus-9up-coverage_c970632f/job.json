@@ -1,0 +1,26 @@
+{
+  "title": "hephaestus-9up-coverage",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "Match the exact painterly cinematic concept-art style, palette, color, and rendering of the reference image \u2014 cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze, visible brushwork. Reproduce its look precisely; introduce no style not present in the reference.\n\nRender ONE finished image: a clean 3x3 grid of nine cinematic storyboard panels, thin black borders, narrow gutters. At the TOP-LEFT of each panel print a small number and a short SHOT-TYPE caption in white (e.g. '1. WIDE ESTABLISHER'). This is editorial coverage of a SINGLE continuous moment in one place \u2014 same character, same gold automata, same world and look across all nine.\n\nSUBTEXT to carry in every panel: Hephaestus, the cast-out smith-god, inspecting one of the endless identical golden automata he builds \u2014 weary tenderness edged with unease, the unspoken question of whether the thing looks back.\n\n180-DEGREE RULE across all panels: the axis of action runs between Hephaestus (screen LEFT, facing right) and the automaton he inspects (screen RIGHT, facing left); the camera never crosses this line, so in the close-ups Hephaestus looks screen-right and the automaton looks screen-left \u2014 they read as looking at each other.\n\nPanels:\n1. WIDE ESTABLISHER \u2014 the cavernous forge, the long line of gold automata receding to a vanishing point; Hephaestus small at his station, lower left.\n2. MEDIUM \u2014 Hephaestus lifting a finished automaton off the line.\n3. CLOSE UP \u2014 Hephaestus's weary, lined face, looking screen-right.\n4. HANDS ON AUTOMATON \u2014 insert: his hands cradling the automaton's gold face and shoulder.\n5. CLOSE UP \u2014 the automaton's serene gold face, looking screen-left, eyes meeting his.\n6. LOW ANGLE \u2014 the gold automata looming overhead against the haze.\n7. SPARK DETAIL \u2014 a welder arm sparking on a gold seam.\n8. OVER THE SHOULDER \u2014 from behind the automaton, the receding army of identical others with tiny Hephaestus among them.\n9. FINAL WIDE \u2014 Hephaestus alone among the silent ranks, a vast shadow falling across them.\n\nOne continuous workshop, one light direction (cool key from above, warm spark-light from the welders), consistent across all nine panels.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "endpoint": "edit",
+  "latency_seconds": 132.9,
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-9up-coverage_c970632f/hephaestus-9up-coverage_01.png",
+  "usage": {
+    "input_tokens": 1717,
+    "input_tokens_details": {
+      "image_tokens": 1196,
+      "text_tokens": 521
+    },
+    "output_tokens": 4312,
+    "total_tokens": 6029,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}

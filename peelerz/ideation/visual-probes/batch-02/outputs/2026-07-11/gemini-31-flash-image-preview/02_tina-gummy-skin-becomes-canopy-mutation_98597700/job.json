@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T15:53:02-07:00",
+  "started_at": "2026-07-11T15:52:50-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/prompts.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "tina gummy skin becomes canopy mutation",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal cinematic candy-commercial styleframe that tests one continuous-material mutation of the Tina sequence. Preserve Tina's face, age, wardrobe, pink Lychee Peelerz candy and package, car, and grounded neighborhood realism from the references. The car's outer skin has stretched into ONE translucent pink gummy membrane: it is still visibly attached to the peeled-open car below, rises as one broad curling strip, and spreads overhead into a soft canopy carrying Tina upward. Tina grips the attached gummy sheet with one hand and holds the bitten candy with the other. The viewer must be able to trace one uninterrupted material from car body to peel strip to canopy. It should feel elastic and fruit-like, not nylon or cloth. One physical rule only. No rainbow parachute, no candyland, no floating candy shower, no unrelated effects, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 03 - car peels open.png",
+      "../../../script/PEELERZ - 04 - parachute flight.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 04 - parachute flight.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/02_tina-gummy-skin-becomes-canopy-mutation_98597700",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/02_tina-gummy-skin-becomes-canopy-mutation_98597700/tina-gummy-skin-becomes-canopy-mutation_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

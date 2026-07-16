@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T15:52:50-07:00",
+  "started_at": "2026-07-11T15:52:40-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/prompts.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "tina giant hand peels car baseline",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal cinematic candy-commercial styleframe that answers the director's literal question: what if a giant hand peels open Tina's car? Preserve the same 18-year-old Tina, casual wardrobe, pink Lychee Peelerz candy and package, rideshare car, and ordinary sunny neighborhood from the references. Use a wide three-quarter exterior view. One enormous human hand reaches down from outside the frame, pinches a clearly visible seam along the car roof, and peels the car's outer body backward in one flexible sheet like skin from a fruit. Tina stays seated and clearly visible inside, calmly holding the freshly bitten pink candy. Make the giant hand, the pinched seam, and the single curling sheet instantly readable. Playful scale, not threatening or grotesque. This is a simple baseline: one event, no second transformation, no rainbow, no candyland, no magical particles, no extra characters, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/01_tina-giant-hand-peels-car-baseline_a5e739f4",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/01_tina-giant-hand-peels-car-baseline_a5e739f4/tina-giant-hand-peels-car-baseline_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

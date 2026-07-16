@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:10:52-07:00",
+  "started_at": "2026-07-15T15:10:44-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/scenes.yaml",
+  "source_index": 11,
+  "mode": "image",
+  "title": "11 islands want them",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "References lock the small approaching parachutes, tropical scale, and appetizing fruit-island material. Aerial evening view of a vast turquoise sea where dozens of full-size fruit-shaped islands are actively rearranging themselves through visible wakes into two enormous open welcoming arms around the approaching parachutes. Individual islands remain recognizable landscapes with beaches, trees, villages, and cliffs, while the collective arm gesture reads only at aerial scale. No literal giant body, hands rising from sea, heart shape, text, rainbow, static archipelago, or gummy-bear islands.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or character sheet. Treat the impossible idea as one physical rule photographed in one world. Preserve only declared reference roles. Raul and Meg remain together in high-school football bleachers. Liz and John remain together on campus. Mango helpers are irregular translucent fruit-like gummy pieces with minimal features, not gummy bears or preschool mascots. Driver scenes use restrained, deadpan documentary realism with exactly one impossible channel. Candy stretches rather than tears. Benign, appetizing, youthful, visually legible. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 04 - parachute flight.png",
+      "../../../script/PEELERZ - 14 - sky islands.png",
+      "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 04 - parachute flight.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 14 - sky islands.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/11_11-islands-want-them_579a11f9",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/11_11-islands-want-them_579a11f9/11-islands-want-them_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

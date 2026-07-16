@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:10:30-07:00",
+  "started_at": "2026-07-15T15:10:26-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/scenes.yaml",
+  "source_index": 8,
+  "mode": "image",
+  "title": "08 rebuilt better",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 locks the full-size sedan proportions and ordinary suburban driveway; Image 2 supplies helper scale and translucent mango material. At sunrise an ordinary middle-aged driver discovers a precise full-size replica of his sedan built from softly wobbling translucent gummy panels parked beside the real car. Small faceless fruit gummy helpers polish the replica; his palm gently dents its hood and it slowly springs back. Everything beyond this one material substitution is mundane. No candyland, tiny car, metal armor, melting vehicle, driver inside, animated headlights, or magical particles.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or character sheet. Treat the impossible idea as one physical rule photographed in one world. Preserve only declared reference roles. Raul and Meg remain together in high-school football bleachers. Liz and John remain together on campus. Mango helpers are irregular translucent fruit-like gummy pieces with minimal features, not gummy bears or preschool mascots. Driver scenes use restrained, deadpan documentary realism with exactly one impossible channel. Candy stretches rather than tears. Benign, appetizing, youthful, visually legible. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/08_08-rebuilt-better_f846161a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/08_08-rebuilt-better_f846161a/08-rebuilt-better_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

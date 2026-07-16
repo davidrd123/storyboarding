@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:09:54-07:00",
+  "started_at": "2026-07-15T15:09:49-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/scenes.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 peeled neighborhood floats driver declines",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 supplies the sedan and driver-world realism; Image 2 supplies only benign peel logic. A whole ordinary suburban neighborhood\u2014houses, lawns, trees, mailboxes, and parked cars\u2014hovers exactly six feet above its empty foundations after shedding one dull outer skin. Fresh saturated color glows from every revealed surface. On the bare street below, the middle-aged rideshare driver stands alone holding the sedan steering wheel, politely declining the adventure as Tina and the car hover overhead. One continuous wide golden-hour photograph. No disaster, rubble, balloons, floating islands, or giant hand.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished, coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or design sheet. Treat every impossible event as a physical rule inside one photographed world. Preserve only the reference roles declared in each job. Keep Tina in the back seat whenever she appears in a car; Raul and Meg belong together in high-school football bleachers; Liz and John belong together on campus. Both gummy center and peel are edible. Candy stretches rather than tears. Favor good weirdness, readable scale, benign wonder, and appetizing tactile materials. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-peeled-neighborhood-floats-driver-declines_5b5fe25a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-peeled-neighborhood-floats-driver-declines_5b5fe25a/02-peeled-neighborhood-floats-driver-declines_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

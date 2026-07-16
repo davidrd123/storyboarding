@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:00:25-07:00",
+  "started_at": "2026-07-14T02:00:19-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/prompts.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 stage separation over street",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 is Tina, product, dark car, and back-seat identity authority. Image 2 supports Tina's face and pink lychee gummy only. Image 3 supplies the broad concepts of the car opening and a canopy, but reject its orange upholstery, rainbow styling, camera, and chaotic fragments. Create a wide exterior view above a recognizable suburban street. The car is rising gently, not rocketing. Its blue-gray hood, doors, and roof skin peel away sequentially behind it in three clean large stages, descending in an orderly vertical trail. Tina remains visible in the intact black rear passenger compartment. From the roof opening, one broad pearly pink canopy has just begun to unfurl. Afternoon light, calm wonder, no flame, smoke, spacecraft, explosion, metal shrapnel, or conventional rocket boosters.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage or storyboard grid. Follow the stated role of every reference image rather than blending all references indiscriminately. Preserve Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Tina's fixed meeting point is the back seat of the car: never move her into the driver or front passenger seat. Make the specified physical situation immediately legible in one 16:9 image. Keep transformations benign, youthful, tactile, and suitable for a live-action candy commercial. Avoid captions, borders, split screens, watermarks, generic candyland, random rainbow effects, body horror, violent wreckage, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-stage-separation-over-street_bd0a0365",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-stage-separation-over-street_bd0a0365/01-stage-separation-over-street_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

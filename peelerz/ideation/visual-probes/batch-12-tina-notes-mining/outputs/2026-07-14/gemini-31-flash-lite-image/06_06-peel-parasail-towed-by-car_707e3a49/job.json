@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:00:59-07:00",
+  "started_at": "2026-07-14T02:00:51-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/prompts.yaml",
+  "source_index": 6,
+  "mode": "image",
+  "title": "06 peel parasail towed by car",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 and Image 2 control Tina's face, wardrobe, gummy, and pouch. Image 3 supplies only the opened-car and canopy premise; reject its rainbow colors, orange seats, disconnected panels, and empty-sky composition. Create a wide golden-hour side view that clearly establishes a towing relationship. The peeled-open dark car continues driving along the suburban road below. A single taut tow line runs visibly from the rear of that car upward to Tina, who is parasailing above and behind it while holding the pouch. Her parasail is one broad curling strip of translucent lychee-pink fruit peel, not conventional fabric. Houses and palms slide past below. The car, line, Tina, and peel canopy must all fit legibly in one composition. No driver-seat Tina, floating untethered woman, airplane, boat, ocean, or rainbow parachute.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage or storyboard grid. Follow the stated role of every reference image rather than blending all references indiscriminately. Preserve Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Tina's fixed meeting point is the back seat of the car: never move her into the driver or front passenger seat. Make the specified physical situation immediately legible in one 16:9 image. Keep transformations benign, youthful, tactile, and suitable for a live-action candy commercial. Avoid captions, borders, split screens, watermarks, generic candyland, random rainbow effects, body horror, violent wreckage, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-peel-parasail-towed-by-car_707e3a49",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-peel-parasail-towed-by-car_707e3a49/06-peel-parasail-towed-by-car_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:02:04-07:00",
+  "started_at": "2026-07-14T02:01:54-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/prompts.yaml",
+  "source_index": 9,
+  "mode": "image",
+  "title": "09 world becomes painting",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 is the exact live-action foreground and composition authority. Preserve Tina in the back seat, face, hair, blue jacket, black top, gummy, pouch, dark car interior, window frames, hands, and camera. Image 2 supports identity and candy only. Change only the world outside every car window into a loose vivid physical painting: thick visible brushstrokes form houses, smeared color forms the sky, and wet impasto trees retain the original street perspective. Tina presses one hand gently to the passenger glass at the clear material boundary between real photography and painted world. Keep Tina, glass, and entire car interior photoreal. No miniature set, cartoon outlines, interior paint, floating canvas, split screen, or duplicated Tina.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage or storyboard grid. Follow the stated role of every reference image rather than blending all references indiscriminately. Preserve Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Tina's fixed meeting point is the back seat of the car: never move her into the driver or front passenger seat. Make the specified physical situation immediately legible in one 16:9 image. Keep transformations benign, youthful, tactile, and suitable for a live-action candy commercial. Avoid captions, borders, split screens, watermarks, generic candyland, random rainbow effects, body horror, violent wreckage, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-world-becomes-painting_d52a26bf",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-world-becomes-painting_d52a26bf/09-world-becomes-painting_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T17:56:44-07:00",
+  "started_at": "2026-07-11T17:56:35-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/prompts.yaml",
+  "source_index": 6,
+  "mode": "image",
+  "title": "couple campus rotates around them control",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal cinematic commercial styleframe for a non-peel world-building control. Preserve Liz and John, their faces, wardrobe, Peelerz candies and packages, and their quiet connection at the center of an ordinary college quad. The couple remains perfectly upright and weightless, facing one another, while gravity has rotated the campus ninety degrees around them: students calmly walk along the vertical stone wall as though it were pavement, bicycles rest against the former ground overhead, and loose leaves fall sideways toward the building. Use a wide canted composition with one unambiguous gravity direction. Everyone underreacts. The bite is already taken; do not add an energy source or peel mechanism. One impossible physical law, no Doctor Strange imagery, no portal, no generic floating debris cloud, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 10 - campus connection.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/06_couple-campus-rotates-around-them-control_38837583",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/06_couple-campus-rotates-around-them-control_38837583/couple-campus-rotates-around-them-control_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

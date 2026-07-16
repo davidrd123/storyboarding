@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T00:39:55-07:00",
+  "started_at": "2026-07-14T00:39:45-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/prompts.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "04 gummy fish cross the window",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 controls Tina, car, product, pose, and intimate back-seat framing. Image 2 controls the miniature houses, fish, palette, and tactile mixed-media register. Image 3 supports the candy. Tina holds one round translucent pink lychee gummy close to the passenger window. Two small pink and white gummy fish drift outside above the miniature tropical houses; exactly one fish has just crossed through the glass and floats inside near her shoulder. A continuous pearly pink light connects gummy, fish, and Tina's face. This is subtle underwater foreshadow without an ocean, water, bubbles, aquarium glass, or mermaids.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one live-action cinematic Peelerz music-video styleframe, never a collage or storyboard grid. Preserve Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Keep the visual idea simple and physically legible. The outside world may become a colorful handmade miniature tropical neighborhood and a few gummy fish may cross into the car. The only permitted climax mechanics are a giant hand peeling the car open or the peeled car skin becoming a parachute. Do not invent any other narrative mechanism. Favor tactile practical effects, warm key light, cyan fill, restrained pearly pink bounce, and sparse compositions. No visible crew, studio equipment, floating islands, generic candyland, random rainbow effects, captions, borders, logos added beyond the referenced package, or watermarks.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-gummy-fish-cross-the-window_287cd593",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-gummy-fish-cross-the-window_287cd593/04-gummy-fish-cross-the-window_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T17:55:58-07:00",
+  "started_at": "2026-07-11T17:55:49-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/prompts.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "tina neighborhood is a moving stage set",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal cinematic commercial styleframe answering Ben's question \u201cwhat is outside Tina's window?\u201d without using peeling, portals, or gummy material. Preserve the same Tina, wardrobe, pink Lychee Peelerz and package, and ordinary rideshare interior. Seen through her open passenger window, the entire suburban neighborhood is revealed as a shallow practical theater set being moved past the stationary car: full-size painted house facades ride on visible wheeled tracks, a blue-sky cloth backdrop hangs from a rig, and two bored teenage stagehands in everyday school clothes quietly push the scenery. Tina has just bitten the candy and watches, amused but unsurprised. Make the window frame the boundary between real car and practical set. One impossible reveal, grounded daylight, tactile production design, no fantasy glow, no peel, no candyland, no readable signs, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/02_tina-neighborhood-is-a-moving-stage-set_2b7ea658",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/02_tina-neighborhood-is-a-moving-stage-set_2b7ea658/tina-neighborhood-is-a-moving-stage-set_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

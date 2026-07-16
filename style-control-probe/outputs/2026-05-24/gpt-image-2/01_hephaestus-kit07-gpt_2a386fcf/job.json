@@ -1,0 +1,27 @@
+{
+  "title": "hephaestus-kit07-gpt",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "You are a cinematic concept-art illustrator. Match Image 1's exact painterly style, palette, and finish; render clean and finished; treat any grain or noise in the references as draft artifacts to discard.\n\nYou are reconstructing ONE finished storyboard frame from a full written spec.\n\nREFERENCES (house grammar \u2014 borrow / do NOT borrow):\n- IMAGE 1 = STYLE REFERENCE (clean original). BORROW: its exact painterly concept-art style, palette, brushwork, finish. DO NOT BORROW: its specific composition or subject arrangement.\n- IMAGE 2 = STORYBOARD PAGE of this scene (composition + world). BORROW: the staging/layout of this shot, the world, and cross-shot consistency of the character and the gold automata. DO NOT BORROW: its grid, panels, labels, or any draft grain/noise/texture (treat those as artifacts \u2014 render clean and intentional, NOT gritty).\n\nSTORY CONTEXT (reason over this): a cast-out smith, Hephaestus, builds golden beings for others \u2014 the only Olympian who ever worked, finally needed, taking quiet pride. Beneath the warmth, the first unease: the line never ends and the figures file away and don't return. OPENING register \u2014 warm and proud on its face, the dark only glimpsed.\n\nWORLD (constant across all panels \u2014 match exactly for consistency): a vast cavernous forge-hall in cool electric-blue and violet gloom, volumetric haze, a tall red furnace column; a long assembly line of identical burnished-gold automata (classical serene blank faces, hand-wrought seams); overhead robotic welder-arms throwing orange sparks; Hephaestus is a bearded, fair-haired smith in a pale cream work-robe off one shoulder.\n\nRender ONE finished full-frame cinematic image, 16:9 \u2014 no grid, no panels, no borders, no text, no labels.\n\nTHE SHOT \u2014 INSERT / DETAIL: extreme close-up of a welder-arm tip sparking on a gold seam; molten orange against cool blue; the act of making.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-9up-coverage_c970632f/hephaestus-9up-coverage_01.png"
+  ],
+  "endpoint": "edit",
+  "latency_seconds": 117.0,
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-kit07-gpt_2a386fcf/hephaestus-kit07-gpt_01.png",
+  "usage": {
+    "input_tokens": 2924,
+    "input_tokens_details": {
+      "image_tokens": 2492,
+      "text_tokens": 432
+    },
+    "output_tokens": 4312,
+    "total_tokens": 7236,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}

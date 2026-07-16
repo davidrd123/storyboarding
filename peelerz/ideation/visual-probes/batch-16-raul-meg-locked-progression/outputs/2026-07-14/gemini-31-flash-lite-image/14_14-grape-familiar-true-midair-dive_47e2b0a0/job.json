@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T03:22:18-07:00",
+  "started_at": "2026-07-14T03:22:04-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+  "source_index": 14,
+  "mode": "image",
+  "title": "14 grape familiar true midair dive",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Meg's profile. Image 2 locks the top-row background and light. Image 3 exactly locks the single familiar. BEAT \u2014 Strict side-profile macro composed as hand \u2192 airborne character \u2192 face. Meg's open palm is low at frame left and her smiling profile is at frame right. The grape familiar is fully airborne halfway between them, horizontal and headfirst in a joyful swan dive, arms forward, feet behind. There is unmistakable empty air separating it from both her hand and mouth. One short violet peel- ribbon traces the arc from palm to its trailing cape. Focus is on the midair familiar. AVOID \u2014 creature standing on palm, creature sitting, contact with lips, giant mouth, teeth or tongue emphasis, throat view, falling human, terror, extra creature.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/14_14-grape-familiar-true-midair-dive_47e2b0a0",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/14_14-grape-familiar-true-midair-dive_47e2b0a0/14-grape-familiar-true-midair-dive_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/14_14-grape-familiar-true-midair-dive_47e2b0a0/14-grape-familiar-true-midair-dive_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

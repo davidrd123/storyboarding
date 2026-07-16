@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:49:23-07:00",
+  "started_at": "2026-07-14T02:49:10-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/assets.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 grape familiar character sheet",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Both images supply only the tiny character's human-hand scale, simple gummy anatomy, and intimate personality; remove the women and bleachers completely. Redesign it as one mischievous grape familiar: a small round deep-violet translucent grape gummy with tiny hands and feet, sly intelligent eyes, and a peeled translucent grape skin worn as a pointed hood and short cape. The hood is clearly edible stretchy candy, not cloth. Turntable layout: full-body front, three-quarter front, strict side, and back views, plus two smaller action callouts showing the identical familiar taking a dramatic bow and holding a joyful swan-dive pose. Add one close detail of the sly face and translucent peel hood. Space every view apart on matte off-white with identical lighting. Sophisticated dry charm, no horns, wings, tail, demon anatomy, bear ears, green color, labels, or scene elements.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create a polished reference-ready character or industrial-design turntable on a clean neutral studio background. Maintain one consistent design across every angle and callout. These are ingredients for a cinematic live-action Peelerz commercial, so candy characters must look tactile, translucent, appetizing, and capable of being composited into later frames. No scene narrative, stadium, people, packaging, slogans, labels, borders, watermarks, weapons, horror, generic gummy bears, or preschool mascot styling unless a prompt explicitly requests otherwise.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/02_06-meg-coaxes-imp-from-gummy-retry_46083f64/06-meg-coaxes-imp-from-gummy-retry_01.png",
+      "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-green-imp-arrives-retry_3b93e8b8/08-green-imp-arrives-retry_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/02_06-meg-coaxes-imp-from-gummy-retry_46083f64/06-meg-coaxes-imp-from-gummy-retry_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-green-imp-arrives-retry_3b93e8b8/08-green-imp-arrives-retry_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-grape-familiar-character-sheet_d64c553d",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-grape-familiar-character-sheet_d64c553d/02-grape-familiar-character-sheet_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-grape-familiar-character-sheet_d64c553d/02-grape-familiar-character-sheet_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

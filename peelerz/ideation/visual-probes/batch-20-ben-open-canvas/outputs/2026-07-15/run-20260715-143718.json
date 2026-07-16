@@ -1,0 +1,290 @@
+{
+  "created_at": "2026-07-15T14:38:48-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+  "job_count": 6,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:37:30-07:00",
+      "started_at": "2026-07-15T14:37:18-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "01 campus buildings migrate",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Liz and John, their wardrobe, Peelerz bags, campus-step entrance, and warm live-action register. They do not lock the later world. ONE RULE \u2014 At Liz and John's shared first bite, every campus building inhales, lifts its complete foundation on four enormous architectural legs, and begins a quiet seasonal migration across the horizon. The original stone step beneath the couple is the only architecture that stays grounded. FRAME \u2014 Deadpan daylight super-wide from slightly below the steps. Liz and John remain normal-size at center, smiling in recognition with their Peelerz bags. Behind them, a library, gymnasium, dormitory, clock tower, and lecture hall stride in one majestic herd at different distances; each carries attached lawns, trees, sidewalks, and tiny calmly commuting students. One moving lecture hall lowers a staircase so students can board while it walks. Buildings have no faces and are not monsters. Their legs remain made from their own columns, foundations, and staircases. VISUAL PROOF \u2014 fixed couple and step; five recognizable moving buildings; complete land parcels traveling with them; ordinary people treating migration as the new commute. AVOID \u2014 earthquake, destruction, floating buildings, giant animals disguised as buildings, fantasy castle, crowd panic.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 09 - campus walk.png",
+          "../../../script/PEELERZ - 10 - campus connection.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-campus-buildings-migrate_d5e83d7a",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-campus-buildings-migrate_d5e83d7a/01-campus-buildings-migrate_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-campus-buildings-migrate_d5e83d7a/01-campus-buildings-migrate_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:37:45-07:00",
+      "started_at": "2026-07-15T14:37:30-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+      "source_index": 2,
+      "mode": "image",
+      "title": "02 time sheds whole eras outside tina window",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, blue hoodie, rear-seat position, car interior, lychee Peelerz, and the intimate bite. The car itself stays ordinary and intact. ONE RULE \u2014 Each distant musical tuning note causes the entire neighborhood to shed its current historical era as one complete translucent street-shaped shell, revealing a different era below. FRAME \u2014 Cinematic passenger-side view holding Tina's calm profile and gummy in the foreground while the world outside dominates. Above the active street hang three enormous hollow cast-off versions of the exact same block: a translucent 1950s suburb, a present-day strip mall, and an overgrown future, each including ghost-thin roads, utility poles, cars, signs without readable text, and building facades. Beneath those shells the live street is a saturated practical 1970s Japanese- fantasy city with rooftop musicians visibly tuning. Tina's unhurried bite is the still point. VISUAL PROOF \u2014 three complete discarded time-shells separated in depth above one current street; Tina sees all eras through one ordinary window. AVOID \u2014 peeling the car, time-travel portal, duplicate Tinas, generic multiverse circles, city destruction, clock graphics, collage panels.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../../../script/PEELERZ - 02 - Tina takes bite.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-time-sheds-whole-eras-outside-tina-window_a7043945",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-time-sheds-whole-eras-outside-tina-window_a7043945/02-time-sheds-whole-eras-outside-tina-window_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-time-sheds-whole-eras-outside-tina-window_a7043945/02-time-sheds-whole-eras-outside-tina-window_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:37:57-07:00",
+      "started_at": "2026-07-15T14:37:45-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+      "source_index": 3,
+      "mode": "image",
+      "title": "03 the camera joins tina scene",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, wardrobe, intact car, rear seat, product moment, and live-action identity. The surrounding world may be replaced. ONE RULE \u2014 The cinema camera filming the commercial grows elegant folded-paper arms and legs, climbs through Tina's open passenger window, and starts physically rebuilding the photographed neighborhood into a portable theatrical world for her. A second unseen viewpoint films this event. FRAME \u2014 Playful wide from outside the intact car. Tina holds the exact bite pose, delighted rather than frightened. A full-size professional cinema camera is halfway through the window on articulated white paper limbs. With one hand it lifts the real live-action street upward like a broad scenic flat; immediately behind that moving edge, houses, sky, trees, and traffic become layered paper- theatre scenery with visible folds, tabs, and practical shadows. Its other hand unfolds one paper cloud above Tina. Keep the camera unmistakably a camera, without face or mascot eyes. VISUAL PROOF \u2014 camera body, paper limbs, its hands physically holding the live-action-to-paper boundary, Tina's ordinary car crossing both materials. AVOID \u2014 animated camera logo, robot camera, camera-headed human, car transformation, giant hand from outside, paper flower, movie-set crew.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../../../script/PEELERZ - 02 - Tina takes bite.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-the-camera-joins-tina-scene_104a3b77",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-the-camera-joins-tina-scene_104a3b77/03-the-camera-joins-tina-scene_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-the-camera-joins-tina-scene_104a3b77/03-the-camera-joins-tina-scene_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:38:11-07:00",
+      "started_at": "2026-07-15T14:37:57-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+      "source_index": 4,
+      "mode": "image",
+      "title": "04 stadium exchanges scale with gummy interior",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg's identities and friendship. Image 2 locks the daylight high-school bleachers and live football game. Image 3 locks dense peeled mango-candy material. No mecha transformation occurs. ONE RULE \u2014 The exterior football stadium shrinks into a meticulous live working model on the snack tray between Raul and Meg, while the soft interior of Raul's bitten mango gummy expands into the only remaining full-size stadium. FRAME \u2014 Deadpan daylight medium-wide at the top bleachers. Raul and Meg sit normally beside a cafeteria-size tray holding the entire tiny stadium: microscopic bleachers, moving players, field, scoreboard, lights, and crowd, all operating. Raul holds one bitten peeled mango gummy above it. The gummy has a clean dollhouse-like cutaway: within its soft yellow-orange interior is a vast full-size football arena receding miles into luminous mango space, with normal-size players visible deep inside. The actual landscape around the teenagers is now mostly empty grass where the stadium used to be. Everyone in the tiny crowd continues watching the game. VISUAL PROOF \u2014 real teenagers; tray-sized exterior stadium; one small gummy containing a visibly immense interior stadium; empty real landscape. AVOID \u2014 snow globe, toy packaging, ordinary screen, portal ring, mecha, giant gummy mascot, mini helpers, body horror.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+          "../../../references/stills/97882-PeelerzGummy-Mango-Sample__43665.jpg"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/stills/97882-PeelerzGummy-Mango-Sample__43665.jpg"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-stadium-exchanges-scale-with-gummy-interior_6d3212d4",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-stadium-exchanges-scale-with-gummy-interior_6d3212d4/04-stadium-exchanges-scale-with-gummy-interior_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-stadium-exchanges-scale-with-gummy-interior_6d3212d4/04-stadium-exchanges-scale-with-gummy-interior_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:38:29-07:00",
+      "started_at": "2026-07-15T14:38:11-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+      "source_index": 5,
+      "mode": "image",
+      "title": "05 football field becomes animal borne archipelago",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight high-school stadium geography and the view from the isolated upper bleachers. Image 3 supplies only the lush appetizing scale of a fruit world, not its composition. Raul remains an ordinary teenager; no mecha appears. ONE RULE \u2014 At halftime, the painted yard-line geometry separates the football field into six complete islands. Each island rises on the back of a different colossal, gentle gummy animal and carries its exact football formation into the sky. FRAME \u2014 Awe-inspiring daylight super-wide over Raul and Meg's shoulders. The bleachers remain as a shoreline around an empty field-shaped basin. Six geometric turf islands float at different heights, still bearing goalposts, yard numbers, players, cheerleaders, and slices of running track. Their undersides rest visibly on enormous translucent fruit-gummy creatures: a whale, tortoise, manta ray, crane, elephant, and long fish, each colored by a different Peelerz flavor and textured as appetizing sugar-dusted candy. At the former fifty-yard line, both teams plant one glowing mango seed and a small new sun begins growing from it. Raul and Meg share collective wonder. VISUAL PROOF \u2014 empty stadium basin; six intact field-islands; six clearly supporting gummy animals; football formations continuing on top. AVOID \u2014 ordinary floating rocks, gummy bears, cheering mascot crowd, disaster, frightened players, robots, weapons, generic rainbow.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+          "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-football-field-becomes-animal-borne-archipela_f70cd789",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-football-field-becomes-animal-borne-archipela_f70cd789/05-football-field-becomes-animal-borne-archipela_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-football-field-becomes-animal-borne-archipela_f70cd789/05-football-field-becomes-animal-borne-archipela_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:38:48-07:00",
+      "started_at": "2026-07-15T14:38:29-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+      "source_index": 6,
+      "mode": "image",
+      "title": "06 tina crosses a sleeping fruit cosmology",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, intact car, and lychee product entrance. Image 3 supplies appetizing tropical fruit-world material only. This is a radical world reveal, not a car transformation or flight scene. ONE RULE \u2014 Tina discovers that her entire neighborhood is a ceremonial game arranged across the sleeping body of a continent-sized fruit being; her bite makes it laugh gently in its sleep, and each breath rearranges streets, seasons, and tiny fruit societies across its surface. FRAME \u2014 Vast benign mythic panorama with intricate playful detail, photographed like a premium practical fantasy film rather than children's animation. Tina's ordinary dark car is a tiny but visible object on a road crossing the luminous cheek of a colossal serene sleeper made from mango, lychee, grape, and edible peel forms. Its closed eye is a lake; its hair is a tropical archipelago; its shoulders hold miniature cities and ceremonial sports. A soft sleeping smile sends one visible wave across the body: ahead is lush summer, behind is crystalline fruit-winter, and tiny societies cheerfully move their houses between seasons. Tina looks from the car window in cosmic mischief. VISUAL PROOF \u2014 recognizable tiny car and road; unmistakable continent-scale sleeping fruit body; multiple inhabited regions; one breath-wave reorganizing seasons. AVOID \u2014 horror giant, realistic flesh, Buddha or direct religious iconography, fruit portrait close-up, floating fruit collage, car peeling, parachute, generic candyland, destruction.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../../../script/PEELERZ - 02 - Tina takes bite.png",
+          "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-tina-crosses-a-sleeping-fruit-cosmology_86892f56",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-tina-crosses-a-sleeping-fruit-cosmology_86892f56/06-tina-crosses-a-sleeping-fruit-cosmology_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-tina-crosses-a-sleeping-fruit-cosmology_86892f56/06-tina-crosses-a-sleeping-fruit-cosmology_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

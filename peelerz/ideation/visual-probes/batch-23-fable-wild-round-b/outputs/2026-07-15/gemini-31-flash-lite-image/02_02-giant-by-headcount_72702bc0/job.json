@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:09:57-07:00",
+  "started_at": "2026-07-15T15:09:50-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/scenes.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 giant by headcount",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Images 1 and 2 lock Raul's face and night stadium identity; Image 3 locks mango-helper material. On the football field stands a colossal human silhouette of Raul built entirely from thousands of hand-sized irregular mango gummy helpers holding one another shoulder-to-shoulder. His recognizable face exists as a coordinated mosaic of their bodies, not one giant smooth face. Several units climb into the final gaps while Meg and the crowd share candy below. Stadium floodlights reveal the headcount construction. No armor shell, single orange giant, gummy bears, stone statue, empty field, or attack pose.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or character sheet. Treat the impossible idea as one physical rule photographed in one world. Preserve only declared reference roles. Raul and Meg remain together in high-school football bleachers. Liz and John remain together on campus. Mango helpers are irregular translucent fruit-like gummy pieces with minimal features, not gummy bears or preschool mascots. Driver scenes use restrained, deadpan documentary realism with exactly one impossible channel. Candy stretches rather than tears. Benign, appetizing, youthful, visually legible. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 06 - anime transformation.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-giant-by-headcount_72702bc0",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-giant-by-headcount_72702bc0/02-giant-by-headcount_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

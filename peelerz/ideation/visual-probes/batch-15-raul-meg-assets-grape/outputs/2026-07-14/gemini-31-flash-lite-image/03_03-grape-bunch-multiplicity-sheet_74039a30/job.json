@@ -1,0 +1,44 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:49:31-07:00",
+  "started_at": "2026-07-14T02:49:23-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/assets.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "03 grape bunch multiplicity sheet",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. The reference supplies only tactile gummy translucency and tiny-hand scale; remove Meg, the green color, and the stadium. Design a compact bunch of twelve round deep-violet grape gummies clinging together into a recognizable grape-cluster silhouette. Each grape is a tiny related character with miniature arms and a different restrained expression. Show one main intact bunch plus a secondary action view where three grapes pop free and wave while the remaining bunch retains its shape. Glossy translucent candy with a small edible green gummy stem, matte off-white studio background, clean product-design presentation. No generic grapes, realistic fruit skin, gummy bears, swarm chaos, words, packaging, or human figures.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create a polished reference-ready character or industrial-design turntable on a clean neutral studio background. Maintain one consistent design across every angle and callout. These are ingredients for a cinematic live-action Peelerz commercial, so candy characters must look tactile, translucent, appetizing, and capable of being composited into later frames. No scene narrative, stadium, people, packaging, slogans, labels, borders, watermarks, weapons, horror, generic gummy bears, or preschool mascot styling unless a prompt explicitly requests otherwise.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/02_06-meg-coaxes-imp-from-gummy-retry_46083f64/06-meg-coaxes-imp-from-gummy-retry_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/02_06-meg-coaxes-imp-from-gummy-retry_46083f64/06-meg-coaxes-imp-from-gummy-retry_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30/03-grape-bunch-multiplicity-sheet_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30/03-grape-bunch-multiplicity-sheet_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T00:40:45-07:00",
+  "started_at": "2026-07-14T00:40:36-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/prompts.yaml",
+  "source_index": 10,
+  "mode": "image",
+  "title": "10 roof peel catches the air",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 controls Tina, wardrobe, product, dark car, and identity. Image 2 controls the handmade tropical neighborhood, fish, palette, and music-video light. Image 3 supplies only the established peel material and car-opening premise. Create a side view of the car moving through the miniature neighborhood. One flexible strip of the car roof has begun peeling backward in the wind, exposing a translucent pearly pink lychee underside. Tina remains visible in the rear seat and gummy fish trail across her window. One clean transformation only. No giant hand, crash damage, torn metal, extra passenger, or conventional fabric parachute yet.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one live-action cinematic Peelerz music-video styleframe, never a collage or storyboard grid. Preserve Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Keep the visual idea simple and physically legible. The outside world may become a colorful handmade miniature tropical neighborhood and a few gummy fish may cross into the car. The only permitted climax mechanics are a giant hand peeling the car open or the peeled car skin becoming a parachute. Do not invent any other narrative mechanism. Favor tactile practical effects, warm key light, cyan fill, restrained pearly pink bounce, and sparse compositions. No visible crew, studio equipment, floating islands, generic candyland, random rainbow effects, captions, borders, logos added beyond the referenced package, or watermarks.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-roof-peel-catches-the-air_f84b8fb9",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-roof-peel-catches-the-air_f84b8fb9/10-roof-peel-catches-the-air_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

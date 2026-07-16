@@ -1,0 +1,618 @@
+{
+  "name": "peelerz-wild-round-2026-07-15",
+  "batch": 8,
+  "seeds": [
+    {
+      "id": "s001",
+      "batch": 1,
+      "text": "Airborne asphalt lane: the street peels off the road in one long ribbon and becomes the lane Tina flies along, an elevated road of flying asphalt skin",
+      "mechanism": "peel-becomes-infrastructure",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f002; license: world is full of unnoticed seams",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s002",
+      "batch": 1,
+      "text": "Patchwork sky-canopy: every peeled skin in the neighborhood (car roof, awnings, pool cover) knits itself into one parade-balloon-scale parachute rigged by the lychee crew",
+      "mechanism": "peel-aggregation",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f002; license: skins in the air raft together",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s003",
+      "batch": 1,
+      "text": "Peeled things lighten: once fully peeled, the whole neighborhood floats a few feet off the ground; only the unpeeled stays down. The Uber driver declines to be peeled and stays grounded, holding just the steering wheel",
+      "mechanism": "peeled-things-lighten",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f002; license: peeled = fresher = lighter",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s004",
+      "batch": 1,
+      "text": "Cost and button: trip-completed ding on the driver's phone as his car flies away in pieces; the talk radio keeps playing from the peeled roof-coil overhead. He sighs",
+      "mechanism": "deadpan-cost",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f002; dials event 9 vs driver 1",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "driver"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s005",
+      "batch": 2,
+      "text": "Glass-jelly street: at the moment of the peel the houses go transparent like jelly, a whole street of visible glowing interiors, everyone seen mid-snack like a display case",
+      "mechanism": "world-goes-transparent",
+      "operator": "random-entry",
+      "stimulus": "BEAKER: transparent wall",
+      "parent": null,
+      "niche": {
+        "frame": "f2",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s006",
+      "batch": 2,
+      "text": "Saturation titration: each centimeter of peel unwound saturates the world one tick; a visible color gauge climbs the streetlights and the sunset like a thermometer filling. Stop peeling and it holds",
+      "mechanism": "metered-magic",
+      "operator": "random-entry",
+      "stimulus": "BEAKER: graduated markings",
+      "parent": null,
+      "niche": {
+        "frame": "f2",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s007",
+      "batch": 2,
+      "text": "Decanted sunset: the peeled sky has a pouring lip; the sunset decants into the street like syrup from the world's rim, filling the neighborhood waist-deep in liquid dusk",
+      "mechanism": "sky-decants",
+      "operator": "random-entry",
+      "stimulus": "BEAKER: pouring lip",
+      "parent": null,
+      "niche": {
+        "frame": "f2",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s008",
+      "batch": 2,
+      "text": "The world simmers under its skin: peeled patches release slow candy-colored bubbles that rise and set into gummy balloons; the neighborhood percolates",
+      "mechanism": "world-simmers",
+      "operator": "random-entry",
+      "stimulus": "BEAKER: sits over flame",
+      "parent": null,
+      "niche": {
+        "frame": "f2"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s009",
+      "batch": 2,
+      "text": "Litmus front: the instant the peel completes, a color-change front sweeps the street and everything airborne (rain, pollen, exhaust) precipitates as falling candy sugar",
+      "mechanism": "flavor-precipitates",
+      "operator": "random-entry",
+      "stimulus": "BEAKER: titration threshold",
+      "parent": null,
+      "niche": {
+        "frame": "f2"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s010",
+      "batch": 2,
+      "text": "The peel-holder: one small panicked lychee gummy whose only job is holding the peel end, dragged skyward, meeping",
+      "mechanism": "comic-small-witness",
+      "operator": "random-entry",
+      "stimulus": "BEAKER: Beaker the Muppet",
+      "parent": null,
+      "niche": {
+        "frame": "f2"
+      },
+      "flags": [
+        "near-dup-risk"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s011",
+      "batch": 2,
+      "text": "Decalcomania window: Tina presses the fresh peel against the car window and lifts it away; the glass now holds a riper painted double of the world outside, and the print is the portal to the next scene",
+      "mechanism": "press-and-peel-print",
+      "operator": "random-entry",
+      "stimulus": "cascade from f048 decalcomania",
+      "parent": null,
+      "niche": {
+        "frame": "f2",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s012",
+      "batch": 3,
+      "text": "The window does the traveling: one location, the back seat; Tina peels below frame while the world outside the window silently cycles through sunset, islands, petal-snow, back to street. First bite snaps it back to normal. The car never moves",
+      "mechanism": "window-travels",
+      "operator": "constraint-transformation",
+      "stimulus": "cage: no hands / one location / silent",
+      "parent": null,
+      "niche": {
+        "frame": "f3",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s013",
+      "batch": 3,
+      "text": "Stadium time-lapse in one bite: Raul mid-peel below frame at the top of the bleachers; the crowd silently empties, refills, empties, seasons blur around the two of them; when he bites, it is still the same second of game time",
+      "mechanism": "time-dilation-witnessed",
+      "operator": "constraint-transformation",
+      "stimulus": "cage: no hands / one location / silent",
+      "parent": null,
+      "niche": {
+        "frame": "f3",
+        "char": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s014",
+      "batch": 3,
+      "text": "The gummy contains the car: macro on the lychee as its skin lifts open, and inside the opened gummy is the back seat with a tiny Tina in it, looking up out of the candy",
+      "mechanism": "recursive-containment",
+      "operator": "constraint-transformation",
+      "stimulus": "cage: one location = inside the candy",
+      "parent": null,
+      "niche": {
+        "frame": "f3",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s015",
+      "batch": 3,
+      "text": "Sun-peeled: the gummy sits on the armrest in a sunbeam and the sun peels it by itself, slowly, the way sun lifts old stickers; as it opens, the light in the car turns pink and thick like juice. It peels itself for whoever waits",
+      "mechanism": "patience-mechanic",
+      "operator": "constraint-transformation",
+      "stimulus": "cage: no hands; lineage f052 f059 delay ads",
+      "parent": null,
+      "niche": {
+        "frame": "f3",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s016",
+      "batch": 3,
+      "text": "The world holds its breath: mid-peel, everything that makes noise politely stops - traffic, radio, dogs, birds pause mid-air - and sound returns all at once with the bite",
+      "mechanism": "world-pauses-for-peel",
+      "operator": "constraint-transformation",
+      "stimulus": "cage: the impossible thing is silent",
+      "parent": null,
+      "niche": {
+        "frame": "f3"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s017",
+      "batch": 4,
+      "text": "The gummy peels the world: the little peeled lychee reaches out and peels the street back like the skin of an enormous fruit; underneath, the street is juicy fruit-flesh, a glistening cross-section canyon",
+      "mechanism": "agent-swap-gummy-peels-world",
+      "operator": "explicit-mutation",
+      "stimulus": "PERMUTE f003: giant hand peels car -> gummy peels world",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s018",
+      "batch": 4,
+      "text": "The candy eats the scene: instead of the camera diving into Meg's mouth, the whole stadium funnels silently into the grape's tiny open mouth; the next scene is inside the grape",
+      "mechanism": "swallow-swap",
+      "operator": "explicit-mutation",
+      "stimulus": "PERMUTE f007: camera-into-mouth -> scene-into-candy",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s019",
+      "batch": 4,
+      "text": "Peel the giant: giant mango-Raul kneels down and small Raul peels HIM open from the chest seam like a fruit; inside the giant is the next location",
+      "mechanism": "peel-the-giant-portal",
+      "operator": "explicit-mutation",
+      "stimulus": "PERMUTE giant-eats-Raul -> Raul peels giant",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s020",
+      "batch": 4,
+      "text": "The islands come to her: the Peelerz Islands descend out of the clouds under parachutes and splash down in the cul-de-sac; the destination travels to the talent instead of the talent parachuting to it",
+      "mechanism": "destination-delivery",
+      "operator": "explicit-mutation",
+      "stimulus": "PERMUTE parachute beat: talent-to-place -> place-to-talent",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s021",
+      "batch": 4,
+      "text": "The island is the candy: the four talents parachute onto one colossal lychee floating in the sea and peel it together from the top like a landing pad; the finale group activity IS the peel, and inside is the beach",
+      "mechanism": "island-as-candy",
+      "operator": "explicit-mutation",
+      "stimulus": "PERMUTE finale: islands-with-candy -> island-is-candy",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "all"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s022",
+      "batch": 5,
+      "text": "Assorted staircase: each step of the campus stairs is a different season at night, one per flavor taken from the shared bag, seasons mirrored symmetrically around the step where Liz and John sit; a professor climbs from winter into summer without noticing; shot from inside the open bag",
+      "mechanism": "flavor-per-step-seasons",
+      "operator": "morphological-collision",
+      "stimulus": "zwicky cast 1",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "lizjohn"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s023",
+      "batch": 5,
+      "text": "Swap outsides: on the clocktower chime Liz and John swap peels, each wearing the other's outer silhouette like the gummies wear skins, unmistakably themselves underneath; saturated color has weight and sloshes down the tower to pool in the quad where the crews wade",
+      "mechanism": "couple-swap-peels",
+      "operator": "morphological-collision",
+      "stimulus": "zwicky cast 2",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "lizjohn"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s024",
+      "batch": 5,
+      "text": "Gravity tilts toward the bag: leaves, moths, streetlight glow and neon color all slide gently toward the open Assorted bag on the steps, color heaviest of all, the bag becoming the new down; handoff = the next scene gets pulled in too",
+      "mechanism": "bag-gravity",
+      "operator": "morphological-collision",
+      "stimulus": "zwicky cast 3",
+      "parent": null,
+      "niche": {
+        "frame": "f2",
+        "char": "lizjohn"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s025",
+      "batch": 5,
+      "text": "Solid chimes: the clocktower peels open down its seam and its bell rings out solid amber gummy rings that float silently across the hushed quad; nobody reacts; Liz catches one chime on a finger; mirrored split-screen of her side and his",
+      "mechanism": "sound-becomes-candy",
+      "operator": "morphological-collision",
+      "stimulus": "zwicky cast 4",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "lizjohn"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s026",
+      "batch": 5,
+      "text": "The bag is bigger inside than the campus: from deep inside the shared bag, tiny Liz and John peer down through the bright opening; inside is pastel fog with the fruit islands of the finale floating in it; a dog looks in over the rim; falling into your own snack is the handoff",
+      "mechanism": "bag-contains-destination",
+      "operator": "morphological-collision",
+      "stimulus": "zwicky cast 5",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "lizjohn"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s027",
+      "batch": 6,
+      "text": "The late high-five: Raul's arm is a formation of forty little mango guys holding shape, so it arrives half a second late with one straggler catching up; Meg watches the straggler, not the arm",
+      "mechanism": "limbs-are-formations",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f027; frame beat",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s028",
+      "batch": 6,
+      "text": "Raul becomes the wave: between plays he disassembles entirely and ripples through the crowd as a stadium wave that physically lifts people; he is briefly crowd behavior instead of a body",
+      "mechanism": "become-crowd-behavior",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f027; license: anything the crowd can shape he can be",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s029",
+      "batch": 6,
+      "text": "Giant by headcount: to go giant for the final play the whole stadium has to share the candy; the giant Raul stands up made of thousands of mango guys all cheering in his voice",
+      "mechanism": "scale-is-headcount",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f027; license: scale costs recruits",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s030",
+      "batch": 6,
+      "text": "The missing minion: the giant's hand has a one-gummy gap because one mango guy stayed behind holding Meg's grape candy for her; the whole giant pauses mid-play and waits for him",
+      "mechanism": "formation-waits-for-one",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f027; license: individuals can defect",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s031",
+      "batch": 6,
+      "text": "Cost and button: at the final whistle the crew disassembles and crowd-surfs the game ball away so Raul never gets his trophy moment; the out-of-tune marching band now plays perfectly because mango guys are inside the instruments",
+      "mechanism": "deadpan-cost",
+      "operator": "consequence-heightening",
+      "stimulus": "trunk f027; dials event 9 vs Meg 2",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "raul"
+      },
+      "flags": [
+        "mechanism-repeat-ok"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s032",
+      "batch": 7,
+      "text": "New fares: gummy guys hail the grounded Uber driver like a bus and board through his window, paying in curls of candy peel; he keeps the meter running, completely unremarkable",
+      "mechanism": "deadpan-transaction",
+      "operator": "random-entry",
+      "stimulus": "BOX OFFICE: booth window; register f055 f060",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "driver"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s033",
+      "batch": 7,
+      "text": "Shared-stretch admission: the candy held and stretched between two people is a two-person ticket; Liz and John each hold one end and the snap-back pulls them both into the situation",
+      "mechanism": "stretch-ticket",
+      "operator": "random-entry",
+      "stimulus": "BOX OFFICE: ticket for two; stretch-not-tear law",
+      "parent": null,
+      "niche": {
+        "frame": "f2",
+        "char": "lizjohn"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s034",
+      "batch": 7,
+      "text": "Wonder surge: the driver's rideshare app shows a heat map blooming over the neighborhood wherever people peel; he storm-chases the surge for fares, deadpan, wipers on against falling candy sugar",
+      "mechanism": "magic-as-market-data",
+      "operator": "random-entry",
+      "stimulus": "BOX OFFICE: opening-weekend numbers",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "driver"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s035",
+      "batch": 7,
+      "text": "Queue at the sky: a polite line of neighbors and gummy guys forms at the peeled-back corner of the sky, velvet rope and all, waiting to be let into the dusk Tina opened",
+      "mechanism": "world-gets-a-queue",
+      "operator": "random-entry",
+      "stimulus": "BOX OFFICE: the line outside",
+      "parent": null,
+      "niche": {
+        "frame": "f2"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s036",
+      "batch": 7,
+      "text": "Rebuilt better: the crews build the carless driver a new car overnight out of gummy panels, a candy replica of his old sedan; NOW SHOWING energy, he pats the hood and it wobbles",
+      "mechanism": "they-rebuild-what-they-peel",
+      "operator": "random-entry",
+      "stimulus": "BOX OFFICE: sold out / now showing",
+      "parent": null,
+      "niche": {
+        "frame": "f1",
+        "char": "driver"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s037",
+      "batch": 7,
+      "text": "Street marquee: the streetlights along the block rearrange themselves into a theater marquee arching over the ordinary street while the situation plays underneath; the world advertises itself",
+      "mechanism": "world-advertises-itself",
+      "operator": "random-entry",
+      "stimulus": "BOX OFFICE: marquee",
+      "parent": null,
+      "niche": {
+        "frame": "f2"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s038",
+      "batch": 8,
+      "text": "All four worlds lean in: super-wide finale where the asphalt ribbon, the decanted sunset, the funneling stadium and the campus stairs all visibly curve toward the island sea like peel segments around one fruit; the talents were wanted there, not sent",
+      "mechanism": "world-wants-the-candy",
+      "operator": "oblique-interruption",
+      "stimulus": "card: Would anybody want it? - desire made literal",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "all"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s039",
+      "batch": 8,
+      "text": "The abstainer's bite: the Uber driver, the only person who never ate one, is handed the last candy on the finale beach; everyone and everything waits in Gorilla-length silence; he peels it; end",
+      "mechanism": "withheld-want-payoff",
+      "operator": "oblique-interruption",
+      "stimulus": "card: Would anybody want it? - the one who did not",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "driver"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s040",
+      "batch": 8,
+      "text": "The islands want them: from above, the archipelago quietly rearranges itself into an open-armed bay shape as the four talents approach, the way a dog rearranges itself when its person comes home",
+      "mechanism": "island-wants-visitors",
+      "operator": "oblique-interruption",
+      "stimulus": "card: Would anybody want it? - inverted",
+      "parent": null,
+      "niche": {
+        "frame": "f4",
+        "char": "all"
+      },
+      "flags": [],
+      "dup_of": null
+    }
+  ],
+  "banlist": {
+    "world-wants-the-candy": {
+      "state": "round",
+      "batch": 8
+    },
+    "withheld-want-payoff": {
+      "state": "round",
+      "batch": 8
+    },
+    "island-wants-visitors": {
+      "state": "round",
+      "batch": 8
+    }
+  }
+}

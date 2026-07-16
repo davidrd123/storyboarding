@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T22:45:04-07:00",
+  "started_at": "2026-07-14T22:44:50-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 sugar frost lotus rig",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. DISTANCE RING: adjacent. REFERENCE AUTHORITY \u2014 Image 1 locks Tina's identity, blue hoodie, rear-seat position, and dark sedan. Image 2 locks the delicious giant-car /  miniature-tropical-neighborhood scale and the tiny lychee-helper scale. Image 3 locks the softened car-skin seam topology. Image 4 locks the car-skin-to-pink-canopy material continuity. ONE RULE \u2014 The lychee helpers do not haul panels. They haul luminous sugar-frost seam lines, and the softened car surface obediently follows those moving lines into four broad pink-lined petals. FRAME \u2014 Wide three-quarter passenger-side impossible documentary photograph. The car is twice the height of nearby miniature houses. Tina is still centered in the coherent rear seat. Dozens of tiny pink-and-white lychee helpers stand at specific contact points, pulling the same four glowing seam lines in coordinated teams. Immediately behind each advancing line, rigid blue-gray car skin has changed into flexible pearly lychee rind. Four large attached petals are halfway up, beginning to meet above Tina as the first shallow parasail. Her expression is delighted recognition. VISUAL PROOF \u2014 In one glance we can trace helper hands to seam tension to transformed surface to rising canopy. AVOID \u2014 torn or detached metal, ordinary convertible, unrelated fabric parachute, flower growing out of the car, random helpers floating, giant human hand, finished airborne shot.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+      "../batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+      "../batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-sugar-frost-lotus-rig_2510534b",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-sugar-frost-lotus-rig_2510534b/01-sugar-frost-lotus-rig_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-sugar-frost-lotus-rig_2510534b/01-sugar-frost-lotus-rig_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

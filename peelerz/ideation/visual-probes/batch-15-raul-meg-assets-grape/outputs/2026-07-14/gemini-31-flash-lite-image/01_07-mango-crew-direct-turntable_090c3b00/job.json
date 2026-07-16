@@ -1,0 +1,44 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T03:12:31-07:00",
+  "started_at": "2026-07-14T03:12:22-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/asset-redos-02.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "07 mango crew direct turntable",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Turn the exact small mango gummy character from Image 1 into a clean turntable. Keep its irregular leaning mango body, tiny nub hands and feet, dot eyes, tiny mouth, translucent yellow-orange material, and understated handmade charm unchanged. Show front, three-quarter front, strict side, and back views of one identical character, plus small hauling and cheering callouts. Remove only the group and pink bleacher prop.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Preserve the attached character's identity and charm. Make only the requested presentation or material change. Clean off-white studio background, consistent soft light, no environment, people, props, packaging, captions, labels, borders, or watermark.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "change-starts-at": ["the candy itself", "the eater's hands", "the nearest stranger", "the horizon", "the camera", "the soundtrack", "yesterday"],
+  "what-transforms": ["one small object", "the eater's body", "the crowd", "the architecture", "the weather", "the rules of politeness", "the medium of the film itself"],
+  "physics-violated": ["gravity", "scale", "time direction", "opacity", "ownership of shadows", "conservation of color", "one-thing-per-place"],
+  "who-reacts": ["nobody", "one dog", "the whole crowd at once", "only adults", "the transformed thing itself", "someone off-screen we never see"],
+  "sensory-register": ["taste", "smell", "static electricity", "temperature", "held breath", "pins and needles", "perfect quiet"],
+  "camera": ["locked wide", "overhead god shot", "inside the mouth", "reflected surface only", "one unbroken orbit", "documentary handheld", "upside down"],
+  "who-pays": ["the eater", "a bystander", "the discarded peel", "a rival snack", "the laws of physics", "tomorrow"]
+}

@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:18:31-07:00",
+  "started_at": "2026-07-14T02:18:22-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/failed-retry.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "03 mango fireworks assemble limbs retry",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Preserve Raul and Meg from Image 1 but place them in football bleachers. Image 2 supplies Raul's orange anime transformation energy. Image 3 is only loose scale context for giant mango limbs. Create a wide mid-transformation styleframe. Dozens of tiny mango gummy characters have burst above the bleachers like orange fireworks and now stream back down along four clean arcs. Their linked translucent bodies visibly coalesce into two giant mango-gummy arms and two legs around Raul. His real face remains visible at the center; Meg remains identifiable at his side. Show the assembly paths, not a random explosion or finished block robot.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl from the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Preserve their youthful live-action identity while allowing anime effects and tactile candy characters. Raul's mango helpers are small energetic translucent orange-gold gummy hype-men who physically assist his transformation. Meg has exactly one acid-green apple gummy imp: small, clever, sardonic, inviting, and confectionary rather than monstrous. Raul's event is public orange spectacle; Meg's is private green invitation. Avoid preschool mascot styling, weapons, generic robots, anatomy, gore, unwanted extra characters, captions, borders, watermarks, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 06 - anime transformation.png",
+      "../../../script/PEELERZ - 07 - mango voltron.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 07 - mango voltron.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/01_03-mango-fireworks-assemble-limbs-retry_38bf7b9a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/01_03-mango-fireworks-assemble-limbs-retry_38bf7b9a/03-mango-fireworks-assemble-limbs-retry_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

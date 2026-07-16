@@ -1,0 +1,609 @@
+{"fragments": [
+  {"id": "f001",
+   "text": "Tina, 18, alone in the back of an Uber, studies a translucent pink lychee gummy and says the choice out loud: \"Should I peel it? Or eat it?\"",
+   "source": "peelerz/script SOURCE.md p.1",
+   "tags": {
+     "product-fact": ["peel-or-eat-choice", "slow-ritual"],
+     "social-configuration": ["alone"],
+     "temporal-behavior": ["delayed"],
+     "spatial-relation": ["compressed"]
+   }},
+  {"id": "f002",
+   "text": "As Tina bites, the tops and sides of the car peel away in candy-colored panels while a rainbow parachute opens behind her, catches the wind, and lifts her out.",
+   "source": "peelerz/script SOURCE.md p.2",
+   "tags": {
+     "physical-operation": ["peel"],
+     "transition-affordance": ["peel-reveal", "rupture"],
+     "emotional-fantasy": ["escape"],
+     "spatial-relation": ["suspended"]
+   }},
+  {"id": "f003",
+   "text": "Director red note: a giant hand reaches down and peels open the car like a fruit, on an ordinary neighborhood street.",
+   "source": "peelerz/script SOURCE.md p.1 red text",
+   "tags": {
+     "physical-operation": ["peel"],
+     "spatial-relation": ["giant"],
+     "emotional-fantasy": ["power"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "f004",
+   "text": "KABOOSH — an explosion of anime fireworks and orange lightning engulfs Raul; tiny mango faces hover over his eyes.",
+   "source": "peelerz/script SOURCE.md p.4",
+   "tags": {
+     "temporal-behavior": ["instantaneous"],
+     "formal-medium": ["cel-animation"],
+     "transition-affordance": ["rupture"],
+     "emotional-fantasy": ["awe"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "f005",
+   "text": "Mango arms and legs dock onto Raul like Voltron modules until he stands as a blocky orange-and-yellow robot against a lightning-crossed field.",
+   "source": "peelerz/script SOURCE.md p.4",
+   "tags": {
+     "physical-operation": ["assemble"],
+     "formal-medium": ["cel-animation"],
+     "emotional-fantasy": ["power"],
+     "spatial-relation": ["layered"]
+   }},
+  {"id": "f006",
+   "text": "Director red note: a giant version of Raul leans down into frame and eats him.",
+   "source": "peelerz/script SOURCE.md p.4 red text",
+   "tags": {
+     "spatial-relation": ["giant"],
+     "transition-affordance": ["mouth-portal"],
+     "emotional-fantasy": ["mischief"],
+     "productive-contradiction": ["cute-menace"]
+   }},
+  {"id": "f007",
+   "text": "The camera dives into Meg's awed open mouth — wide-angle extreme close-up of mouth, face, one eye — and emerges from darkness into an overhead of the school quad.",
+   "source": "peelerz/script SOURCE.md p.5-6",
+   "tags": {
+     "transition-affordance": ["mouth-portal", "match-cut"],
+     "formal-medium": ["macro"],
+     "temporal-behavior": ["instantaneous"],
+     "social-configuration": ["witnessed"]
+   }},
+  {"id": "f008",
+   "text": "Liz and John lock eyes mid-stride on campus; a circular dolly orbits them as they drift together and the world BOOSHes into a mango grove full of dancing fruit characters.",
+   "source": "peelerz/script SOURCE.md p.6-7",
+   "tags": {
+     "transition-affordance": ["rotation", "wipe"],
+     "social-configuration": ["convergence"],
+     "emotional-fantasy": ["recognition"],
+     "temporal-behavior": ["sequential"]
+   }},
+  {"id": "f009",
+   "text": "BOOSH — the couple is suddenly underwater in black scuba gear, still holding their candy bags, surrounded by bright mango-orange fish and coral.",
+   "source": "peelerz/script SOURCE.md p.8",
+   "tags": {
+     "transition-affordance": ["wipe"],
+     "spatial-relation": ["suspended"],
+     "social-configuration": ["paired"],
+     "emotional-fantasy": ["awe"]
+   }},
+  {"id": "f010",
+   "text": "In flat-shaded old-school animation, Liz and John fly hand-in-hand diagonally over the campus, bags still in hand.",
+   "source": "peelerz/script SOURCE.md p.7",
+   "tags": {
+     "formal-medium": ["cel-animation"],
+     "spatial-relation": ["aerial"],
+     "social-configuration": ["paired"],
+     "emotional-fantasy": ["escape"]
+   }},
+  {"id": "f011",
+   "text": "Super wide above the clouds: giant peeled-mango islands float everywhere; Tina's parachute, Raul's mango robot, and a giant candy bag all fly in to join them.",
+   "source": "peelerz/script SOURCE.md p.9",
+   "tags": {
+     "spatial-relation": ["suspended", "aerial"],
+     "social-configuration": ["convergence"],
+     "emotional-fantasy": ["belonging"],
+     "product-fact": ["fruit-form"]
+   }},
+  {"id": "f012",
+   "text": "Both layers are edible: a fruit-shaped gummy whose outer skin peels off a softer center — no foil, no paper anywhere. The peel is the first bite.",
+   "source": "peelerz/product-facts.md CONFIRMED",
+   "tags": {
+     "physical-operation": ["peel"],
+     "product-fact": ["layers", "peel-or-eat-choice"],
+     "material-behavior": ["rind"]
+   }},
+  {"id": "f013",
+   "text": "A molded seam ridge where the skin parts — the device of a thumbnail catching the seam works at any scale.",
+   "source": "peelerz/product-facts.md PLAUSIBLE",
+   "tags": {
+     "physical-operation": ["unlock"],
+     "spatial-relation": ["threshold"],
+     "material-behavior": ["rind"],
+     "product-fact": ["layers"]
+   }},
+  {"id": "f014",
+   "text": "The peel stretches, never tears: taut, then thinning, a translucent glow at the stress point, then release with a wobble.",
+   "source": "peelerz/product-facts.md material vocabulary",
+   "tags": {
+     "material-behavior": ["jelly", "rubber"],
+     "temporal-behavior": ["gradual"],
+     "productive-contradiction": ["tactile-spectacle"],
+     "product-fact": ["slow-ritual"]
+   }},
+  {"id": "f015",
+   "text": "Two textures as the product's visual signature: soft matte skin outside, denser translucent core inside.",
+   "source": "peelerz/product-facts.md material vocabulary",
+   "tags": {
+     "product-fact": ["texture-contrast", "layers"],
+     "spatial-relation": ["nested"],
+     "material-behavior": ["jelly"]
+   }},
+  {"id": "f016",
+   "text": "At large scale, stretch-and-glow membrane language drifts fleshy and body-horror; the antidote is sugar-dusted, jewel-translucent, toy-glossy candy light.",
+   "source": "peelerz/product-facts.md Codex batch-02 finding",
+   "tags": {
+     "material-behavior": ["jelly"],
+     "emotional-fantasy": ["unease"],
+     "productive-contradiction": ["cute-menace"],
+     "product-fact": ["texture-contrast"]
+   }},
+  {"id": "f017",
+   "text": "World-scale extrapolation: buildings stretch before they peel, peels fall up instead of down, and everything peeled is edible at any scale.",
+   "source": "peelerz/product-facts.md CREATIVE EXTRAPOLATION",
+   "tags": {
+     "physical-operation": ["peel"],
+     "spatial-relation": ["suspended", "giant"],
+     "productive-contradiction": ["lucid-weirdness"],
+     "emotional-fantasy": ["escape"]
+   }},
+  {"id": "f018",
+   "text": "Ben: every time a candy is eaten, \"a creative situation\" occurs — the eating itself is the trigger, and the situation can be anything.",
+   "source": "peelerz/discord/chat.md Ben 12:27 PM",
+   "tags": {
+     "transition-affordance": ["mouth-portal"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["awe"]
+   }},
+  {"id": "f019",
+   "text": "The only fixed anchors are four ordinary teenage places: the back of a car, bleachers at a football game, campus steps, and a candy-islands finale.",
+   "source": "peelerz/discord/chat.md Ben 11:14 AM",
+   "tags": {
+     "formal-medium": ["live-action"],
+     "temporal-behavior": ["sequential"],
+     "social-configuration": ["crowd"]
+   }},
+  {"id": "f020",
+   "text": "A jungle sprouts in the middle of the city; dull houses flush bright tropical Cuban colors and grow murals as the transformation spreads outward.",
+   "source": "peelerz/re-org/notes.md I.A",
+   "tags": {
+     "temporal-behavior": ["gradual"],
+     "transition-affordance": ["bloom"],
+     "emotional-fantasy": ["delight"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "f021",
+   "text": "The car grows larger in scale than the neighborhood while the houses become simplified toy models — the peel plays out giant-against-miniature.",
+   "source": "peelerz/re-org/notes.md I (Tina)",
+   "tags": {
+     "spatial-relation": ["giant", "miniature"],
+     "formal-medium": ["toy-theater"],
+     "physical-operation": ["peel"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "f022",
+   "text": "A crew of tiny lychee gummies pulls the car roof off, rides the peel as it becomes a pink parasail, and tows Tina up into the sky.",
+   "source": "peelerz/re-org/notes.md I reactions",
+   "tags": {
+     "social-configuration": ["team"],
+     "spatial-relation": ["aerial", "miniature"],
+     "emotional-fantasy": ["delight"],
+     "physical-operation": ["peel"]
+   }},
+  {"id": "f023",
+   "text": "The gummies never tear metal: they create seams and pull them open after the car's surface first turns soft and peel-like, then unfurls like an orange peel, flower petals, a lotus.",
+   "source": "peelerz/re-org/notes.md Show Ben review",
+   "tags": {
+     "physical-operation": ["unlock"],
+     "social-configuration": ["team"],
+     "transition-affordance": ["bloom"],
+     "temporal-behavior": ["gradual"],
+     "material-behavior": ["rind"]
+   }},
+  {"id": "f024",
+   "text": "Dark-doppelganger alternate: three Tinas — one bites, one peels, and the middle one rises in the parasail while left and right depart on different adventures.",
+   "source": "peelerz/re-org/notes.md Show Ben review",
+   "tags": {
+     "spatial-relation": ["mirrored"],
+     "physical-operation": ["split"],
+     "emotional-fantasy": ["mischief"],
+     "productive-contradiction": ["cute-menace"]
+   }},
+  {"id": "f025",
+   "text": "Tina sees the sky itself peel back, corner first, like a lifted film — reality can peel away.",
+   "source": "peelerz/re-org/notes.md Show Ben review",
+   "tags": {
+     "physical-operation": ["peel"],
+     "transition-affordance": ["peel-reveal"],
+     "spatial-relation": ["threshold"],
+     "emotional-fantasy": ["awe"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "f026",
+   "text": "Raul is briefly replaced by a giant mango gummy that closes around him, then he bursts out in lightning, shedding it like a cocoon.",
+   "source": "peelerz/re-org/notes.md II reactions",
+   "tags": {
+     "spatial-relation": ["nested", "compressed", "giant"],
+     "physical-operation": ["shed"],
+     "transition-affordance": ["rupture"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["power"]
+   }},
+  {"id": "f027",
+   "text": "A firework burst of little grinning mango guys coalesces into Raul's arms and legs — he is literally made of his own minions.",
+   "source": "peelerz/re-org/notes.md II (transformation/FX)",
+   "tags": {
+     "physical-operation": ["assemble"],
+     "social-configuration": ["crowd"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["power"]
+   }},
+  {"id": "f028",
+   "text": "A mango pit crew stretches, fits, and locks opaque mango-flesh armor components into place, piece by rehearsed piece.",
+   "source": "peelerz/re-org/notes.md Show Ben review",
+   "tags": {
+     "social-configuration": ["team"],
+     "physical-operation": ["assemble"],
+     "temporal-behavior": ["sequential", "rehearsed"],
+     "material-behavior": ["fruit-flesh"]
+   }},
+  {"id": "f029",
+   "text": "Eat the center, wear the peel: Raul consumes the core and the skin becomes his wearable armor — the inside swallowed, the outside worn.",
+   "source": "peelerz/re-org/notes.md eat-center-wear-peel",
+   "tags": {
+     "spatial-relation": ["inside-out"],
+     "product-fact": ["layers", "peel-or-eat-choice"],
+     "material-behavior": ["rind"]
+   }},
+  {"id": "f030",
+   "text": "Reflection-first transformation: the change shows only in mirrors, windows, and chrome before it happens to the world itself.",
+   "source": "peelerz/re-org/notes.md focused-engine test",
+   "tags": {
+     "spatial-relation": ["mirrored"],
+     "transition-affordance": ["reflection"],
+     "temporal-behavior": ["delayed"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "f031",
+   "text": "Bite-as-sports-replay: every replayed bite releases one mango-flesh component and warps the matching football formation on the field below.",
+   "source": "peelerz/re-org/notes.md focused-engine test",
+   "tags": {
+     "temporal-behavior": ["looping"],
+     "social-configuration": ["broadcast"],
+     "physical-operation": ["assemble"],
+     "productive-contradiction": ["deadpan-magic"]
+   }},
+  {"id": "f032",
+   "text": "Kawaii lychee pair: a whole fruit with bumpy scaled crimson rind and a smiling face, beside a peeled half — pearly translucent white flesh cupped in its rind with a glossy dark seed at center.",
+   "source": "inspo/gummy-guys/2b42d65b.jpg",
+   "tags": {
+     "material-behavior": ["rind"],
+     "spatial-relation": ["nested"],
+     "product-fact": ["fruit-form", "texture-contrast"],
+     "formal-medium": ["kawaii-illustration"],
+     "emotional-fantasy": ["delight"]
+   }},
+  {"id": "f033",
+   "text": "Mango moodboard collage: real mangoes, hedgehog-cut cube grids, fuzzy plush mango characters with stitched smiles, mango bubble tea, and a toy poodle peeking out of a hollowed mango.",
+   "source": "inspo/gummy-guys/6bab6b56.jpg",
+   "tags": {
+     "formal-medium": ["photo-composite"],
+     "material-behavior": ["fabric"],
+     "product-fact": ["fruit-form"],
+     "social-configuration": ["crowd"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "f034",
+   "text": "Two fluffy onigiri characters at a hilltop watch a third sled down the long green slope seated on its own nori sheet, beaming the whole way down.",
+   "source": "inspo/gummy-guys/6bcef028.jpg",
+   "tags": {
+     "formal-medium": ["kawaii-illustration"],
+     "material-behavior": ["paper"],
+     "social-configuration": ["witnessed"],
+     "emotional-fantasy": ["mischief", "delight"]
+   }},
+  {"id": "f035",
+   "text": "A photo-real mango becomes a character with nothing but doodled black stick arms and legs, blush dots, and a happy open mouth, caught mid-dance.",
+   "source": "inspo/gummy-guys/7d5c6548.jpg",
+   "tags": {
+     "formal-medium": ["photo-composite"],
+     "product-fact": ["fruit-form"],
+     "social-configuration": ["alone"],
+     "emotional-fantasy": ["delight"]
+   }},
+  {"id": "f036",
+   "text": "Round green chicks hatch from dark grapes, wearing the half-peeled purple skins as hoods and pants; a bunch of intact glossy grapes sits nearby, faceless.",
+   "source": "inspo/gummy-guys/925caf03.jpg",
+   "tags": {
+     "physical-operation": ["shed"],
+     "material-behavior": ["rind"],
+     "spatial-relation": ["inside-out"],
+     "social-configuration": ["crowd"],
+     "formal-medium": ["kawaii-illustration"],
+     "product-fact": ["fruit-form"]
+   }},
+  {"id": "f037",
+   "text": "A fuzzy crayon-textured banana with a grumpy little face wears a round \"Fresh 100%\" sticker on its peel.",
+   "source": "inspo/gummy-guys/c5127fd4.jpg",
+   "tags": {
+     "formal-medium": ["kawaii-illustration"],
+     "product-fact": ["fruit-form", "sticky"],
+     "emotional-fantasy": ["mischief"],
+     "social-configuration": ["alone"]
+   }},
+  {"id": "f038",
+   "text": "A sticker sheet of ten mangoes — whole, halved, hedgehog-cut, sliced — every form with sleepy blushing faces; one wears a Hello Kitty hood.",
+   "source": "inspo/gummy-guys/download (2).png",
+   "tags": {
+     "formal-medium": ["kawaii-illustration"],
+     "physical-operation": ["split"],
+     "social-configuration": ["crowd"],
+     "product-fact": ["fruit-form"],
+     "emotional-fantasy": ["delight"]
+   }},
+  {"id": "f039",
+   "text": "Dozens of soft white blob spirits with tiny tails and wide pink mouths tumble out of a mossy forest ledge in one happy pile.",
+   "source": "inspo/gummy-guys/fd97307a.jpg",
+   "tags": {
+     "physical-operation": ["decant"],
+     "social-configuration": ["crowd"],
+     "spatial-relation": ["nested"],
+     "formal-medium": ["cel-animation"],
+     "material-behavior": ["foam"],
+     "emotional-fantasy": ["belonging"]
+   }},
+  {"id": "f040",
+   "text": "Photoreal composite: a lovebird whose body is a ripe red-to-yellow mango — stem, leaf, and gray talons all continuous with the fruit, one eye where the blush deepens.",
+   "source": "inspo/gummy-guys/ffdf096e.jpg",
+   "tags": {
+     "formal-medium": ["photo-composite"],
+     "product-fact": ["fruit-form"],
+     "emotional-fantasy": ["recognition"],
+     "productive-contradiction": ["lucid-weirdness"],
+     "social-configuration": ["alone"]
+   }},
+  {"id": "f041",
+   "text": "A glossy mango-yellow humanoid mecha model kit: gray articulated joints, twin shoulder cannons, caution decals, a black rifle, and a tiny pilot visible under the head canopy.",
+   "source": "inspo/311a8df1.jpg",
+   "tags": {
+     "formal-medium": ["model-kit"],
+     "material-behavior": ["enamel"],
+     "physical-operation": ["assemble"],
+     "emotional-fantasy": ["power"],
+     "social-configuration": ["alone"]
+   }},
+  {"id": "f042",
+   "text": "A chunky super-deformed yellow mecha with a green pineapple-crown of spikes, one green cyclops eye, and quad missile pods in its stubby arms — menacing and adorable at once.",
+   "source": "inspo/bffb4e02.jpg",
+   "tags": {
+     "formal-medium": ["model-kit"],
+     "material-behavior": ["enamel"],
+     "product-fact": ["fruit-form"],
+     "emotional-fantasy": ["power"],
+     "productive-contradiction": ["cute-menace"]
+   }},
+  {"id": "f043",
+   "text": "Queneau's Cent mille milliards de poemes: ten sonnets cut into fourteen strips per page so any line combines with any — 10^14 valid poems inside one bound book.",
+   "source": "research/03 §1",
+   "tags": {
+     "physical-operation": ["cut", "shuffle"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["layered"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "f044",
+   "text": "Gysin discovered cut-ups while slicing through newspapers layered on a cutting mat — the accidental cross-column juxtapositions read better than the columns themselves.",
+   "source": "research/03 §2",
+   "tags": {
+     "physical-operation": ["cut"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["layered"],
+     "emotional-fantasy": ["recognition"]
+   }},
+  {"id": "f045",
+   "text": "Bowie's cut-up, \"a kind of Western Tarot\": paragraphs on deliberately different subjects sliced into four-word strips, shuffled, and reconnected into lyrics.",
+   "source": "research/03 §2",
+   "tags": {
+     "physical-operation": ["cut", "shuffle"],
+     "material-behavior": ["paper"],
+     "emotional-fantasy": ["recognition"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "f046",
+   "text": "Exquisite corpse: players draw in turn on folded paper, each seeing only the connecting lines at the fold — first output: \"The exquisite corpse shall drink the new wine.\"",
+   "source": "research/03 §3",
+   "tags": {
+     "physical-operation": ["fold"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["threshold"],
+     "social-configuration": ["convergence"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "f047",
+   "text": "Dali's paranoiac-critical double image: the face hiding in the rock, rendered photorealistically so both readings stay simultaneously true.",
+   "source": "research/03 §3",
+   "tags": {
+     "emotional-fantasy": ["recognition"],
+     "spatial-relation": ["layered"],
+     "productive-contradiction": ["lucid-weirdness"],
+     "temporal-behavior": ["delayed"]
+   }},
+  {"id": "f048",
+   "text": "Decalcomania: press wet paint between two surfaces, peel them apart, and find the image waiting in the blot.",
+   "source": "research/03 §3",
+   "tags": {
+     "physical-operation": ["laminate", "peel"],
+     "transition-affordance": ["peel-reveal"],
+     "emotional-fantasy": ["recognition"],
+     "material-behavior": ["paper"]
+   }},
+  {"id": "f049",
+   "text": "The Five Obstructions #2: Leth eats a gourmet meal in Mumbai's red-light district behind a translucent screen, the street crowd visible through the scrim.",
+   "source": "research/03 §5",
+   "tags": {
+     "material-behavior": ["fabric"],
+     "spatial-relation": ["threshold"],
+     "social-configuration": ["witnessed"],
+     "productive-contradiction": ["polite-violation"]
+   }},
+  {"id": "f050",
+   "text": "Gondry's \"Fell in Love with a Girl\": the White Stripes built entirely of LEGO bricks, animated frame by frame, the blocky seams doing the charming.",
+   "source": "research/03 §5",
+   "tags": {
+     "formal-medium": ["toy-theater"],
+     "physical-operation": ["assemble"],
+     "productive-contradiction": ["earnest-artifice"],
+     "temporal-behavior": ["rehearsed"]
+   }},
+  {"id": "f051",
+   "text": "Gondry's \"Around the World\": each band member's motion is a looping choreographed cycle, the whole video an Escher machine of synchronized repeats.",
+   "source": "research/03 §5",
+   "tags": {
+     "temporal-behavior": ["looping", "rehearsed"],
+     "transition-affordance": ["rotation"],
+     "social-configuration": ["crowd"],
+     "productive-contradiction": ["earnest-artifice"]
+   }},
+  {"id": "f052",
+   "text": "Cadbury \"Gorilla\": a gorilla sits at a drum kit through a long anticipatory wait, then nails the Phil Collins fill — no chocolate on screen until the endframe.",
+   "source": "research/04 §2.1",
+   "tags": {
+     "temporal-behavior": ["delayed"],
+     "emotional-fantasy": ["relief"],
+     "social-configuration": ["broadcast"],
+     "productive-contradiction": ["deadpan-magic"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "f053",
+   "text": "Sony Bravia \"Balls\": 250,000 bouncy balls released down a San Francisco hill, six cameras, all in-camera — dented cars and streets frothing with color.",
+   "source": "research/04 §2.2",
+   "tags": {
+     "physical-operation": ["decant"],
+     "formal-medium": ["live-action"],
+     "emotional-fantasy": ["awe"],
+     "productive-contradiction": ["controlled-chaos", "earnest-artifice"]
+   }},
+  {"id": "f054",
+   "text": "Skittles \"Touch\": a man's touch turns everything to Skittles — a beloved party trick, but he can never hold his newborn.",
+   "source": "research/04 §2.3",
+   "tags": {
+     "emotional-fantasy": ["power", "intimacy", "unease"],
+     "social-configuration": ["paired"],
+     "productive-contradiction": ["deadpan-magic"]
+   }},
+  {"id": "f055",
+   "text": "Skittles rains from the ceiling indoors and everyone on screen treats the candy weather as completely unremarkable.",
+   "source": "research/04 §2.3",
+   "tags": {
+     "physical-operation": ["decant"],
+     "social-configuration": ["crowd"],
+     "productive-contradiction": ["deadpan-magic"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "f056",
+   "text": "Skittles \"uncomfortably soft\": a balloon-animal dog scrapes itself along the carpet — softness pushed past pleasant into a new emotional register.",
+   "source": "research/04 §1.6/2.3",
+   "tags": {
+     "material-behavior": ["rubber"],
+     "emotional-fantasy": ["unease"],
+     "productive-contradiction": ["cute-menace", "tactile-spectacle"]
+   }},
+  {"id": "f057",
+   "text": "Skittles shoots real puppets and digitally removes the puppeteers — the slightly-wrong physical texture is itself the unsettling tone.",
+   "source": "research/04 §2.3",
+   "tags": {
+     "formal-medium": ["toy-theater"],
+     "temporal-behavior": ["rehearsed"],
+     "emotional-fantasy": ["unease"],
+     "productive-contradiction": ["earnest-artifice"]
+   }},
+  {"id": "f058",
+   "text": "Old Spice in one apparent take: the voice never changes while bathroom becomes boat becomes horse and tickets become diamonds — \"I'm on a horse\" scavenged from a dead script.",
+   "source": "research/04 §2.4",
+   "tags": {
+     "transition-affordance": ["match-cut"],
+     "temporal-behavior": ["sequential"],
+     "social-configuration": ["broadcast"],
+     "productive-contradiction": ["deadpan-magic"],
+     "physical-operation": ["swap"]
+   }},
+  {"id": "f059",
+   "text": "Guinness \"Surfer\": the wave finally breaks as white horses out of a Walter Crane painting stampeding in the foam — good things come to those who wait.",
+   "source": "research/04 §2.5",
+   "tags": {
+     "material-behavior": ["foam"],
+     "temporal-behavior": ["delayed"],
+     "emotional-fantasy": ["awe", "relief"],
+     "social-configuration": ["crowd"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "f060",
+   "text": "Haribo: executives in a boardroom argue about gummies in dubbed children's voices — exactly one channel swapped, everything else documentary-real.",
+   "source": "research/04 §2.9",
+   "tags": {
+     "physical-operation": ["swap"],
+     "social-configuration": ["witnessed"],
+     "formal-medium": ["live-action"],
+     "productive-contradiction": ["polite-violation"]
+   }},
+  {"id": "f061",
+   "text": "Snickers: mid-scrimmage, the hungry teammate is literally Betty White getting tackled into the mud — a different person until he eats.",
+   "source": "research/04 §2.7",
+   "tags": {
+     "physical-operation": ["swap"],
+     "transition-affordance": ["mouth-portal"],
+     "social-configuration": ["witnessed"],
+     "emotional-fantasy": ["mischief"],
+     "temporal-behavior": ["instantaneous"]
+   }},
+  {"id": "f062",
+   "text": "Sour Patch Kids: sour coating then sweet interior becomes plot — the Kid commits mischief, then makes amends; the candy's taste sequence as a two-act arc.",
+   "source": "research/04 §2.8",
+   "tags": {
+     "product-fact": ["layers", "texture-contrast"],
+     "temporal-behavior": ["sequential"],
+     "emotional-fantasy": ["mischief"]
+   }},
+  {"id": "f063",
+   "text": "Fruit Gushers: kids bite the gusher and their heads inflate into giant pieces of fruit.",
+   "source": "research/04 §4.1",
+   "tags": {
+     "physical-operation": ["inflate", "swap"],
+     "material-behavior": ["fruit-flesh"],
+     "product-fact": ["fruit-form"],
+     "temporal-behavior": ["instantaneous"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "f064",
+   "text": "Twix left/right: one identical candy bar split into two rival halves, mirrored factories feuding over which side is which.",
+   "source": "research/04 §4.2",
+   "tags": {
+     "physical-operation": ["split"],
+     "spatial-relation": ["mirrored"],
+     "social-configuration": ["paired"],
+     "emotional-fantasy": ["mischief"]
+   }},
+  {"id": "f065",
+   "text": "M&M's spokescandies: anthropomorphic candies living in polite terror of being eaten by the very people they charm.",
+   "source": "research/04 §4.2",
+   "tags": {
+     "transition-affordance": ["mouth-portal"],
+     "emotional-fantasy": ["unease"],
+     "productive-contradiction": ["cute-menace"],
+     "social-configuration": ["crowd"]
+   }},
+  {"id": "f066",
+   "text": "The gummy-category default shot: ASMR macro of an unwrap-and-peel with breathy sound design — tactile intimacy at extreme close-up.",
+   "source": "research/04 §4.2 cliche #10",
+   "tags": {
+     "formal-medium": ["macro"],
+     "physical-operation": ["peel"],
+     "product-fact": ["slow-ritual", "sticky"],
+     "emotional-fantasy": ["intimacy"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }}
+]}

@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T15:53:35-07:00",
+  "started_at": "2026-07-11T15:53:26-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/prompts.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "couple anchored two world handoff baseline",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a cinematic commercial styleframe testing a clean world-transition grammar. Preserve Liz and John's faces, teen age, wardrobe, relative positions, Peelerz candies and packages from the campus reference. Keep the couple centered and physically continuous while the camera makes a circular move around them. Catch the exact handoff frame: the left half remains the ordinary live-action college quad, while a crisp moving boundary passing behind and between them converts the right half into a flat hand-painted animated fruit grove. Their bodies and eyeline remain stable across the seam, as if the worlds change but the couple does not. Use the second reference ONLY for the formal idea of centered people anchored during a medium transition; do not copy its characters, costumes, franchise imagery, or graphic style. One clean boundary, two legible worlds, no portal ring, no collage clutter, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 10 - campus connection.png",
+      "../../../references/CZI5V2VRc7s/frames-24fps/CZI5V2VRc7s_t41.500.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/CZI5V2VRc7s/frames-24fps/CZI5V2VRc7s_t41.500.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/05_couple-anchored-two-world-handoff-baseline_e0cf7f10",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/05_couple-anchored-two-world-handoff-baseline_e0cf7f10/couple-anchored-two-world-handoff-baseline_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

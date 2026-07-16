@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-05-24T03:17:34-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-05-24T03:17:34-07:00",
+      "started_at": "2026-05-24T03:17:01-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+      "source_index": 1,
+      "mode": "image",
+      "title": "hephaestus-9up-rerender-nbpro",
+      "model": "gemini-3-pro-image-preview",
+      "prompt": "Re-render a 9-panel storyboard board, clean. THREE references (house grammar): IMAGE 1 = original STYLE reference \u2014 BORROW its clean painterly concept-art style, palette, brushwork, finish; DO NOT BORROW its composition. IMAGE 2 = a clean storyboard render of this same world \u2014 BORROW its smooth, clean rendering quality. IMAGE 3 = the 9-panel storyboard board to REPRODUCE \u2014 BORROW its exact 3x3 panel layout and the shot/content of all nine panels (the bearded blond smith Hephaestus, the gold automata, the forge); DO NOT BORROW its grain, noise, or gritty surface. Reproduce IMAGE 3's nine panels faithfully \u2014 same shots, same composition, same character and automata \u2014 but render every panel CLEAN and smooth in the style of Images 1 and 2. Keep the clean 3x3 grid with thin borders and the small panel number labels.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": null,
+        "temperature": null,
+        "system_prompt": "Render in clean, smooth, finished painterly concept-art \u2014 cool blue/violet shadow, warm gold, orange spark-light, volumetric haze; intentional brushwork, no grain or noise. Reproduce the target board's layout and content faithfully.",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-storyboard-page-hpsp01_ea0b98e0/hephaestus-storyboard-page-hpsp01_02.png",
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-9up-coverage_c970632f/hephaestus-9up-coverage_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-storyboard-page-hpsp01_ea0b98e0/hephaestus-storyboard-page-hpsp01_02.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-9up-coverage_c970632f/hephaestus-9up-coverage_01.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-9up-rerender-nbpro_31e4557a",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-9up-rerender-nbpro_31e4557a/hephaestus-9up-rerender-nbpro_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

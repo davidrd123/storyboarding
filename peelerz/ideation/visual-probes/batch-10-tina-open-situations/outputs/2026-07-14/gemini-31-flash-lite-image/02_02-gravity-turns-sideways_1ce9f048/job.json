@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T01:31:25-07:00",
+  "started_at": "2026-07-14T01:31:13-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/prompts.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 gravity turns sideways",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Preserve Tina's identity, wardrobe, gummy, pouch, and normal level rear seat from the references, but allow a wider camera. Gravity outside has rotated ninety degrees. Parked cars, people, trees, bicycles, and lawn furniture fall calmly sideways up the face of the blue sky while the houses cling to a suburban street that now appears vertical. Inside the car, Tina and the gummy remain level and serene. Lucid daylight impossible physics, playful rather than catastrophic. No injuries, storm, tropical fantasy, or parachute.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one cinematic advertising styleframe, never a collage or storyboard grid. Image 1 and Image 2 establish Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Preserve her identity and the product, but obey each prompt's new composition and creative situation. Every job is an independent idea after Tina eats the candy; it does not need to preserve the car-peel, parachute, tropical, miniature, or gummy-fish ideas from other rounds. Make the single situation immediately legible, benign, youthful, visually bold, and plausible as a polished commercial styleframe. No captions, borders, split screens, watermarks, random candyland, or added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-gravity-turns-sideways_1ce9f048",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-gravity-turns-sideways_1ce9f048/02-gravity-turns-sideways_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

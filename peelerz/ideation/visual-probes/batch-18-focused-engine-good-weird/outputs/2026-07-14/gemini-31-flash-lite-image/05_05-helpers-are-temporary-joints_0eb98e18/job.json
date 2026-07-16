@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T22:46:13-07:00",
+  "started_at": "2026-07-14T22:45:55-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "05 helpers are temporary joints",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. DISTANCE RING: feral. REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight top-row space. Image 3 locks Raul's opaque mango-flesh mecha design and open real face. Image 4 exactly locks the mango helpers. Image 5 locks the single grape familiar. ONE RULE \u2014 The mango armor panels cannot touch at first. Teams of tiny mango helpers link hand-to- hand across the open gaps and act as temporary living elbow and knee joints until graphite locks arrive. FRAME \u2014 Low daylight pit-lane angle running along an empty bleacher row. Raul stands in an almost- complete dense mango-flesh mecha, real delighted face visible, but the armor has four purposeful open joint gaps. At the closest bent elbow, a clearly readable chain of five small mango helpers spans from upper-arm panel to forearm panel under tension, each holding the next. A second shorter chain braces one knee. Amber graphite connectors are visibly sliding toward them. Meg kneels close, engaged and concerned-in-a-fun-way; her grape familiar raises one hand as the lock signal. A small fruit-gummy crowd below echoes the helpers' linked formation. VISUAL PROOF \u2014 The tiny cute crew is visibly load-bearing inside a convincing power silhouette. AVOID \u2014 helpers merely sitting on armor, painful crushing, detached limbs, transparent gummy suit, orange bodybuilder, generic construction workers, weapons, night, chaos everywhere.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+      "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+      "../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png"
+    ],
+    "config": {}
+  },
+  "input_count": 5,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-helpers-are-temporary-joints_0eb98e18",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-helpers-are-temporary-joints_0eb98e18/05-helpers-are-temporary-joints_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-helpers-are-temporary-joints_0eb98e18/05-helpers-are-temporary-joints_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

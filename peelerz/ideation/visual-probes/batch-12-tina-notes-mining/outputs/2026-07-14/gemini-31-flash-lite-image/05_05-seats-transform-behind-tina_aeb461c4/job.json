@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:00:51-07:00",
+  "started_at": "2026-07-14T02:00:43-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/prompts.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "05 seats transform behind tina",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 is the edit target and controls Tina's exact back-seat position, identity, wardrobe, gummy, pouch, dark car interior, camera relationship, and ordinary gray street. Image 2 supports face and candy appearance only and must not change the crop. Preserve all geometry while transforming only the upholstery material in a visible traveling wave. The change begins beneath and behind Tina in the rear seat as glossy translucent lychee-pink gummy material, moves across the rear headrests, and continues forward toward the driver. Show a crisp but organic boundary between normal charcoal upholstery and gummy upholstery. Tina turns to watch it pass. Outside remains documentary-real and unchanged. No orange seats, melted flesh, slime, exterior transformation, added passengers, or front-seat Tina.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage or storyboard grid. Follow the stated role of every reference image rather than blending all references indiscriminately. Preserve Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Tina's fixed meeting point is the back seat of the car: never move her into the driver or front passenger seat. Make the specified physical situation immediately legible in one 16:9 image. Keep transformations benign, youthful, tactile, and suitable for a live-action candy commercial. Avoid captions, borders, split screens, watermarks, generic candyland, random rainbow effects, body horror, violent wreckage, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-seats-transform-behind-tina_aeb461c4",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-seats-transform-behind-tina_aeb461c4/05-seats-transform-behind-tina_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

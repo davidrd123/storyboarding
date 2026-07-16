@@ -1,0 +1,13 @@
+You are reconstructing ONE finished storyboard frame from a full written spec.
+
+REFERENCES (house grammar — borrow / do NOT borrow):
+- IMAGE 1 = STYLE REFERENCE (clean original). BORROW: its exact painterly concept-art style, palette, brushwork, finish. DO NOT BORROW: its specific composition or subject arrangement.
+- IMAGE 2 = STORYBOARD PAGE of this scene (composition + world). BORROW: the staging/layout of this shot, the world, and cross-shot consistency of the character and the gold automata. DO NOT BORROW: its grid, panels, labels, or any draft grain/noise/texture (treat those as artifacts — render clean and intentional, NOT gritty).
+
+STORY CONTEXT (reason over this): a cast-out smith, Hephaestus, builds golden beings for others — the only Olympian who ever worked, finally needed, taking quiet pride. Beneath the warmth, the first unease: the line never ends and the figures file away and don't return. OPENING register — warm and proud on its face, the dark only glimpsed.
+
+WORLD (constant across all panels — match exactly for consistency): a vast cavernous forge-hall in cool electric-blue and violet gloom, volumetric haze, a tall red furnace column; a long assembly line of identical burnished-gold automata (classical serene blank faces, hand-wrought seams); overhead robotic welder-arms throwing orange sparks; Hephaestus is a bearded, fair-haired smith in a pale cream work-robe off one shoulder.
+
+Render ONE finished full-frame cinematic image, 16:9 — no grid, no panels, no borders, no text, no labels.
+
+THE SHOT — INSERT / DETAIL: extreme close-up of a welder-arm tip sparking on a gold seam; molten orange against cool blue; the act of making.

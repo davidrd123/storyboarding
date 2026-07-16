@@ -1,0 +1,1463 @@
+{
+  "name": "peelerz-session-01",
+  "batch": 15,
+  "seeds": [
+    {
+      "id": "s001",
+      "batch": 1,
+      "text": "The car never stops peeling: one unbroken ribbon of upholstery, street, skyline — and Tina rides the still-attached end like a kite string anchored to the world she left",
+      "mechanism": "continuous-peel-tether",
+      "operator": "consequence-heightening",
+      "stimulus": "script p2 car-peel beat",
+      "parent": null,
+      "niche": {
+        "fantasy": "escape",
+        "slot": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s002",
+      "batch": 1,
+      "text": "Raul peeling the mango reads to the crowd like pulling a fresh screen protector off reality; the bleachers whoop like the internet at a perfect peel and the scoreboard replays it in slow motion",
+      "mechanism": "perfect-peel-replay",
+      "operator": "reframe",
+      "stimulus": "problem located in: culture",
+      "parent": null,
+      "niche": {
+        "fantasy": "recognition",
+        "slot": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s003",
+      "batch": 1,
+      "text": "Meg bites hers whole and every solid in the stadium gets a hovering chalk outline an inch off its surface, like the world is a sidewalk game about to start",
+      "mechanism": "chalk-outline-world",
+      "operator": "random-entry",
+      "stimulus": "chalk",
+      "parent": null,
+      "niche": {
+        "fantasy": "mischief",
+        "slot": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s004",
+      "batch": 1,
+      "text": "Behind Liz and John their footsteps leave thin bright tube-lines; an unseen craftsman bends the two lines toward each other and fuses them into one glowing cursive loop, buzzing like a sign coming on",
+      "mechanism": "paths-bent-like-neon",
+      "operator": "synectic-analogy",
+      "stimulus": "neon sign bending",
+      "parent": null,
+      "niche": {
+        "fantasy": "intimacy",
+        "slot": "couple"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s005",
+      "batch": 1,
+      "text": "One full second of total black silence inside the mouth — then clouds part below like curtains in a very large quiet room; the candy islands do not boom, they simply are there, humming",
+      "mechanism": "silence-before-reveal",
+      "operator": "oblique-interruption",
+      "stimulus": "In total darkness, or in a very large room, very quietly",
+      "parent": null,
+      "niche": {
+        "fantasy": "awe",
+        "slot": "finale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s006",
+      "batch": 2,
+      "text": "Not just the car: every enclosure Tina is inside peels one layer at a time — the car, then the traffic jam, then the afternoon itself; whole-biters skip layers",
+      "mechanism": "enclosure-layers",
+      "operator": "explicit-mutation",
+      "stimulus": "generalize: the car becomes any-enclosure",
+      "parent": "s001",
+      "niche": {
+        "fantasy": "escape",
+        "slot": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s007",
+      "batch": 2,
+      "text": "Raul armors up plate by plate and we never cut away — the locked camera holds while the bleachers tell the story in sound: gasps, then the marching band changing key to match him",
+      "mechanism": "reaction-carried-by-sound",
+      "operator": "constraint-transformation",
+      "stimulus": "No reaction shots",
+      "parent": null,
+      "niche": {
+        "fantasy": "power",
+        "slot": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s008",
+      "batch": 2,
+      "text": "From inside her mouth we watch the campus unbuild itself backward, brick by brick into orchard, as the soundtrack runs in reverse toward perfect quiet; off-screen a janitor sighs at his unswept steps",
+      "mechanism": "reverse-rebuild",
+      "operator": "morphological-collision",
+      "stimulus": "cast1: soundtrack/architecture/time-reversal/off-screen/quiet/inside-mouth/bystander-pays",
+      "parent": null,
+      "niche": {
+        "fantasy": "awe",
+        "slot": "couple"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s009",
+      "batch": 2,
+      "text": "The last enclosure is the frame itself: Tina peels the letterbox bars off the commercial and the picture widens; whole-biters get full screen instantly",
+      "mechanism": "aspect-ratio-peel",
+      "operator": "consequence-heightening",
+      "stimulus": "heighten s006 rule",
+      "parent": "s006",
+      "niche": {
+        "fantasy": "escape",
+        "slot": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s010",
+      "batch": 2,
+      "text": "The stadium splits mid-frame into two tribes: the peeler side grows layered, terraced, bonsai-detailed; the whole-biter side goes instant total pop-color; the game plays on across the seam",
+      "mechanism": "split-world-tribes",
+      "operator": "reframe",
+      "stimulus": "problem located in: culture",
+      "parent": null,
+      "niche": {
+        "fantasy": "belonging",
+        "slot": "raul"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s011",
+      "batch": 3,
+      "text": "Tina peels with the window down; the ribbon rides the street gutter like a marble run, overtaking the Uber — pedestrians film the peel, not her; she just chews",
+      "mechanism": "peel-outruns-car",
+      "operator": "random-entry",
+      "stimulus": "gutter",
+      "parent": null,
+      "niche": {
+        "fantasy": "mischief",
+        "slot": "tina",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s012",
+      "batch": 3,
+      "text": "A uniformed inspector appears whenever someone peels in public: he checks the spiral, stamps LICENSED TO PEEL; Liz shows John her older, worn certificate — instant recognition",
+      "mechanism": "peel-certification",
+      "operator": "synectic-analogy",
+      "stimulus": "elevator inspection",
+      "parent": null,
+      "niche": {
+        "fantasy": "recognition",
+        "slot": "couple",
+        "axis": "behavior"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s013",
+      "batch": 3,
+      "text": "Raul holds out a peel strip to the bleachers like a mic; one kid takes it and gets a single mango gauntlet, and they dap with the one matched arm",
+      "mechanism": "shared-partial-powerup",
+      "operator": "oblique-interruption",
+      "stimulus": "Would anybody want it?",
+      "parent": null,
+      "niche": {
+        "fantasy": "belonging",
+        "slot": "raul",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s014",
+      "batch": 3,
+      "text": "Permuted: the car peels Tina — the Uber sheds its Tina layer like a sticker; she stands streetside perfectly cool while a translucent Tina outline stays behind to pay the fare",
+      "mechanism": "shed-self-decoy",
+      "operator": "explicit-mutation",
+      "stimulus": "permute: the car peels Tina",
+      "parent": "s011",
+      "niche": {
+        "fantasy": "mischief",
+        "slot": "tina",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s015",
+      "batch": 3,
+      "text": "The whole spot is silver-gelatin monochrome; only what has been peeled carries color, and color travels only along peel lines, converging at the finale sky",
+      "mechanism": "color-only-where-peeled",
+      "operator": "constraint-transformation",
+      "stimulus": "Black and white except one color",
+      "parent": null,
+      "niche": {
+        "fantasy": "awe",
+        "slot": "finale",
+        "axis": "medium"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s016",
+      "batch": 4,
+      "text": "Upside-down over the bleachers: when Meg eats, shadows stop belonging to their owners and drift to pile under the most bored kid; nobody notices except one shadowless bystander, hair lifting with static",
+      "mechanism": "shadow-reassignment",
+      "operator": "morphological-collision",
+      "stimulus": "cast2: candy/crowd/shadow-ownership/nobody/static/upside-down/bystander-pays",
+      "parent": null,
+      "niche": {
+        "fantasy": "mischief",
+        "slot": "raul",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s017",
+      "batch": 4,
+      "text": "The shadow pile under the bored kid deepens into a hole; he finally looks up, peels one, and his own shadow climbs back out to him first — loyalty returned by attention",
+      "mechanism": "shadow-loyalty",
+      "operator": "consequence-heightening",
+      "stimulus": "heighten s016 rule",
+      "parent": "s016",
+      "niche": {
+        "fantasy": "recognition",
+        "slot": "raul",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s018",
+      "batch": 4,
+      "text": "Tina peels it, eats it, nothing happens for two full seconds — then we see the Uber has been parked inside her notebook doodle all along; the margin drawing is the world of the spot",
+      "mechanism": "world-was-the-doodle",
+      "operator": "reframe",
+      "stimulus": "problem located in: product",
+      "parent": null,
+      "niche": {
+        "fantasy": "escape",
+        "slot": "tina",
+        "axis": "medium"
+      },
+      "flags": [
+        "unbridged"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s019",
+      "batch": 4,
+      "text": "John peels his gummy into a curl and looks through it like a periscope: the lecture hall as Liz doodles it, annotated and better; he lowers it; she is already looking through hers",
+      "mechanism": "peel-periscope",
+      "operator": "random-entry",
+      "stimulus": "periscope",
+      "parent": null,
+      "niche": {
+        "fantasy": "intimacy",
+        "slot": "couple",
+        "axis": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s020",
+      "batch": 4,
+      "text": "Before eating, every kid performs a tiny invented ritual — Raul salts the bench with candy sugar and stomps twice; the impossible thing waits politely until the ritual is done",
+      "mechanism": "invented-ritual-precedence",
+      "operator": "synectic-analogy",
+      "stimulus": "sumo ritual",
+      "parent": null,
+      "niche": {
+        "fantasy": "belonging",
+        "slot": "raul",
+        "axis": "behavior"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s021",
+      "batch": 5,
+      "text": "High above the neighborhood Tina and her parachute climb through faint giant after-images of herself from each second of the ascent — a stairway of ghost Tinas curling into the clouds; she waves and the echoes wave a beat late",
+      "mechanism": "ghost-echo-stairway",
+      "operator": "oblique-interruption",
+      "stimulus": "Ghost echoes",
+      "parent": null,
+      "niche": {
+        "fantasy": "awe",
+        "slot": "tina",
+        "axis": "flying"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s022",
+      "batch": 5,
+      "text": "Generalizing the giant-hand note: the sunroof opens like lips and the whole car is drawn gently up into a sky-sized bite that turns out to be the cloud layer — the world eats the car the way she eats candy",
+      "mechanism": "world-eats-back",
+      "operator": "explicit-mutation",
+      "stimulus": "generalize: giant hand becomes giant mouth (script p1 note)",
+      "parent": null,
+      "niche": {
+        "fantasy": "awe",
+        "slot": "tina",
+        "axis": "scale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s023",
+      "batch": 5,
+      "text": "Wide on the frozen stadium, every player and bird locked mid-play; the only moving thing is Raul, forty feet tall, stepping carefully over the paused game like a kid crossing a diorama he built",
+      "mechanism": "giant-in-paused-world",
+      "operator": "constraint-transformation",
+      "stimulus": "The beat contains exactly one moving thing",
+      "parent": null,
+      "niche": {
+        "fantasy": "power",
+        "slot": "raul",
+        "axis": "scale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s024",
+      "batch": 5,
+      "text": "Seen only in the glass of the campus doors: a stranger bites and the reflection becomes a hand-painted mural of the quad twenty times too large; Liz and John are tiny painted figures holding their breath; on the real sidewalk the discarded peel dries alone",
+      "mechanism": "mural-reflection-scale",
+      "operator": "morphological-collision",
+      "stimulus": "cast3: stranger/medium/scale/nobody/held-breath/reflection/peel-pays",
+      "parent": null,
+      "niche": {
+        "fantasy": "intimacy",
+        "slot": "couple",
+        "axis": "medium"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s025",
+      "batch": 6,
+      "text": "The Uber window is suddenly a fifteen-inch door: through it Tina sees the garden-colored world at the wrong scale, unreachable — the bite resizes HER, not the door, and she steps through leaving the car human-sized behind her",
+      "mechanism": "wrong-size-door",
+      "operator": "retrieval-collision",
+      "stimulus": "c225 Alice fifteen-inch door (4-mark hit)",
+      "parent": null,
+      "niche": {
+        "fantasy": "escape",
+        "slot": "tina",
+        "axis": "scale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s026",
+      "batch": 6,
+      "text": "Tina leaves the car the way you leave a group chat: one bite, the seatbelt unbuckles itself, the car seals silently behind her and she is already elsewhere — inside, the driver hears the soft exit chime",
+      "mechanism": "leave-the-chat-exit",
+      "operator": "retrieval-collision",
+      "stimulus": "c314 group-chat exit x c204 selkie skin",
+      "parent": null,
+      "niche": {
+        "fantasy": "escape",
+        "slot": "tina",
+        "axis": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s027",
+      "batch": 6,
+      "text": "The armor assembles as a marching-band event: each brass hit irons one mango plate onto Raul like a patch onto denim — by the key change he is a declared surface the whole stadium can read",
+      "mechanism": "band-applied-armor",
+      "operator": "retrieval-collision",
+      "stimulus": "c326 bleacher serenade x c308 iron-on patch x c115 ribbon henshin",
+      "parent": null,
+      "niche": {
+        "fantasy": "power",
+        "slot": "raul",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s028",
+      "batch": 7,
+      "text": "Permuted: the peel hangs perfectly still; the WORLD spins around it like a centrifuge, separating the street into its layers — asphalt, map-lines, orchard soil — while Tina holds the one still thing",
+      "mechanism": "still-peel-spinning-world",
+      "operator": "explicit-mutation",
+      "stimulus": "permute + centrifuge (invariant: one unbroken continuous action)",
+      "parent": "s001",
+      "niche": {
+        "fantasy": "awe",
+        "slot": "tina",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s029",
+      "batch": 7,
+      "text": "Generalized to a pour: the bitten gummy runs upward as one unbroken syrup thread that hardens behind her like a stalactite; Tina climbs the still-growing column out through the sunroof",
+      "mechanism": "climbable-pour",
+      "operator": "explicit-mutation",
+      "stimulus": "generalize + stalactite (invariant preserved)",
+      "parent": "s001",
+      "niche": {
+        "fantasy": "escape",
+        "slot": "tina",
+        "axis": "flying"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s030",
+      "batch": 7,
+      "text": "The peel as monitored geological event: seismograph needles jump at the bleachers, loudspeakers announce PEEL WARNING LEVEL ORANGE, the crowd dons souvenir goggles as one continuous rind lifts off the whole field in a single slow sheet",
+      "mechanism": "monitored-peel-event",
+      "operator": "explicit-mutation",
+      "stimulus": "generalize + volcano observatories (invariant preserved)",
+      "parent": "s001",
+      "niche": {
+        "fantasy": "belonging",
+        "slot": "raul",
+        "axis": "scale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s031",
+      "batch": 7,
+      "text": "Permuted agent: the ribbon precedes the bite — already threaded through campus railing, sleeve, and fountain like something that has been here before and will not say; when John bites, the pre-laid line pulls taut in one motion and the day gathers itself around the couple",
+      "mechanism": "pre-laid-ribbon",
+      "operator": "explicit-mutation",
+      "stimulus": "permute + Which character has been here before and why wont they say",
+      "parent": "s001",
+      "niche": {
+        "fantasy": "intimacy",
+        "slot": "couple",
+        "axis": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s032",
+      "batch": 8,
+      "text": "Outside the window the neighborhood runs at lawn-sprinkler half-speed — joggers, dogs, arcs of water — except one hummingbird at real speed; her bite moves HER to the hummingbird speed and the Uber crawls beneath her attention",
+      "mechanism": "two-speeds-world",
+      "operator": "oblique-interruption",
+      "stimulus": "Work at a different speed",
+      "parent": null,
+      "niche": {
+        "fantasy": "awe",
+        "slot": "tina",
+        "axis": "world",
+        "lens": "i"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s033",
+      "batch": 8,
+      "text": "Outside the window, a funeral procession for the afternoon itself: hired mourners in fruit-colored veils wail beautifully for 3 PM as it passes; at her bite they pivot mid-step to celebration — the afternoon is reborn as HERS",
+      "mechanism": "mourned-afternoon",
+      "operator": "synectic-analogy",
+      "stimulus": "professional mourning",
+      "parent": null,
+      "niche": {
+        "fantasy": "mischief",
+        "slot": "tina",
+        "axis": "world",
+        "lens": "i"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s034",
+      "batch": 8,
+      "text": "Retyped: the sky does not eat the car, it INHALES — one long breath through the open window draws the street loose things (leaves, receipts, a kite) into slow orbit around the car, and Tina exhales to steer",
+      "mechanism": "sky-inhale-orbit",
+      "operator": "explicit-mutation",
+      "stimulus": "retype s022: eat becomes inhale",
+      "parent": "s022",
+      "niche": {
+        "fantasy": "awe",
+        "slot": "tina",
+        "axis": "flying",
+        "lens": "i"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s035",
+      "batch": 8,
+      "text": "The window is her feed: the neighborhood scrolls past in stories, each house a post, each pedestrian a 3-second clip with floating captions; her bite stops the scroll — one real house holds still long enough to be beautiful",
+      "mechanism": "window-as-feed-stopped",
+      "operator": "reframe",
+      "stimulus": "problem located in: culture",
+      "parent": null,
+      "niche": {
+        "fantasy": "recognition",
+        "slot": "tina",
+        "axis": "medium",
+        "lens": "i"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s036",
+      "batch": 8,
+      "text": "Overhead god shot: at her bite the block architecture loses gravity politely — houses drift up a few feet and hover, shivering like a foot waking up; the only earthbound thing is the wrapper in the gutter, holding the neighborhood down like a paperweight",
+      "mechanism": "architecture-off-gravity",
+      "operator": "morphological-collision",
+      "stimulus": "cast4: candy/architecture/gravity/self-reacting/pins-and-needles/overhead/peel-pays",
+      "parent": null,
+      "niche": {
+        "fantasy": "awe",
+        "slot": "tina",
+        "axis": "scale",
+        "lens": "i"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s037",
+      "batch": 9,
+      "text": "A giant hand peels open the car roof like a wrapper; Tina looks up delighted as the foil-bright metal curls back",
+      "mechanism": "giant-hand-peel",
+      "operator": "trunk",
+      "stimulus": "script p1 (Bens own)",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "axis": "scale",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s038",
+      "batch": 9,
+      "text": "As the car drives, everything it passes peels open in its wake — hedges, houses, the bus stop — each revealing a brighter version under the skin",
+      "mechanism": "world-peels-in-wake",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "axis": "world",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s039",
+      "batch": 9,
+      "text": "Out the window, a blimp-sized goldfish swims lazily between the houses at rooftop height; sprinklers arc in its shadow",
+      "mechanism": "giant-creature-street",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "axis": "scale",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s040",
+      "batch": 9,
+      "text": "Every block out the window is a different place and season: suburb, alpine pass, rice terraces, coral shallows — same street signs throughout",
+      "mechanism": "window-jump-cuts",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "axis": "transition",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s041",
+      "batch": 9,
+      "text": "The neighborhood saturates flavor-colored as she chews — lychee-pink light, mango-gold shadows (blacklist 1/2 adjacent: capture, repair before advancing)",
+      "mechanism": "candy-tint-world",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "axis": "world",
+        "lens": "trunk"
+      },
+      "flags": [
+        "cliche-tagged"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s042",
+      "batch": 9,
+      "text": "Outside the window everything unanchored floats a few feet up — bikes, dogs mid-trot, a mail cart — while the car drives on normally",
+      "mechanism": "street-gravity-off",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "axis": "world",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s043",
+      "batch": 10,
+      "text": "The voltron built from MULTIPLE candies: mango torso, lychee gauntlets, watermelon greaves — each limb color-blocked and glossy, assembling around Raul flavor by flavor",
+      "mechanism": "multi-flavor-voltron",
+      "operator": "trunk",
+      "stimulus": "script p4 (Bens ask)",
+      "parent": null,
+      "niche": {
+        "slot": "raul",
+        "axis": "body",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s044",
+      "batch": 10,
+      "text": "A stadium-sized Raul leans down into frame and eats regular Raul like a gummy — who then looks out from the giant self, now driving it",
+      "mechanism": "giant-self-eats-self",
+      "operator": "trunk",
+      "stimulus": "script p4 (Bens ask)",
+      "parent": null,
+      "niche": {
+        "slot": "raul",
+        "axis": "scale",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s045",
+      "batch": 10,
+      "text": "The peel whips over his shoulders as a translucent mango cape; classic hero silhouette on the bleacher top rail, wind from nowhere",
+      "mechanism": "peel-cape-hero",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "raul",
+        "axis": "body",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s046",
+      "batch": 10,
+      "text": "The default: anime aura, speed lines, lightning, hair physics — the bleachers flatten into graphic panels (capture the default so it can be banned or repaired)",
+      "mechanism": "anime-aura-powerup",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "raul",
+        "axis": "body",
+        "lens": "trunk"
+      },
+      "flags": [
+        "cliche-tagged"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s047",
+      "batch": 10,
+      "text": "Two long peel strips lock onto his back as stiff translucent wings and he rises off the bleachers into the stadium lights",
+      "mechanism": "peel-wings",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "raul",
+        "axis": "flying",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s048",
+      "batch": 11,
+      "text": "WORLD: verdant mango-grove jungle in full glory, gummy-glossy fruit at lantern scale (script native)",
+      "mechanism": "world-mango-grove",
+      "operator": "trunk",
+      "stimulus": "script p7",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "axis": "world",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s049",
+      "batch": 11,
+      "text": "WORLD: underwater paradise, mango-orange fish, light caustics on their faces, hair floating (script native)",
+      "mechanism": "world-underwater",
+      "operator": "trunk",
+      "stimulus": "script p8",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "axis": "world",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s050",
+      "batch": 11,
+      "text": "WORLD: flat-shaded old-school animation — the couple rendered rubber-hose while holding real hands (script native)",
+      "mechanism": "world-flat-cartoon",
+      "operator": "trunk",
+      "stimulus": "script p7",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "axis": "medium",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s051",
+      "batch": 11,
+      "text": "WORLD: claymation campus, thumbprints visible in their clay faces, stop-motion stutter in their walk (script native)",
+      "mechanism": "world-claymation",
+      "operator": "trunk",
+      "stimulus": "script p8",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "axis": "medium",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s052",
+      "batch": 11,
+      "text": "WORLD: candy cityscape, gummy architecture, licorice lampposts (blacklist 2: capture; needs repair to advance)",
+      "mechanism": "world-candy-city",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "axis": "world",
+        "lens": "trunk"
+      },
+      "flags": [
+        "cliche-tagged"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s053",
+      "batch": 11,
+      "text": "WORLD: zero-g space with peeled-fruit planets, a lychee moon half-skinned, its peel in orbit like rings",
+      "mechanism": "world-fruit-space",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "axis": "scale",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s054",
+      "batch": 11,
+      "text": "WORLD: the couple walks a giant picnic table — thumb-sized under a bag of Peelerz the size of a building, napkin dunes",
+      "mechanism": "world-table-scale",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "axis": "scale",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s055",
+      "batch": 11,
+      "text": "WORLD: neon night-city, wet asphalt, signs in fruit glyphs, their reflections in colored puddles",
+      "mechanism": "world-neon-night",
+      "operator": "trunk",
+      "stimulus": "obvious tier",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "axis": "world",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s056",
+      "batch": 12,
+      "text": "The roof peels in one continuous curl following her exact thumb gesture from the CU — same motion at two scales — and the canopy forms from the peeled layer itself: translucent gummy membrane, sun glowing through; in the finale she tears a strip off her own chute and eats it",
+      "mechanism": "roof-curl-canopy",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s057",
+      "batch": 12,
+      "text": "The window itself peels: the fog wipes away as a film layer and the candy world was already behind the glass — transformation as disclosure rather than explosion",
+      "mechanism": "window-film-peel",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s058",
+      "batch": 12,
+      "text": "Seatbelt as ripcord and harness: the car peels away around her and she rides the seat up, arriving at the sky finale still sitting in an Uber seat — Bens gummy pod seat becomes her gondola, the pod cluster detaching and rising with her in it",
+      "mechanism": "seatbelt-ripcord-gondola",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "flying"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s059",
+      "batch": 12,
+      "text": "The driver, deadpan in the rearview as his car comes apart: you want me to end the ride? Variant: bored disassembly — he calmly peels off mirror, dashboard, windshield, stacks them on the passenger seat like he does this every shift, then peels his own door and steps out onto the moving street",
+      "mechanism": "deadpan-driver-disassembly",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "behavior"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s060",
+      "batch": 12,
+      "text": "The asphalt peels up from the horizon like a giant pull-tab and the car rides the curling crest — the peel itself as launch ramp (kin: v02 render's lane-running ribbon)",
+      "mechanism": "asphalt-pull-tab-ramp",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "scale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s061",
+      "batch": 12,
+      "text": "She looks out and the horizon has a rim — suburbia is a box of assorted Peelerz, houses in paper cups, and the giant hand hovers over the tray choosing; it picks her car like a chocolate. TENSION: premise-scale, fights Bens street-level causal frame",
+      "mechanism": "suburbia-candy-tray",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "world-building",
+        "axis": "scale"
+      },
+      "flags": [
+        "tension-premise-scale"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s062",
+      "batch": 12,
+      "text": "Passing car at a stoplight: the other passenger is her, peeling a tiny car whose roof peels in sync with her own — peeler and peeled in one beat. TENSION: reads vertigo rather than release",
+      "mechanism": "double-tina",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "metaphoric",
+        "axis": "scale"
+      },
+      "flags": [
+        "tension-vertigo"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s063",
+      "batch": 12,
+      "text": "The giant hand peels the roof and eats THE PEEL, casually, while lifting her out — because the peel is candy; gummy-corrected from the feral hand-eats-car gag into product truth (crunch, muffled five stars please as variant)",
+      "mechanism": "hand-eats-peel",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "scale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s064",
+      "batch": 12,
+      "text": "The sky develops a seam and the giant thumbnail peels the whole blue back diagonally — pressure differential as her lift. Extended: the atmosphere is laminate — blue peels to sunset, sunset to candy night, night to mango otherspace — she rises through torn corners curling like page turns",
+      "mechanism": "sky-seam-strata",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s065",
+      "batch": 12,
+      "text": "The bite does not touch the car at first: everything OUTSIDE peels itself — bark in ribbons, a house shrugging its siding, a hydrant unzipping — the street undressing at once, and the car last, almost shyly",
+      "mechanism": "street-molting",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s066",
+      "batch": 12,
+      "text": "THE BUOYANCY LAW: whatever gets peeled becomes buoyant. Rinds and stickers drift skyward like reverse autumn; kids snatch ascending gummy ribbons out of the air and eat them; the sky islands are where peeled things go. Bens own p2 frame already obeys this — his floating panels, named as physics",
+      "mechanism": "peels-fall-up",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "world-building",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s067",
+      "batch": 12,
+      "text": "The molded seam from the actual gummy appears as a raised ridge on the roof; thumbnail catches it and the material STRETCHES — taut, thinning, glowing amber at the stress point, wobble on release (replaces all tear/perforation physics)",
+      "mechanism": "seam-ridge-stretch",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s068",
+      "batch": 12,
+      "text": "Match cut from her bite to a building down the block with the same bite out of it, candy strata in cross-section; second bite, second building. Variant: her thumbnail splits the candy seam and the street asphalt splits along the same seam in the same frame",
+      "mechanism": "bite-transfer-buildings",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "scale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s069",
+      "batch": 12,
+      "text": "The route line peels off the driver's phone screen, exits into real space as a curling candy road, and the car follows its own icon up",
+      "mechanism": "gps-ribbon-road",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "causal",
+        "axis": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s070",
+      "batch": 12,
+      "text": "Every parked car sealed in a transparent bubble on a foil-backed strip; hers pops through from beneath with the thumb-push motion. NOTE: foil-backed conflicts with no-paper-physics vocabulary — needs gummy-correction or stays a drawer idea",
+      "mechanism": "blister-pack-street",
+      "operator": "import-claude-chat",
+      "stimulus": "claude.ai Tina session 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "world-building",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s071",
+      "batch": 13,
+      "text": "THE PEEL-STYLE LAW: how you peel writes what you become — slow spiral gets deliberate segmented armor; total unwrap gets the full avatar at once; bite-through gets a half-armored hybrid; whole-eat transforms the WORLD instead. Four kids on the bleachers, four styles, four different outcomes",
+      "mechanism": "peel-style-writes-avatar",
+      "operator": "precedent-baseline",
+      "stimulus": "Capri Sun Disrespectoids law, surface banned",
+      "parent": null,
+      "niche": {
+        "slot": "raul",
+        "contract": "causal",
+        "axis": "body",
+        "lens": "trunk"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s072",
+      "batch": 13,
+      "text": "Spiral-peeler Raul: armor assembles in a rising helix stripe around his body, and the finished chest-core sweeps the stadium with a slow rotating mango beam — whoever the light touches stands up without knowing why",
+      "mechanism": "helix-armor-beacon",
+      "operator": "random-entry",
+      "stimulus": "lighthouse",
+      "parent": "s071",
+      "niche": {
+        "slot": "raul",
+        "contract": "causal",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s073",
+      "batch": 13,
+      "text": "The whole-biter counterpart: total transformation but TIMED — radiant anime self for exactly as long as the flavor lasts, a dissolving gummy hourglass visible in the chest; when it empties she is ordinary again and immediately reaches for the bag",
+      "mechanism": "flavor-duration-avatar",
+      "operator": "random-entry",
+      "stimulus": "hourglass",
+      "parent": "s071",
+      "niche": {
+        "slot": "raul",
+        "contract": "causal",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s074",
+      "batch": 13,
+      "text": "Transformation as watchmaking: extreme macro of unseen tweezers setting each mango plate like a jewel bearing, escapement clicks syncing to the marching band; wide shot — Raul now moves with second-hand smoothness, a precision instrument",
+      "mechanism": "escapement-assembly",
+      "operator": "synectic-analogy",
+      "stimulus": "watchmaking",
+      "parent": "s071",
+      "niche": {
+        "slot": "raul",
+        "contract": "metaphoric",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s075",
+      "batch": 13,
+      "text": "Permuted: Raul peels and the STADIUM transforms — the field floods gently into a mango-colored shallow sea, players wading; Raul stands unchanged at the center, the only dry thing, suddenly the calm eye of it all",
+      "mechanism": "world-transforms-not-him",
+      "operator": "oblique-interruption",
+      "stimulus": "Water + permute",
+      "parent": "s071",
+      "niche": {
+        "slot": "raul",
+        "contract": "causal",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s076",
+      "batch": 14,
+      "text": "TRANSITION DEVICE: the hydro-dip — a vertical film floats across the campus path like a soap membrane; the couple walks through and comes out WEARING the next world (cel, clay, painted); the membrane never breaks, it transfers allegiance. One dip per world",
+      "mechanism": "hydro-dip-worlds",
+      "operator": "retrieval-collision",
+      "stimulus": "c306 hydro-dipping",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "contract": "world-building",
+        "axis": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s077",
+      "batch": 14,
+      "text": "WORLD: the sketch — Johns peel curls into a pencil-line spiral and a drawn hand reaches out of it, pulling them both into rotoscope-line world where only their Peelerz bags stay full color",
+      "mechanism": "pulled-into-sketch",
+      "operator": "retrieval-collision",
+      "stimulus": "c111 Take On Me x peel",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "contract": "world-building",
+        "axis": "medium"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s078",
+      "batch": 14,
+      "text": "STRUCTURE: each orbit of the circular dolly crosses a twilight seam and the campus is one era or medium different on the far side; the couple stays mid-stride, one step closer per seam",
+      "mechanism": "orbit-crosses-twilight-seam",
+      "operator": "retrieval-collision",
+      "stimulus": "c515 Lacoste x c129 kataware-doki",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "contract": "world-building",
+        "axis": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s079",
+      "batch": 14,
+      "text": "WORLD: the assembly room — in white void, gentle unseen arms plate the couple with translucent candy-shell panels as they lean in; the kiss lands as the last panels click. TENSION: robot-factory register may read cold for candy",
+      "mechanism": "assembled-toward-kiss",
+      "operator": "retrieval-collision",
+      "stimulus": "c122 All Is Full of Love",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "contract": "metaphoric",
+        "axis": "body"
+      },
+      "flags": [
+        "tension-cold-register"
+      ],
+      "dup_of": null
+    },
+    {
+      "id": "s080",
+      "batch": 14,
+      "text": "DEVICE: the shared skin — John offers Liz his peeled strip like a borrowed hoodie; worn on her shoulders it renders HER in his medium (cel-shaded girl in a live-action quad); she peels hers for him and he goes painterly. They walk on wearing each others worlds",
+      "mechanism": "wearing-each-others-world",
+      "operator": "retrieval-collision",
+      "stimulus": "c205 Hagoromo x c313 borrowed hoodie",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "contract": "metaphoric",
+        "axis": "medium"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s081",
+      "batch": 15,
+      "text": "The fit test, product-native: John carries a peeled gummy core; Liz has been carrying a peel that fits nothing. On the campus steps her peel wraps his core perfectly — the shoe test restaged in the products two textures. The crowd of mismatched peels behind her tells the story",
+      "mechanism": "peel-fits-center-recognition",
+      "operator": "retrieval-collision",
+      "stimulus": "Cox 1893 shoe-marriage-test grammar (entries 2-4)",
+      "parent": null,
+      "niche": {
+        "slot": "couple",
+        "contract": "causal",
+        "axis": "behavior"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s082",
+      "batch": 15,
+      "text": "The flavor-duration avatar named as folk law: transformation lasts while the taste lasts, the way Cinderellas lasts till midnight — and everyone in this world KNOWS the rule, so the crowd counts down his last seconds of mango armor together, delighted",
+      "mechanism": "midnight-flavor-rule",
+      "operator": "retrieval-collision",
+      "stimulus": "Cox 1893 timed transformation (midnight rule) - ancestry for s073",
+      "parent": "s073",
+      "niche": {
+        "slot": "raul",
+        "contract": "causal",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s083",
+      "batch": 15,
+      "text": "Peelers vs Biters as school tribes — friendly rivalry: the peeler side of the cafeteria grows terraced and layered, the biter side pops instant and total; the treaty is a couple sharing one candy — she peels it, he bites it",
+      "mechanism": "peeler-biter-rivalry",
+      "operator": "wild-injection",
+      "stimulus": "David riff 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "raul",
+        "contract": "world-building",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s084",
+      "batch": 15,
+      "text": "The cloak: a peel worn hood-up renders the wearer in the fruits world-grammar — cloaked in mango, the hallway ripens as he passes; shed the cloak and the world snaps ordinary. Catskin and Hagoromo ancestry: the garment IS the boundary",
+      "mechanism": "peel-cloak-worldgrammar",
+      "operator": "wild-injection",
+      "stimulus": "David riff 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "raul",
+        "contract": "causal",
+        "axis": "body"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s085",
+      "batch": 15,
+      "text": "WORLD: the Garden of Gummy Delights — a Bosch panorama in candy materiality: teens picnicking inside a hollowed lychee the size of a gazebo, riding translucent gummy birds, climbing in and out of giant berries, candy-glass tubes linking fruit dwellings; dense, benign, jewel-lit",
+      "mechanism": "bosch-garden-gummy",
+      "operator": "wild-injection",
+      "stimulus": "David riff 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "finale",
+        "contract": "world-building",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s086",
+      "batch": 15,
+      "text": "Fruits peel THEMSELVES: outside the window a fruit stand molts — an orange spirals open unassisted and steps off brighter; a pear sheds its skin like a coat checked at a door. The produce demonstrates the move; nobody taught it",
+      "mechanism": "fruit-self-molt",
+      "operator": "wild-injection",
+      "stimulus": "David riff 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "world-building",
+        "axis": "world"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s087",
+      "batch": 15,
+      "text": "SPINE: the same peel gesture at four scales in one spot — thumbnail on candy, hand on car roof, crane-arm on a building, sky-wide on the cloud layer — the whole commercial is one gesture repeated bigger (kin: Cog relay, continuous-tether)",
+      "mechanism": "one-gesture-four-scales",
+      "operator": "wild-injection",
+      "stimulus": "David riff 2026-07-11",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "metaphoric",
+        "axis": "scale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s088",
+      "batch": 15,
+      "text": "The candy as the magical item of a teen fairy tale: an object with RULES everyone somehow knows — carried like a talisman, traded like a favor, opened only at the right moment; a fruit compressed into a pocketable marvel, the nut that contains the dress. The world treats one gummy with the gravity of a ring in a fairy tale",
+      "mechanism": "candy-as-magical-item",
+      "operator": "wild-injection",
+      "stimulus": "David riff: magical item (+ Cox c613 nut-releases-dress)",
+      "parent": null,
+      "niche": {
+        "slot": "tina",
+        "contract": "world-building",
+        "axis": "behavior"
+      },
+      "flags": [],
+      "dup_of": null
+    }
+  ],
+  "banlist": {
+    "continuous-material-action": {
+      "state": "protected",
+      "batch": 7,
+      "evidence": "T01 continuous peel; still-peel-spinning-world; climbable-pour; monitored-peel-event; pre-laid-ribbon — five distinct executions of one invariant"
+    },
+    "peel-fits-center-recognition": {
+      "state": "round",
+      "batch": 15
+    },
+    "midnight-flavor-rule": {
+      "state": "round",
+      "batch": 15
+    },
+    "peeler-biter-rivalry": {
+      "state": "round",
+      "batch": 15
+    },
+    "peel-cloak-worldgrammar": {
+      "state": "round",
+      "batch": 15
+    },
+    "bosch-garden-gummy": {
+      "state": "round",
+      "batch": 15
+    },
+    "fruit-self-molt": {
+      "state": "round",
+      "batch": 15
+    },
+    "one-gesture-four-scales": {
+      "state": "round",
+      "batch": 15
+    },
+    "candy-as-magical-item": {
+      "state": "round",
+      "batch": 15
+    }
+  }
+}

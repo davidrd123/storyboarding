@@ -1,0 +1,368 @@
+{
+  "name": "focused-visual-probe-2026-07-14",
+  "batch": 1,
+  "seeds": [
+    {
+      "id": "s001",
+      "batch": 1,
+      "text": "Sugar-frost seam lines are played by lychee helpers; the softened car follows into four lotus petals that join as Tina's parasail.",
+      "mechanism": "seam-conducted-lotus",
+      "operator": "morphological-collision+oblique-interruption",
+      "stimulus": "config2; Change instrument roles",
+      "parent": null,
+      "niche": {
+        "focus": "tina",
+        "ring": "adjacent",
+        "rent": "mechanical"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s002",
+      "batch": 1,
+      "text": "One giant hand peels the ripened stage-set roof front-to-back in one strip; it catches air and lifts Tina's rear seat like a kite.",
+      "mechanism": "single-strip-kite-lift",
+      "operator": "explicit-mutation+oblique-interruption",
+      "stimulus": "config4; Give way to your worst impulse",
+      "parent": null,
+      "niche": {
+        "focus": "tina",
+        "ring": "adjacent",
+        "rent": "mechanical"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s003",
+      "batch": 1,
+      "text": "Two duplicate Tinas brace accordion car gills until colored light softens them into wings and the central Tina rises.",
+      "mechanism": "duplicate-wing-brace",
+      "operator": "morphological-collision+personal-analogy",
+      "stimulus": "config1; Ask your body",
+      "parent": null,
+      "niche": {
+        "focus": "tina",
+        "ring": "lateral",
+        "rent": "story"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s004",
+      "batch": 1,
+      "text": "The car shadow pushes black upholstery outward through four seams; it becomes a petal hammock carried by the lychee crew.",
+      "mechanism": "shadow-upholstery-ejection",
+      "operator": "morphological-collision+oblique-interruption",
+      "stimulus": "config3; Remove ambiguities",
+      "parent": null,
+      "niche": {
+        "focus": "tina",
+        "ring": "lateral",
+        "rent": "image"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s005",
+      "batch": 1,
+      "text": "Reflections bloom open first; one reflected peel crosses the glass boundary and kites the real roof after it while Tina stays still.",
+      "mechanism": "reflection-prefigures-peel",
+      "operator": "morphological-collision+oblique-interruption",
+      "stimulus": "config5; Do nothing for as long as possible",
+      "parent": null,
+      "niche": {
+        "focus": "tina",
+        "ring": "feral",
+        "rent": "image"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s006",
+      "batch": 1,
+      "text": "Lychee helpers interlock as living zipper teeth; a giant hand pulls the leader, converting sugar-frosted car surface into airborne peel.",
+      "mechanism": "living-gummy-zipper",
+      "operator": "morphological-collision+oblique-interruption",
+      "stimulus": "config6; Abandon normal instruments",
+      "parent": null,
+      "niche": {
+        "focus": "tina",
+        "ring": "feral",
+        "rent": "mechanical"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s007",
+      "batch": 1,
+      "text": "Empty bleachers tilt into an exploded-view grid; Meg's grape familiar directs giant-mango panels along glowing fault lines onto Raul.",
+      "mechanism": "bleacher-exploded-view",
+      "operator": "morphological-collision+synectic-analogy",
+      "stimulus": "config2; volcano observatories",
+      "parent": null,
+      "niche": {
+        "focus": "raul",
+        "ring": "adjacent",
+        "rent": "mechanical"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s008",
+      "batch": 1,
+      "text": "The giant mango blooms into five armor petals; each locks only while Meg holds one peel connector taut and the pit crew guides it.",
+      "mechanism": "meg-held-lighthouse-connector",
+      "operator": "morphological-collision+synectic-analogy",
+      "stimulus": "config3; lighthouse keeping",
+      "parent": null,
+      "niche": {
+        "focus": "raul",
+        "ring": "adjacent",
+        "rent": "story"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s009",
+      "batch": 1,
+      "text": "Each recorded bite replays on the scoreboard and releases one component; the matching football formation levitates as it locks.",
+      "mechanism": "bite-replay-components",
+      "operator": "morphological-collision+synectic-analogy",
+      "stimulus": "config1; pipe-organ tuning",
+      "parent": null,
+      "niche": {
+        "focus": "raul",
+        "ring": "lateral",
+        "rent": "image"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s010",
+      "batch": 1,
+      "text": "A marching-band formation traces Raul's shadow; completed measures raise mango relief panels that travel back to him while Meg catches the final piece.",
+      "mechanism": "halftime-shadow-extrusion",
+      "operator": "morphological-collision+synectic-analogy",
+      "stimulus": "config4; marathon pacing",
+      "parent": null,
+      "niche": {
+        "focus": "raul",
+        "ring": "lateral",
+        "rent": "image"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s011",
+      "batch": 1,
+      "text": "Raul's shadow thickens into a mango relief glacier; tiny helpers mark its edge while a gummy crowd lifts Meg to inspect him eye-to-eye.",
+      "mechanism": "mango-relief-glacier",
+      "operator": "morphological-collision+synectic-analogy",
+      "stimulus": "config5; glacier monitoring",
+      "parent": null,
+      "niche": {
+        "focus": "raul",
+        "ring": "feral",
+        "rent": "image"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s012",
+      "batch": 1,
+      "text": "Mango helpers link hand-to-hand as temporary living joints between armor panels, then peel away after graphite connectors lock.",
+      "mechanism": "helpers-as-temporary-joints",
+      "operator": "morphological-collision+synectic-analogy",
+      "stimulus": "config6; swarm robotics",
+      "parent": null,
+      "niche": {
+        "focus": "raul",
+        "ring": "feral",
+        "rent": "mechanical"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s013",
+      "batch": 1,
+      "text": "A discarded pink peel ribbon crosses the cut, turns orange along a field stripe, and makes everyone it passes weightless for one second.",
+      "mechanism": "peel-ribbon-conducts-gravity",
+      "operator": "morphological-collision+constraint-transformation",
+      "stimulus": "config1; discarded part is protagonist",
+      "parent": null,
+      "niche": {
+        "focus": "cross-scene",
+        "ring": "adjacent",
+        "rent": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s014",
+      "batch": 1,
+      "text": "Tina's rainbow canopy arc becomes the scoreboard arch; the same colors descend as raised field markings around Raul.",
+      "mechanism": "canopy-scoreboard-color-arc",
+      "operator": "morphological-collision+constraint-transformation",
+      "stimulus": "config3; works with sound off",
+      "parent": null,
+      "niche": {
+        "focus": "cross-scene",
+        "ring": "adjacent",
+        "rent": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s015",
+      "batch": 1,
+      "text": "Moving air inflates Tina's roof peel until it fills frame and becomes the stadium sky; the same updraft lifts the football formation.",
+      "mechanism": "peel-sky-buoyancy",
+      "operator": "morphological-collision+constraint-transformation",
+      "stimulus": "config2; one real law perfectly",
+      "parent": null,
+      "niche": {
+        "focus": "cross-scene",
+        "ring": "lateral",
+        "rent": "transition"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s016",
+      "batch": 1,
+      "text": "One lychee helper loses its grip and floats through the cut beside Meg while everyone except Meg and the grape familiar rises.",
+      "mechanism": "helper-crosses-cut",
+      "operator": "morphological-collision+constraint-transformation",
+      "stimulus": "config4; product never shown whole",
+      "parent": null,
+      "niche": {
+        "focus": "cross-scene",
+        "ring": "lateral",
+        "rent": "story"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s017",
+      "batch": 1,
+      "text": "Only shadows reveal the crossover: three airborne Tina silhouettes become the scoreboard arch, while mecha parts orbit only inside Raul's shadow.",
+      "mechanism": "shadow-only-crossworld",
+      "operator": "morphological-collision+constraint-transformation",
+      "stimulus": "config5; only shadow shown",
+      "parent": null,
+      "niche": {
+        "focus": "cross-scene",
+        "ring": "feral",
+        "rent": "image"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s018",
+      "batch": 1,
+      "text": "Flavor-specific helpers unzip gravity along pavement and bleachers; everything behind the seam rises while the teens never react.",
+      "mechanism": "helpers-unzip-gravity",
+      "operator": "morphological-collision+constraint-transformation",
+      "stimulus": "config6; protagonist never reacts",
+      "parent": null,
+      "niche": {
+        "focus": "cross-scene",
+        "ring": "feral",
+        "rent": "image"
+      },
+      "flags": [],
+      "dup_of": null
+    }
+  ],
+  "banlist": {
+    "seam-conducted-lotus": {
+      "state": "round",
+      "batch": 1
+    },
+    "single-strip-kite-lift": {
+      "state": "round",
+      "batch": 1
+    },
+    "duplicate-wing-brace": {
+      "state": "round",
+      "batch": 1
+    },
+    "shadow-upholstery-ejection": {
+      "state": "round",
+      "batch": 1
+    },
+    "reflection-prefigures-peel": {
+      "state": "round",
+      "batch": 1
+    },
+    "living-gummy-zipper": {
+      "state": "round",
+      "batch": 1
+    },
+    "bleacher-exploded-view": {
+      "state": "round",
+      "batch": 1
+    },
+    "meg-held-lighthouse-connector": {
+      "state": "round",
+      "batch": 1
+    },
+    "bite-replay-components": {
+      "state": "round",
+      "batch": 1
+    },
+    "halftime-shadow-extrusion": {
+      "state": "round",
+      "batch": 1
+    },
+    "mango-relief-glacier": {
+      "state": "round",
+      "batch": 1
+    },
+    "helpers-as-temporary-joints": {
+      "state": "round",
+      "batch": 1
+    },
+    "peel-ribbon-conducts-gravity": {
+      "state": "round",
+      "batch": 1
+    },
+    "canopy-scoreboard-color-arc": {
+      "state": "round",
+      "batch": 1
+    },
+    "peel-sky-buoyancy": {
+      "state": "round",
+      "batch": 1
+    },
+    "helper-crosses-cut": {
+      "state": "round",
+      "batch": 1
+    },
+    "shadow-only-crossworld": {
+      "state": "round",
+      "batch": 1
+    },
+    "helpers-unzip-gravity": {
+      "state": "round",
+      "batch": 1
+    }
+  }
+}

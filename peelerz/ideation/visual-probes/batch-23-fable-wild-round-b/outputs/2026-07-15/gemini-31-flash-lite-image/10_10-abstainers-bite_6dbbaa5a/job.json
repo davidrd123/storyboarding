@@ -1,0 +1,44 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:10:44-07:00",
+  "started_at": "2026-07-15T15:10:36-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/scenes.yaml",
+  "source_index": 10,
+  "mode": "image",
+  "title": "10 abstainers bite",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "References supply Tina, Raul, Meg, Liz, John, Peelerz product world, and live-action youth identity; place them together on a bright tropical beach. A middle-aged rideshare driver stands at center holding one tiny two-layer gummy at eye level. All five teenagers and hundreds of small fruit gummy people lean toward him in absolute expectant silence in the instant before he peels it. The driver is the only upright figure and looks dryly skeptical. Strong concentric desire composition. No worship, threat, crowd attack, oversized product, mascot faces, duplicate teenagers, or religious symbolism.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or character sheet. Treat the impossible idea as one physical rule photographed in one world. Preserve only declared reference roles. Raul and Meg remain together in high-school football bleachers. Liz and John remain together on campus. Mango helpers are irregular translucent fruit-like gummy pieces with minimal features, not gummy bears or preschool mascots. Driver scenes use restrained, deadpan documentary realism with exactly one impossible channel. Candy stretches rather than tears. Benign, appetizing, youthful, visually legible. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 09 - campus walk.png",
+      "../../../script/PEELERZ - 11 - candy grove.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 11 - candy grove.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/10_10-abstainers-bite_6dbbaa5a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/10_10-abstainers-bite_6dbbaa5a/10-abstainers-bite_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

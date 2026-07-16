@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T02:13:54-07:00",
+  "started_at": "2026-05-24T02:13:14-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "hephaestus-panel01-reinterpret",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Two reference images. IMAGE 1 is a ROUGH DRAFT used ONLY for COMPOSITION \u2014 the placement, framing, and staging of elements. Its surface is a low-quality grainy draft: you MUST completely IGNORE its graininess, noise, texture, and rendering. Do NOT reproduce ANY of Image 1's grain or roughness. IMAGE 2 is the STYLE REFERENCE and the ONLY source of the finished look. REINTERPRET Image 1's composition from scratch and paint it FRESH in Image 2's exact clean painterly style, palette, and brushwork \u2014 as if Image 2's artist painted this scene new. Smooth, intentional, finished concept-art; no draft grain. SHOT (wide establisher): the cavernous forge, a long line of identical gold automata receding to a vanishing point, the bearded blond smith small at his station lower-left, robotic welder arms and sparks, cool blue gloom. ONE finished full-frame cinematic image \u2014 no grid, no panels, no borders, no text, no labels.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": null,
+    "system_prompt": "Match the exact painterly cinematic concept-art style, palette, color, and clean finished rendering of the style-anchor reference \u2014 cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze, smooth intentional brushwork. Render clean and finished; do not introduce draft grain or noise.",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/9up-panels/panel_01.png",
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/9up-panels/panel_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-panel01-reinterpret_9962b252",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-panel01-reinterpret_9962b252/hephaestus-panel01-reinterpret_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-panel01-reinterpret_9962b252/hephaestus-panel01-reinterpret_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

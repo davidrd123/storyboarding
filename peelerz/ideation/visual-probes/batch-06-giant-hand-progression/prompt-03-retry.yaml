@@ -1,0 +1,23 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: 16:9
+  image_size: 1K
+  num_outputs: 1
+jobs:
+  - title: 03 revised hand halfway peels car
+    images:
+      - outputs/2026-07-13/gemini-31-flash-lite-image/02_02-tina-discovers-the-miniature-street_3853f585/02-tina-discovers-the-miniature-street_01.png
+      - outputs/2026-07-13/gemini-31-flash-lite-image/04_04-tina-revealed-as-part-of-the-miniature_65698003/04-tina-revealed-as-part-of-the-miniature_01.png
+    prompt: >
+      Use case: compositing. Asset type: cinematic storyboard bridge frame. Image 1 is the immediately
+      preceding moment and controls Tina's identity, wardrobe, gummy, Peelerz package, careful giant
+      fingertips, and photoreal suburban scale play. Image 2 is the following reveal and controls the
+      tiny blue-gray car, enormous palm, neighborhood, warm light, and curled car peel. Create the exact
+      temporal midpoint. Exterior passenger-side medium wide view. The tiny car rests safely across the
+      giant palm while the other giant hand pinches a loosened rear corner of the roof. One continuous
+      sheet containing half of the blue-gray roof and upper passenger-side body is visibly peeled back
+      and curling upward between thumb and forefinger. The exposed black structural frame, rear seat,
+      lower doors, chassis, and wheels remain intact. Tina stays seated holding the gummy and bag,
+      watching the peel happen. Real flexible painted car skin with a pale translucent underside, not
+      solid torn metal, not a crash, no debris, no contact with Tina, no parachute, no text or watermark.

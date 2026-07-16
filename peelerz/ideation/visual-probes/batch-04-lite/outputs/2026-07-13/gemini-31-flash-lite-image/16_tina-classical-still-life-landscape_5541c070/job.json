@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T17:27:49-07:00",
+  "started_at": "2026-07-13T17:27:41-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/prompts.yaml",
+  "source_index": 16,
+  "mode": "image",
+  "title": "tina classical still life landscape",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 is the edit target and must preserve Tina, face, hair, clothing, pose, candy, package, car interior, camera, and foreground lighting. Image 2 supports identity and product only. Outside the window, the Los Angeles street has become a monumental old-master fruit still life inhabited as a landscape: a curling citrus peel forms a highway ramp, a silver bowl is a lake, mangoes rise as hills, folded cloth becomes cloud banks, and tiny contemporary houses remain scattered among the objects. Use rich directional shadow, precise tactile materials, and deep painterly composition while retaining photographic spatial realism. Strange, elegant, no generic candyland, no lollipop imagery, no text.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Generate exploratory cinematic candy-commercial styleframes. Follow the stated role of each reference image. When Image 1 is named as the edit target, preserve its subject, face, wardrobe, car interior, camera position, and photographic realism unless the prompt explicitly changes them. Avoid captions, panel borders, watermarks, generic candyland, and random rainbow effects.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/16_tina-classical-still-life-landscape_5541c070",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/16_tina-classical-still-life-landscape_5541c070/tina-classical-still-life-landscape_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "title": "hephaestus-coverage-gpt-180",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "Match the exact painterly concept-art style, palette, color, and rendering of the reference image \u2014 cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze, visible brushwork. Reproduce its look precisely; introduce no style not present in the reference.\n\nRender ONE finished image: a 3x2 grid of six cinematic storyboard panels, thin black borders, narrow white gutters, a capital letter label (A-F) in the gutter beneath each panel. This is editorial coverage of a SINGLE continuous moment in one place \u2014 same character, same gold automata, same cool blue-violet-and-gold concept-art look across all six.\n\nSUBTEXT (let it shape every panel): Hephaestus is a maker confronting his creation. He has built an army of identical golden automata; the moment is tender, proprietary, and quietly uneasy \u2014 the serene gold faces are beautiful and a little uncanny, and we should feel the unspoken question of whether the thing looks back. Weary tenderness edged with dread.\n\n180-DEGREE RULE \u2014 enforce across ALL panels: the axis of action runs between Hephaestus (screen LEFT) and the automaton he inspects (screen RIGHT). The camera never crosses this line. Hephaestus always faces and looks toward screen-RIGHT; the automaton always faces screen-LEFT. In the close-ups this means Hephaestus looks right and the automaton looks left, so they read as looking at each other across the cut.\n\nPanels:\nA - WIDE establishing: the long line of gold automata receding to a vanishing point in the cavernous blue workshop; Hephaestus small at his station, lower left.\nB - MEDIUM two-shot: Hephaestus (left, facing right) lifting a finished automaton (right, facing left) off the line. This panel sets the axis.\nC - CLOSE-UP on Hephaestus's weary, lined face, looking screen-right; grief and tenderness.\nD - INSERT: his bare hands cradling the automaton's gold face and shoulder; intimate, tactile.\nE - CLOSE-UP on the automaton's serene blank gold face, looking screen-left, its eyes meeting Hephaestus's eyeline \u2014 the uncanny gaze.\nF - OVER-THE-SHOULDER from behind the automaton (staying on the right side of the line), looking past it toward the receding rows of identical automata and the small figure of Hephaestus.\n\nOne continuous workshop, one light direction (cool key from above, warm spark-light from the welders), consistent across all panels.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "endpoint": "edit",
+  "latency_seconds": 119.64,
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-coverage-gpt-180_71494586/hephaestus-coverage-gpt-180_01.png",
+  "usage": {
+    "input_tokens": 1740,
+    "input_tokens_details": {
+      "image_tokens": 1196,
+      "text_tokens": 544
+    },
+    "output_tokens": 4312,
+    "total_tokens": 6052,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}

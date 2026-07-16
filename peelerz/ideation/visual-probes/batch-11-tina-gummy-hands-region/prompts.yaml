@@ -1,0 +1,175 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 1
+  system_prompt: >
+    Create one cinematic live-action Peelerz commercial styleframe, never a collage or storyboard
+    grid. Image 1 controls Tina's identity, blue jacket, black top, pink lychee gummy, pink pouch, and
+    dark car. Image 2 supplies the successful tactile miniature neighborhood, coral-teal-pink palette,
+    gummy fish, and warm key plus cyan fill lighting. Image 3 supplies only the concept that the smooth
+    blue-gray outer car body can peel away as one continuous flexible skin; reject its orange gummy
+    upholstery, rainbow styling, floating fragments, and disassembly. The new agents are translucent
+    pink or pearl-white lychee gummies with tiny flexible arms and expressive small hands, rendered as
+    charming tactile practical puppets rather than generic cartoon mascots. Preserve Tina safely in an
+    intact black rear passenger compartment. Peeling must read as a clean physical action, never torn
+    metal, wreckage, violence, flesh, or horror. No captions, borders, watermarks, visible crew, random
+    candyland, or added package copy.
+
+jobs:
+  - title: 01 rooftop gummy duet
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a passenger-side medium wide styleframe. Exactly two hand-sized
+      translucent pink lychee gummy characters stand on the roof above Tina. Each has tiny flexible
+      arms and two expressive little hands. Together they grip one newly raised roof seam and peel the
+      blue-gray car skin backward as a single smooth curling membrane with a pearly pink underside.
+      Tina watches from the intact rear seat holding gummy and pouch. Keep the miniature neighborhood,
+      fish, and controlled music-video light sparse. Make the duet's physical effort charming and clear.
+
+  - title: 02 coordinated roof crew
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a wide side view. A neat line of exactly twelve tiny translucent
+      lychee gummy workers spans the roof of Tina's dark car. Each has small bendable arms and hands.
+      The front pair lifts one roof seam; the others pass the same broad curling strip of flexible car
+      skin backward hand to hand in a coordinated relay. Tina remains visible through the rear window.
+      One continuous peel, pearly pink underside, handmade neighborhood, readable orderly teamwork.
+      No tools, machines, human workers, or separate flying body panels.
+
+  - title: 03 pouch sends out gummy hands
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create an intimate rear-seat view based on Image 1. Tina holds the open
+      pink Peelerz pouch in her lap. Four small translucent gummy characters have climbed from the
+      pouch; their flexible arms extend upward and their little hands grasp the inner roof edge. They
+      pull together, making the exterior blue-gray roof skin curl away overhead with a pearly pink
+      underside and colored light spilling through. Gummy fish remain outside the window. Make the
+      product visibly originate the agents without loose hands, tentacles, or frightening anatomy.
+
+  - title: 04 monumental lychee gummy peels car
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a wide exterior scale tableau. One enormous translucent pink
+      lychee gummy creature kneels beside the normal-sized dark car. It has two graceful flexible arms
+      and delicate humanlike hands. Its fingers pinch the roof seam and carefully peel the entire smooth
+      blue-gray shell open like fruit skin. Tina sits safely in the black rear seat. Tiny handmade
+      houses, palms, and fish emphasize monumental scale. The gummy is appetizing, gentle, and abstract,
+      not a monster, giant person, or cartoon face.
+
+  - title: 05 gummy fish work crew
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a cinematic passenger-side view. Five pink and pearl-white gummy
+      fish cross the window boundary around Tina. Each fish has two tiny stop-motion arms and hands.
+      Together they grip one clean seam running from roof to door and tug the blue-gray car skin outward
+      as a continuous flexible sheet. Tina holds the lychee gummy and watches from the intact black seat.
+      Preserve miniature houses beyond the opening. Underwater foreshadow through fish and colored light
+      only; no water, ocean, bubbles, mermaids, or separated metal panels.
+
+  - title: 06 miniature gummy neighborhood crew
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a wide practical-effects frame. Tina's full-size dark car rests
+      among the tiny handmade coral and butter-yellow houses. Dozens of translucent lychee gummy
+      residents have emerged from the model neighborhood and are climbing onto the car. Their small
+      arms and hands collectively peel one broad blue-gray shell panel backward. Show strong full-size
+      car versus tiny town scale, with Tina visible through the rear window and one readable peel edge.
+      No human construction crew, tools, ladders dominating the image, or chaotic swarm.
+
+  - title: 07 giant hand gummy assistants
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a hero three-quarter exterior. One enormous gentle human hand
+      pinches and starts peeling the roof skin from Tina's dark car. Along the same curling edge, six
+      tiny translucent lychee gummy characters stand in a row and help pull with their little hands.
+      Make the two scales of hands repeat the same gesture. Tina remains safely visible in the rear
+      seat. One smooth flexible blue-gray shell, luminous pearly pink underside, miniature street and
+      fish. No second giant hand, disassembly, orange upholstery, or wreckage.
+
+  - title: 08 gummy underside self peels
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a medium exterior view of the car roof above Tina. One corner of
+      the smooth blue-gray skin has lifted, revealing an appetizing translucent pink gummy underside.
+      Four small flexible arms with neat little hands grow from the gummy underside itself and grasp the
+      lifted shell, causing the car material to peel itself backward in an elegant loop. Tina watches
+      through the open edge. Keep the anatomy clearly confectionary and puppet-like, with no flesh,
+      severed hands, tentacles, body horror, torn metal, or extra creature.
+
+  - title: 09 gummy relay makes canopy
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create one low-angle transformation styleframe. A line of tiny
+      translucent lychee gummy characters spans Tina's car roof, passing one continuous curling strip
+      of blue-gray car skin backward from hand to hand. Behind the final gummy, the same strip rises and
+      begins opening into a broad pearly pink canopy. Tina remains seated below in the intact black rear
+      seat. Show peel, relay, and beginning canopy as one connected material path. No conventional
+      fabric parachute, giant hand, rainbow, wreckage, or disconnected flying strips.
+
+  - title: 10 gummy tug opens car in two
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a clean symmetrical wide shot. Two teams of four hand-sized
+      translucent lychee gummies stand on opposite sides of Tina's dark car. Each team grips one broad
+      peel tab with tiny arms and hands and pulls outward. The smooth blue-gray outer shell opens in two
+      flexible fruit-like segments with pearly pink inner surfaces, while the black rear seat, floor,
+      wheels, and Tina remain centered and intact. Charming coordinated tug, not separate car doors,
+      torn metal, explosion, orange seats, or a crowd.
+
+  - title: 11 airborne gummy chain lifts peel
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a cinematic side view of Tina's moving dark car. A chain of seven
+      translucent pink gummy characters floats diagonally above it, each holding the next gummy's hands.
+      The lowest character grips the newly raised roof seam; the whole airborne chain pulls one
+      continuous flexible blue-gray car skin upward into the wind. Tina is visible through the rear
+      window. Miniature houses recede below and the lifted peel begins to catch air. No balloons,
+      conventional parachute, giant hand, crash, or separate metal parts.
+
+  - title: 12 open car gummy crew hero
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: ads-marketing. Create a joyful hero wide styleframe after the coordinated peel. Tina
+      remains in the intact black rear seat at the center of the opened dark car, holding gummy and
+      pouch. Eight small translucent lychee gummy characters perch proudly along the two long curled
+      blue-gray shell edges, their tiny hands still gripping the peel. Behind them the continuous peel
+      rises into a broad pearly pink canopy. Sparse gummy fish, miniature coral houses, teal sky, warm
+      key and cyan fill. No wreckage, orange upholstery, visible crew, random candyland, or extra plot.

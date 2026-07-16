@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T02:03:01-07:00",
+  "started_at": "2026-05-24T02:02:36-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "hephaestus-panel05-nb2-anchored",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "You are given two reference images. IMAGE 1 is the rough composition for this shot \u2014 keep its framing and staging. IMAGE 2 is the STYLE ANCHOR \u2014 match its exact painterly concept-art style, palette, and brushwork (this keeps the shot-set consistent). STORY CONTEXT: a cast-out smith builds golden beings for others, taking quiet pride; beneath the warmth the first hairline crack \u2014 does the made thing look back? SHOT: close-up of one gold automaton's serene face, three-quarter profile turned screen-LEFT toward its unseen maker; its eyes just opening, a faint inner light waking. Hand-wrought seams, matte hammered gold, not chrome. Cool blue key, warm welder-rim; the ranks of identical others soft and blurred behind so this one reads as singular. ONE finished full-frame cinematic image \u2014 no grid, no panels, no borders, no text, no labels.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": null,
+    "system_prompt": "Match the exact painterly cinematic concept-art style, palette, color, and rendering of the style-anchor reference \u2014 cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze, visible brushwork.",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/9up-panels/panel_05.png",
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/9up-panels/panel_05.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-panel05-nb2-anchored_3e17fcc7",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-panel05-nb2-anchored_3e17fcc7/hephaestus-panel05-nb2-anchored_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

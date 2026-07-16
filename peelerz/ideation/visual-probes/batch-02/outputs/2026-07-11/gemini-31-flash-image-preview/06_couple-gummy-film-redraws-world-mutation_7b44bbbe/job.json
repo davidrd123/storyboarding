@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T15:53:47-07:00",
+  "started_at": "2026-07-11T15:53:36-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/prompts.yaml",
+  "source_index": 6,
+  "mode": "image",
+  "title": "couple gummy film redraws world mutation",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a cinematic candy-commercial styleframe that gives the couple's world change a visible Peelerz material cause. Preserve Liz and John's faces, teen age, wardrobe, positions, candies, and packages from the campus reference. They remain centered and connected during a circular camera move. One broad translucent gummy peel-film curls around them in a vertical arc. Ahead of the film is the ordinary live-action campus; directly behind the same continuous film, the quad has been redrawn as a lush flat hand-painted fruit grove. The film itself is the crisp transition boundary and visibly begins at the curled peel in Liz's hand. The eye should trace one material from candy peel to sweeping film to transformed world. Use the second reference ONLY for anchored subjects during a medium handoff; do not copy its characters, franchise imagery, or visual style. One cause and one transformation, no portal ring, no candy explosion, no collage clutter, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 10 - campus connection.png",
+      "../../../references/CZI5V2VRc7s/frames-24fps/CZI5V2VRc7s_t41.500.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/CZI5V2VRc7s/frames-24fps/CZI5V2VRc7s_t41.500.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/06_couple-gummy-film-redraws-world-mutation_7b44bbbe",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/06_couple-gummy-film-redraws-world-mutation_7b44bbbe/couple-gummy-film-redraws-world-mutation_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

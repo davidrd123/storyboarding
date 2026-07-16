@@ -1,0 +1,262 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: 16:9
+  image_size: 1K
+  num_outputs: 1
+  system_prompt: >
+    Generate exploratory cinematic candy-commercial styleframes. Follow the stated role of each
+    reference image. When Image 1 is named as the edit target, preserve its subject, face, wardrobe,
+    car interior, camera position, and photographic realism unless the prompt explicitly changes
+    them. Avoid captions, panel borders, watermarks, generic candyland, and random rainbow effects.
+
+jobs:
+  - title: tina mural becomes alive
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target and composition anchor. Image 2 is supporting identity and pink
+      lychee candy reference only. Preserve Tina from Image 1, her bookish eighteen-year-old
+      appearance, face, hair, wardrobe, seated pose, pink Peelerz package, rideshare interior,
+      camera position, and ordinary afternoon light. Change only the world visible outside the
+      passenger window. A faded tropical mural on one Los Angeles stucco wall is quietly becoming
+      real: painted leaves lift into physical jewel-green foliage, mango blossoms unfold into the
+      street, and one painted bird becomes three-dimensional. Tina has not noticed yet. Keep the
+      rest of the street documentary-real and slightly drab. Tactile practical surrealism, subtle
+      first-stage transformation, youthful but not childish. Do not borrow Image 2 camera angle or
+      crop. No added characters inside the car, no fantasy glow, no text.
+
+  - title: tina tropical change approaches
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target. Image 2 supports Tina identity and candy appearance only. Preserve
+      the exact Tina, wardrobe, car interior, camera relationship, and foreground product from Image
+      1. Change only the exterior beyond the window. The far end of the ordinary gray Los Angeles
+      block has become a lush tropical world and the transformation is moving toward the car:
+      pavement cracks release glossy leaves, hedges begin growing luminous mangoes, and jewel-colored
+      flowers climb one house while the nearest house remains normal. Make the progression from dull
+      foreground street to verdant distance unmistakable. Tina is still unaware. Photoreal cinematic
+      VFX concept frame, restrained and appetizing, no candyland, no cartoon fruit faces, no text.
+
+  - title: tina one impossible house
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Treat Image 1 as the edit target. Preserve Tina, her face, hair, clothing, seated position,
+      package, candy, car interior, and camera. Image 2 is a support reference for her identity and
+      the translucent pink candy only. Outside the window every house remains ordinary except one.
+      Its open front door reveals a dense glowing mango forest vastly larger inside than the house,
+      extending for miles with mist, jewel-like fruit, and tiny distant figures. Warm tropical light
+      spills from the impossible doorway onto the sidewalk while the building exterior stays normal.
+      Tina has just begun to notice. Quiet cinematic surrealism, one impossible place, realistic Los
+      Angeles neighborhood, no portal ring, no generic magic particles, no text.
+
+  - title: tina different hour at every house
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target and must retain Tina, her wardrobe, face, pose, product, car interior,
+      and neutral afternoon lighting. Image 2 is identity and candy support only. Change the continuous
+      residential block beyond the passenger window so each adjacent property exists at a different
+      hour: blue dawn with sprinklers, hard noon with short shadows, glowing mango-gold sunset, deep
+      fruit-colored night with porch lights. Architecture and perspective remain continuous with no
+      panel borders or graphic dividers. Tina occupies one normal present moment inside the car and
+      studies the impossible sequence. Photoreal commercial styleframe, poetic and immediately legible,
+      no labels, clocks, split screen, fantasy particles, or text.
+
+  - title: tina reflections transform first
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use Image 1 as the edit target and preserve Tina, wardrobe, face, hair, pose, product, car,
+      camera, and ordinary street. Image 2 only reinforces Tina identity and the pink lychee gummy.
+      The actual neighborhood outside remains normal, but the reflection layered across the passenger
+      window shows the same street as a lush tropical Gummyverse with glowing mango trees, enormous
+      flowers, warm jewel light, and distant airborne gummy fish. The two realities overlap across
+      Tina face in the glass while remaining spatially readable. She notices the reflection before
+      the real world changes. Subtle photographic double exposure grounded in real glass reflection,
+      cinematic and mysterious, no duplicated Tina, no portal, no text.
+
+  - title: tina neighborhood stagehands
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target. Preserve Tina, her face, wardrobe, product, seated pose, rideshare
+      interior, camera, and window frame. Image 2 supports identity and candy only. Replace only the
+      neighborhood visible beyond the window with a full-scale practical stage set being changed in
+      real time. Teenage stagehands roll ordinary house facades away on visible wheeled tracks while
+      others raise a jewel-colored tropical street, giant mango trees, and a painted sunset backdrop.
+      Ropes, flats, rigging, casters, and backstage gaps remain visible. Tina watches with quiet
+      amusement. Handmade theatrical surrealism, tactile production design, dry social comedy, no
+      glowing magic, no peel mechanism, no text.
+
+  - title: tina reality repainted live
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use Image 1 as the exact foreground edit target. Preserve Tina, car interior, camera, wardrobe,
+      pose, candy and package. Image 2 is supporting identity and product reference only. Outside the
+      window, enormous unseen paint rollers are repainting reality just ahead of the moving car. A
+      clear wet boundary crosses the street: gray asphalt becomes deep tropical green, faded houses
+      acquire gem-colored shadows, telephone poles sprout flowering vines, and the sky receives a
+      mango-gold wash. Show the ordinary and transformed versions of the same continuous street on
+      opposite sides of the fresh painted boundary. Practical surrealism, clean composition, joyful
+      rather than chaotic, no floating brush, no cartoon style, no text.
+
+  - title: tina houses bloom open
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target. Preserve Tina exactly, including face, hair, wardrobe, position,
+      Peelerz product, car interior, and camera. Image 2 is identity and candy support only. Through
+      the window, ordinary houses along the Los Angeles street are blooming open like enormous
+      tropical flowers. Roofs lift as architectural petals and interior rooms unfold into luminous
+      gardens. The nearest house is still closed, the next is mid-bloom, and the far house is fully
+      open, creating a visible progression toward the car. Photoreal architecture blended with
+      botanical impossibility, rich greens and mango gold, elegant and benign, no destruction,
+      no candyland, no text.
+
+  - title: tina giant goldfish rooftops
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target. Preserve Tina, face, hair, wardrobe, seated position, package,
+      gummy, rideshare interior, camera, and the ordinary neighborhood. Image 2 supports her identity
+      and candy only. Add one impossible event outside: a blimp-sized orange goldfish swims slowly
+      between the rooftops, casting a warm moving shadow over parked cars and sprinklers. Its fins
+      are thin and translucent like glowing gummy peel but the creature remains beautiful and alive.
+      Tina looks up in quiet amazement. Photoreal monumental scale surrealism, calm neighborhood
+      behavior, one creature only, no disaster, no extra magic, no text.
+
+  - title: tina giant hand approaching
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Image 1 is the edit target and primary identity, car, and composition authority. Image 2 supports
+      Tina face and the pink lychee gummy. Image 3 is concept context for a car that may peel, but do
+      not borrow its orange gummy seats, parachute, floating panels, camera, or composition. Preserve
+      Tina, her wardrobe, product, rideshare interior, and passenger-window view from Image 1. Outside,
+      beyond the houses, a truly landscape-sized human hand descends from the sky and delicately
+      pinches a newly raised gummy seam along the car roof, just before peeling. Clouds pass behind
+      the wrist. Tina looks upward with delighted anticipation, not fear. Monumental but playful,
+      documentary suburb, one clean action setup, no torn metal, no body horror, no text.
+
+  - title: tina street is a miniature world
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target. Preserve Tina, face, hair, wardrobe, product, pose, car interior,
+      camera, and lighting. Image 2 is only supporting identity and candy reference. Reveal the
+      neighborhood outside the window as an extremely detailed tabletop miniature while Tina and
+      the rideshare remain full-sized. Building-sized fingers enter from above to adjust tiny trees,
+      reposition parked cars, and plant jewel-colored tropical vegetation into model lawns. Make
+      the miniature scale clear through model seams, handcrafted texture, and human fingertips.
+      Photoreal macro detail, playful scale rupture, no giant face, no candyland, no text.
+
+  - title: tina fruit orchard under pavement
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use Image 1 as the edit target and preserve Tina, identity, wardrobe, pose, candy, package,
+      car interior, camera, and neighborhood perspective. Image 2 supports identity and product only.
+      Outside the window, one long section of ordinary asphalt lifts gently as a flexible surface.
+      Beneath the street is not dirt but a mature luminous tropical orchard compressed under the city,
+      mango trees springing upward into daylight with glowing jewel fruit and deep green leaves. Show
+      a clean cross-section at the lifted street edge. Tina watches from the back seat. Monumental but
+      benign revelation, photographic street detail, no paper backing, no anatomical material, no text.
+
+  - title: tina sky peels into fruit night
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target. Preserve Tina, her face, wardrobe, pose, package, gummy, rideshare
+      interior, street, and camera. Image 2 is identity and product support only. Above the normal Los
+      Angeles houses, one corner of the blue afternoon sky stretches and curls back as a translucent
+      gummy membrane. Beneath it is a deep tropical night sky with glowing fruit-colored constellations,
+      distant floating islands, and tiny airships. The membrane has rounded confectionary edges and
+      glows where it thins, never paper or flesh. Tina looks out in silent wonder. Huge scale with a
+      restrained frame, appetizing material, no white backing, no torn sky fragments, no text.
+
+  - title: tina psychedelic practical street
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Treat Image 1 as the edit target for Tina identity, wardrobe, pose, product, car interior, and
+      camera. Image 2 supports her face and pink gummy only. Change the street outside into cheerful
+      seventies Japanese pop-surreal cinema made with practical optical effects: tropical cutout
+      flowers slide across live-action lawns, painted fruit moons hang from visible wires, saturated
+      color fields bloom through asphalt, and tiny duplicate Tinas wave from distant passing windows.
+      Keep Tina and the car photoreal and stable. Handmade compositing, playful awkwardness, youthful
+      and sophisticated, no horror, no modern CGI glow, no text.
+
+  - title: tina stop motion neighborhood
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target. Preserve live-action Tina, her identity, wardrobe, pose, product,
+      rideshare interior, camera, and natural lighting. Image 2 supports identity and candy only.
+      Replace only the world outside the passenger window with a handcrafted stop-motion neighborhood:
+      painted wood houses, fruit-leather lawns, visible fingerprints, tiny tropical trees trembling
+      between frames, and glossy gummy fish swimming through the air on nearly invisible wires. Colored
+      miniature-world light falls realistically onto Tina face. Tactile mixed-media commercial frame,
+      older teen register, charming but not preschool, no glossy generic 3D, no text.
+
+  - title: tina classical still life landscape
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target and must preserve Tina, face, hair, clothing, pose, candy, package,
+      car interior, camera, and foreground lighting. Image 2 supports identity and product only.
+      Outside the window, the Los Angeles street has become a monumental old-master fruit still life
+      inhabited as a landscape: a curling citrus peel forms a highway ramp, a silver bowl is a lake,
+      mangoes rise as hills, folded cloth becomes cloud banks, and tiny contemporary houses remain
+      scattered among the objects. Use rich directional shadow, precise tactile materials, and deep
+      painterly composition while retaining photographic spatial realism. Strange, elegant, no generic
+      candyland, no lollipop imagery, no text.
+
+  - title: tina mango grove becomes gummy ocean
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use Image 1 as the edit target. Preserve Tina, identity, wardrobe, pose, pink gummy, package,
+      car interior, camera and foreground. Image 2 is supporting identity and product reference only.
+      Transform the panorama outside the window through one continuous visual rhyme. At frame left the
+      street has become a luminous mango grove with glowing fruit among dark green branches. Across the
+      view the same composition gradually becomes an underwater kelp forest where each mango becomes an
+      orange gummy fish and each branch becomes flowing kelp. The transition has no hard portal edge.
+      Colored light and caustics move across Tina face. Elegant world-transition study, cinematic,
+      tropical jewel palette, no collage borders, no cartoon mascots, no text.
+
+  - title: tina tiny mango mural civilization
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Image 1 is the edit target. Preserve Tina, face, wardrobe, pose, product, car interior, camera,
+      and ordinary street. Image 2 supports her identity and pink gummy only. In a faded wall mural
+      outside the window, reveal a tiny living mango-gummy civilization. Miniature citizens climb a
+      stepped fruit pyramid, carry translucent peel banners, tend glowing orchards, and ceremonially
+      open a giant mango gummy at the summit. The civilization remains partly painted into the stucco
+      while a few figures and banners emerge physically from the wall. Dense visual storytelling,
+      playful archaeological mystery, jewel colors against sun-faded Los Angeles, no sacrifice or
+      violence, no generic candyland, no text.
+

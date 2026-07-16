@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T18:58:50-07:00",
+  "started_at": "2026-07-13T18:58:43-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/prompts.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 first symptom one house buds",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: identity-preserve. Asset type: cinematic storyboard frame. Image 1 is the edit target and authority for Tina, product, car interior, camera, ordinary daylight, and composition. Image 2 is concept reference only for the architectural bloom, not the amount of transformation. Preserve the foreground from Image 1. This is the nearly missable first symptom. Outside the passenger window, the neighborhood remains completely ordinary except for one distant house. Its roofline has just separated along fine organic seams and three restrained leaflike roof sections are lifting a few inches, as though the house is a flower bud taking its first breath. No other house has changed. Tina is still studying the peeled lychee gummy and has not noticed. Keep the car intact and enclosed. Quiet anticipation, real Los Angeles suburb, subtle enough to reward a second look.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one frame from a coherent live-action Peelerz commercial sequence. Treat every input image according to its explicitly stated role. Maintain Tina as the same young woman with the same face, long brown hair, blue jacket, black top, and quiet curious presence. Maintain the pink lychee gummy and pink Peelerz package. The impossible event is elegant, physical, and benign. It follows one discoverable rule rather than becoming generalized fantasy. Photoreal cinematic advertising, tactile practical-effects credibility, no captions, no panel borders, no watermark, no extra characters, no random rainbow candyland.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/08_tina-houses-bloom-open_c85565cc/tina-houses-bloom-open_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/08_tina-houses-bloom-open_c85565cc/tina-houses-bloom-open_01.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-first-symptom-one-house-buds_fa40b659",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-first-symptom-one-house-buds_fa40b659/01-first-symptom-one-house-buds_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

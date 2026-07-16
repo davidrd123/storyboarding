@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T03:23:01-07:00",
+  "started_at": "2026-07-14T03:22:44-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+  "source_index": 17,
+  "mode": "image",
+  "title": "17 gummy football crowd alternate",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg as ordinary humans. Image 2 locks the exact wide bleacher geography. Images 3 and 4 lock the tactile scale, simple faces, and fruit-specific gummy character language for the transformed crowd. BEAT \u2014 Comedic wide continuing the world plate. Raul and Meg remain ordinary and completely unbothered at the isolated top row. Every spectator in the lower crowded rows has become a small colorful fruit-gummy character wearing a tiny team scarf or holding a tiny foam finger, all cheering wildly toward the unchanged live football game. Preserve the long empty rows separating the teens from the gummy crowd. AVOID \u2014 human crowd remaining, gummy bears, giant gummies, transformed Raul or Meg, candy football field, characters moved to top row, preschool illustration.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+      "../../inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30/03-grape-bunch-multiplicity-sheet_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30/03-grape-bunch-multiplicity-sheet_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/17_17-gummy-football-crowd-alternate_4d48d96f",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/17_17-gummy-football-crowd-alternate_4d48d96f/17-gummy-football-crowd-alternate_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/17_17-gummy-football-crowd-alternate_4d48d96f/17-gummy-football-crowd-alternate_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T19:02:11-07:00",
+  "started_at": "2026-07-13T19:02:06-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/prompt-01-retry.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 revised barely visible roof seam",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: precise-object-edit. Asset type: cinematic storyboard opening frame. Image 1 is the edit target. Keep Tina's face, gaze, hair, blue jacket, black top, hands, glowing peeled pink lychee gummy, pink Peelerz bag, seat, car interior, passenger window, camera, and daylight unchanged. Change only one small distant house visible through the far-right portion of the window. Add a hairline curved seam along that distant house's roof ridge, with one roof corner lifted only a few inches like the very first movement of a flower bud. It must still read as a normal intact house at first glance. Every other house is completely closed, ordinary, and unchanged. Tina remains absorbed in the gummy and has not noticed. The impossible detail occupies less than five percent of the image and should reward a second look.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create the quiet opening frame of a coherent live-action Peelerz commercial. Photoreal cinematic advertising, natural ordinary Los Angeles suburb, restrained practical-effects credibility. Preserve Tina, wardrobe, pose, product, car, camera, and lighting. No caption, border, watermark, fantasy landscape, open flower houses, extra characters, or random color effects.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-revised-barely-visible-roof-seam_791971ef",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-revised-barely-visible-roof-seam_791971ef/01-revised-barely-visible-roof-seam_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

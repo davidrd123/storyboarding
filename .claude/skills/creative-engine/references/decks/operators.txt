@@ -1,0 +1,10 @@
+# Core operator deck — drawn when DIAGNOSE does not clearly indicate one.
+# Protocols in references/operators-core.md.
+reframe
+random-entry
+oblique-interruption
+synectic-analogy
+morphological-collision
+explicit-mutation
+constraint-transformation
+consequence-heightening

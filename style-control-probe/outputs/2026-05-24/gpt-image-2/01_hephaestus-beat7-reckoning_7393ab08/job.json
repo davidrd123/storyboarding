@@ -1,0 +1,26 @@
+{
+  "title": "hephaestus-beat7-reckoning",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "Match the exact painterly cinematic concept-art style, palette, color, and rendering of the reference image \u2014 cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze, visible brushwork. Reproduce its look precisely; introduce no style not present in the reference.\n\nRender ONE finished image: a 3x2 grid of six cinematic storyboard panels, thin black borders, narrow gutters, a number and short shot-type caption top-left of each. Editorial coverage of a SINGLE dramatic beat \u2014 THE RECKONING \u2014 in the forge; same Hephaestus, same gold automata, same concept-art look across all six.\n\nSTORY/SUBTEXT: The patron Kronos/Saturn \u2014 who devours the future the golden army harvests \u2014 has come. The line is halted. Hephaestus has hidden the one automaton whose eyes opened and met his; now he faces the consequence and loses his place, but keeps the one. Needed-back over needed; the cost of conscience; the patron's faceless, devouring authority. Dread hardening into quiet defiance, then bittersweet.\n\n180-DEGREE RULE: axis between Hephaestus (screen LEFT, facing right) and the patron's looming dark mass (screen RIGHT); the camera never crosses it.\n\nPanels:\n1. WIDE \u2014 the forge gone still, the line of gold automata halted and darkening, a vast shadow falling across the ranks.\n2. LOW ANGLE \u2014 the patron: a towering faceless silhouette of devouring stillness, screen-right, the gold ranks small beneath it.\n3. MEDIUM \u2014 Hephaestus small before the shadow, screen-left, turned to face it, defiant and afraid.\n4. INSERT \u2014 his hand reaching back behind him, shielding and hiding the one automaton from view.\n5. CLOSE UP \u2014 the hidden automaton's serene gold face, eyes open, turned toward Hephaestus \u2014 the thing he protects.\n6. FINAL \u2014 Hephaestus alone with the single automaton, the other ranks gone dark behind them; intimate and bittersweet, he has kept the one.\n\nOne continuous forge, cool blue-violet gloom deepened by the shadow, the red furnace column guttering.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "endpoint": "edit",
+  "latency_seconds": 118.95,
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-beat7-reckoning_7393ab08/hephaestus-beat7-reckoning_01.png",
+  "usage": {
+    "input_tokens": 1664,
+    "input_tokens_details": {
+      "image_tokens": 1196,
+      "text_tokens": 468
+    },
+    "output_tokens": 4312,
+    "total_tokens": 5976,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}

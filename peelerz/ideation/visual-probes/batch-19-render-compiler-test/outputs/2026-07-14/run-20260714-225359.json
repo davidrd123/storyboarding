@@ -1,0 +1,158 @@
+{
+  "created_at": "2026-07-14T22:54:50-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/scenes.yaml",
+  "job_count": 3,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:54:11-07:00",
+      "started_at": "2026-07-14T22:53:59-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/scenes.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "01 four attached car sheets follow moving seams",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Tina, blue hoodie, rear seat, and dark sedan. Image 2 locks the real-car / miniature-neighborhood scale and tiny lychee-helper scale. Images 3 and 4 lock flexible car-skin material and its eventual canopy continuity. INVARIANTS \u2014 Wheelbase, pillars, floor, rear seat, and Tina remain coherent and grounded. SUBSTRATE \u2014 Only the painted roof and upper door skin changes. INITIAL STATE \u2014 Blue-gray, rigid, flush with the car. APPLIED FORCE \u2014 Four teams of tiny lychee helpers pull four glowing sugar seams rearward; every helper's hands grip a seam, never a panel. TOPOLOGY \u2014 Exactly four broad continuous sheets; each begins as part of the roof/upper doors and remains attached along one lower outer edge. No sheet originates above the car. STATE CHANGE \u2014 Immediately behind each moving seam, rigid blue-gray surface becomes thin flexible pearly-pink edible membrane and rotates upward around its still-attached edge. SHOT PROOF \u2014 Wide passenger-side three-quarter at the instant all four moving boundaries are visible: blue rigid surface ahead, pink flexible sheet behind, tiny hands on the seams, Tina delighted inside. LITERALIZATION HAZARDS / VETO \u2014 no flower, petals, leaves, wings, botanical forms, freestanding canopy, convertible mechanism, torn metal, giant hand.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, not a collage or design sheet. Obey the countable mechanical specification before making the frame pretty. Keep one causal action readable through physical contact, tension, attached edges, and a visible active boundary. Preserve declared reference authorities. No captions, labels, watermarks, invented packaging, gore, weapons, generic gummy bears, generic magical glow, or unexplained finished transformations.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+          "../batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+          "../batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-four-attached-car-sheets-follow-moving-seams_7bd098e2",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-four-attached-car-sheets-follow-moving-seams_7bd098e2/01-four-attached-car-sheets-follow-moving-seams_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-four-attached-car-sheets-follow-moving-seams_7bd098e2/01-four-attached-car-sheets-follow-moving-seams_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:54:31-07:00",
+      "started_at": "2026-07-14T22:54:11-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/scenes.yaml",
+      "source_index": 2,
+      "mode": "image",
+      "title": "02 meg tensions one component rail",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul, Meg, and wardrobe. Image 2 locks daylight top bleachers. Image 3 locks dense mango-flesh armor and graphite joints. Image 4 locks mango helpers. INVARIANTS \u2014 Raul's real face is uncovered; normal clothes remain visible on unarmored areas. SUBSTRATE \u2014 One pre-shaped dense mango-flesh shoulder plate, separate from Raul. INITIAL STATE \u2014 The plate rests on the bleacher seat three feet to Raul's right. APPLIED FORCE \u2014 Meg leans back with both feet planted and pulls one long amber edible strip taut; its far end passes through a visible loop on the plate. Four mango helpers push the plate from behind. TOPOLOGY \u2014 The strip, plate loop, helpers, and open graphite shoulder socket form one uninterrupted straight line. No other strings or floating components. STATE CHANGE \u2014 The plate slides along the aluminum row toward the empty shoulder socket; half the distance remains, making assembly incomplete and obvious. SHOT PROOF \u2014 Low open daylight wide along the row, Meg at right under tension, Raul at left, moving plate centered between them, every contact point visible. LITERALIZATION HAZARDS / VETO \u2014 no flower, wings, lighthouse, beam, fishing rod, grape-character chain, giant fruit behind Raul, finished suit, floating plate, bodybuilder anatomy.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, not a collage or design sheet. Obey the countable mechanical specification before making the frame pretty. Keep one causal action readable through physical contact, tension, attached edges, and a visible active boundary. Preserve declared reference authorities. No captions, labels, watermarks, invented packaging, gore, weapons, generic gummy bears, generic magical glow, or unexplained finished transformations.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+          "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+          "../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-meg-tensions-one-component-rail_341d39fa",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-meg-tensions-one-component-rail_341d39fa/02-meg-tensions-one-component-rail_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-meg-tensions-one-component-rail_341d39fa/02-meg-tensions-one-component-rail_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:54:50-07:00",
+      "started_at": "2026-07-14T22:54:31-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/scenes.yaml",
+      "source_index": 3,
+      "mode": "image",
+      "title": "03 five helpers carry one open elbow gap",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight top bleachers. Image 3 locks the opaque mango-flesh suit and graphite under-frame. Image 4 exactly locks mango helpers. INVARIANTS \u2014 Raul's real uncovered face and a credible narrow mechanical silhouette. SUBSTRATE \u2014 The upper-arm and forearm mango plates on Raul's bent right arm. INITIAL STATE \u2014 They are separated by one clean eight-inch gap; the graphite elbow connector has not arrived yet. APPLIED FORCE \u2014 Exactly five mango helpers form one straight horizontal chain across that gap. The first grips a metal loop on the upper-arm plate, each middle helper grips the next helper's hands, and the fifth grips a loop on the forearm plate. Their bodies stretch under the forearm's weight. TOPOLOGY \u2014 One gap, two loops, five helpers, four hand-to-hand links. No helpers anywhere else on the armor. The forearm hangs slightly lower, proving the chain carries load. STATE CHANGE \u2014 One small graphite connector approaches the gap from above but has not locked. SHOT PROOF \u2014 Daylight medium close profile of the bent arm occupying half the frame, with Raul and Meg's engaged faces visible behind it and every link large enough to read. LITERALIZATION HAZARDS / VETO \u2014 no decorative garland, necklace, grape characters, helper crowd, complete elbow joint, helpers sitting on armor, bodybuilder suit, plastic surface, crushing or pain.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, not a collage or design sheet. Obey the countable mechanical specification before making the frame pretty. Keep one causal action readable through physical contact, tension, attached edges, and a visible active boundary. Preserve declared reference authorities. No captions, labels, watermarks, invented packaging, gore, weapons, generic gummy bears, generic magical glow, or unexplained finished transformations.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+          "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+          "../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-five-helpers-carry-one-open-elbow-gap_8ce5fe68",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-five-helpers-carry-one-open-elbow-gap_8ce5fe68/03-five-helpers-carry-one-open-elbow-gap_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-five-helpers-carry-one-open-elbow-gap_8ce5fe68/03-five-helpers-carry-one-open-elbow-gap_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

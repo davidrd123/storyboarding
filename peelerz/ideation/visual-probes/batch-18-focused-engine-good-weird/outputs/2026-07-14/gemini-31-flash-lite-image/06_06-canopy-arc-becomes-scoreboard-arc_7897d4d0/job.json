@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T22:46:27-07:00",
+  "started_at": "2026-07-14T22:46:13-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+  "source_index": 6,
+  "mode": "image",
+  "title": "06 canopy arc becomes scoreboard arc",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. DISTANCE RING: adjacent cross-scene rhyme. REFERENCE AUTHORITY \u2014 Image 1 locks the shallow pink parasail curve and its continuous peel material. Image 2 locks the daylight stadium, Raul and Meg positions, and large empty seating band. Image 3 supplies only a localized field transformation. Image 4 locks opaque mango-flesh mecha material. ONE RULE \u2014 Tina's pink parasail edge has crossed the cut and become the stadium scoreboard arch; its pink-to-rainbow colors descend from that arch into raised yard lines that draw Raul's assembly space in three dimensions. FRAME \u2014 One silent, compositionally clean daylight stadium wide from the top bleachers. A single monumental curved arch above and behind the scoreboard has the tactile translucent edge and rib spacing of Tina's lychee-pink canopy, changing gradually through a restrained rainbow. From its two ends, the matching colored yard lines lift vertically three feet from the turf like flexible edible ribbons and continue up the empty bleacher aisles, outlining one open construction volume around Raul's partial dense mango mecha. Meg stands just outside the outline and touches one pink line, recognizing it. Preserve much ordinary stadium reality and daylight. VISUAL PROOF \u2014 One exact curve/color system links canopy, scoreboard, field lines, and Raul's build. AVOID \u2014 generic rainbow sky, candyland replacement, real fire, laser cage, crowded top row, finished plastic superhero, Tina visible in the stadium, captions, split-screen or two-frame layout.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+      "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png",
+      "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-canopy-arc-becomes-scoreboard-arc_7897d4d0",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-canopy-arc-becomes-scoreboard-arc_7897d4d0/06-canopy-arc-becomes-scoreboard-arc_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-canopy-arc-becomes-scoreboard-arc_7897d4d0/06-canopy-arc-becomes-scoreboard-arc_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

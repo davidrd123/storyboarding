@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T14:41:09-07:00",
+  "started_at": "2026-07-11T14:41:01-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "s036 wrapper paperweight restage",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal cinematic commercial styleframe that tests an extreme scale relationship. Restage the scene from an ultra-low gutter-level wide-angle camera. In the immediate foreground, a recognizable pink Peelerz wrapper lies perfectly flat and pin-sharp on the asphalt, pressing a deep paperweight-like depression into the street as though impossibly heavy. Beyond it, an entire suburban block \u2014 houses, lawns, parked cars and sidewalks \u2014 has lifted ten feet into the air, leaving dark empty foundation-shaped shadows beneath everything. The floating neighborhood subtly tilts around the wrapper as its single grounded pivot. The Uber remains visible in the midground with Tina at the open window holding the bitten pink candy. Use forced perspective so the wrapper and floating architecture are both immediately legible in one frame. One impossible rule only. Documentary afternoon realism, restrained color, no generic levitation glow, no candyland, no text beyond existing Peelerz packaging, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": "../../../script/PEELERZ - 01 - Tina in car.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/04_s036-wrapper-paperweight-restage_7d71e832",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/04_s036-wrapper-paperweight-restage_7d71e832/s036-wrapper-paperweight-restage_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

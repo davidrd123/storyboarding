@@ -1,0 +1,173 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 1
+  system_prompt: >
+    Create one polished, coherent cinematic Peelerz commercial styleframe, never a collage, storyboard,
+    contact sheet, or design sheet. Treat every impossible event as a physical rule inside one photographed
+    world. Preserve only the reference roles declared in each job. Keep Tina in the back seat whenever she
+    appears in a car; Raul and Meg belong together in high-school football bleachers; Liz and John belong
+    together on campus. Both gummy center and peel are edible. Candy stretches rather than tears. Favor
+    good weirdness, readable scale, benign wonder, and appetizing tactile materials. No weapons, gore,
+    horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.
+
+jobs:
+  - title: 01 airborne asphalt lane
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Images lock Tina, the dark sedan, and rear-seat identity; Image 2 supplies only open-air flight scale.
+      One intact suburban traffic lane has peeled upward from the street in a single continuous asphalt
+      ribbon, carrying the intact sedan into the evening sky. The ribbon curls high above the houses while
+      remaining connected to the street far below. Tina is clearly visible in the back seat looking down,
+      delighted. Show the underside of the lifted road and a clean empty groove in the street. No flying-car
+      magic, broken road debris, car wings, detached panels, or parachute.
+
+  - title: 02 peeled neighborhood floats driver declines
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Image 1 supplies the sedan and driver-world realism; Image 2 supplies only benign peel logic. A whole
+      ordinary suburban neighborhood—houses, lawns, trees, mailboxes, and parked cars—hovers exactly six
+      feet above its empty foundations after shedding one dull outer skin. Fresh saturated color glows from
+      every revealed surface. On the bare street below, the middle-aged rideshare driver stands alone holding
+      the sedan steering wheel, politely declining the adventure as Tina and the car hover overhead. One
+      continuous wide golden-hour photograph. No disaster, rubble, balloons, floating islands, or giant hand.
+
+  - title: 03 glass jelly street
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Images lock Tina, blue hoodie, product, rear seat, car interior, and camera. Outside the windows, every
+      house on the night street has become a full-scale translucent soft glass-jelly structure. Warm inhabited
+      rooms, stairs, plumbing, families, and snacks remain visible through luminous gummy walls; roofs and
+      windows wobble slightly but hold their architecture. Tina watches from the unchanged dark back seat.
+      Make the entire street obey one material swap. No dollhouses, cutaway diagrams, candy castle, empty city,
+      or transformation inside the car.
+
+  - title: 04 decanted sunset
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Images lock Tina, wardrobe, product, and live-action identity. A broad corner of the evening sky curls
+      outward into a precise pouring lip, and the sunset itself pours down as thick luminous orange-pink syrup.
+      Liquid light fills the suburban street waist-deep while houses and cars remain ordinary and undamaged.
+      Tina has stepped from the sedan and wades smiling through glowing sunset, holding the gummy above the
+      surface. Show the pouring source and the flowing luminous substance in one wide frame. No ocean wave,
+      fire, apocalypse, portal, or giant pitcher.
+
+  - title: 05 decalcomania window
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Images strictly lock Tina in the rear seat, blue hoodie, pouch, intact car, and camera. Tina lifts a long
+      translucent pink curl of gummy peel from the passenger window like a removable decal. Exactly where it
+      leaves the glass, the same street is printed into the window in a riper, more saturated future state—
+      flowering roofs, fruit-heavy trees, luminous paint—while the actual street beyond remains mundane and
+      aligns perfectly at the decal edge. One action, one window, no duplicate Tina, no portal frame, no screen,
+      no exterior car transformation.
+
+  - title: 06 gummy contains the car
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Images supply Tina, sedan interior, blue hoodie, and lychee product identity. Extreme macro on one
+      translucent pink lychee gummy resting on a fingertip, its two edible layers gently opened like a tiny
+      theater. Inside the gummy is a physically complete miniature of the sedan's rear seat with tiny Tina,
+      pouch, upholstery, and window light, all enclosed by luminous candy. Show vast finger-scale outside and
+      tiny car-scale inside. Appetizing studio realism, not anatomy, not a snow globe, not a dollhouse cutaway,
+      no giant normal-sized Tina.
+
+  - title: 07 sun peeled
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Images lock the rear-seat composition, Tina, product, and dark car. A single untouched pink lychee gummy
+      sits on the armrest in a narrow afternoon sunbeam. Wherever sunlight crosses it, the thin edible outer
+      layer lifts and curls open by itself in one continuous strip; the exposed center turns the sunbeam into
+      thick suspended pink juice-light that fills only the illuminated volume. Tina watches without touching.
+      Macro live-action physicality. No hands peeling, no face on candy, no melting blob, no car transformation.
+
+  - title: 08 world holds its breath
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Images lock Tina in the back seat, wardrobe, gummy, pouch, and car. Outside one open car window, the entire
+      suburban street is silently paused in impossible mid-motion: sprinkler droplets form a perfect arc,
+      birds hang between wingbeats, a skateboarder and board hover separately, leaves and a tossed ball stop
+      in air. Tina's fingers alone continue peeling the gummy and a thin curl visibly advances. Natural rainy
+      daylight, restrained wonder. No visible time rays, magical particles, duplicates, levitating Tina, or
+      frozen-photo panel.
+
+  - title: 09 gummy peels the world
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png
+    prompt: >
+      Image 1 supplies Tina's ordinary suburban world and sedan; Image 2 supplies appetizing fruit material
+      only. In a majestic wide street view, one hand-sized faceless pink lychee gummy braces its tiny body and
+      pulls the asphalt surface backward in one clean continuous coil, as if peeling an enormous fruit. Beneath
+      the road is glistening ruby fruit flesh with juice-filled segments; houses remain upright at the peel
+      edge and Tina watches from the sedan. Scale contrast must be instantly readable. No cute mascot face,
+      giant hand, lava, destruction, ordinary construction, or portal.
+
+  - title: 10 candy eats the stadium
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 08 - Meg reaction.png
+      - ../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png
+    prompt: >
+      Images 1 and 2 lock Raul and Meg together in high-school football bleachers; Image 3 supplies only glossy
+      purple candy material. A single hand-sized faceless grape gummy sits on the bleacher beside Meg. The entire
+      stadium—field, players, crowd, lights, and architecture—stretches as one coherent taffy funnel toward its
+      tiny open candy-mouth, with the far end already compressed inside while the upper bleacher containing Meg
+      remains stable. Meg watches deadpan, Raul astonished. Benign confectionary physics, no anatomy, monster,
+      screaming victims, black hole, portal ring, or character cape.
+
+  - title: 11 islands come to her
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 04 - parachute flight.png
+      - ../../../script/PEELERZ - 14 - sky islands.png
+    prompt: >
+      Image 1 locks Tina and the ordinary cul-de-sac; Images 2 and 3 supply parachute and tropical-island scale
+      only. Instead of Tina traveling, six full-size tropical islands descend from the clouds above her street,
+      each suspended beneath its own immense fabric parachute. Beaches, palms, waterfalls, and tiny buildings
+      remain upright while neighbors calmly look up from driveways. Tina stays on the ground beside the sedan.
+      One continuous evening wide, no floating rocks, no tiny model islands, no rainbow, no falling debris.
+
+  - title: 12 island is the candy
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 09 - campus walk.png
+      - ../../../script/PEELERZ - 14 - sky islands.png
+    prompt: >
+      References supply the four teenage protagonists, product world, and tropical aerial scale; do not inherit
+      their original compositions. Tina, Raul, Meg, Liz, and John stand together atop one colossal pink lychee
+      fruit floating in a turquoise sea. They pull five continuous sections of its translucent edible outer
+      layer outward like landing-pad petals, revealing a bright full-size beach, palms, lagoon, and small town
+      nested inside the juicy center. Aerial oblique with bodies readable. No random archipelago, giant face,
+      mechanical hatch, torn skin, religious tableau, or extra heroes.
+
+  - title: 13 bag is bigger inside
+    images:
+      - ../../../script/PEELERZ - 09 - campus walk.png
+      - ../../../script/PEELERZ - 10 - campus connection.png
+    prompt: >
+      Images lock Liz and John, campus wardrobe, bags, and warm chemistry. Camera is deep inside one open Peelerz
+      bag looking upward toward its bright ordinary opening, where Liz and John peer down together. The bag's
+      interior is an impossibly vast but continuous atmospheric world: pastel fog, full-size tropical fruit
+      islands, waterfalls, distant boats, and tiny weather systems recede for miles behind the rim. The printed
+      bag wall remains visible around the frame to prove scale. No mouth, cave, portal ring, package-copy changes,
+      floating product shot, or separate outside panel.

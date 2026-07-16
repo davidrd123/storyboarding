@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T00:27:53-07:00",
+  "started_at": "2026-05-24T00:27:23-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "sisyphus-storyboard-page-sp01",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Use the reference image as the establishing WIDE shot of a scene. Design a STORYBOARD PAGE that covers this scene: render ONE image laid out as a clean 3x2 grid of six comic storyboard panels with thin black borders and white gutters between them. Each panel is a DIFFERENT camera setup of this SAME scene, character, set, and art style. Panels: (A) wide establishing of the whole derelict transit hall; (B) medium on the stooped old man at the stalled shopping cart; (C) close-up on the old man's bowed, weary face; (D) low angle looking up the broken escalator into the dark tunnel; (E) high reverse from the top of the escalator looking down at the tiny figure far below; (F) insert detail of the jammed cart wheel and spilled contents. Keep the SAME character, set, and litho-crayon duotone style across every panel. Beneath each panel, in the white gutter, print a clear capital letter label: A, B, C, D, E, F. Warm cream paper, dusty rose-pink and Prussian blue ink.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": null,
+    "system_prompt": "Match the exact art style, palette, color, rendering technique, line quality, and medium of the reference image \u2014 reproduce its look precisely across every panel. Do not introduce any style not present in the reference.",
+    "num_outputs": 2,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v06-notrist_d6f4ad20/sisyphus-escalator-v06-notrist_01.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v06-notrist_d6f4ad20/sisyphus-escalator-v06-notrist_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_sisyphus-storyboard-page-sp01_256743e9",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_sisyphus-storyboard-page-sp01_256743e9/sisyphus-storyboard-page-sp01_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_sisyphus-storyboard-page-sp01_256743e9/sisyphus-storyboard-page-sp01_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

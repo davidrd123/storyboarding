@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:16:12-07:00",
+  "started_at": "2026-07-14T02:16:04-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/prompts.yaml",
+  "source_index": 9,
+  "mode": "image",
+  "title": "09 green candy passage",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 supplies only the narrative origin in Meg; do not show a face or literal anatomy. Image 2 supplies faint orange lightning as the receding world behind camera. Image 3 supplies only the bright garden-campus destination at the far opening. Create the camera's view inside a wholly confectionary translucent green apple gummy passage. Jewel jelly walls, bubbles, and sugar crystals glow like stained glass. The single small green imp swims ahead carrying a point of light. Through a distant circular opening we glimpse the sunlit campus. No teeth, tongue, throat, flesh, cave rock, underwater ocean, or additional creatures.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl from the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Preserve their youthful live-action identity while allowing anime effects and tactile candy characters. Raul's mango helpers are small energetic translucent orange-gold gummy hype-men who physically assist his transformation. Meg has exactly one acid-green apple gummy imp: small, clever, sardonic, inviting, and confectionary rather than monstrous. Raul's event is public orange spectacle; Meg's is private green invitation. Avoid preschool mascot styling, weapons, generic robots, anatomy, gore, unwanted extra characters, captions, borders, watermarks, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 08 - Meg reaction.png",
+      "../../../script/PEELERZ - 06 - anime transformation.png",
+      "../../../script/PEELERZ - 09 - campus walk.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 08 - Meg reaction.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-green-candy-passage_9302926a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-green-candy-passage_9302926a/09-green-candy-passage_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

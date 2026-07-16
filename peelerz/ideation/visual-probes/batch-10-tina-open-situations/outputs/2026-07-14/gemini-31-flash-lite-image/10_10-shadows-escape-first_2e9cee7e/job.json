@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T01:32:47-07:00",
+  "started_at": "2026-07-14T01:32:32-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/prompts.yaml",
+  "source_index": 10,
+  "mode": "image",
+  "title": "10 shadows escape first",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Preserve Tina, gummy, pouch, rear seat, and ordinary neighborhood. In long late-afternoon light, every physical object remains normal but its shadow has detached and begun behaving independently. A hydrant's shadow gallops like an animal, a bicycle's shadow becomes a bird and flies across a wall, tree shadows dance down the sidewalk, and Tina's own shadow reaches toward the gummy while she watches. Poetic photographic surrealism, playful not sinister. No dark monsters, tropical world, or full object transformation.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one cinematic advertising styleframe, never a collage or storyboard grid. Image 1 and Image 2 establish Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Preserve her identity and the product, but obey each prompt's new composition and creative situation. Every job is an independent idea after Tina eats the candy; it does not need to preserve the car-peel, parachute, tropical, miniature, or gummy-fish ideas from other rounds. Make the single situation immediately legible, benign, youthful, visually bold, and plausible as a polished commercial styleframe. No captions, borders, split screens, watermarks, random candyland, or added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-shadows-escape-first_2e9cee7e",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-shadows-escape-first_2e9cee7e/10-shadows-escape-first_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

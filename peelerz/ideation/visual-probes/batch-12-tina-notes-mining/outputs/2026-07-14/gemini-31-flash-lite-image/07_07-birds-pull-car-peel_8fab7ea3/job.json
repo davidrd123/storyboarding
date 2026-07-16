@@ -1,0 +1,44 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:01:16-07:00",
+  "started_at": "2026-07-14T02:00:59-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/prompts.yaml",
+  "source_index": 7,
+  "mode": "image",
+  "title": "07 birds pull car peel",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 controls Tina, product, back seat, and dark car. Image 2 supports face and gummy only. Image 3 supplies the clean peelable-car premise but not its orange interior, parachute, or fragments. Image 4 supplies only the controlled coral-teal-pink exterior palette, warm key plus cyan fill, and playful music-video register. Create a passenger-side cinematic wide frame. A flock of eight bright tropical birds flies upward in formation, each gripping the same broad curled edge of the blue-gray car roof with its beak or feet. Their combined upward pull peels the roof backward like one flexible fruit skin with a pearly pink underside. Tina remains delighted in the intact black rear seat. Make birds, shared peel edge, and pulling direction unmistakable. No loose ribbons, separate car panels, bird attack, scratches, jungle, canopy, or cartoon style.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage or storyboard grid. Follow the stated role of every reference image rather than blending all references indiscriminately. Preserve Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Tina's fixed meeting point is the back seat of the car: never move her into the driver or front passenger seat. Make the specified physical situation immediately legible in one 16:9 image. Keep transformations benign, youthful, tactile, and suitable for a live-action candy commercial. Avoid captions, borders, split screens, watermarks, generic candyland, random rainbow effects, body horror, violent wreckage, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png",
+      "../../../script/PEELERZ - 03 - car peels open.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/07_07-birds-pull-car-peel_8fab7ea3",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/07_07-birds-pull-car-peel_8fab7ea3/07-birds-pull-car-peel_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

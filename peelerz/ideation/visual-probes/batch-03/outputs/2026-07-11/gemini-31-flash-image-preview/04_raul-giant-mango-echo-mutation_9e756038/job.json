@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T17:56:25-07:00",
+  "started_at": "2026-07-11T17:56:12-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/prompts.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "raul giant mango echo mutation",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a cleaner product-causal variation of the giant-Raul commercial styleframe. Preserve normal-size Raul and Meg on the football bleachers, their faces, wardrobe, mango Peelerz candy and package, and the comic giant-over-small composition. Normal Raul holds a freshly bitten translucent mango candy. The giant duplicate leaning down behind him is now a luminous but materially solid forty-foot gummy echo of Raul: warm mango-gold translucency, subtle layered candy interior, and one clean curled peel edge along his shoulder. He playfully lifts little Raul toward his open mouth while Meg remains unimpressed. Keep the giant recognizably Raul and appetizingly confectionary, never anatomical or gelatinous flesh. No injury, no teeth close-up, no horror, no extra magic, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/04_giant-raul-eats-small-raul-baseline_5466f674/giant-raul-eats-small-raul-baseline_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/04_giant-raul-eats-small-raul-baseline_5466f674/giant-raul-eats-small-raul-baseline_01.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/04_raul-giant-mango-echo-mutation_9e756038",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/04_raul-giant-mango-echo-mutation_9e756038/raul-giant-mango-echo-mutation_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

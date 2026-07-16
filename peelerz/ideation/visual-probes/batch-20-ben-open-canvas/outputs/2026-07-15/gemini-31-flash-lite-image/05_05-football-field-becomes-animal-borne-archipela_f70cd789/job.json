@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:38:29-07:00",
+  "started_at": "2026-07-15T14:38:11-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "05 football field becomes animal borne archipelago",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight high-school stadium geography and the view from the isolated upper bleachers. Image 3 supplies only the lush appetizing scale of a fruit world, not its composition. Raul remains an ordinary teenager; no mecha appears. ONE RULE \u2014 At halftime, the painted yard-line geometry separates the football field into six complete islands. Each island rises on the back of a different colossal, gentle gummy animal and carries its exact football formation into the sky. FRAME \u2014 Awe-inspiring daylight super-wide over Raul and Meg's shoulders. The bleachers remain as a shoreline around an empty field-shaped basin. Six geometric turf islands float at different heights, still bearing goalposts, yard numbers, players, cheerleaders, and slices of running track. Their undersides rest visibly on enormous translucent fruit-gummy creatures: a whale, tortoise, manta ray, crane, elephant, and long fish, each colored by a different Peelerz flavor and textured as appetizing sugar-dusted candy. At the former fifty-yard line, both teams plant one glowing mango seed and a small new sun begins growing from it. Raul and Meg share collective wonder. VISUAL PROOF \u2014 empty stadium basin; six intact field-islands; six clearly supporting gummy animals; football formations continuing on top. AVOID \u2014 ordinary floating rocks, gummy bears, cheering mascot crowd, disaster, frightened players, robots, weapons, generic rainbow.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+      "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-football-field-becomes-animal-borne-archipela_f70cd789",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-football-field-becomes-animal-borne-archipela_f70cd789/05-football-field-becomes-animal-borne-archipela_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-football-field-becomes-animal-borne-archipela_f70cd789/05-football-field-becomes-animal-borne-archipela_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

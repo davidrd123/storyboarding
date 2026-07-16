@@ -1,0 +1,27 @@
+{
+  "title": "hephaestus-panel01-fullprompt",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "You are a cinematic concept-art illustrator. Match the style-reference's exact painterly look \u2014 cool electric blue/violet shadow, warm gold, orange spark-light, volumetric haze, smooth intentional brushwork. Render clean and finished; treat any grain/noise in the references as draft artifacts to discard.\n\nYou are reconstructing ONE finished storyboard frame from a full written spec. Two reference images: IMAGE 1 is the full STORYBOARD PAGE of this scene \u2014 use it for the world and the layout of THIS shot (the wide establisher) and for cross-shot consistency; do NOT reproduce its grid, panels, or labels, and IGNORE its draft graininess. IMAGE 2 is the STYLE REFERENCE \u2014 the finished look comes ENTIRELY from it: reinterpret and paint this frame fresh in its exact clean painterly concept-art style, palette, and brushwork. Treat any grain or noise in the references as draft artifacts to discard; render clean and intentional, not gritty.\n\nSTORY CONTEXT (reason over this): a cast-out smith builds golden beings for others \u2014 the only Olympian who ever worked, finally needed, taking quiet pride. Beneath the warmth, the first unease: the line never ends and the figures file away and don't return. This is the OPENING \u2014 warm and proud on its face, the darkness only glimpsed.\n\nTHE SHOT \u2014 WIDE ESTABLISHER: a vast cavernous forge-hall in cool electric-blue and violet gloom, thick with volumetric haze. A long assembly-line conveyor runs from the foreground deep into the frame to a distant vanishing point. Along it stand ranks of identical burnished-gold automata \u2014 classical serene blank faces, hand-wrought seams \u2014 in stages of completion, dwindling to tiny points in the depth. Overhead, articulated robotic welder-arms arc down over the line, throwing small showers of orange sparks. A tall red furnace column glows mid-right. In the lower-left foreground, small against the scale, the bearded blond smith Hephaestus in a pale cream work-robe off one shoulder bends over his station working a fresh automaton \u2014 the one warm human point in the cold machine. Mood: monumental, lonely, the banked heat of an endless forge; proud craft shadowed by something vast.\n\nCOMPOSITION: deep one-point perspective down the line; Hephaestus lower-left anchoring scale; ranks and haze carrying the eye to the vanishing point. ONE finished full-frame cinematic image, 16:9 \u2014 no grid, no panels, no borders, no text, no labels.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-9up-coverage_c970632f/hephaestus-9up-coverage_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "endpoint": "edit",
+  "latency_seconds": 120.08,
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-panel01-fullprompt_404e3417/hephaestus-panel01-fullprompt_01.png",
+  "usage": {
+    "input_tokens": 3027,
+    "input_tokens_details": {
+      "image_tokens": 2492,
+      "text_tokens": 535
+    },
+    "output_tokens": 4312,
+    "total_tokens": 7339,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}

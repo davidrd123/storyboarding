@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:37:57-07:00",
+  "started_at": "2026-07-15T14:37:45-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "03 the camera joins tina scene",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, wardrobe, intact car, rear seat, product moment, and live-action identity. The surrounding world may be replaced. ONE RULE \u2014 The cinema camera filming the commercial grows elegant folded-paper arms and legs, climbs through Tina's open passenger window, and starts physically rebuilding the photographed neighborhood into a portable theatrical world for her. A second unseen viewpoint films this event. FRAME \u2014 Playful wide from outside the intact car. Tina holds the exact bite pose, delighted rather than frightened. A full-size professional cinema camera is halfway through the window on articulated white paper limbs. With one hand it lifts the real live-action street upward like a broad scenic flat; immediately behind that moving edge, houses, sky, trees, and traffic become layered paper- theatre scenery with visible folds, tabs, and practical shadows. Its other hand unfolds one paper cloud above Tina. Keep the camera unmistakably a camera, without face or mascot eyes. VISUAL PROOF \u2014 camera body, paper limbs, its hands physically holding the live-action-to-paper boundary, Tina's ordinary car crossing both materials. AVOID \u2014 animated camera logo, robot camera, camera-headed human, car transformation, giant hand from outside, paper flower, movie-set crew.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-the-camera-joins-tina-scene_104a3b77",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-the-camera-joins-tina-scene_104a3b77/03-the-camera-joins-tina-scene_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-the-camera-joins-tina-scene_104a3b77/03-the-camera-joins-tina-scene_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

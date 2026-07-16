@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:15:33-07:00",
+  "started_at": "2026-07-14T02:15:25-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/prompts.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "04 hype squad poses",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Preserve Raul's face from Images 1 and 2 and rebuild Image 3's blocky concept as a premium translucent mango-gummy transformation. Create a low hero wide shot at the front of a high-school football field. Towering Ani-Mango-Raul holds one triumphant pumped pose, his real face visible inside glossy orange-gold mango armor. Along the sideline, exactly twelve small mango gummy guys strike the identical pose in a coordinated row. Stadium floodlights flare behind them; Meg remains visible in the nearest bleachers. No weapons, empty arena, toy robot, or unrelated flavors.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's stated reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl in the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Raul's flavor is mango-orange. Meg's working flavor is acid-green apple. Mango minions are energetic translucent gummy hype-men; Meg has exactly one sardonic green gummy imp. Preserve live-action teenage identities while using anime energy or tactile candy characters where requested. Mouth-passage imagery must remain wholly confectionary and never anatomical. Avoid generic robot armor, weapons, preschool mascots, horror, captions, borders, watermarks, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 06 - anime transformation.png",
+      "../../../script/PEELERZ - 07 - mango voltron.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 07 - mango voltron.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-hype-squad-poses_00007555",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-hype-squad-poses_00007555/04-hype-squad-poses_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

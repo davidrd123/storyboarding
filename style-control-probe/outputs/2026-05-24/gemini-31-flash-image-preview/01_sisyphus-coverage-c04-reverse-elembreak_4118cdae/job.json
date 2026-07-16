@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T00:34:36-07:00",
+  "started_at": "2026-05-24T00:34:15-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "sisyphus-coverage-c04-reverse-elembreak",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "You are given the establishing WIDE shot of a scene plus two crops showing the litho mark-making. PRESERVE the world, character, and litho style. Render the SAME scene as a NEW full-frame shot \u2014 a high REVERSE angle, camera at the TOP of the broken escalator looking steeply DOWN its length to the hall below. Build the shot from these elements: (1) the two escalator balustrades and litter-strewn steps descend steeply away from camera, filling lower-center, converging toward the floor; (2) at the bottom, small, the stooped old man in the heavy dark overcoat hunched over his stalled overloaded shopping cart, seen from above and behind; (3) the BROKEN \u2014 OUT OF ORDER sign on its post near the foot of the escalator; (4) the derelict tiled transit hall floor beyond him with cracked tiles and scattered debris; (5) dim arched openings and grimy tiled walls; (6) a single muted terracotta-red spot in the gloom. Vertiginous, empty, lonely.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": null,
+    "system_prompt": "A late-19th / early-20th-century multi-color transfer lithograph on grained limestone. Forms drawn with a No. 2\u20133 tusche litho-crayon, its line greasy, blunt, dragging and crumbling on coarse stone \u2014 soft feathered edges, no fine detail, no clean vector edges, no anti-aliasing. Mark-making is pressure-differentiated: heavy dragging pressure on foreground darks so the stone grain breaks the ink into dense speckle (never a flat solid fill), light rapid gestural strokes elsewhere; all tone built from crayon pressure over grain. Three flat stencil-like color blocks \u2014 dusty rose-pink tint, a single muted terracotta-red spot, then the deep Prussian blue-black key plate \u2014 loose registration, unprinted warm-cream paper borders. Coarse paper tooth; visible ink starvation \u2014 speckled cream grain breaking through every dark area. Perspective loose and hand-drawn. Restricted tri-tone palette: warm cream, dusty rose-pink, deep Prussian blue, one muted terracotta-red accent. Stark flat high-contrast graphic shapes. No gradients, no glow, no photorealism, no flat opaque digital fills, never a sterile white background.",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v06-notrist_d6f4ad20/sisyphus-escalator-v06-notrist_01.png",
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/refs/cerberus_crop_line.png",
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/refs/cerberus_crop_mass.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v06-notrist_d6f4ad20/sisyphus-escalator-v06-notrist_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/refs/cerberus_crop_line.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/refs/cerberus_crop_mass.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_sisyphus-coverage-c04-reverse-elembreak_4118cdae",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_sisyphus-coverage-c04-reverse-elembreak_4118cdae/sisyphus-coverage-c04-reverse-elembreak_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_sisyphus-coverage-c04-reverse-elembreak_4118cdae/sisyphus-coverage-c04-reverse-elembreak_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

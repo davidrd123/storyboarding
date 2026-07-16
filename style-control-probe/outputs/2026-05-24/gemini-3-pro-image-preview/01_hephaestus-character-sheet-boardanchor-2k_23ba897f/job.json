@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T15:18:04-07:00",
+  "started_at": "2026-05-24T15:17:15-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "hephaestus-character-sheet-boardanchor-2k",
+  "model": "gemini-3-pro-image-preview",
+  "prompt": "A character model sheet / animation turntable, on a clean plain white studio background.\n\nSUBJECT \u2014 the reference image shows HEPHAESTUS, the smith. Reproduce THIS exact character as a multi-angle turntable. Design spec (match exactly):\n- Age: late 40s to early 50s, weary.\n- Face: angular, blocky, with a strong squared jaw, heavy straight brow, a long prominent nose, small downcast blue eyes, hollow cheeks; somber, weary, tender expression.\n- Hair: mustard-yellow / warm blonde, thick geometric swept-back chunks that flare slightly at the sides and end above the collar.\n- Beard: SHORT, neatly trimmed, squared-off, PALE GREYISH-WHITE (contrasting the yellow hair), covering chin and jawline \u2014 NO mustache.\n- Build: broad thick neck, heavy muscular shoulders; weary, slightly hunched posture, head carried a little down and forward.\n- Garment: a coarse off-white, heavy-weight tunic/toga draped over the LEFT shoulder in deep vertical folds, the right shoulder and chest bare; no belt or fasteners.\n- Complexion: fair skin with pink and purple mid-tones, cool grey-blue shadows.\nKeep his exact face, hair, beard, build and costume identical across every view.\n\nLAYOUT \u2014 a multi-angle turntable spread, evenly and identically lit across all views:\n- full-body FRONT view\n- full-body THREE-QUARTER FRONT view\n- full-body BACK view\nplus two detail callout panels: a head-and-shoulders FACE close-up, and a close-up of the tunic drape over the left shoulder.\n\nSTYLE \u2014 painterly cinematic concept-art rendering matching the reference's medium and palette. NOT photoreal, NOT a flat line drawing.\n\nClean white background, no environment, no other characters. The reference shows him from the chest up \u2014 invent his lower body and stance consistently in the same style, standing naturally (no visible disability needed for this sheet). 16:9 aspect ratio.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "2K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 2,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/story/hephaestus-forge/refs/_crop-panel3-hephaestus.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/story/hephaestus-forge/refs/_crop-panel3-hephaestus.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet-boardanchor-2k_23ba897f",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet-boardanchor-2k_23ba897f/hephaestus-character-sheet-boardanchor-2k_01.png",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet-boardanchor-2k_23ba897f/hephaestus-character-sheet-boardanchor-2k_02.png",
+      "width": 2752,
+      "height": 1536
+    }
+  ]
+}

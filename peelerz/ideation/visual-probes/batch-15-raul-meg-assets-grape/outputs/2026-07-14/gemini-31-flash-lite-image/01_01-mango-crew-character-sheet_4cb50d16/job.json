@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:49:10-07:00",
+  "started_at": "2026-07-14T02:49:00-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/assets.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 mango crew character sheet",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 supplies the energetic mango-helper attitude and scale only; do not reproduce Raul, Meg, signs, words, speed lines, or the crowd. Image 2 supplies the tactile gummy translucency and coordinated crew behavior only; do not reproduce the car or pink lychee color. Design one cute mango-shaped gummy crew character: a small plump orange-gold mango fruit silhouette with a subtle green leaf tuft, translucent jewel-jelly body, stubby arms and legs, expressive cheerful face, and no clothing. Turntable layout: full-body front, three-quarter front, strict side, and back views, plus two smaller action callouts showing the same design hauling with both hands and cheering. Add one close detail of the face and leaf tuft. Space every view apart on matte off-white with identical lighting. No text, mini-human anatomy, bear ears, tools, or views touching each other.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create a polished reference-ready character or industrial-design turntable on a clean neutral studio background. Maintain one consistent design across every angle and callout. These are ingredients for a cinematic live-action Peelerz commercial, so candy characters must look tactile, translucent, appetizing, and capable of being composited into later frames. No scene narrative, stadium, people, packaging, slogans, labels, borders, watermarks, weapons, horror, generic gummy bears, or preschool mascot styling unless a prompt explicitly requests otherwise.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-mango-pit-crew_770c759b/05-mango-pit-crew_01.png",
+      "../batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-coordinated-roof-crew_b6739d8a/02-coordinated-roof-crew_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-mango-pit-crew_770c759b/05-mango-pit-crew_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-coordinated-roof-crew_b6739d8a/02-coordinated-roof-crew_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-mango-crew-character-sheet_4cb50d16",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-mango-crew-character-sheet_4cb50d16/01-mango-crew-character-sheet_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-mango-crew-character-sheet_4cb50d16/01-mango-crew-character-sheet_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

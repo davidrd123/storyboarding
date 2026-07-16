@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T00:40:02-07:00",
+  "started_at": "2026-07-14T00:39:55-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/prompts.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "05 exterior wide real car miniature suburb",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 supplies Tina, the dark car, and live-action photographic authority but not its interior camera. Image 2 supplies the miniature world, palette, gummy fish, and lighting. Image 3 supports identity and product only. Create a wide side view of the full-size dark car moving slowly through a knee-high handmade tropical suburb. Tiny painted houses and paper palms use strong forced perspective. Several small gummy fish float above the roofs. Warm California sun, cool teal sky, coral and lychee-pink highlights, playful but physically simple practical miniature photography. Tina should remain visible through the rear passenger window.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one live-action cinematic Peelerz music-video styleframe, never a collage or storyboard grid. Preserve Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Keep the visual idea simple and physically legible. The outside world may become a colorful handmade miniature tropical neighborhood and a few gummy fish may cross into the car. The only permitted climax mechanics are a giant hand peeling the car open or the peeled car skin becoming a parachute. Do not invent any other narrative mechanism. Favor tactile practical effects, warm key light, cyan fill, restrained pearly pink bounce, and sparse compositions. No visible crew, studio equipment, floating islands, generic candyland, random rainbow effects, captions, borders, logos added beyond the referenced package, or watermarks.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-exterior-wide-real-car-miniature-suburb_dc74580a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-exterior-wide-real-car-miniature-suburb_dc74580a/05-exterior-wide-real-car-miniature-suburb_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

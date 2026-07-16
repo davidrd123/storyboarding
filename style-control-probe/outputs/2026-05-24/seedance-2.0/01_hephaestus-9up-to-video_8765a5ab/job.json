@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "prediction_id": null,
+  "status": "ok",
+  "error": null,
+  "model": {
+    "id": "bytedance/seedance-2.0",
+    "version": "@latest"
+  },
+  "inputs": {
+    "prompt": "[Image1] is a 9-panel storyboard \u2014 editorial coverage of ONE scene in a golden-automata forge (the smith Hephaestus inspecting one of the automata he builds). Use it as an ingredient reference for the world, character, palette, and the coverage beats; do NOT reproduce the grid, panels, borders, or captions. Bring this scene to life as cinematic video, drawing on the coverage. A painterly concept-art forge: cool blue and violet shadow, warm gold automata, orange spark-light, volumetric haze; the seams are visible, nothing is smooth or over-rendered. Hephaestus \u2014 fair-haired, bearded, weary \u2014 works the line and lifts one finished automaton to study its face; sparks scatter, steam drifts, the long line of identical gold figures recedes into the blue dark.",
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "reference_images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-9up-coverage_c970632f/hephaestus-9up-coverage_01.png"
+    ]
+  },
+  "resolved_params": {
+    "prompt": "[Image1] is a 9-panel storyboard \u2014 editorial coverage of ONE scene in a golden-automata forge (the smith Hephaestus inspecting one of the automata he builds). Use it as an ingredient reference for the world, character, palette, and the coverage beats; do NOT reproduce the grid, panels, borders, or captions. Bring this scene to life as cinematic video, drawing on the coverage. A painterly concept-art forge: cool blue and violet shadow, warm gold automata, orange spark-light, volumetric haze; the seams are visible, nothing is smooth or over-rendered. Hephaestus \u2014 fair-haired, bearded, weary \u2014 works the line and lifts one finished automaton to study its face; sparks scatter, steam drifts, the long line of identical gold figures recedes into the blue dark.",
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "reference_images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-9up-coverage_c970632f/hephaestus-9up-coverage_01.png"
+    ]
+  },
+  "outputs": [
+    {
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/seedance-2.0/01_hephaestus-9up-to-video_8765a5ab/hephaestus-9up-to-video_00.mp4",
+      "url": "https://replicate.delivery/xezq/BoM2zUO909KQKx98PIkrm3MMjpkKMUiANearEhwgdwvQXDULA/tmp_e9iw46o.mp4",
+      "bytes": 3136028,
+      "expires_at": "2026-05-24T09:41:06Z",
+      "_metrics": {
+        "download_time_s": 0.23202812497038394
+      }
+    }
+  ],
+  "cold_start": true,
+  "metrics": {
+    "predict_time_s": 277.36835933302063,
+    "download_time_s": 0.23202812497038394,
+    "elapsed_s": 277.60104220802896
+  }
+}

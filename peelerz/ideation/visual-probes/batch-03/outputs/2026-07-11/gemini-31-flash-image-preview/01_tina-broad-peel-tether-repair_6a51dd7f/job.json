@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T17:55:49-07:00",
+  "started_at": "2026-07-11T17:55:40-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/prompts.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "tina broad peel tether repair",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Repair the first reference into a more physically legible photoreal candy-commercial styleframe. Preserve Tina, the neighborhood, the car, her pink Lychee Peelerz and the basic wide composition. Replace the current thin decorative pink ribbon with ONE broad translucent lychee-pink band that is unmistakably the peeled outer skin of the car. Its lower end remains visibly attached to a raw lifted edge on the car roof; the same uninterrupted band curls once through the air and is taut in Tina's raised hand. Show tension and a clear underside so the eye can trace attachment \u2192 continuous material \u2192 her grip. Remove every other ribbon, cord, floating fragment and unrelated effect. The band should look like clean glossy confectionery fruit skin, not flesh or fabric. One visible verb: she has peeled the car and is tethered to it. No text except existing packaging, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/01_s001-continuous-peel-tether_921d8a93/s001-continuous-peel-tether_01.png",
+      "../../../script/PEELERZ - 01 - Tina in car.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/01_s001-continuous-peel-tether_921d8a93/s001-continuous-peel-tether_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/01_tina-broad-peel-tether-repair_6a51dd7f",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/01_tina-broad-peel-tether-repair_6a51dd7f/tina-broad-peel-tether-repair_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

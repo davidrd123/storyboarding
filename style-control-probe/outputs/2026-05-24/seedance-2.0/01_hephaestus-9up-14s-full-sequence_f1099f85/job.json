@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "prediction_id": null,
+  "status": "ok",
+  "error": null,
+  "model": {
+    "id": "bytedance/seedance-2.0",
+    "version": "@latest"
+  },
+  "inputs": {
+    "prompt": "[Image1] is a 9-panel storyboard of one scene in a golden-automata forge \u2014 use it as the reference for the world, the weary older bearded smith, the gold automata, and the palette; do NOT reproduce the grid, panels, or labels. Animate the FULL scene as one continuous ~14-second cinematic sequence that moves through all nine beats IN ORDER, with motivated camera transitions between them. Keep the SAME weary older smith and the SAME flat-topped cylindrical gold automaton design throughout. The beats: (1) WIDE ESTABLISHER \u2014 the cavernous forge, ranks of gold automata receding, the smith small at his station; slow dolly-in along the line to \u2014 (2) MEDIUM \u2014 the smith lifts a finished gold automaton off the line; push to \u2014 (3) CLOSE-UP \u2014 his weary lined face studying it; tilt down to \u2014 (4) INSERT \u2014 his hands cradling the automaton's gold face; rack to \u2014 (5) CLOSE-UP \u2014 the automaton's serene face, its eyes faintly waking; pull back to \u2014 (6) LOW ANGLE \u2014 the gold automata looming on the line; whip to \u2014 (7) DETAIL \u2014 a welder arm sparking on a gold seam; crane back to \u2014 (8) OVER-THE-SHOULDER \u2014 past a gold automaton down the long receding ranks; and finally pull wide to \u2014 (9) the smith alone before the silent ranks as a vast shadow gathers. Painterly concept-art, cool blue gloom, warm spark-light. Low forge hum, the hiss of a welder, the tick of cooling metal.",
+    "duration": 14,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "reference_images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-9up-rerender-nbpro_31e4557a/hephaestus-9up-rerender-nbpro_01.png"
+    ]
+  },
+  "resolved_params": {
+    "prompt": "[Image1] is a 9-panel storyboard of one scene in a golden-automata forge \u2014 use it as the reference for the world, the weary older bearded smith, the gold automata, and the palette; do NOT reproduce the grid, panels, or labels. Animate the FULL scene as one continuous ~14-second cinematic sequence that moves through all nine beats IN ORDER, with motivated camera transitions between them. Keep the SAME weary older smith and the SAME flat-topped cylindrical gold automaton design throughout. The beats: (1) WIDE ESTABLISHER \u2014 the cavernous forge, ranks of gold automata receding, the smith small at his station; slow dolly-in along the line to \u2014 (2) MEDIUM \u2014 the smith lifts a finished gold automaton off the line; push to \u2014 (3) CLOSE-UP \u2014 his weary lined face studying it; tilt down to \u2014 (4) INSERT \u2014 his hands cradling the automaton's gold face; rack to \u2014 (5) CLOSE-UP \u2014 the automaton's serene face, its eyes faintly waking; pull back to \u2014 (6) LOW ANGLE \u2014 the gold automata looming on the line; whip to \u2014 (7) DETAIL \u2014 a welder arm sparking on a gold seam; crane back to \u2014 (8) OVER-THE-SHOULDER \u2014 past a gold automaton down the long receding ranks; and finally pull wide to \u2014 (9) the smith alone before the silent ranks as a vast shadow gathers. Painterly concept-art, cool blue gloom, warm spark-light. Low forge hum, the hiss of a welder, the tick of cooling metal.",
+    "duration": 14,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "reference_images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-9up-rerender-nbpro_31e4557a/hephaestus-9up-rerender-nbpro_01.png"
+    ]
+  },
+  "outputs": [
+    {
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/seedance-2.0/01_hephaestus-9up-14s-full-sequence_f1099f85/hephaestus-9up-14s-full-sequence_00.mp4",
+      "url": "https://replicate.delivery/xezq/w3ubyygJ3CLhEV7wNnXwLzepMyCzNwNeSCJgNXH7MflsBRQtA/tmpoexxq249.mp4",
+      "bytes": 6685485,
+      "expires_at": "2026-05-24T11:43:02Z",
+      "_metrics": {
+        "download_time_s": 0.3142728329403326
+      }
+    }
+  ],
+  "cold_start": true,
+  "metrics": {
+    "predict_time_s": 371.1145129589131,
+    "download_time_s": 0.3142728329403326,
+    "elapsed_s": 371.43034299998544
+  }
+}

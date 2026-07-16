@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-05-24T01:02:58-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-05-24T01:02:58-07:00",
+      "started_at": "2026-05-24T01:02:26-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+      "source_index": 1,
+      "mode": "image",
+      "title": "hephaestus-derived-coverage",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Use the reference image as the establishing wide of a scene. Render ONE image as a clean 3x2 grid of six comic storyboard panels with thin black borders and white gutters between them. Each panel is a different camera setup of this SAME scene, character, set, and art style. Panels: (A) wide establishing \u2014 the long line of gold automata receding into the cavernous blue workshop; (B) medium \u2014 the bearded blond smith Hephaestus lifting a finished gold automaton off the line; (C) close-up on Hephaestus's weary bearded face; (D) insert \u2014 his hands cradling the automaton's gold face and shoulder; (E) close-up on the automaton's serene blank gold face, eyes meeting the viewer; (F) over-the-shoulder from behind the automaton looking past it to the long receding rows of identical gold automata with tiny Hephaestus among them. Keep the SAME Hephaestus, the SAME gold automata, and the cool blue-violet and gold concept-art palette across every panel. Beneath each panel, in the white gutter, print a capital letter label: A, B, C, D, E, F.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": null,
+        "temperature": null,
+        "system_prompt": "Match the exact art style, palette, color, rendering technique, line quality, and medium of the reference image \u2014 reproduce its look precisely across every panel. Do not introduce any style not present in the reference.",
+        "num_outputs": 2,
+        "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+        "images": null,
+        "config": {}
+      },
+      "input_count": 1,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-derived-coverage_ea50d0f5",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-derived-coverage_ea50d0f5/hephaestus-derived-coverage_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-derived-coverage_ea50d0f5/hephaestus-derived-coverage_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

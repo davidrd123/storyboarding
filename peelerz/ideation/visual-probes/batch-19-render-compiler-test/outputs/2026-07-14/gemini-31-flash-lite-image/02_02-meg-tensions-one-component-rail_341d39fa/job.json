@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T22:54:31-07:00",
+  "started_at": "2026-07-14T22:54:11-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/scenes.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 meg tensions one component rail",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul, Meg, and wardrobe. Image 2 locks daylight top bleachers. Image 3 locks dense mango-flesh armor and graphite joints. Image 4 locks mango helpers. INVARIANTS \u2014 Raul's real face is uncovered; normal clothes remain visible on unarmored areas. SUBSTRATE \u2014 One pre-shaped dense mango-flesh shoulder plate, separate from Raul. INITIAL STATE \u2014 The plate rests on the bleacher seat three feet to Raul's right. APPLIED FORCE \u2014 Meg leans back with both feet planted and pulls one long amber edible strip taut; its far end passes through a visible loop on the plate. Four mango helpers push the plate from behind. TOPOLOGY \u2014 The strip, plate loop, helpers, and open graphite shoulder socket form one uninterrupted straight line. No other strings or floating components. STATE CHANGE \u2014 The plate slides along the aluminum row toward the empty shoulder socket; half the distance remains, making assembly incomplete and obvious. SHOT PROOF \u2014 Low open daylight wide along the row, Meg at right under tension, Raul at left, moving plate centered between them, every contact point visible. LITERALIZATION HAZARDS / VETO \u2014 no flower, wings, lighthouse, beam, fishing rod, grape-character chain, giant fruit behind Raul, finished suit, floating plate, bodybuilder anatomy.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, not a collage or design sheet. Obey the countable mechanical specification before making the frame pretty. Keep one causal action readable through physical contact, tension, attached edges, and a visible active boundary. Preserve declared reference authorities. No captions, labels, watermarks, invented packaging, gore, weapons, generic gummy bears, generic magical glow, or unexplained finished transformations.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+      "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+      "../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-meg-tensions-one-component-rail_341d39fa",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-meg-tensions-one-component-rail_341d39fa/02-meg-tensions-one-component-rail_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-meg-tensions-one-component-rail_341d39fa/02-meg-tensions-one-component-rail_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

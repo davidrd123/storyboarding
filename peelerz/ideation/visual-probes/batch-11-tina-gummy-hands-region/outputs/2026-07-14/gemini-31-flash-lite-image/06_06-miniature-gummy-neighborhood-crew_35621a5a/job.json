@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T01:49:25-07:00",
+  "started_at": "2026-07-14T01:49:11-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/prompts.yaml",
+  "source_index": 6,
+  "mode": "image",
+  "title": "06 miniature gummy neighborhood crew",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Create a wide practical-effects frame. Tina's full-size dark car rests among the tiny handmade coral and butter-yellow houses. Dozens of translucent lychee gummy residents have emerged from the model neighborhood and are climbing onto the car. Their small arms and hands collectively peel one broad blue-gray shell panel backward. Show strong full-size car versus tiny town scale, with Tina visible through the rear window and one readable peel edge. No human construction crew, tools, ladders dominating the image, or chaotic swarm.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one cinematic live-action Peelerz commercial styleframe, never a collage or storyboard grid. Image 1 controls Tina's identity, blue jacket, black top, pink lychee gummy, pink pouch, and dark car. Image 2 supplies the successful tactile miniature neighborhood, coral-teal-pink palette, gummy fish, and warm key plus cyan fill lighting. Image 3 supplies only the concept that the smooth blue-gray outer car body can peel away as one continuous flexible skin; reject its orange gummy upholstery, rainbow styling, floating fragments, and disassembly. The new agents are translucent pink or pearl-white lychee gummies with tiny flexible arms and expressive small hands, rendered as charming tactile practical puppets rather than generic cartoon mascots. Preserve Tina safely in an intact black rear passenger compartment. Peeling must read as a clean physical action, never torn metal, wreckage, violence, flesh, or horror. No captions, borders, watermarks, visible crew, random candyland, or added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

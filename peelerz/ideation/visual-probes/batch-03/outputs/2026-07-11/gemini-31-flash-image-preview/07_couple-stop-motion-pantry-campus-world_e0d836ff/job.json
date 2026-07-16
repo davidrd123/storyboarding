@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T17:56:54-07:00",
+  "started_at": "2026-07-11T17:56:44-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/prompts.yaml",
+  "source_index": 7,
+  "mode": "image",
+  "title": "couple stop motion pantry campus world",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a cinematic commercial styleframe showing one concrete world Liz and John could float through. Preserve their faces, age, wardrobe, Peelerz candies and packages, and centered eyeline, but translate the entire world\u2014including the couple\u2014into premium tactile stop-motion. The campus quad is rebuilt from pantry materials at believable miniature scale: cork-and-biscuit buildings, fruit-leather lawns, paper-label windows, toothpick bicycles, and mango-peel trees. Liz and John float a foot above the path while ordinary stop-motion students continue walking beneath them, unconcerned. Materials must remain handcrafted and imperfect, not glossy 3D animation. One coherent world rather than a collage, warm youthful charm, no candyland explosion, no text beyond recognizable Peelerz packages, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 10 - campus connection.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/07_couple-stop-motion-pantry-campus-world_e0d836ff",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/07_couple-stop-motion-pantry-campus-world_e0d836ff/couple-stop-motion-pantry-campus-world_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

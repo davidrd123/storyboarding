@@ -1,0 +1,299 @@
+{"fragments": [
+  {"id": "c301",
+   "text": "Factory screen protector lifted by its green tab in one slow pull — static crackle, then mirror-perfect glass. The phone becomes yours the instant the film separates.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["cellophane"],
+     "emotional-fantasy": ["relief"],
+     "temporal-behavior": ["gradual"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "c302",
+   "text": "Laptop lid stratified with stickers, newest overlapping oldest; peeling one off lifts paint and leaves an adhesive ghost outlining where it lived.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["peel", "laminate"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["layered"],
+     "emotional-fantasy": ["belonging"],
+     "temporal-behavior": ["gradual"]
+   }},
+  {"id": "c303",
+   "text": "Chrome vinyl wrap peeled off a car in one shoulder-wide sheet, factory paint emerging wet-looking underneath — a full-body molt performed for the camera.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["peel", "shed"],
+     "material-behavior": ["rubber"],
+     "transition-affordance": ["peel-reveal"],
+     "social-configuration": ["broadcast"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "c304",
+   "text": "Slime stretched slowly between both hands until it thins into a translucent membrane you can see the window through — one more inch and it tears.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["stretch"],
+     "material-behavior": ["syrup", "rubber"],
+     "emotional-fantasy": ["relief"],
+     "temporal-behavior": ["gradual"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "c305",
+   "text": "Squishy bread miniature squeezed flat in a fist, then watched as its foam re-inflates in slow motion — a body that forgives every crush.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["inflate"],
+     "material-behavior": ["foam"],
+     "spatial-relation": ["miniature"],
+     "emotional-fantasy": ["relief"],
+     "temporal-behavior": ["delayed"]
+   }},
+  {"id": "c306",
+   "text": "Hydro-dipping: paint film floats on water; a shoe pushed slowly through comes out wearing the surface. The membrane doesn't break — it transfers allegiance.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "material-behavior": ["cellophane", "syrup"],
+     "spatial-relation": ["threshold"],
+     "temporal-behavior": ["gradual"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "c307",
+   "text": "Fresh acrylic set filed to shape: ten hard shells glued over soft nails, hands suddenly someone older's. Weeks later they pop off with a hollow click.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["laminate", "shed"],
+     "material-behavior": ["glass"],
+     "emotional-fantasy": ["power"],
+     "temporal-behavior": ["delayed"]
+   }},
+  {"id": "c308",
+   "text": "Iron-on patch under a hot iron: adhesive melts, fabric fuses to denim, the jacket becomes a declared surface. First test afterward: pick at one corner.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "material-behavior": ["fabric", "wax"],
+     "emotional-fantasy": ["belonging"],
+     "social-configuration": ["witnessed"]
+   }},
+  {"id": "c309",
+   "text": "Sneaker unboxing: tissue unfolded, deubré tags clipped, laces swapped before first wear. Lifting each shoe from its box is a decanting, performed for an audience.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["decant", "unroll"],
+     "material-behavior": ["paper"],
+     "social-configuration": ["broadcast"],
+     "temporal-behavior": ["rehearsed"],
+     "emotional-fantasy": ["awe"]
+   }},
+  {"id": "c310",
+   "text": "Prying the case off a phone: for one naked minute the glass body is terrifyingly mortal, then a new shell clicks on and it's a different phone.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["shed"],
+     "material-behavior": ["rubber", "glass"],
+     "spatial-relation": ["nested"],
+     "emotional-fantasy": ["recognition"],
+     "temporal-behavior": ["instantaneous"]
+   }},
+  {"id": "c311",
+   "text": "Temporary tattoo: press the wet cloth, count to thirty, peel the backing paper — the image has crossed onto your skin, already flaking at the edges by Friday.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["paper"],
+     "transition-affordance": ["peel-reveal"],
+     "emotional-fantasy": ["mischief"],
+     "temporal-behavior": ["already-over"]
+   }},
+  {"id": "c312",
+   "text": "AirPods case snapped shut mid-conversation: the magnetic click is a tiny door closing that everyone at the lunch table hears and understands.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["unlock"],
+     "spatial-relation": ["nested", "miniature"],
+     "social-configuration": ["witnessed"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["relief"]
+   }},
+  {"id": "c313",
+   "text": "Borrowed hoodie worn home: someone else's detergent smell becomes a second skin you can zip up, a person you can put on and refuse to return.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "material-behavior": ["fabric"],
+     "spatial-relation": ["layered"],
+     "emotional-fantasy": ["intimacy"],
+     "social-configuration": ["paired"]
+   }},
+  {"id": "c314",
+   "text": "'You left the group.' One tap and a room of thirty people seals behind you — silent for you, audible to everyone still inside.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["shed"],
+     "spatial-relation": ["threshold", "inside-out"],
+     "social-configuration": ["crowd", "broadcast"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["escape"]
+   }},
+  {"id": "c315",
+   "text": "A story screenshotted, reposted, screenshotted again: each pass adds a frame inside a frame and a film of compression grain — gossip fossilizing in layers.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "spatial-relation": ["nested", "layered"],
+     "formal-medium": ["phone-screen"],
+     "temporal-behavior": ["recursive"],
+     "emotional-fantasy": ["mischief"]
+   }},
+  {"id": "c316",
+   "text": "Kandi trade: strangers touch fingertips, then palms, then roll a beaded bracelet across the joined hands from one wrist to the other — membership transferred bead by bead.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["unroll"],
+     "material-behavior": ["plastic"],
+     "spatial-relation": ["mirrored"],
+     "social-configuration": ["paired"],
+     "emotional-fantasy": ["belonging"],
+     "temporal-behavior": ["rehearsed"]
+   }},
+  {"id": "c317",
+   "text": "The rare sticker kept on its backing paper for years because peeling it would spend it forever — the album's real collection is unspent potential.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["paper"],
+     "product-fact": ["peel-or-eat-choice"],
+     "temporal-behavior": ["delayed"],
+     "emotional-fantasy": ["power"],
+     "social-configuration": ["alone"]
+   }},
+  {"id": "c318",
+   "text": "Magnetic learner plate slapped on the family car: a provisional skin announcing an unfinished driver. The day the license arrives, it peels off in one motion.",
+   "source": "ritual",
+   "tags": {
+     "physical-operation": ["peel"],
+     "spatial-relation": ["threshold"],
+     "emotional-fantasy": ["power"],
+     "temporal-behavior": ["delayed"],
+     "social-configuration": ["witnessed"]
+   }},
+  {"id": "c319",
+   "text": "Lady Bird mid-argument unbuckles and rolls out of the moving car — exiting her mother's world at speed because the door was the only available threshold.",
+   "source": "Lady Bird (2017)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "transition-affordance": ["rupture"],
+     "emotional-fantasy": ["escape"],
+     "social-configuration": ["paired"],
+     "temporal-behavior": ["instantaneous"]
+   }},
+  {"id": "c320",
+   "text": "Ben in his birthday scuba suit, POV through the mask: the parents' party muffled to bubbles as he sinks and stays on the pool floor, sealed in rubber.",
+   "source": "The Graduate (1967)",
+   "tags": {
+     "material-behavior": ["rubber"],
+     "spatial-relation": ["suspended", "nested"],
+     "emotional-fantasy": ["escape"],
+     "social-configuration": ["crowd", "witnessed"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "c321",
+   "text": "Standing in the truck bed through the tunnel, arms out, radio up — walls compress, then the city opens: 'we are infinite' timed exactly to the exit.",
+   "source": "The Perks of Being a Wallflower (2012)",
+   "tags": {
+     "spatial-relation": ["threshold", "compressed"],
+     "emotional-fantasy": ["awe"],
+     "social-configuration": ["paired"],
+     "temporal-behavior": ["instantaneous"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "c322",
+   "text": "Antoine escapes to a sea he has never seen, wades to the waterline, turns to camera — freeze-frame at the exact edge between water and whatever comes next.",
+   "source": "The 400 Blows (1959, France)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "emotional-fantasy": ["escape"],
+     "temporal-behavior": ["already-over"],
+     "social-configuration": ["alone"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "c323",
+   "text": "Chihiro pulled by the hand through the dark tunnel; wind breathes from inside it like a throat. Beyond, her parents eat until they aren't parents anymore.",
+   "source": "Spirited Away (2001, Japan)",
+   "tags": {
+     "transition-affordance": ["mouth-portal"],
+     "spatial-relation": ["threshold"],
+     "formal-medium": ["cel-animation"],
+     "emotional-fantasy": ["awe"],
+     "temporal-behavior": ["gradual"]
+   }},
+  {"id": "c324",
+   "text": "The car crosses Mexico as a sealed capsule: narration mutes the soundtrack to name the funerals and roadblocks passing outside windows the boys never really look through.",
+   "source": "Y Tu Mamá También (2001, Mexico)",
+   "tags": {
+     "spatial-relation": ["nested"],
+     "social-configuration": ["convergence"],
+     "temporal-behavior": ["gradual"],
+     "emotional-fantasy": ["intimacy"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "c325",
+   "text": "Mason packs the car for college while his mother sobs 'I just thought there would be more' — the leaving already finished before the engine starts.",
+   "source": "Boyhood (2014)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "emotional-fantasy": ["recognition"],
+     "temporal-behavior": ["already-over"],
+     "social-configuration": ["paired"]
+   }},
+  {"id": "c326",
+   "text": "Patrick sings 'Can't Take My Eyes Off You' down the stadium bleachers, marching band erupting from the stands — private feeling broadcast across every tier of seats.",
+   "source": "10 Things I Hate About You (1999)",
+   "tags": {
+     "spatial-relation": ["layered"],
+     "social-configuration": ["broadcast", "witnessed"],
+     "emotional-fantasy": ["mischief", "intimacy"],
+     "temporal-behavior": ["rehearsed"]
+   }},
+  {"id": "c327",
+   "text": "The camera trails one student's back through school corridors for minutes, then time rewinds and follows another through the same passage — hallways as looping liminal circulation.",
+   "source": "Elephant (2003)",
+   "tags": {
+     "spatial-relation": ["compressed"],
+     "temporal-behavior": ["looping", "recursive"],
+     "social-configuration": ["alone", "crowd"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "c328",
+   "text": "The veil goes on at every checkpoint and off at every party — one square of fabric toggling Marjane between selves at each border she crosses.",
+   "source": "Persepolis (2007, France/Iran)",
+   "tags": {
+     "physical-operation": ["laminate", "shed"],
+     "material-behavior": ["fabric"],
+     "spatial-relation": ["threshold"],
+     "formal-medium": ["cel-animation"],
+     "temporal-behavior": ["looping"]
+   }},
+  {"id": "c329",
+   "text": "Graduation caps flung and held suspended mid-air above the crowd — four hundred uniforms shed at once, one shared weightless beat before they fall as litter.",
+   "source": "High School Musical 3: Senior Year (2008)",
+   "tags": {
+     "physical-operation": ["shed"],
+     "spatial-relation": ["suspended"],
+     "social-configuration": ["crowd"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["belonging"]
+   }},
+  {"id": "c330",
+   "text": "Laney descends the staircase in a borrowed red dress, glasses gone: the reveal shot where a wardrobe change is filmed as a new person arriving.",
+   "source": "She's All That (1999)",
+   "tags": {
+     "transition-affordance": ["peel-reveal"],
+     "material-behavior": ["fabric"],
+     "social-configuration": ["witnessed"],
+     "emotional-fantasy": ["recognition", "power"],
+     "temporal-behavior": ["rehearsed"]
+   }}
+]}

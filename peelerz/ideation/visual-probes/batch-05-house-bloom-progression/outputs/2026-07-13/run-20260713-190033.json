@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-07-13T19:00:40-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/prompt-03-retry.yaml",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-13T19:00:40-07:00",
+      "started_at": "2026-07-13T19:00:34-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/prompt-03-retry.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "03 the car halfway blooms open",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: compositing. Asset type: cinematic storyboard bridge frame. Image 1 is the immediately preceding moment and controls Tina's identity, wardrobe, product, quiet reaction, car interior, and the curved seam above the passenger window. Image 2 is the immediately following moment and controls the car model, suburban street, architectural flowers, exterior photographic style, and final broad-petal geometry. Generate the exact temporal midpoint between them. Use a medium wide passenger-side tracking view of the moving car. The curved seam from Image 1 has traveled across the roof and doors. Four large blue-gray sections of the car's outer shell are halfway folded outward like the early opening stage of the petal platform in Image 2. The recognizable back seat, chassis, wheels, and lower doors remain intact; Tina is still seated securely, holding the glowing peeled lychee gummy and Peelerz bag while looking at the opening world. One nearby house is mid-bloom and the farther houses are open. Make this clearly later than Image 1 and clearly earlier than Image 2. The car is blooming according to the same architectural rule as the houses, not breaking apart.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create the missing bridge frame in a coherent live-action Peelerz commercial sequence. Photoreal cinematic advertising with tactile practical-effects credibility. Preserve Tina as the same young woman, her blue jacket and black top, the pink lychee gummy, and the pink Peelerz bag. The transformation is elegant, physical, and benign. No crash, debris, violence, parachute, airborne car, candy upholstery, random rainbow effects, caption, border, or watermark.\n",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "outputs/2026-07-13/gemini-31-flash-lite-image/02_02-tina-notices-the-blooming-rule_56b923fc/02-tina-notices-the-blooming-rule_01.png",
+          "outputs/2026-07-13/gemini-31-flash-lite-image/04_04-tina-revealed-inside-the-open-world_f3ec39e9/04-tina-revealed-inside-the-open-world_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/outputs/2026-07-13/gemini-31-flash-lite-image/02_02-tina-notices-the-blooming-rule_56b923fc/02-tina-notices-the-blooming-rule_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/outputs/2026-07-13/gemini-31-flash-lite-image/04_04-tina-revealed-inside-the-open-world_f3ec39e9/04-tina-revealed-inside-the-open-world_01.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_03-the-car-halfway-blooms-open_844955e9",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-05-house-bloom-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_03-the-car-halfway-blooms-open_844955e9/03-the-car-halfway-blooms-open_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

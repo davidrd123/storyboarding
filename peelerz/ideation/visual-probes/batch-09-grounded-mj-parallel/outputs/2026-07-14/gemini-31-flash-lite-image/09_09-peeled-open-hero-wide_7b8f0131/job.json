@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T00:40:35-07:00",
+  "started_at": "2026-07-14T00:40:27-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/prompts.yaml",
+  "source_index": 9,
+  "mode": "image",
+  "title": "09 peeled open hero wide",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 controls Tina and the intact dark passenger compartment. Image 2 controls the tiny coral houses, paper palms, teal sky, gummy fish, and light. Image 3 supplies the opened-car idea only. Create a simple hero wide shot after the action. A giant hand holds one long curled outer skin peeled from the car. The intact passenger compartment is open to the colorful air, with Tina still in the rear seat and three pink-and-white gummy fish drifting around her. Warm sun and pearly pink bounce over the miniature tropical street. Tactile practical-effects tableau, no wreckage, studio reveal, floating island, ocean, or additional story beat.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one live-action cinematic Peelerz music-video styleframe, never a collage or storyboard grid. Preserve Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Keep the visual idea simple and physically legible. The outside world may become a colorful handmade miniature tropical neighborhood and a few gummy fish may cross into the car. The only permitted climax mechanics are a giant hand peeling the car open or the peeled car skin becoming a parachute. Do not invent any other narrative mechanism. Favor tactile practical effects, warm key light, cyan fill, restrained pearly pink bounce, and sparse compositions. No visible crew, studio equipment, floating islands, generic candyland, random rainbow effects, captions, borders, logos added beyond the referenced package, or watermarks.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-peeled-open-hero-wide_7b8f0131",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-peeled-open-hero-wide_7b8f0131/09-peeled-open-hero-wide_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

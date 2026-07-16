@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T03:19:25-07:00",
+  "started_at": "2026-07-14T03:19:11-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 mango crew wraps raul",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks identity and clothing. Image 2 locks the stadium world and seating geography. Image 3 locks mango-helper appearance; do not reinterpret them. BEAT \u2014 Dynamic medium-wide at the top row. Exactly eight helpers work like a coordinated rigging crew, physically hauling Raul's one continuous mango peel around his seated body. The elastic peel stretches, thins, and glows at tension points as it rises from his ankles toward his shoulders, beginning to enclose him. Raul is delighted; Meg leans back to make room. Every helper touches or pulls the same connected peel\u2014no magic levitation and no tools. AVOID \u2014 finished armor, paper ribbons, bandages, constriction distress, random candy swarm, helpers with signs, crowded seats.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-crew-wraps-raul_ff5a1ca5",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-crew-wraps-raul_ff5a1ca5/02-mango-crew-wraps-raul_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-crew-wraps-raul_ff5a1ca5/02-mango-crew-wraps-raul_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

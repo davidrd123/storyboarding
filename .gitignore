@@ -4,10 +4,22 @@
 *.jpeg
 *.webp
 *.gif
+*.svg
+*.pdf
+*.tif
+*.tiff
+*.bmp
+*.heic
+*.avif
 *.mp4
 *.mov
+*.webm
+*.mkv
 
 # Local machine / editor state
 .claude/settings.local.json
 .obsidian/
 .DS_Store
+__pycache__/
+*.pyc
+tmp/
