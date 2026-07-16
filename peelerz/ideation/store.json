@@ -1,0 +1,3106 @@
+{
+ "fragments": [
+  {
+   "id": "c601",
+   "text": "Cox incident label 'Magic dresses': the garment that IS the transformation, often delivered inside a nut or almond, or struck out of a pigsty wall with a stick.",
+   "source": "Cox 1893 entries 1, 3, 5, 6, 7 — label 'Magic dresses'",
+   "tags": {
+    "physical-operation": [
+     "split",
+     "unlock"
+    ],
+    "material-behavior": [
+     "fabric",
+     "rind"
+    ],
+    "spatial-relation": [
+     "nested",
+     "miniature"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ]
+   }
+  },
+  {
+   "id": "c602",
+   "text": "Cox incident labels 'Lost shoe' and 'Shoe marriage test': identity proven not by face but by whether a small hollow object fits the body exactly.",
+   "source": "Cox 1893 entries 1-11 passim — labels 'Lost shoe', 'Shoe marriage test'",
+   "tags": {
+    "physical-operation": [
+     "unlock"
+    ],
+    "spatial-relation": [
+     "compressed"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ]
+   }
+  },
+  {
+   "id": "c603",
+   "text": "Cox incident label 'Mutilated foot': the false claimant cuts her own foot to force it into the shoe — passing the fit test by paying flesh.",
+   "source": "Cox 1893 entries 4, 55, 59, 61, 62 — label 'Mutilated foot'",
+   "tags": {
+    "physical-operation": [
+     "sever"
+    ],
+    "material-behavior": [
+     "flesh"
+    ],
+    "spatial-relation": [
+     "compressed"
+    ],
+    "productive-contradiction": [
+     "polite-violation"
+    ]
+   }
+  },
+  {
+   "id": "c604",
+   "text": "Cox incident label 'False bride': a substitute rides away wearing the heroine's place; the swap is invisible to the bridegroom until something small betrays it.",
+   "source": "Cox 1893 entries 4, 9, 10, 11, 61 — label 'False bride'",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "spatial-relation": [
+     "mirrored"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ]
+   }
+  },
+  {
+   "id": "c605",
+   "text": "Cox incident label 'Animal witness': a raven, cock, magpie, dove or crow announces the hidden truth — animals see the swap that people miss.",
+   "source": "Cox 1893 entries 4, 7, 8, 9, 54, 61, 62, 63 — label 'Animal witness'",
+   "tags": {
+    "social-configuration": [
+     "witnessed",
+     "broadcast"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ]
+   }
+  },
+  {
+   "id": "c606",
+   "text": "Cox incident label 'Threefold flight': the heroine appears transformed, then must escape before being touched — three timed crossings back over the same threshold.",
+   "source": "Cox 1893 entries 1, 7, 11, 13, 54, 57, 59, 62 — label 'Threefold flight'",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "temporal-behavior": [
+     "looping",
+     "rehearsed"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ]
+   }
+  },
+  {
+   "id": "c607",
+   "text": "Cox incident label 'Pitch trap': the exit smeared sticky so that crossing the boundary costs a shoe — the threshold itself made adhesive.",
+   "source": "Cox 1893 entries 11, 55, 57, 58, 61 — label 'Pitch trap'",
+   "tags": {
+    "material-behavior": [
+     "syrup"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "physical-operation": [
+     "shed"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ]
+   }
+  },
+  {
+   "id": "c608",
+   "text": "Cox incident label 'Ear cornucopia': a whole meal kept inside a living animal's ear — reach in and pull out food.",
+   "source": "Cox 1893 entries 4, 13, 59 — label 'Ear cornucopia'",
+   "tags": {
+    "physical-operation": [
+     "decant"
+    ],
+    "spatial-relation": [
+     "miniature",
+     "nested"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ]
+   }
+  },
+  {
+   "id": "c609",
+   "text": "Cox incident label 'Revivified bones': the slain helper's bones, collected and buried or smoked forty days, convert into dresses, treasure, or the animal alive again.",
+   "source": "Cox 1893 entries 3, 4, 53, 54, 68 — label 'Revivified bones'",
+   "tags": {
+    "physical-operation": [
+     "dissolve"
+    ],
+    "material-behavior": [
+     "bone"
+    ],
+    "temporal-behavior": [
+     "delayed",
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ]
+   }
+  },
+  {
+   "id": "c610",
+   "text": "Cox's layered wearing: magic dress worn under husk, rags over magic dress, galoshes over gold shoes, pigskin cloak over princess — splendor kept as the hidden inner layer.",
+   "source": "Cox 1893 entries 11, 58, 62, 64 — labels 'Heroine disguise', 'Magic dress worn under husk'",
+   "tags": {
+    "physical-operation": [
+     "laminate",
+     "peel"
+    ],
+    "material-behavior": [
+     "fabric",
+     "skin"
+    ],
+    "spatial-relation": [
+     "layered",
+     "inside-out"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ]
+   }
+  },
+  {
+   "id": "c611",
+   "text": "Cox incident label 'Token objects thrown': water, towel, comb flung behind the fleeing heroine become obstacles between her and the pursuer.",
+   "source": "Cox 1893 entries 11, 59 — label 'Token objects thrown'",
+   "tags": {
+    "physical-operation": [
+     "inflate"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ]
+   }
+  },
+  {
+   "id": "c612",
+   "text": "Cox incident labels 'Slaying of helpful animal' and 'Eating taboo': the helper must be killed for its gift to convert, but the heroine must not eat it.",
+   "source": "Cox 1893 entries 3, 5, 52, 54, 68 — labels 'Slaying of helpful animal', 'Eating taboo'",
+   "tags": {
+    "physical-operation": [
+     "sever"
+    ],
+    "material-behavior": [
+     "flesh",
+     "bone"
+    ],
+    "emotional-fantasy": [
+     "intimacy"
+    ],
+    "productive-contradiction": [
+     "polite-violation"
+    ]
+   }
+  },
+  {
+   "id": "c613",
+   "text": "Catarina carries the aunt's nut to her own room before breaking it: inside the shell, a whole silk dress; later an almond crushed open holds gold slippers.",
+   "source": "Andrews 1892, 'Catarina' (Contes Ligures no. 1)",
+   "tags": {
+    "physical-operation": [
+     "split"
+    ],
+    "material-behavior": [
+     "rind",
+     "fabric"
+    ],
+    "spatial-relation": [
+     "miniature",
+     "nested"
+    ],
+    "social-configuration": [
+     "alone"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ]
+   }
+  },
+  {
+   "id": "c614",
+   "text": "Thirsty brother meets rain-filled hoofprints in sequence — horse, ox, buffalo, bear, pig, wolf — each drink a different animal shape; he drinks from the sheep's print, becomes ram.",
+   "source": "Chalatianz 1887, 'Der Hammelbruder'",
+   "tags": {
+    "physical-operation": [
+     "decant"
+    ],
+    "spatial-relation": [
+     "miniature",
+     "threshold"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "product-fact": [
+     "peel-or-eat-choice"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ]
+   }
+  },
+  {
+   "id": "c615",
+   "text": "The little black lamb tells the hungry girl to put her finger in its ear: bread inside one ear, cheese inside the other.",
+   "source": "Archaeological Review 1889, 'Ashpitel'",
+   "tags": {
+    "physical-operation": [
+     "decant"
+    ],
+    "spatial-relation": [
+     "miniature",
+     "nested"
+    ],
+    "emotional-fantasy": [
+     "relief",
+     "intimacy"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c616",
+   "text": "The prince hews the pigeon-house to pieces with an axe to catch the fled girl — no one inside; she is already back in ashes by the hazel tree.",
+   "source": "Grimm, tr. Hunt 1884, 'Cinderella'",
+   "tags": {
+    "physical-operation": [
+     "split"
+    ],
+    "spatial-relation": [
+     "nested"
+    ],
+    "transition-affordance": [
+     "rupture"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "temporal-behavior": [
+     "already-over"
+    ]
+   }
+  },
+  {
+   "id": "c617",
+   "text": "Pigeons whir through the kitchen window to sort lentils out of ashes — 'the good into the pot, the bad into the crop' — a fork enacted beak by beak.",
+   "source": "Grimm, tr. Hunt 1884, 'Cinderella'",
+   "tags": {
+    "physical-operation": [
+     "sort"
+    ],
+    "product-fact": [
+     "peel-or-eat-choice"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "social-configuration": [
+     "convergence"
+    ]
+   }
+  },
+  {
+   "id": "c618",
+   "text": "The king's son smears the whole staircase with pitch; at the third midnight flight her left slipper stays stuck on the step, small and all golden.",
+   "source": "Grimm, tr. Hunt 1884, 'Cinderella'",
+   "tags": {
+    "material-behavior": [
+     "syrup"
+    ],
+    "physical-operation": [
+     "shed"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "temporal-behavior": [
+     "looping"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c619",
+   "text": "The step-sister cuts off her toe, forces the foot into the shoe, swallows the pain; on the hazel-tree two pigeons cry 'blood within the shoe'.",
+   "source": "Grimm, tr. Hunt 1884, 'Cinderella'",
+   "tags": {
+    "physical-operation": [
+     "sever"
+    ],
+    "material-behavior": [
+     "flesh"
+    ],
+    "spatial-relation": [
+     "compressed"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ]
+   }
+  },
+  {
+   "id": "c620",
+   "text": "In the bull's left ear lies a folded cloth; spread on the grass it serves up dishes, wine, mead, and sweet cake.",
+   "source": "Dasent 1888, 'Katie Woodencloak'",
+   "tags": {
+    "physical-operation": [
+     "unroll"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "spatial-relation": [
+     "miniature",
+     "nested"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ]
+   }
+  },
+  {
+   "id": "c621",
+   "text": "Katie dons a cloak built of wooden lath strips over herself; climbing the palace stairs it clatters so loudly the prince comes out to look.",
+   "source": "Dasent 1888, 'Katie Woodencloak'",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "material-behavior": [
+     "wood"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c622",
+   "text": "The henwife clips a piece from Trembling's old clothes, puts on the cloak of darkness, and wishes: that moment the whitest robes in the world exist, grown from the swatch.",
+   "source": "Curtin 1890, 'Fair, Brown, and Trembling'",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "spatial-relation": [
+     "miniature"
+    ]
+   }
+  },
+  {
+   "id": "c623",
+   "text": "The swallowing whale casts Trembling out on the sand with each tide, three times; it can only be killed by a silver bullet in the reddish-brown spot under its breast-fin.",
+   "source": "Curtin 1890, 'Fair, Brown, and Trembling'",
+   "tags": {
+    "transition-affordance": [
+     "mouth-portal"
+    ],
+    "temporal-behavior": [
+     "looping"
+    ],
+    "spatial-relation": [
+     "suspended"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ]
+   }
+  },
+  {
+   "id": "c624",
+   "text": "Mjadveig takes off her dress and hands it over; with the exchange of dresses the queen's charm exchanges faces too — the garment carries the identity.",
+   "source": "Árnason, tr. Powell and Magnússon 1866, 'The Story of Mjadveig, Daughter of Mani'",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "material-behavior": [
+     "fabric",
+     "skin"
+    ],
+    "spatial-relation": [
+     "mirrored"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ]
+   }
+  },
+  {
+   "id": "c201",
+   "text": "In the Epic of Gilgamesh, the snake steals the plant of youth and immediately sheds its skin, sliding away renewed, leaving the husk behind.",
+   "source": "Epic of Gilgamesh, Tablet XI (Mesopotamia, c. 2100 BCE)",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "material-behavior": [
+     "skin"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ]
+   }
+  },
+  {
+   "id": "c202",
+   "text": "Ovid's Marsyas, flayed by Apollo, cries 'Why do you tear me from myself?' — his whole body one wound, the skin peeled away entire.",
+   "source": "Ovid, Metamorphoses VI (Rome, 1st c. CE)",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "skin"
+    ],
+    "spatial-relation": [
+     "inside-out"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c203",
+   "text": "In Ovid's Metamorphoses, thin bark closes over Daphne's breast as she runs; skin hardens to rind, hair to leaves, the girl still warm underneath.",
+   "source": "Ovid, Metamorphoses I (Rome, 1st c. CE)",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "material-behavior": [
+     "rind"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ]
+   }
+  },
+  {
+   "id": "c204",
+   "text": "In Orkney selkie tales, the seal-wife finds her hidden sealskin in the locked chest, slips it on, and returns to the sea forever.",
+   "source": "Orkney/Shetland selkie folklore (recorded 19th c.)",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "material-behavior": [
+     "skin"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ]
+   }
+  },
+  {
+   "id": "c205",
+   "text": "In the Noh play Hagoromo, a fisherman withholds the celestial maiden's feather robe; without it she cannot ascend — the garment is the border between worlds.",
+   "source": "Hagoromo, Noh theater (Japan, 15th c.)",
+   "tags": {
+    "material-behavior": [
+     "fabric"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c206",
+   "text": "In Barrie's Peter Pan, Peter's shadow, torn off by a slamming window, is rolled up in a drawer until Wendy sews it back to his heels.",
+   "source": "J.M. Barrie, Peter Pan (London, 1904/1911)",
+   "tags": {
+    "physical-operation": [
+     "split"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "emotional-fantasy": [
+     "mischief"
+    ],
+    "transition-affordance": [
+     "rupture"
+    ]
+   }
+  },
+  {
+   "id": "c207",
+   "text": "In Heda's Dutch vanitas still lifes, a lemon's peel hangs off the table edge in one unbroken spiral, pale flesh exposed, rind curling into shadow.",
+   "source": "Willem Claesz Heda, banketje still lifes (Netherlands, 1630s)",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "rind"
+    ],
+    "spatial-relation": [
+     "suspended"
+    ],
+    "temporal-behavior": [
+     "already-over"
+    ],
+    "product-fact": [
+     "fruit-form"
+    ]
+   }
+  },
+  {
+   "id": "c208",
+   "text": "Gijsbrechts's 1670 trompe-l'oeil shows only the back of a painting — stretcher, canvas, inventory tag; turning it over would reveal just another back.",
+   "source": "Cornelis Norbertus Gijsbrechts, Reverse of a Framed Painting (Copenhagen, 1670)",
+   "tags": {
+    "spatial-relation": [
+     "inside-out"
+    ],
+    "formal-medium": [
+     "oil-painting"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ]
+   }
+  },
+  {
+   "id": "c209",
+   "text": "Seventeenth-century quodlibet trompe-l'oeil engravings render printed sheets whose corners curl up with false shadows, forever promising a liftable page and another image beneath.",
+   "source": "Quodlibet / letter-rack trompe-l'oeil prints (Flanders and Netherlands, 17th c.)",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "formal-medium": [
+     "engraving"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ]
+   }
+  },
+  {
+   "id": "c210",
+   "text": "Magritte's The Human Condition: a canvas on an easel exactly continues the landscape behind it — removing the painting would remove the view itself.",
+   "source": "René Magritte, La Condition humaine (Belgium, 1933)",
+   "tags": {
+    "spatial-relation": [
+     "layered"
+    ],
+    "formal-medium": [
+     "oil-painting"
+    ],
+    "transition-affordance": [
+     "match-cut"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ]
+   }
+  },
+  {
+   "id": "c211",
+   "text": "In Perrault's Donkeyskin, the princess flees wrapped in a donkey's hide, sun-and-moon dresses hidden beneath; a ring baked into a cake unmasks her.",
+   "source": "Charles Perrault, Peau d'Âne (France, 1694)",
+   "tags": {
+    "material-behavior": [
+     "skin"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "emotional-fantasy": [
+     "escape",
+     "recognition"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ]
+   }
+  },
+  {
+   "id": "c212",
+   "text": "In Holbein's The Ambassadors, a grey smear across the floor resolves into a skull only from one oblique standpoint; step aside and death vanishes.",
+   "source": "Hans Holbein the Younger, The Ambassadors (London, 1533)",
+   "tags": {
+    "transition-affordance": [
+     "rotation"
+    ],
+    "formal-medium": [
+     "oil-painting"
+    ],
+    "emotional-fantasy": [
+     "recognition",
+     "awe"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ]
+   }
+  },
+  {
+   "id": "c213",
+   "text": "A matryoshka splits at the waist to release a smaller identical self, again and again, until the last doll — solid wood, unopenable.",
+   "source": "Russian matryoshka, Zvyozdochkin and Malyutin (Sergiev Posad, 1890s)",
+   "tags": {
+    "physical-operation": [
+     "split"
+    ],
+    "material-behavior": [
+     "wood"
+    ],
+    "spatial-relation": [
+     "nested"
+    ],
+    "temporal-behavior": [
+     "recursive"
+    ],
+    "product-fact": [
+     "layers"
+    ]
+   }
+  },
+  {
+   "id": "c214",
+   "text": "The German advent calendar rations revelation: twenty-four paper doors, each hiding one small picture, each forbidden until its numbered day arrives.",
+   "source": "German Adventskalender, Gerhard Lang's printed versions (Munich, c. 1908)",
+   "tags": {
+    "physical-operation": [
+     "unlock"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "temporal-behavior": [
+     "delayed",
+     "rehearsed"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ]
+   }
+  },
+  {
+   "id": "c215",
+   "text": "Victorian tunnel books stage the 1843 Thames Tunnel as stacked cut-paper layers seen through a peephole — a whole tunnel compressed into a paper accordion.",
+   "source": "Thames Tunnel peepshow books (London, 1840s)",
+   "tags": {
+    "physical-operation": [
+     "fold"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "spatial-relation": [
+     "compressed",
+     "nested"
+    ],
+    "formal-medium": [
+     "toy-theater"
+    ]
+   }
+  },
+  {
+   "id": "c216",
+   "text": "Apian's Astronomicum Caesareum (1540) builds the heavens from stacked rotating paper discs — volvelles — layers of the cosmos turned by a silk thread.",
+   "source": "Petrus Apianus, Astronomicum Caesareum (Ingolstadt, 1540)",
+   "tags": {
+    "material-behavior": [
+     "paper"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "transition-affordance": [
+     "rotation"
+    ],
+    "formal-medium": [
+     "diagram"
+    ],
+    "temporal-behavior": [
+     "looping"
+    ]
+   }
+  },
+  {
+   "id": "c217",
+   "text": "Pollock's toy theaters — 'penny plain, twopence coloured' — shrink Drury Lane to a tabletop proscenium; cardboard actors slide on wires into a miniature storm.",
+   "source": "Pollock's juvenile drama sheets (London, 19th c.)",
+   "tags": {
+    "formal-medium": [
+     "toy-theater"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "spatial-relation": [
+     "compressed"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ]
+   }
+  },
+  {
+   "id": "c218",
+   "text": "In the Tale of Genji, the lady slips free of her robe to escape Genji, who keeps the shed garment and names her Utsusemi — cicada shell.",
+   "source": "Murasaki Shikibu, Genji Monogatari, ch. 3 'Utsusemi' (Japan, c. 1008)",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "temporal-behavior": [
+     "already-over"
+    ]
+   }
+  },
+  {
+   "id": "c219",
+   "text": "The arm reliquary of Charlemagne shapes its jeweled case as the arm it contains — the body's outside remade in silver around the bone inside.",
+   "source": "Arm reliquary of Charlemagne, Aachen Cathedral Treasury (1481)",
+   "tags": {
+    "spatial-relation": [
+     "nested"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "social-configuration": [
+     "broadcast"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c220",
+   "text": "A Noh ko-omote mask, tilted down, grieves; tilted up, it smiles — one carved wooden face holding both expressions, released by angle alone.",
+   "source": "Noh ko-omote mask tradition (Japan, from 14th c.)",
+   "tags": {
+    "material-behavior": [
+     "wood"
+    ],
+    "transition-affordance": [
+     "rotation"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ]
+   }
+  },
+  {
+   "id": "c221",
+   "text": "Vesalius-era fugitive sheets: anatomical engravings with paper flaps — lift the chest door of the printed man and his viscera open layer by layer.",
+   "source": "Anatomical fugitive sheets, Heinrich Vogtherr and successors (Strasbourg, 1538 onward)",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "formal-medium": [
+     "engraving"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ]
+   }
+  },
+  {
+   "id": "c222",
+   "text": "Houdon's écorché (1767): a flayed man stands calmly, arm outstretched, every muscle exposed — the skin gone, the inside now the permanent outside.",
+   "source": "Jean-Antoine Houdon, L'Écorché (Rome/Paris, 1767)",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "skin"
+    ],
+    "spatial-relation": [
+     "inside-out"
+    ],
+    "temporal-behavior": [
+     "already-over"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c223",
+   "text": "The Archimedes Palimpsest: tenth-century geometry scraped from parchment and overwritten as a prayer book — the older text ghosting beneath, recoverable by raking light.",
+   "source": "Archimedes Palimpsest (Byzantium, 10th c.; overwritten 13th c.)",
+   "tags": {
+    "physical-operation": [
+     "dissolve"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ]
+   }
+  },
+  {
+   "id": "c224",
+   "text": "Cornell's Medici Slot Machine: a Renaissance boy stands behind crosshair-etched glass among compartments of marbles and jacks — a princeling sealed in a penny arcade.",
+   "source": "Joseph Cornell, Medici Slot Machine (New York, 1942)",
+   "tags": {
+    "material-behavior": [
+     "glass"
+    ],
+    "spatial-relation": [
+     "nested",
+     "compressed"
+    ],
+    "emotional-fantasy": [
+     "intimacy"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ]
+   }
+  },
+  {
+   "id": "c225",
+   "text": "In Carroll's Alice in Wonderland, behind a low curtain waits a fifteen-inch door; through it Alice sees the loveliest garden — at her size, unreachable.",
+   "source": "Lewis Carroll, Alice's Adventures in Wonderland, ch. 1 (Oxford, 1865)",
+   "tags": {
+    "physical-operation": [
+     "unlock"
+    ],
+    "spatial-relation": [
+     "threshold",
+     "compressed"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "social-configuration": [
+     "alone"
+    ]
+   }
+  },
+  {
+   "id": "c226",
+   "text": "In Carroll's Through the Looking-Glass, the mirror over the mantel softens to bright silvery mist, and Alice climbs through the melting glass into the reversed room.",
+   "source": "Lewis Carroll, Through the Looking-Glass, ch. 1 (Oxford, 1871)",
+   "tags": {
+    "physical-operation": [
+     "dissolve"
+    ],
+    "material-behavior": [
+     "glass"
+    ],
+    "spatial-relation": [
+     "mirrored",
+     "threshold"
+    ],
+    "transition-affordance": [
+     "reflection"
+    ]
+   }
+  },
+  {
+   "id": "c227",
+   "text": "Borges's Aleph: a small iridescent sphere on a cellar stair, two or three centimetres wide, containing every point of the universe seen at once.",
+   "source": "Jorge Luis Borges, El Aleph (Buenos Aires, 1945)",
+   "tags": {
+    "spatial-relation": [
+     "compressed",
+     "nested"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "social-configuration": [
+     "alone"
+    ]
+   }
+  },
+  {
+   "id": "c228",
+   "text": "Calvino's Olinda, in Invisible Cities, grows in concentric rings like a trunk; at the center a new tiny Olinda swells, pushing the old outward.",
+   "source": "Italo Calvino, Le città invisibili (Italy, 1972)",
+   "tags": {
+    "spatial-relation": [
+     "nested",
+     "layered"
+    ],
+    "temporal-behavior": [
+     "recursive",
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ]
+   }
+  },
+  {
+   "id": "c229",
+   "text": "In Gogol's The Nose, the barber finds Kovalyov's nose baked inside his breakfast loaf; days later it rides a carriage in a state councillor's uniform.",
+   "source": "Nikolai Gogol, Nos (St. Petersburg, 1836)",
+   "tags": {
+    "physical-operation": [
+     "split"
+    ],
+    "emotional-fantasy": [
+     "mischief"
+    ],
+    "transition-affordance": [
+     "rupture"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ]
+   }
+  },
+  {
+   "id": "c230",
+   "text": "In Grimm's Allerleirauh, the princess folds three dresses — gold as sun, silver as moon, glittering as stars — into a nutshell, then cloaks herself in a thousand furs.",
+   "source": "Brothers Grimm, Allerleirauh, KHM 65 (Germany, 1812)",
+   "tags": {
+    "physical-operation": [
+     "fold"
+    ],
+    "material-behavior": [
+     "fabric",
+     "skin"
+    ],
+    "spatial-relation": [
+     "compressed",
+     "nested"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ]
+   }
+  },
+  {
+   "id": "c101",
+   "text": "Méliès pumps his own duplicate head with bellows in The Man with the Rubber Head; it swells to fill the room, then bursts.",
+   "source": "The Man with the Rubber Head (1901)",
+   "tags": {
+    "physical-operation": [
+     "inflate"
+    ],
+    "material-behavior": [
+     "rubber"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "mischief"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c102",
+   "text": "Keaton steps into the movie screen in Sherlock Jr.; each cut strands him on a new set — garden, cliff edge, lion den — the world reshuffling underfoot.",
+   "source": "Sherlock Jr. (1924)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "transition-affordance": [
+     "match-cut"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "mischief"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c103",
+   "text": "Rings of light climb the seated machine-man in Metropolis as Maria's stolen face forms over the chrome, one luminous stratum at a time.",
+   "source": "Metropolis (1927)",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ]
+   }
+  },
+  {
+   "id": "c104",
+   "text": "Dorothy opens the sepia farmhouse door in The Wizard of Oz and the doorway becomes a window flooded with Technicolor — the dull inside framing a saturated elsewhere.",
+   "source": "The Wizard of Oz (1939)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "transition-affordance": [
+     "wipe"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "product-fact": [
+     "texture-contrast"
+    ]
+   }
+  },
+  {
+   "id": "c105",
+   "text": "Shrunk below doll size in The Incredible Shrinking Man, Scott duels a cellar spider with a sewing pin and beds down inside a matchbox.",
+   "source": "The Incredible Shrinking Man (1957)",
+   "tags": {
+    "spatial-relation": [
+     "miniature"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "formal-medium": [
+     "live-action"
+    ],
+    "social-configuration": [
+     "alone"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ]
+   }
+  },
+  {
+   "id": "c106",
+   "text": "In Karel Zeman's Invention for Destruction, live actors sail seas hatched like Victorian engravings — etched flat lines and breathing flesh sharing one continuous world.",
+   "source": "Invention for Destruction (1958)",
+   "tags": {
+    "material-behavior": [
+     "paper"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "formal-medium": [
+     "toy-theater"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ],
+    "product-fact": [
+     "texture-contrast"
+    ]
+   }
+  },
+  {
+   "id": "c107",
+   "text": "In The Colour of Pomegranates, crushed pomegranates bleed dark juice through white cloth, the stain spreading into the shape of an ancient kingdom.",
+   "source": "The Colour of Pomegranates (1969)",
+   "tags": {
+    "physical-operation": [
+     "decant"
+    ],
+    "material-behavior": [
+     "fabric",
+     "syrup"
+    ],
+    "product-fact": [
+     "fruit-form"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ]
+   }
+  },
+  {
+   "id": "c108",
+   "text": "Honey's first henshin in Cutie Honey: clothes burst away in a ring of light and a new self snaps on — the ur-template of magical-girl molting.",
+   "source": "Cutie Honey (1973)",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "formal-medium": [
+     "cel-animation"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "social-configuration": [
+     "alone"
+    ]
+   }
+  },
+  {
+   "id": "c109",
+   "text": "Norstein's hedgehog steps into the fog bank in Hedgehog in the Fog and half-vanishes; a white horse surfaces from the vapor like a developing photograph.",
+   "source": "Hedgehog in the Fog (1975)",
+   "tags": {
+    "physical-operation": [
+     "dissolve"
+    ],
+    "spatial-relation": [
+     "layered",
+     "threshold"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ]
+   }
+  },
+  {
+   "id": "c110",
+   "text": "In The Thing, Norris's chest splits open into a toothed mouth mid-defibrillation; later his severed head sprouts crab legs and walks away.",
+   "source": "The Thing (1982)",
+   "tags": {
+    "physical-operation": [
+     "split"
+    ],
+    "transition-affordance": [
+     "rupture"
+    ],
+    "material-behavior": [
+     "flesh"
+    ],
+    "spatial-relation": [
+     "inside-out"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ]
+   }
+  },
+  {
+   "id": "c111",
+   "text": "A pencil-drawn hand reaches out of the comic panel in a-ha's Take On Me and pulls the girl through; inside, she is rotoscope lines too.",
+   "source": "Take On Me (1985)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "material-behavior": [
+     "paper",
+     "ink"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "intimacy"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c112",
+   "text": "Peter Gabriel's face rebuilt frame by frame in Sledgehammer: fruit orbits his pixilated head, plums for eyes, a mask assembling and unassembling itself.",
+   "source": "Sledgehammer (1986)",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "spatial-relation": [
+     "orbiting"
+    ],
+    "product-fact": [
+     "fruit-form",
+     "layers"
+    ],
+    "formal-medium": [
+     "stop-motion"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c113",
+   "text": "Tetsuo's arm in Akira regrows from cables and scrap, then his whole body balloons into a flesh avalanche that swallows what he loves.",
+   "source": "Akira (1988)",
+   "tags": {
+    "physical-operation": [
+     "inflate"
+    ],
+    "material-behavior": [
+     "flesh"
+    ],
+    "transition-affordance": [
+     "rupture"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ]
+   }
+  },
+  {
+   "id": "c114",
+   "text": "Svankmajer's taxidermy rabbit in Alice tears itself off its museum mount, leaking sawdust from the split seam, and pins its own belly shut.",
+   "source": "Alice (1988)",
+   "tags": {
+    "physical-operation": [
+     "split"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "formal-medium": [
+     "stop-motion"
+    ],
+    "spatial-relation": [
+     "inside-out"
+    ],
+    "productive-contradiction": [
+     "polite-violation"
+    ]
+   }
+  },
+  {
+   "id": "c115",
+   "text": "Usagi's henshin in Sailor Moon: ribbons of light wrap her silhouette and harden into uniform, nails first — the same rehearsed molt every episode.",
+   "source": "Sailor Moon (1992)",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "temporal-behavior": [
+     "rehearsed",
+     "looping"
+    ],
+    "formal-medium": [
+     "cel-animation"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ]
+   }
+  },
+  {
+   "id": "c116",
+   "text": "Gromit, kneeling on a runaway toy train in The Wrong Trousers, lays each curve of track from a box an instant before the wheels need it.",
+   "source": "The Wrong Trousers (1993)",
+   "tags": {
+    "spatial-relation": [
+     "miniature"
+    ],
+    "physical-operation": [
+     "unroll"
+    ],
+    "formal-medium": [
+     "stop-motion"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ]
+   }
+  },
+  {
+   "id": "c117",
+   "text": "Ghost in the Shell opens with a body born in layers: metal skeleton dipped, muscle knit on, then a skin sheath that flakes away as Kusanagi wakes.",
+   "source": "Ghost in the Shell (1995)",
+   "tags": {
+    "physical-operation": [
+     "laminate",
+     "shed"
+    ],
+    "material-behavior": [
+     "flesh"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "product-fact": [
+     "layers"
+    ]
+   }
+  },
+  {
+   "id": "c118",
+   "text": "In Neon Genesis Evangelion, Unit-01's purple armor is revealed as restraints; berserk, the faceplate cracks and a living eye and bleeding jaw push through.",
+   "source": "Neon Genesis Evangelion (1995)",
+   "tags": {
+    "transition-affordance": [
+     "rupture"
+    ],
+    "spatial-relation": [
+     "inside-out"
+    ],
+    "material-behavior": [
+     "flesh"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ]
+   }
+  },
+  {
+   "id": "c119",
+   "text": "Neo touches the cracked mirror in The Matrix; it goes liquid, crawls up his arm like chrome syrup, and pours down his throat.",
+   "source": "The Matrix (1999)",
+   "tags": {
+    "material-behavior": [
+     "syrup",
+     "glass"
+    ],
+    "transition-affordance": [
+     "reflection"
+    ],
+    "physical-operation": [
+     "dissolve"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c120",
+   "text": "At the climax of Adolescence of Utena, Utena transforms into a pink car; Anthy grips the wheel and drives her friend's body out of the world.",
+   "source": "Adolescence of Utena (1999)",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ]
+   }
+  },
+  {
+   "id": "c121",
+   "text": "A waist-high door behind a filing cabinet in Being John Malkovich opens on a mud-slick tunnel into an actor's skull; fifteen minutes later you drop beside the turnpike.",
+   "source": "Being John Malkovich (1999)",
+   "tags": {
+    "spatial-relation": [
+     "miniature",
+     "nested"
+    ],
+    "transition-affordance": [
+     "mouth-portal"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "productive-contradiction": [
+     "polite-violation"
+    ]
+   }
+  },
+  {
+   "id": "c122",
+   "text": "In Chris Cunningham's All Is Full of Love, assembly arms plate a robot Björk together — porcelain panels over wet machinery — while she kisses her own duplicate.",
+   "source": "All Is Full of Love (1999)",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "material-behavior": [
+     "glass"
+    ],
+    "spatial-relation": [
+     "mirrored"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "emotional-fantasy": [
+     "intimacy"
+    ]
+   }
+  },
+  {
+   "id": "c123",
+   "text": "In Spirited Away, Chihiro's parents bulge into pigs mid-bite, cheeks splitting their human clothes, while she stands at the tunnel mouth between worlds.",
+   "source": "Spirited Away (2001)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "physical-operation": [
+     "inflate"
+    ],
+    "transition-affordance": [
+     "mouth-portal"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ]
+   }
+  },
+  {
+   "id": "c124",
+   "text": "The door dial in Howl's Moving Castle: four wedges of paint, four cities; turn the knob and the same doorframe opens somewhere else.",
+   "source": "Howl's Moving Castle (2004)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "transition-affordance": [
+     "rotation"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ]
+   }
+  },
+  {
+   "id": "c125",
+   "text": "In Paprika, the villain pins the dream-girl to a table and peels her skin back like a wetsuit, revealing Dr. Chiba asleep inside her own alter ego.",
+   "source": "Paprika (2006)",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "flesh",
+     "rubber"
+    ],
+    "spatial-relation": [
+     "nested"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ],
+    "productive-contradiction": [
+     "polite-violation"
+    ]
+   }
+  },
+  {
+   "id": "c126",
+   "text": "The little door in Coraline is bricked up by day; at night the bricks are gone and a ribbed, breathing tunnel glows toward a copied home.",
+   "source": "Coraline (2009)",
+   "tags": {
+    "spatial-relation": [
+     "threshold",
+     "mirrored"
+    ],
+    "transition-affordance": [
+     "mouth-portal"
+    ],
+    "formal-medium": [
+     "stop-motion"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ],
+    "temporal-behavior": [
+     "looping"
+    ]
+   }
+  },
+  {
+   "id": "c127",
+   "text": "At the end of Under the Skin, the alien peels her human surface open from the back and holds her own blinking face in her hands, regarding it.",
+   "source": "Under the Skin (2013)",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "flesh"
+    ],
+    "spatial-relation": [
+     "inside-out"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ]
+   }
+  },
+  {
+   "id": "c128",
+   "text": "In Song of the Sea, Saoirse buttons on the white selkie coat her father keeps locked in a chest, and the sea finally accepts her.",
+   "source": "Song of the Sea (2014)",
+   "tags": {
+    "physical-operation": [
+     "unlock"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c129",
+   "text": "At kataware-doki in Your Name — the twilight seam between day and night — Taki and Mitsuha finally stand on the same crater rim, until the light closes.",
+   "source": "Your Name (2016)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "transition-affordance": [
+     "match-cut"
+    ]
+   }
+  },
+  {
+   "id": "c130",
+   "text": "Miles' leap of faith in Into the Spider-Verse: he falls upward through Ben-Day dots and shattering glass, the frame rate doubling as the suit becomes his.",
+   "source": "Spider-Man: Into the Spider-Verse (2018)",
+   "tags": {
+    "material-behavior": [
+     "ink",
+     "glass"
+    ],
+    "transition-affordance": [
+     "rupture"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ]
+   }
+  },
+  {
+   "id": "c501",
+   "text": "Gushers Fruit Heads: eating the fruit snack instantly turns the eater's head into the matching fruit — a normal kid's body topped by an enormous, unmistakable fruit head.",
+   "source": "Gushers — Fruit Heads (1990s), record grade B",
+   "tags": {
+    "physical-operation": [
+     "inflate"
+    ],
+    "product-fact": [
+     "fruit-form"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "mischief"
+    ]
+   }
+  },
+  {
+   "id": "c502",
+   "text": "Capri Sun Disrespectoids: how a kid handles the pouch determines the transformation — bend, squeeze or mishandle it and the body becomes a grotesquely literal embodiment of that exact abuse.",
+   "source": "Capri Sun — Disrespectoids / Respect the Pouch (2009–), record grade B",
+   "tags": {
+    "physical-operation": [
+     "fold"
+    ],
+    "material-behavior": [
+     "plastic"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "emotional-fantasy": [
+     "mischief"
+    ]
+   }
+  },
+  {
+   "id": "c503",
+   "text": "Skittles Touch: anything Tim touches turns to Skittles — his office desk disintegrates into candy while coworkers happily eat the evidence and he despairs at his own contagious hand.",
+   "source": "Skittles — Touch (2007), record grade B",
+   "tags": {
+    "physical-operation": [
+     "dissolve"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ]
+   }
+  },
+  {
+   "id": "c504",
+   "text": "Evian Baby & Me: adults see their inner selves as baby reflections moving in perfect sync — a dancer in the street mirrored by an identically dressed baby in the shop window.",
+   "source": "Evian — Baby & Me (2013), record grade A",
+   "tags": {
+    "spatial-relation": [
+     "mirrored"
+    ],
+    "transition-affordance": [
+     "reflection"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c505",
+   "text": "Old Spice The Man Your Man Could Smell Like: one unbroken direct-address monologue holds steady while set, props and scale transform around the spokesman — ending seated backward on a horse.",
+   "source": "Old Spice — The Man Your Man Could Smell Like (2010), record grade A",
+   "tags": {
+    "transition-affordance": [
+     "constant-anchor"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "social-configuration": [
+     "broadcast"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c506",
+   "text": "Cravendale Cats with Thumbs: milk-obsessed cats evolve opposable thumbs and organize a society around that single development — a line of unnervingly calm cats flexing them as their owner realizes.",
+   "source": "Cravendale — Cats with Thumbs (2011), record grade A",
+   "tags": {
+    "emotional-fantasy": [
+     "mischief"
+    ],
+    "social-configuration": [
+     "crowd"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "productive-contradiction": [
+     "polite-violation"
+    ]
+   }
+  },
+  {
+   "id": "c507",
+   "text": "Samsung Ostrich: a flightless bird experiences flight through a VR headset, then carries the conviction into real air — a photoreal ostrich suspended against sunset, legs bicycling with astonished determination.",
+   "source": "Samsung — Ostrich (2017), record grade B",
+   "tags": {
+    "spatial-relation": [
+     "suspended"
+    ],
+    "temporal-behavior": [
+     "rehearsed"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c508",
+   "text": "Levi's Odyssey: running bodies ignore architecture, bursting through wall after wall as if concrete were paper — two runners punch cleanly through an apartment and keep going into open forest air.",
+   "source": "Levi's Engineered Jeans — Odyssey (2002), record grade B",
+   "tags": {
+    "transition-affordance": [
+     "rupture"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c509",
+   "text": "IKEA Beds: a woman falls through a dream sky populated with floating beds, testing landing after landing until she reaches her own — thousands of beds suspended above the city.",
+   "source": "IKEA — Beds (2014), record grade B",
+   "tags": {
+    "spatial-relation": [
+     "suspended"
+    ],
+    "temporal-behavior": [
+     "rehearsed"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ],
+    "social-configuration": [
+     "alone"
+    ]
+   }
+  },
+  {
+   "id": "c510",
+   "text": "Apple HomePod Welcome Home: music physically stretches and recolors a cramped apartment around its dancing tenant — a narrow hallway pulled open into impossible bands of space and color by her body.",
+   "source": "Apple HomePod — Welcome Home (2018), record grade B",
+   "tags": {
+    "physical-operation": [
+     "stretch"
+    ],
+    "material-behavior": [
+     "rubber"
+    ],
+    "spatial-relation": [
+     "compressed"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c511",
+   "text": "Burberry Open Spaces: garment freedom becomes gravityless group flight — four young people glide in formation over real British fields and coastline, their clothes moving as visibly as their bodies.",
+   "source": "Burberry — Open Spaces (2021), record grade B",
+   "tags": {
+    "spatial-relation": [
+     "suspended"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ],
+    "social-configuration": [
+     "crowd"
+    ]
+   }
+  },
+  {
+   "id": "c512",
+   "text": "Kenzo World: a restrained gala guest's pent-up energy erupts into wild choreography through a formal building — she points down an empty hall and fires a green laser from her fingertip.",
+   "source": "Kenzo — Kenzo World (2016), record grade C",
+   "tags": {
+    "emotional-fantasy": [
+     "mischief"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "social-configuration": [
+     "alone"
+    ],
+    "productive-contradiction": [
+     "polite-violation"
+    ]
+   }
+  },
+  {
+   "id": "c513",
+   "text": "Coca-Cola Masterpiece: one bottle relays from artwork to artwork, each world redrawing it in its own visual grammar — it changes medium at the exact seam where two famous canvases meet.",
+   "source": "Coca-Cola — Masterpiece (2023), record grade A",
+   "tags": {
+    "transition-affordance": [
+     "constant-anchor"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "formal-medium": [
+     "oil-painting"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c514",
+   "text": "Honda Paper: the company's whole history unfolds in one hand-made paper universe — human hands flip, slide and rotate drawings so a motorcycle becomes car, racer, and finally flight, in camera.",
+   "source": "Honda — Paper (2015), record grade A",
+   "tags": {
+    "material-behavior": [
+     "paper"
+    ],
+    "formal-medium": [
+     "stop-motion"
+    ],
+    "transition-affordance": [
+     "constant-anchor"
+    ],
+    "physical-operation": [
+     "fold"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c515",
+   "text": "Lacoste Timeless: every train carriage belongs to a different decade; a man's romantic pursuit stays continuous while clothes, passengers and design change — he crosses each coupling into a new era mid-stride.",
+   "source": "Lacoste — Timeless (2017), record grade B",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "transition-affordance": [
+     "constant-anchor"
+    ],
+    "emotional-fantasy": [
+     "intimacy"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c516",
+   "text": "Adidas_1 Hello Tomorrow: awakened shoes carry a sleeper through a dark gravity-shifting dream where each footstep generates the path — he runs across walls and ceiling on a trail of light.",
+   "source": "Adidas_1 — Hello Tomorrow (2005), record grade C",
+   "tags": {
+    "spatial-relation": [
+     "suspended"
+    ],
+    "physical-operation": [
+     "unlock"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "social-configuration": [
+     "alone"
+    ]
+   }
+  },
+  {
+   "id": "c517",
+   "text": "PlayStation 2 The Third Place: the console is a portal into a monochrome dream realm of doubles and fragmented identity — a young man faces his doppelgänger beside an inexplicable human-duck figure.",
+   "source": "PlayStation 2 — The Third Place (2000), record grade A",
+   "tags": {
+    "spatial-relation": [
+     "mirrored",
+     "threshold"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c518",
+   "text": "Honda The Other Side: one synchronized drive, two realities — holding the R key flips between a daytime school run and a nocturnal art-heist, matched frame for frame, gesture for gesture.",
+   "source": "Honda Civic / Type R — The Other Side (2014), record grade A",
+   "tags": {
+    "spatial-relation": [
+     "mirrored"
+    ],
+    "transition-affordance": [
+     "match-cut"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "physical-operation": [
+     "unlock"
+    ],
+    "productive-contradiction": [
+     "polite-violation"
+    ]
+   }
+  },
+  {
+   "id": "c519",
+   "text": "Coca-Cola Happiness Factory: inside the vending machine lives a complete civilization whose creatures, terrain and machinery exist to prepare one bottle, which emerges through the coin slot after an ornate ritual.",
+   "source": "Coca-Cola — Happiness Factory (2006), record grade B",
+   "tags": {
+    "spatial-relation": [
+     "nested"
+    ],
+    "social-configuration": [
+     "convergence"
+    ],
+    "temporal-behavior": [
+     "rehearsed"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ]
+   }
+  },
+  {
+   "id": "c520",
+   "text": "Oreo Wonderfilled: sharing the cookie rewrites a story's emotional logic — an iconic antagonist receives an Oreo and the illustrated world around him blossoms into an unexpectedly friendly version of itself.",
+   "source": "Oreo — Wonderfilled (2013), record grade A",
+   "tags": {
+    "social-configuration": [
+     "paired"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ],
+    "formal-medium": [
+     "cel-animation"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ]
+   }
+  },
+  {
+   "id": "c521",
+   "text": "Sony Bravia Balls: hundreds of thousands of colored balls pour down real San Francisco streets — a whole hill filled edge-to-edge with bouncing color, the city still legible beneath the spectacle.",
+   "source": "Sony Bravia — Balls (2005), record grade A",
+   "tags": {
+    "material-behavior": [
+     "rubber"
+    ],
+    "physical-operation": [
+     "decant"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ]
+   }
+  },
+  {
+   "id": "c522",
+   "text": "Guinness Surfer: the violence and white foam of a breaking wave materialize as enormous charging horses — mythic white stallions surge inside the dark wall of water beside the waiting surfers.",
+   "source": "Guinness — Surfer (1999), record grade A",
+   "tags": {
+    "material-behavior": [
+     "foam"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ]
+   }
+  },
+  {
+   "id": "c523",
+   "text": "Cadbury Gorilla: the film performs pleasure instead of explaining chocolate — a solemn gorilla sits at a full drum kit, closes its eyes, and waits before the ecstatic musical release.",
+   "source": "Cadbury Dairy Milk — Gorilla (2007), record grade A",
+   "tags": {
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ],
+    "social-configuration": [
+     "alone"
+    ],
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ]
+   }
+  },
+  {
+   "id": "c524",
+   "text": "Lurpak Kitchen Odyssey: making one omelette shot as an epic macro voyage — butter, egg and pan become monumental terrain and explosive weather while remaining appetizing food in close-up.",
+   "source": "Lurpak — Kitchen Odyssey (2011), record grade B",
+   "tags": {
+    "formal-medium": [
+     "macro"
+    ],
+    "spatial-relation": [
+     "miniature"
+    ],
+    "product-fact": [
+     "texture-contrast"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c525",
+   "text": "Honda Cog: dozens of isolated car parts trigger one another in one exact chain reaction — each collision both payoff and setup — until the finished Accord rolls away.",
+   "source": "Honda Accord — Cog (2003), record grade A",
+   "tags": {
+    "temporal-behavior": [
+     "gradual",
+     "rehearsed"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ],
+    "formal-medium": [
+     "live-action"
+    ],
+    "social-configuration": [
+     "alone"
+    ]
+   }
+  },
+  {
+   "id": "c526",
+   "text": "PlayStation 2 Mountain: thousands of people climb, support and overtake one another until their bodies form one colossal human mountain against the skyline, a single tiny figure reaching its summit.",
+   "source": "PlayStation 2 — Mountain (2003), record grade B",
+   "tags": {
+    "social-configuration": [
+     "crowd",
+     "convergence"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c401",
+   "text": "Multiverse fall (Dr Strange MoM): two figures held center-frame while ~17 universes swap around them in one continuous 46-second camera plunge",
+   "source": "peelerz/references/CZI5V2VRc7s (00:10-00:56)",
+   "tags": {
+    "spatial-relation": [
+     "suspended"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c402",
+   "text": "Every universe boundary is a crystalline plane the camera pierces; the membrane breaks like glass with an impact whoosh",
+   "source": "reference frames t20.5, t29.958-30.042",
+   "tags": {
+    "material-behavior": [
+     "glass"
+    ],
+    "transition-affordance": [
+     "rupture"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "physical-operation": [
+     "split"
+    ]
+   }
+  },
+  {
+   "id": "c403",
+   "text": "A red cape stays legible through every medium swap — one costume color as the thread of identity across visually noisy worlds",
+   "source": "reference, throughout",
+   "tags": {
+    "material-behavior": [
+     "fabric"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "spatial-relation": [
+     "suspended"
+    ]
+   }
+  },
+  {
+   "id": "c404",
+   "text": "The falling couple is re-mediated mid-fall: 2D animation, then geometric voxels, then liquid paint — material state swapped while trajectory and silhouette hold",
+   "source": "reference t41.5-53.0",
+   "tags": {
+    "formal-medium": [
+     "cel-animation"
+    ],
+    "physical-operation": [
+     "dissolve"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ]
+   }
+  },
+  {
+   "id": "c405",
+   "text": "Amber honeycomb universe with giant bees: a world defined entirely by one material and its geometry, traversed in under two seconds",
+   "source": "reference t24.75-26.0",
+   "tags": {
+    "material-behavior": [
+     "wax"
+    ],
+    "spatial-relation": [
+     "nested"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ]
+   }
+  },
+  {
+   "id": "c406",
+   "text": "A contemporary street identical to ours but tilted diagonally — the cheapest universe: exactly one physics parameter wrong, everything else documentary",
+   "source": "reference t30.042-33.042",
+   "tags": {
+    "productive-contradiction": [
+     "lucid-weirdness"
+    ],
+    "spatial-relation": [
+     "suspended"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c407",
+   "text": "Two bodies as swirling liquid paint, still recognizably falling — identity carried by motion alone when material is gone",
+   "source": "reference t49.75-52.79",
+   "tags": {
+    "material-behavior": [
+     "syrup"
+    ],
+    "physical-operation": [
+     "dissolve"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c408",
+   "text": "A blown-out white frame between worlds: over-exposure as the blank page before the next universe loads",
+   "source": "reference t55.667",
+   "tags": {
+    "transition-affordance": [
+     "wipe"
+    ],
+    "formal-medium": [
+     "live-action"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ]
+   }
+  },
+  {
+   "id": "c301",
+   "text": "Factory screen protector lifted by its green tab in one slow pull — static crackle, then mirror-perfect glass. The phone becomes yours the instant the film separates.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "cellophane"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c302",
+   "text": "Laptop lid stratified with stickers, newest overlapping oldest; peeling one off lifts paint and leaves an adhesive ghost outlining where it lived.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "peel",
+     "laminate"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c303",
+   "text": "Chrome vinyl wrap peeled off a car in one shoulder-wide sheet, factory paint emerging wet-looking underneath — a full-body molt performed for the camera.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "peel",
+     "shed"
+    ],
+    "material-behavior": [
+     "rubber"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ],
+    "social-configuration": [
+     "broadcast"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c304",
+   "text": "Slime stretched slowly between both hands until it thins into a translucent membrane you can see the window through — one more inch and it tears.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "stretch"
+    ],
+    "material-behavior": [
+     "syrup",
+     "rubber"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "productive-contradiction": [
+     "controlled-chaos"
+    ]
+   }
+  },
+  {
+   "id": "c305",
+   "text": "Squishy bread miniature squeezed flat in a fist, then watched as its foam re-inflates in slow motion — a body that forgives every crush.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "inflate"
+    ],
+    "material-behavior": [
+     "foam"
+    ],
+    "spatial-relation": [
+     "miniature"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ]
+   }
+  },
+  {
+   "id": "c306",
+   "text": "Hydro-dipping: paint film floats on water; a shoe pushed slowly through comes out wearing the surface. The membrane doesn't break — it transfers allegiance.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "material-behavior": [
+     "cellophane",
+     "syrup"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "productive-contradiction": [
+     "tactile-spectacle"
+    ]
+   }
+  },
+  {
+   "id": "c307",
+   "text": "Fresh acrylic set filed to shape: ten hard shells glued over soft nails, hands suddenly someone older's. Weeks later they pop off with a hollow click.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "laminate",
+     "shed"
+    ],
+    "material-behavior": [
+     "glass"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ]
+   }
+  },
+  {
+   "id": "c308",
+   "text": "Iron-on patch under a hot iron: adhesive melts, fabric fuses to denim, the jacket becomes a declared surface. First test afterward: pick at one corner.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "material-behavior": [
+     "fabric",
+     "wax"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ]
+   }
+  },
+  {
+   "id": "c309",
+   "text": "Sneaker unboxing: tissue unfolded, deubré tags clipped, laces swapped before first wear. Lifting each shoe from its box is a decanting, performed for an audience.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "decant",
+     "unroll"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "social-configuration": [
+     "broadcast"
+    ],
+    "temporal-behavior": [
+     "rehearsed"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ]
+   }
+  },
+  {
+   "id": "c310",
+   "text": "Prying the case off a phone: for one naked minute the glass body is terrifyingly mortal, then a new shell clicks on and it's a different phone.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "material-behavior": [
+     "rubber",
+     "glass"
+    ],
+    "spatial-relation": [
+     "nested"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ]
+   }
+  },
+  {
+   "id": "c311",
+   "text": "Temporary tattoo: press the wet cloth, count to thirty, peel the backing paper — the image has crossed onto your skin, already flaking at the edges by Friday.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "transition-affordance": [
+     "peel-reveal"
+    ],
+    "emotional-fantasy": [
+     "mischief"
+    ],
+    "temporal-behavior": [
+     "already-over"
+    ]
+   }
+  },
+  {
+   "id": "c312",
+   "text": "AirPods case snapped shut mid-conversation: the magnetic click is a tiny door closing that everyone at the lunch table hears and understands.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "unlock"
+    ],
+    "spatial-relation": [
+     "nested",
+     "miniature"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "relief"
+    ]
+   }
+  },
+  {
+   "id": "c313",
+   "text": "Borrowed hoodie worn home: someone else's detergent smell becomes a second skin you can zip up, a person you can put on and refuse to return.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "spatial-relation": [
+     "layered"
+    ],
+    "emotional-fantasy": [
+     "intimacy"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c314",
+   "text": "'You left the group.' One tap and a room of thirty people seals behind you — silent for you, audible to everyone still inside.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "spatial-relation": [
+     "threshold",
+     "inside-out"
+    ],
+    "social-configuration": [
+     "crowd",
+     "broadcast"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ]
+   }
+  },
+  {
+   "id": "c315",
+   "text": "A story screenshotted, reposted, screenshotted again: each pass adds a frame inside a frame and a film of compression grain — gossip fossilizing in layers.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "laminate"
+    ],
+    "spatial-relation": [
+     "nested",
+     "layered"
+    ],
+    "formal-medium": [
+     "phone-screen"
+    ],
+    "temporal-behavior": [
+     "recursive"
+    ],
+    "emotional-fantasy": [
+     "mischief"
+    ]
+   }
+  },
+  {
+   "id": "c316",
+   "text": "Kandi trade: strangers touch fingertips, then palms, then roll a beaded bracelet across the joined hands from one wrist to the other — membership transferred bead by bead.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "unroll"
+    ],
+    "material-behavior": [
+     "plastic"
+    ],
+    "spatial-relation": [
+     "mirrored"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ],
+    "temporal-behavior": [
+     "rehearsed"
+    ]
+   }
+  },
+  {
+   "id": "c317",
+   "text": "The rare sticker kept on its backing paper for years because peeling it would spend it forever — the album's real collection is unspent potential.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "material-behavior": [
+     "paper"
+    ],
+    "product-fact": [
+     "peel-or-eat-choice"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "social-configuration": [
+     "alone"
+    ]
+   }
+  },
+  {
+   "id": "c318",
+   "text": "Magnetic learner plate slapped on the family car: a provisional skin announcing an unfinished driver. The day the license arrives, it peels off in one motion.",
+   "source": "ritual",
+   "tags": {
+    "physical-operation": [
+     "peel"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "emotional-fantasy": [
+     "power"
+    ],
+    "temporal-behavior": [
+     "delayed"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ]
+   }
+  },
+  {
+   "id": "c319",
+   "text": "Lady Bird mid-argument unbuckles and rolls out of the moving car — exiting her mother's world at speed because the door was the only available threshold.",
+   "source": "Lady Bird (2017)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "transition-affordance": [
+     "rupture"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ]
+   }
+  },
+  {
+   "id": "c320",
+   "text": "Ben in his birthday scuba suit, POV through the mask: the parents' party muffled to bubbles as he sinks and stays on the pool floor, sealed in rubber.",
+   "source": "The Graduate (1967)",
+   "tags": {
+    "material-behavior": [
+     "rubber"
+    ],
+    "spatial-relation": [
+     "suspended",
+     "nested"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "social-configuration": [
+     "crowd",
+     "witnessed"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c321",
+   "text": "Standing in the truck bed through the tunnel, arms out, radio up — walls compress, then the city opens: 'we are infinite' timed exactly to the exit.",
+   "source": "The Perks of Being a Wallflower (2012)",
+   "tags": {
+    "spatial-relation": [
+     "threshold",
+     "compressed"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "social-configuration": [
+     "paired"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c322",
+   "text": "Antoine escapes to a sea he has never seen, wades to the waterline, turns to camera — freeze-frame at the exact edge between water and whatever comes next.",
+   "source": "The 400 Blows (1959, France)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "emotional-fantasy": [
+     "escape"
+    ],
+    "temporal-behavior": [
+     "already-over"
+    ],
+    "social-configuration": [
+     "alone"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c323",
+   "text": "Chihiro pulled by the hand through the dark tunnel; wind breathes from inside it like a throat. Beyond, her parents eat until they aren't parents anymore.",
+   "source": "Spirited Away (2001, Japan)",
+   "tags": {
+    "transition-affordance": [
+     "mouth-portal"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "formal-medium": [
+     "cel-animation"
+    ],
+    "emotional-fantasy": [
+     "awe"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ]
+   }
+  },
+  {
+   "id": "c324",
+   "text": "The car crosses Mexico as a sealed capsule: narration mutes the soundtrack to name the funerals and roadblocks passing outside windows the boys never really look through.",
+   "source": "Y Tu Mamá También (2001, Mexico)",
+   "tags": {
+    "spatial-relation": [
+     "nested"
+    ],
+    "social-configuration": [
+     "convergence"
+    ],
+    "temporal-behavior": [
+     "gradual"
+    ],
+    "emotional-fantasy": [
+     "intimacy"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c325",
+   "text": "Mason packs the car for college while his mother sobs 'I just thought there would be more' — the leaving already finished before the engine starts.",
+   "source": "Boyhood (2014)",
+   "tags": {
+    "spatial-relation": [
+     "threshold"
+    ],
+    "emotional-fantasy": [
+     "recognition"
+    ],
+    "temporal-behavior": [
+     "already-over"
+    ],
+    "social-configuration": [
+     "paired"
+    ]
+   }
+  },
+  {
+   "id": "c326",
+   "text": "Patrick sings 'Can't Take My Eyes Off You' down the stadium bleachers, marching band erupting from the stands — private feeling broadcast across every tier of seats.",
+   "source": "10 Things I Hate About You (1999)",
+   "tags": {
+    "spatial-relation": [
+     "layered"
+    ],
+    "social-configuration": [
+     "broadcast",
+     "witnessed"
+    ],
+    "emotional-fantasy": [
+     "mischief",
+     "intimacy"
+    ],
+    "temporal-behavior": [
+     "rehearsed"
+    ]
+   }
+  },
+  {
+   "id": "c327",
+   "text": "The camera trails one student's back through school corridors for minutes, then time rewinds and follows another through the same passage — hallways as looping liminal circulation.",
+   "source": "Elephant (2003)",
+   "tags": {
+    "spatial-relation": [
+     "compressed"
+    ],
+    "temporal-behavior": [
+     "looping",
+     "recursive"
+    ],
+    "social-configuration": [
+     "alone",
+     "crowd"
+    ],
+    "formal-medium": [
+     "live-action"
+    ]
+   }
+  },
+  {
+   "id": "c328",
+   "text": "The veil goes on at every checkpoint and off at every party — one square of fabric toggling Marjane between selves at each border she crosses.",
+   "source": "Persepolis (2007, France/Iran)",
+   "tags": {
+    "physical-operation": [
+     "laminate",
+     "shed"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "spatial-relation": [
+     "threshold"
+    ],
+    "formal-medium": [
+     "cel-animation"
+    ],
+    "temporal-behavior": [
+     "looping"
+    ]
+   }
+  },
+  {
+   "id": "c329",
+   "text": "Graduation caps flung and held suspended mid-air above the crowd — four hundred uniforms shed at once, one shared weightless beat before they fall as litter.",
+   "source": "High School Musical 3: Senior Year (2008)",
+   "tags": {
+    "physical-operation": [
+     "shed"
+    ],
+    "spatial-relation": [
+     "suspended"
+    ],
+    "social-configuration": [
+     "crowd"
+    ],
+    "temporal-behavior": [
+     "instantaneous"
+    ],
+    "emotional-fantasy": [
+     "belonging"
+    ]
+   }
+  },
+  {
+   "id": "c330",
+   "text": "Laney descends the staircase in a borrowed red dress, glasses gone: the reveal shot where a wardrobe change is filmed as a new person arriving.",
+   "source": "She's All That (1999)",
+   "tags": {
+    "transition-affordance": [
+     "peel-reveal"
+    ],
+    "material-behavior": [
+     "fabric"
+    ],
+    "social-configuration": [
+     "witnessed"
+    ],
+    "emotional-fantasy": [
+     "recognition",
+     "power"
+    ],
+    "temporal-behavior": [
+     "rehearsed"
+    ]
+   }
+  }
+ ]
+}

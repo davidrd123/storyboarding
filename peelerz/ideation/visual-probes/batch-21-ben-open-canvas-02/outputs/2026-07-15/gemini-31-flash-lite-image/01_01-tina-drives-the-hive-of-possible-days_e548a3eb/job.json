@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:59:11-07:00",
+  "started_at": "2026-07-15T14:58:59-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 tina drives the hive of possible days",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, blue hoodie, intact dark car, rear-seat product moment, and live-action identity. They do not lock the outside world. ONE RULE \u2014 The neighborhood has become a single enormous physical grid of full-size alternate days. Street-wide black gutters divide the districts, and small faceless camera-like pollinators carry one architectural detail across each gutter so neighboring possibilities crossbreed. FRAME \u2014 One continuous aerial-oblique photograph, not panels. Tina's ordinary moving car is small but visible on a broad matte-black gutter-road that runs diagonally through the city. Six adjacent full-scale districts occupy enormous rectangular city blocks: rainy childhood suburb, dry desert future, night carnival, street submerged under clear ocean, vivid fruit metropolis, and completely ordinary Tuesday. Their roads align across the gutters even though weather, scale, and era differ. Hundreds of tiny elegant lens-bodied pollinators fly only across boundaries, carrying a palm tree, neon reflection, rain cloud, fish shadow, or architectural color into the neighboring district. Tina looks outward in wonder while keeping the gummy raised. VISUAL PROOF \u2014 one camera perspective; physical black streets as gutters; six inhabited full-scale districts; visible carried details changing the adjacent world. AVOID \u2014 graphic contact sheet, split screen, floating picture frames, portals, duplicate Tina, flying car, car transformation, bees with faces, tiny mascot swarm.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-tina-drives-the-hive-of-possible-days_e548a3eb",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-tina-drives-the-hive-of-possible-days_e548a3eb/01-tina-drives-the-hive-of-possible-days_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-tina-drives-the-hive-of-possible-days_e548a3eb/01-tina-drives-the-hive-of-possible-days_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

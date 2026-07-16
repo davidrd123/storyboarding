@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:59:51-07:00",
+  "started_at": "2026-07-15T14:59:34-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "04 city rebuilt between flavor tides",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, intact car, product, and live-action identity. Image 3 supplies only appetizing tropical fruit color/material. No existing miniature neighborhood or fruit-face cosmology is inherited. ONE RULE \u2014 Tina's Los Angeles block is a temporary dry sandbar between two towering translucent flavor oceans. Each repeated tide releases millions of small faceless candy units that interlock into a completely new city arrangement before the next wave. FRAME \u2014 Majestic street-level wide with Tina's intact dark car paused on the only dry asphalt road. A pale pearly lychee sea towers vertically along the entire left side; a dense glowing mango-gold sea towers along the right, both held in smooth tidal walls without crashing. In the freshly exposed zone behind the receding lychee tide, countless simple sugar-dusted candy shapes assemble like a coordinated material system into houses, palms, streetlights, overpasses, and a new road grid. Beneath the clear shallow edges, three previous submerged versions of the city are visible as ruins. Tina watches from the window, delighted by the reconstruction rather than threatened. VISUAL PROOF \u2014 two flavor oceans; one dry road; active city assembly; older cities beneath water. AVOID \u2014 tsunami disaster, frightened people, robots, characters with faces, ordinary construction crew, car peeling, sleeping giant, generic tropical candyland.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png",
+      "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-city-rebuilt-between-flavor-tides_8cfce866",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-city-rebuilt-between-flavor-tides_8cfce866/04-city-rebuilt-between-flavor-tides_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-city-rebuilt-between-flavor-tides_8cfce866/04-city-rebuilt-between-flavor-tides_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:49:43-07:00",
+  "started_at": "2026-07-14T02:49:31-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/assets.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "04 mango mecha design sheet",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Images 1 and 2 supply articulated heroic hard-surface mecha proportions, panel breaks, and industrial-design clarity only; remove all guns, military markings, and opaque plastic toy finish. Image 3 supplies the requirement that Raul's real human face remains visible at the center and the broad mango-orange silhouette, but reject its blocky pixel design. Create a sleek mango mecha suit displayed on a neutral featureless dark mannequin, with an unobstructed open face aperture ready to frame Raul's real head later. Articulated limbs, translucent amber gummy joints glowing from within, and glossy mango-peel armor panels shaped with subtle fruit curves. Turntable layout: full-body front, three-quarter front, strict side, and back views plus close detail callouts of a shoulder plate and glowing joint. Clean pale-gray studio background, identical light across views. Premium cinematic concept design, agile rather than bodybuilder-heavy. No recognizable pilot face, helmet over the face, weapons, wings, vehicle parts, logos, captions, or pineapple.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create a polished reference-ready character or industrial-design turntable on a clean neutral studio background. Maintain one consistent design across every angle and callout. These are ingredients for a cinematic live-action Peelerz commercial, so candy characters must look tactile, translucent, appetizing, and capable of being composited into later frames. No scene narrative, stadium, people, packaging, slogans, labels, borders, watermarks, weapons, horror, generic gummy bears, or preschool mascot styling unless a prompt explicitly requests otherwise.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../inspo/311a8df1f7c9f54a8faf504ce830212c.jpg",
+      "../../inspo/bffb4e02bb8c1c9bcd969a83557163f2.jpg",
+      "../../../script/PEELERZ - 07 - mango voltron.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/inspo/311a8df1f7c9f54a8faf504ce830212c.jpg",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/inspo/bffb4e02bb8c1c9bcd969a83557163f2.jpg",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 07 - mango voltron.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:59:34-07:00",
+  "started_at": "2026-07-15T14:59:23-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "03 campus customs progressively removes reality",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Liz and John, their wardrobe, Peelerz bags, campus steps, shared approach, and warm identity. They do not lock the later world. ONE RULE \u2014 The couple walks through six open customs sections along one enormous white structural lattice. Each checkpoint removes the next apparently unimportant element of reality: first signs, then background people, then shadows, then depth, then gravity, until only the couple, their gesture, and two flavor colors remain. FRAME \u2014 One deep continuous perspective photograph down the campus axis, never separate panels. Six monumental open rectangular truss sections recede toward the horizon with no glass or portal surfaces. The foreground is detailed live-action campus. Beyond section one all signs are blank; beyond two the campus is empty; beyond three objects cast no shadows; beyond four the world becomes flat theatrical layers; beyond five buildings and loose objects calmly leave the ground. Liz and John straddle the boundary between depth and flatness, still reaching toward each other and holding their bags; their mango-yellow and lychee-pink colors continue through the nearly empty final section. VISUAL PROOF \u2014 six real spaces visible at once in one perspective; each lacks exactly one additional property; the couple spans two states. AVOID \u2014 airport security comedy, officers, readable signage, Doctor Strange portals, split panels, abstract white void only, disappearing bodies, peril.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 09 - campus walk.png",
+      "../../../script/PEELERZ - 10 - campus connection.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-campus-customs-progressively-removes-reality_1bcf484e",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-campus-customs-progressively-removes-reality_1bcf484e/03-campus-customs-progressively-removes-reality_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-campus-customs-progressively-removes-reality_1bcf484e/03-campus-customs-progressively-removes-reality_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

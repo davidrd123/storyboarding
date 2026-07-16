@@ -1,0 +1,43 @@
+{
+  "success": true,
+  "prediction_id": null,
+  "status": "ok",
+  "error": null,
+  "model": {
+    "id": "bytedance/seedance-2.0",
+    "version": "@latest"
+  },
+  "inputs": {
+    "prompt": "Hold the establishing frame as the first frame. Motion only: a slow, steady dolly-in forward down the assembly line; rows of gold automata drift past; welder-arms pulse and throw small showers of sparks; faint steam and haze drift through the blue light; at his station the smith works in small movements. Patient, monumental. Low forge hum.",
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/kit-gpt/panel-01.png"
+  },
+  "resolved_params": {
+    "prompt": "Hold the establishing frame as the first frame. Motion only: a slow, steady dolly-in forward down the assembly line; rows of gold automata drift past; welder-arms pulse and throw small showers of sparks; faint steam and haze drift through the blue light; at his station the smith works in small movements. Patient, monumental. Low forge hum.",
+    "duration": 5,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/kit-gpt/panel-01.png"
+  },
+  "outputs": [
+    {
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/seedance-2.0/01_hephaestus-shot01-5s_c56b8493/hephaestus-shot01-5s_00.mp4",
+      "url": "https://replicate.delivery/xezq/MihGIzDXHr5BHBDZhPI3uFe6J3K9cAJv1FVcGteejLncxPQtA/tmpuswrf3c8.mp4",
+      "bytes": 3609857,
+      "expires_at": "2026-05-24T11:00:15Z",
+      "_metrics": {
+        "download_time_s": 0.5064614170696586
+      }
+    }
+  ],
+  "cold_start": true,
+  "metrics": {
+    "predict_time_s": 187.3629148339387,
+    "download_time_s": 0.5064614170696586,
+    "elapsed_s": 187.8698516250588
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T01:32:32-07:00",
+  "started_at": "2026-07-14T01:32:26-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/prompts.yaml",
+  "source_index": 9,
+  "mode": "image",
+  "title": "09 street becomes accordion",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Use the references for Tina, product, and dark car continuity but create a wide exterior music-video composition. After the bite, the suburban street ahead has physically folded into a giant architectural accordion. Rows of real houses compress and expand in rhythmic pleats, the road bends into bellows, and streetlights become oversized keys. Tina's car rides one moving fold. Bold practical production design, geometric and joyful, no musicians, printed notes, tropical transformation, or candyland.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one cinematic advertising styleframe, never a collage or storyboard grid. Image 1 and Image 2 establish Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Preserve her identity and the product, but obey each prompt's new composition and creative situation. Every job is an independent idea after Tina eats the candy; it does not need to preserve the car-peel, parachute, tropical, miniature, or gummy-fish ideas from other rounds. Make the single situation immediately legible, benign, youthful, visually bold, and plausible as a polished commercial styleframe. No captions, borders, split screens, watermarks, random candyland, or added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-street-becomes-accordion_0af5b3f3",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-street-becomes-accordion_0af5b3f3/09-street-becomes-accordion_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

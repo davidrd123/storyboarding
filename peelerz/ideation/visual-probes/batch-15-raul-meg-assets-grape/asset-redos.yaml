@@ -1,0 +1,47 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 2
+  system_prompt: >
+    Create a clean reference-ready character turntable. Image 1 is the character-design authority;
+    preserve its appealing proportions, personality, face simplicity, and tactile material. Image 2 is
+    layout authority only. Show the same character consistently across angles on a plain off-white
+    studio background. No environment, human figures, packaging, captions, labels, borders, watermark,
+    or unrelated redesign.
+
+jobs:
+  - title: 05 mango crew tactile redesign
+    images:
+      - ../../inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png
+      - outputs/2026-07-14/gemini-31-flash-lite-image/01_01-mango-crew-character-sheet_4cb50d16/01-mango-crew-character-sheet_01.png
+    prompt: >
+      Use case: ads-marketing.
+      REFERENCE AUTHORITY — Image 1 controls the mango species: irregular leaning mango-fruit body,
+      tiny nub hands and feet, dot eyes, tiny mouth, warm yellow-orange translucent gummy material, and
+      handmade miniature-set charm. Remove its pink bleacher prop and group arrangement. Image 2 controls
+      only the turntable layout; do not copy its larger mascot limbs, leaf cap, or polished generic face.
+      OUTPUT — one consistent mango helper shown in full-body front, three-quarter front, strict side,
+      and back views, plus small hauling and cheering action callouts. Preserve the minimal face and
+      almost-limbless proportions from Image 1. Identical soft studio light across all views.
+      AVOID — character labels, signs, separate accessories, human anatomy, bear ears, clothing, large
+      arms, large shoes, plastic-toy finish.
+
+  - title: 06 grape familiar gentle redesign
+    images:
+      - ../../inspo/gummy-guys/gens-01/ddickinson_a_small_pale_green_translucent_jelly_creature_wear_68aa24f1-9869-4a38-8705-3731e0334afe_3.png
+      - outputs/2026-07-14/gemini-31-flash-lite-image/02_02-grape-familiar-character-sheet_d64c553d/02-grape-familiar-character-sheet_02.png
+    prompt: >
+      Use case: ads-marketing.
+      REFERENCE AUTHORITY — Image 1 controls the familiar's gentle oddness, small triangular jelly body,
+      tiny feet, simple friendly face, enveloping pointed hood, and handmade tactile charm. Remove its
+      blue platform and fuzzy cloth material. Image 2 controls only the turntable layout; do not copy its
+      villain eyes, round body, or hard plastic polish.
+      OUTPUT — redesign the same gentle creature entirely as deep grape-violet translucent gummy candy.
+      Its hood and short cape are a thinner peeled grape-skin layer of the same edible jelly, clearly
+      translucent and stretchy rather than fabric. Show full-body front, three-quarter front, strict side,
+      and back views, plus small dramatic-bow and joyful-swan-dive action callouts. Identical soft studio
+      light across all views.
+      AVOID — green body, fabric, scarf, sinister expression, horns, wings, demon anatomy, bear shape,
+      labels, scene props, human figures.

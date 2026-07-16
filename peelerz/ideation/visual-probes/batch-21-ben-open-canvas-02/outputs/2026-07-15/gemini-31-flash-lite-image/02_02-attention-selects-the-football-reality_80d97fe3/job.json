@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:59:22-07:00",
+  "started_at": "2026-07-15T14:59:11-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 attention selects the football reality",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight high-school stadium geography and their isolated upper-bleacher viewpoint. Neither locks what the game becomes. ONE RULE \u2014 Every possible football play exists simultaneously on a different complete field in one three-dimensional stadium. The crowd's colored attention flows toward one field, causing that possibility to grow toward full scale while the others remain smaller but real. FRAME \u2014 Daylight ultra-wide with Raul and Meg seated at the quiet geometric center. Twelve complete football fields occupy a vast orderly three-dimensional volume above, below, behind, and in front of the original field, each at a different scale and orientation, each running a different live play with players and shadows. They are not rocks or islands; they are open rectangular planes nested like spatial thumbnails without frames. From separate crowd sections, wide visible ribbons of colored gaze/light converge on one chosen play, whose field is enlarging through the central stadium while its players stay correctly proportioned. Raul and Meg realize their attention also creates two thinner mango and grape streams. VISUAL PROOF \u2014 twelve simultaneous active fields; attention visibly converges; one field expands; ordinary stadium remains the containing space. AVOID \u2014 scoreboard replay, floating islands, gummy animals, generic multiverse portals, mecha, cheering mascots, collage.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-attention-selects-the-football-reality_80d97fe3",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-attention-selects-the-football-reality_80d97fe3/02-attention-selects-the-football-reality_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-attention-selects-the-football-reality_80d97fe3/02-attention-selects-the-football-reality_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

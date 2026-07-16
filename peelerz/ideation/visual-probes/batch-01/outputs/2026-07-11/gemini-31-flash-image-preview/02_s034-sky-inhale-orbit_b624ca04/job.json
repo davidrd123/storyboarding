@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T14:40:53-07:00",
+  "started_at": "2026-07-11T14:40:44-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "s034 sky inhale orbit",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal cinematic commercial styleframe using the reference image's same Tina, wardrobe, Uber, pink Peelerz candy and package. View her at the open passenger window in a normal late-afternoon neighborhood. A bitten pink Peelerz is held directly beside her open mouth and is the unmistakable visual center of a localized air current. Loose street objects outside \u2014 leaves, receipts, a paper cup, a lightweight patio chair, loose mail \u2014 follow one clean curved orbital path through the open window around the candy and Tina. The heavy car and buildings stay grounded. Make the orbit readable through spatial arrangement, lifted hair, clothing, and object orientation rather than drawn motion lines. One impossible physical rule only: the open window and Peelerz bite have become the center of a slow inhale. Dynamic but compositionally clean. No tornado funnel, no disaster, no candyland, no generic magic glow, no extra characters, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": "../../../script/PEELERZ - 01 - Tina in car.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/02_s034-sky-inhale-orbit_b624ca04",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/02_s034-sky-inhale-orbit_b624ca04/s034-sky-inhale-orbit_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

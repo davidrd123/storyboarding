@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:18:31-07:00",
+  "started_at": "2026-07-14T02:18:22-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/failed-retry.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "07 meg not impressed retry",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 controls Raul and Meg identity and seating relationship but move them to crowded football bleachers. Image 2 supplies the enormous orange anime transformation around Raul. Image 3 supports Meg's face only; reject its extreme wide-angle mouth crop. Create a comedic two-depth frame. Raul transforms amid orange lightning in the middle background while foreground Meg calmly eats her acid-green apple gummy and raises one eyebrow, dry and almost unimpressed. Keep both characters legible. No boredom, phone, contempt, extra green creature, isolated portrait, or park setting.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's stated reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl in the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Raul's flavor is mango-orange. Meg's working flavor is acid-green apple. Mango minions are energetic translucent gummy hype-men; Meg has exactly one sardonic green gummy imp. Preserve live-action teenage identities while using anime energy or tactile candy characters where requested. Mouth-passage imagery must remain wholly confectionary and never anatomical. Avoid generic robot armor, weapons, preschool mascots, horror, captions, borders, watermarks, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 06 - anime transformation.png",
+      "../../../script/PEELERZ - 08 - Meg reaction.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 08 - Meg reaction.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-meg-not-impressed-retry_f9a96144",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-meg-not-impressed-retry_f9a96144/07-meg-not-impressed-retry_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

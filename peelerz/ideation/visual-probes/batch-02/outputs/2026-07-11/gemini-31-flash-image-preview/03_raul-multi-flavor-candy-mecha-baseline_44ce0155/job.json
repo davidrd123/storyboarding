@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T15:53:16-07:00",
+  "started_at": "2026-07-11T15:53:02-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/prompts.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "raul multi flavor candy mecha baseline",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a bold cinematic commercial styleframe answering the director's literal question: a better giant transformation built from multiple Peelerz candies and flavors. Preserve Raul and Meg's faces, teen age, styling, candy packages, and mango Peelerz from the references, but place them on high-school football bleachers. Raul stands at the center of an ORIGINAL modular candy mecha assembled around him. Distinct translucent candy modules remain visibly separate by flavor and color: mango-gold legs, lychee-pink torso, green-apple arm, grape-purple arm, with curled peel strips locking the pieces together at the joints. Raul's real face remains visible at the center; Meg watches from the bleachers holding her package. Make the assembly logic and flavor modularity readable in one hero frame, playful and premium rather than toy clutter. No likeness to any existing robot franchise, no logos beyond Peelerz packaging, no weapons, no candyland, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 06 - anime transformation.png",
+      "../../../script/PEELERZ - 07 - mango voltron.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 07 - mango voltron.png"
+  ],
+  "attempts": 1,
+  "text": "This commercial styleframe accurately depicts the original multi-flavor mecha transformation request on the bleachers. The mecha follows the specific color-flavor modularity (purple arm, green arm, mango legs), and the translucent candy material with peel-strip connectors is well-rendered. Meg is correctly placed with the packaging, and the composition avoids toy clutter for a premium look. I will show the image to the user.",
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/03_raul-multi-flavor-candy-mecha-baseline_44ce0155",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/03_raul-multi-flavor-candy-mecha-baseline_44ce0155/raul-multi-flavor-candy-mecha-baseline_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

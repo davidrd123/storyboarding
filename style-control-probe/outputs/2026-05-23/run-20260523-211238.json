@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-05-23T21:13:22-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-05-23T21:13:22-07:00",
+      "started_at": "2026-05-23T21:12:39-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+      "source_index": 1,
+      "mode": "image",
+      "title": "sisyphus-escalator-v01",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Use the attached reference image for STYLE ONLY \u2014 borrow its litho-crayon line quality, its tri-tone palette, its paper grain and ink-starvation texture, and its flat printmaking technique. Do NOT borrow its subject (the watching figure, the crowd, the dog-head poster), its composition, or any scene element from it. Render a completely new scene in that style: Sisyphus as a stooped commuter shoving a heavy stalled shopping cart up a long broken-down escalator in a derelict transit hall, head bowed, coat heavy on his shoulders. The escalator climbs into shadow above him. Lonely, weary, monumental.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": null,
+        "temperature": null,
+        "system_prompt": "A early-20th-century Die Br\u00fccke Expressionist multi-color stone lithograph in the spirit of Munch, Kirchner, and Nolde. Forms drawn with a thick, blunt, greasy litho-crayon line that drags and crumbles on coarse textured stone \u2014 no fine detail, no clean vector edges, no anti-aliasing. Flat stencil-like color blocks printed behind a dark key-line layer, with slightly offset registration that leaves unprinted warm-cream paper borders. Coarse organic paper tooth throughout; imperfect, hand-rolled ink coverage with visible ink starvation \u2014 speckled white paper grain breaking through the dark ink. Restricted low-saturation tri-tone palette: warm cream paper, dusty rose-pink, and deep Prussian blue, with at most a single muted terracotta-red accent. Stark, flat, high-contrast graphic shapes; form defined by flat silhouettes and heavy outlines. Absolutely no gradients, no digital glow, no volumetric shading, no specular highlights, no photorealism, and never a sterile pure-white background \u2014 the substrate is always warm fibrous aged-cream paper.",
+        "num_outputs": 2,
+        "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Cerberus_turnstiles_-_the_three_heads_as_security__8f5831c8-5e20-4490-bd11-b6e29596a6c4_0.png",
+        "images": null,
+        "config": {}
+      },
+      "input_count": 1,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Cerberus_turnstiles_-_the_three_heads_as_security__8f5831c8-5e20-4490-bd11-b6e29596a6c4_0.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v01_b619761f",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v01_b619761f/sisyphus-escalator-v01_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v01_b619761f/sisyphus-escalator-v01_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

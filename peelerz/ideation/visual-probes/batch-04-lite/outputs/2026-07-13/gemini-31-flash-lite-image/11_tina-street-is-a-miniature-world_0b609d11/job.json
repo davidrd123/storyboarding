@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T17:27:13-07:00",
+  "started_at": "2026-07-13T17:27:05-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/prompts.yaml",
+  "source_index": 11,
+  "mode": "image",
+  "title": "tina street is a miniature world",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 is the edit target. Preserve Tina, face, hair, wardrobe, product, pose, car interior, camera, and lighting. Image 2 is only supporting identity and candy reference. Reveal the neighborhood outside the window as an extremely detailed tabletop miniature while Tina and the rideshare remain full-sized. Building-sized fingers enter from above to adjust tiny trees, reposition parked cars, and plant jewel-colored tropical vegetation into model lawns. Make the miniature scale clear through model seams, handcrafted texture, and human fingertips. Photoreal macro detail, playful scale rupture, no giant face, no candyland, no text.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Generate exploratory cinematic candy-commercial styleframes. Follow the stated role of each reference image. When Image 1 is named as the edit target, preserve its subject, face, wardrobe, car interior, camera position, and photographic realism unless the prompt explicitly changes them. Avoid captions, panel borders, watermarks, generic candyland, and random rainbow effects.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/11_tina-street-is-a-miniature-world_0b609d11",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/11_tina-street-is-a-miniature-world_0b609d11/tina-street-is-a-miniature-world_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T19:09:09-07:00",
+  "started_at": "2026-07-13T19:09:03-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-07-sky-peel-progression/prompts.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 seam in the ordinary sky",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: precise-object-edit. Asset type: cinematic storyboard opening frame. Image 1 is the edit target and controls Tina, product, car interior, street, camera, and daylight. Preserve everything except one tiny atmospheric detail. High in the blue sky outside the passenger window, add a very fine curved seam and a thumbnail-sized translucent corner beginning to lift like clear fruit skin. It is barely visible against the clouds. Tina still studies the peeled gummy and has not noticed. The car is fully intact and enclosed. Ordinary realism first, anomaly second.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one frame from a coherent live-action Peelerz commercial sequence. Maintain Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz package. Photoreal cinematic advertising with tactile real-world materials. The sky behaves as one peelable atmospheric membrane. Elegant, buoyant, and benign; no generic rainbow, candyland, explosion, disaster, captions, panel borders, watermarks, or extra characters.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-07-sky-peel-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-seam-in-the-ordinary-sky_a416d35c",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-07-sky-peel-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-seam-in-the-ordinary-sky_a416d35c/01-seam-in-the-ordinary-sky_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

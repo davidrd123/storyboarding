@@ -1,0 +1,288 @@
+{
+  "created_at": "2026-07-15T15:00:20-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+  "job_count": 6,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:59:11-07:00",
+      "started_at": "2026-07-15T14:58:59-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "01 tina drives the hive of possible days",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, blue hoodie, intact dark car, rear-seat product moment, and live-action identity. They do not lock the outside world. ONE RULE \u2014 The neighborhood has become a single enormous physical grid of full-size alternate days. Street-wide black gutters divide the districts, and small faceless camera-like pollinators carry one architectural detail across each gutter so neighboring possibilities crossbreed. FRAME \u2014 One continuous aerial-oblique photograph, not panels. Tina's ordinary moving car is small but visible on a broad matte-black gutter-road that runs diagonally through the city. Six adjacent full-scale districts occupy enormous rectangular city blocks: rainy childhood suburb, dry desert future, night carnival, street submerged under clear ocean, vivid fruit metropolis, and completely ordinary Tuesday. Their roads align across the gutters even though weather, scale, and era differ. Hundreds of tiny elegant lens-bodied pollinators fly only across boundaries, carrying a palm tree, neon reflection, rain cloud, fish shadow, or architectural color into the neighboring district. Tina looks outward in wonder while keeping the gummy raised. VISUAL PROOF \u2014 one camera perspective; physical black streets as gutters; six inhabited full-scale districts; visible carried details changing the adjacent world. AVOID \u2014 graphic contact sheet, split screen, floating picture frames, portals, duplicate Tina, flying car, car transformation, bees with faces, tiny mascot swarm.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../../../script/PEELERZ - 02 - Tina takes bite.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-tina-drives-the-hive-of-possible-days_e548a3eb",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-tina-drives-the-hive-of-possible-days_e548a3eb/01-tina-drives-the-hive-of-possible-days_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-tina-drives-the-hive-of-possible-days_e548a3eb/01-tina-drives-the-hive-of-possible-days_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:59:22-07:00",
+      "started_at": "2026-07-15T14:59:11-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+      "source_index": 2,
+      "mode": "image",
+      "title": "02 attention selects the football reality",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight high-school stadium geography and their isolated upper-bleacher viewpoint. Neither locks what the game becomes. ONE RULE \u2014 Every possible football play exists simultaneously on a different complete field in one three-dimensional stadium. The crowd's colored attention flows toward one field, causing that possibility to grow toward full scale while the others remain smaller but real. FRAME \u2014 Daylight ultra-wide with Raul and Meg seated at the quiet geometric center. Twelve complete football fields occupy a vast orderly three-dimensional volume above, below, behind, and in front of the original field, each at a different scale and orientation, each running a different live play with players and shadows. They are not rocks or islands; they are open rectangular planes nested like spatial thumbnails without frames. From separate crowd sections, wide visible ribbons of colored gaze/light converge on one chosen play, whose field is enlarging through the central stadium while its players stay correctly proportioned. Raul and Meg realize their attention also creates two thinner mango and grape streams. VISUAL PROOF \u2014 twelve simultaneous active fields; attention visibly converges; one field expands; ordinary stadium remains the containing space. AVOID \u2014 scoreboard replay, floating islands, gummy animals, generic multiverse portals, mecha, cheering mascots, collage.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-attention-selects-the-football-reality_80d97fe3",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-attention-selects-the-football-reality_80d97fe3/02-attention-selects-the-football-reality_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-attention-selects-the-football-reality_80d97fe3/02-attention-selects-the-football-reality_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:59:34-07:00",
+      "started_at": "2026-07-15T14:59:23-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+      "source_index": 3,
+      "mode": "image",
+      "title": "03 campus customs progressively removes reality",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Liz and John, their wardrobe, Peelerz bags, campus steps, shared approach, and warm identity. They do not lock the later world. ONE RULE \u2014 The couple walks through six open customs sections along one enormous white structural lattice. Each checkpoint removes the next apparently unimportant element of reality: first signs, then background people, then shadows, then depth, then gravity, until only the couple, their gesture, and two flavor colors remain. FRAME \u2014 One deep continuous perspective photograph down the campus axis, never separate panels. Six monumental open rectangular truss sections recede toward the horizon with no glass or portal surfaces. The foreground is detailed live-action campus. Beyond section one all signs are blank; beyond two the campus is empty; beyond three objects cast no shadows; beyond four the world becomes flat theatrical layers; beyond five buildings and loose objects calmly leave the ground. Liz and John straddle the boundary between depth and flatness, still reaching toward each other and holding their bags; their mango-yellow and lychee-pink colors continue through the nearly empty final section. VISUAL PROOF \u2014 six real spaces visible at once in one perspective; each lacks exactly one additional property; the couple spans two states. AVOID \u2014 airport security comedy, officers, readable signage, Doctor Strange portals, split panels, abstract white void only, disappearing bodies, peril.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 09 - campus walk.png",
+          "../../../script/PEELERZ - 10 - campus connection.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-campus-customs-progressively-removes-reality_1bcf484e",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-campus-customs-progressively-removes-reality_1bcf484e/03-campus-customs-progressively-removes-reality_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/03_03-campus-customs-progressively-removes-reality_1bcf484e/03-campus-customs-progressively-removes-reality_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T14:59:51-07:00",
+      "started_at": "2026-07-15T14:59:34-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+      "source_index": 4,
+      "mode": "image",
+      "title": "04 city rebuilt between flavor tides",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, intact car, product, and live-action identity. Image 3 supplies only appetizing tropical fruit color/material. No existing miniature neighborhood or fruit-face cosmology is inherited. ONE RULE \u2014 Tina's Los Angeles block is a temporary dry sandbar between two towering translucent flavor oceans. Each repeated tide releases millions of small faceless candy units that interlock into a completely new city arrangement before the next wave. FRAME \u2014 Majestic street-level wide with Tina's intact dark car paused on the only dry asphalt road. A pale pearly lychee sea towers vertically along the entire left side; a dense glowing mango-gold sea towers along the right, both held in smooth tidal walls without crashing. In the freshly exposed zone behind the receding lychee tide, countless simple sugar-dusted candy shapes assemble like a coordinated material system into houses, palms, streetlights, overpasses, and a new road grid. Beneath the clear shallow edges, three previous submerged versions of the city are visible as ruins. Tina watches from the window, delighted by the reconstruction rather than threatened. VISUAL PROOF \u2014 two flavor oceans; one dry road; active city assembly; older cities beneath water. AVOID \u2014 tsunami disaster, frightened people, robots, characters with faces, ordinary construction crew, car peeling, sleeping giant, generic tropical candyland.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../../../script/PEELERZ - 02 - Tina takes bite.png",
+          "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-city-rebuilt-between-flavor-tides_8cfce866",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-city-rebuilt-between-flavor-tides_8cfce866/04-city-rebuilt-between-flavor-tides_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-city-rebuilt-between-flavor-tides_8cfce866/04-city-rebuilt-between-flavor-tides_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T15:00:04-07:00",
+      "started_at": "2026-07-15T14:59:51-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+      "source_index": 5,
+      "mode": "image",
+      "title": "05 repeated plays become stadium geology",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight bleachers, football game, and upper-row viewpoint. Raul remains ordinary; no anime armor occurs. ONE RULE \u2014 Every time the team repeats a play, the field deposits another complete turf layer above the last. Repetition accumulates into vertical geology containing the memory of every performance. FRAME \u2014 Daylight super-wide across a stadium transformed into a canyon of twelve connected full-size football fields stacked vertically like geological strata, not floating separately. Each horizontal turf layer contains the same live play frozen at a different one-second phase: snap, handoff, run, block, tackle. Yard lines align as continuous sediment bands down the canyon wall. Dense jewel-like candy units form thin structural seams between layers without faces or limbs. At the top, the current field is visibly growing one fresh green layer while Raul and Meg observe from the one remaining bleacher ledge. VISUAL PROOF \u2014 twelve connected field strata; chronological phases readable; current layer forming; observers small against immense accumulated memory. AVOID \u2014 floating field islands, animal carriers, scoreboard components, ordinary multi-level stadium, mecha, candy workers, landslide.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-repeated-plays-become-stadium-geology_2235469a",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-repeated-plays-become-stadium-geology_2235469a/05-repeated-plays-become-stadium-geology_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-repeated-plays-become-stadium-geology_2235469a/05-repeated-plays-become-stadium-geology_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-15T15:00:20-07:00",
+      "started_at": "2026-07-15T15:00:04-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+      "source_index": 6,
+      "mode": "image",
+      "title": "06 sky birds exchange complete world pods",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Liz and John, Peelerz bags, campus entrance, and identity. Image 3 supplies appetizing fruit-world density only. No current campus world-swap composition is inherited. ONE RULE \u2014 Colossal elegant birds exchange sealed translucent world-pods above the campus. When one pod descends, the existing world disappears in a strict sequence\u2014extras, cars, signs, buildings\u2014 while the complete replacement world emerges from inside the same pod. FRAME \u2014 One cinematic continuous daylight wide. Liz and John remain on the central campus steps, eyes locked. Directly above them a crane-like sky bird releases a house-sized pearly grape pod. Across the left third, ordinary campus still exists but all background people have vanished; the central third has lost cars, signs, and buildings, exposing clean ground; across the right third, an intricate night ocean-city is physically unfolding from the descending pod, with luminous canals, boats, libraries, and fruit constellations. Three other enormous birds cross the upper sky carrying unopened mango, lychee, and mixed-flavor pods containing visibly different climates. VISUAL PROOF \u2014 single descending pod; ordered disappearance; replacement world emerging; other world-pods in transit. AVOID \u2014 portal rings, flying field islands, giant fruit face, destructive birds, eggs hatching animals, collage, empty abstract void, direct religious symbolism.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 09 - campus walk.png",
+          "../../../script/PEELERZ - 10 - campus connection.png",
+          "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-sky-birds-exchange-complete-world-pods_e1cf4802",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-sky-birds-exchange-complete-world-pods_e1cf4802/06-sky-birds-exchange-complete-world-pods_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-sky-birds-exchange-complete-world-pods_e1cf4802/06-sky-birds-exchange-complete-world-pods_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

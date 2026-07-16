@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T17:57:02-07:00",
+  "started_at": "2026-07-11T17:56:54-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/prompts.yaml",
+  "source_index": 8,
+  "mode": "image",
+  "title": "tina each house at a different hour control",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal cinematic commercial styleframe answering \u201cwhat is outside the window?\u201d with a time rule rather than a peel rule. Preserve the same Tina, wardrobe, rideshare interior, pink Lychee Peelerz candy and package. From inside the moving car, show one continuous suburban block through the passenger window, but each adjacent house occupies a visibly different hour of the same day: blue dawn with sprinklers, hard noon sun, glowing sunset, deep night with porch lights. The boundaries fall cleanly at property lines while architecture and camera perspective remain continuous. Tina, lit neutrally inside the car, has just taken a bite and looks outward. Make the four times legible through shadows, sky and household activity\u2014not labels or clocks. One temporal law, no split-screen borders, no peel, no portal, no fantasy particles, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/08_tina-each-house-at-a-different-hour-control_2d101b64",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/08_tina-each-house-at-a-different-hour-control_2d101b64/tina-each-house-at-a-different-hour-control_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:10:08-07:00",
+  "started_at": "2026-07-15T15:10:03-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/scenes.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "04 band finally in tune",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 locks the tiny irregular mango-helper species; Image 2 supplies football-stadium realism only. A high-school marching band plays on the sideline at golden hour, entirely mundane except that dozens of tiny mango helpers peer from trumpet and tuba bells, ride the trombone slides, and hold sheet music in perfect synchronization. Musicians remain unbothered and focused. Brass reflections clearly repeat the orange gummy forms. Deadpan medium-wide photograph. No animated instruments, giant mascots, confetti, text, chaotic swarm, or preschool staging.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or character sheet. Treat the impossible idea as one physical rule photographed in one world. Preserve only declared reference roles. Raul and Meg remain together in high-school football bleachers. Liz and John remain together on campus. Mango helpers are irregular translucent fruit-like gummy pieces with minimal features, not gummy bears or preschool mascots. Driver scenes use restrained, deadpan documentary realism with exactly one impossible channel. Candy stretches rather than tears. Benign, appetizing, youthful, visually legible. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png",
+      "../../../script/PEELERZ - 05 - park bench.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-band-finally-in-tune_9801fba9",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-band-finally-in-tune_9801fba9/04-band-finally-in-tune_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

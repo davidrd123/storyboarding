@@ -1,0 +1,84 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 2
+  system_prompt: >
+    Create one polished cinematic live-action Peelerz commercial styleframe, not a collage or design
+    sheet. Obey the countable mechanical specification before making the frame pretty. Keep one causal
+    action readable through physical contact, tension, attached edges, and a visible active boundary.
+    Preserve declared reference authorities. No captions, labels, watermarks, invented packaging, gore,
+    weapons, generic gummy bears, generic magical glow, or unexplained finished transformations.
+
+jobs:
+  - title: 01 four attached car sheets follow moving seams
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png
+      - ../batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png
+      - ../batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png
+    prompt: >
+      REFERENCE AUTHORITY — Image 1 locks Tina, blue hoodie, rear seat, and dark sedan. Image 2 locks the
+      real-car / miniature-neighborhood scale and tiny lychee-helper scale. Images 3 and 4 lock flexible
+      car-skin material and its eventual canopy continuity.
+      INVARIANTS — Wheelbase, pillars, floor, rear seat, and Tina remain coherent and grounded.
+      SUBSTRATE — Only the painted roof and upper door skin changes.
+      INITIAL STATE — Blue-gray, rigid, flush with the car.
+      APPLIED FORCE — Four teams of tiny lychee helpers pull four glowing sugar seams rearward; every
+      helper's hands grip a seam, never a panel.
+      TOPOLOGY — Exactly four broad continuous sheets; each begins as part of the roof/upper doors and
+      remains attached along one lower outer edge. No sheet originates above the car.
+      STATE CHANGE — Immediately behind each moving seam, rigid blue-gray surface becomes thin flexible
+      pearly-pink edible membrane and rotates upward around its still-attached edge.
+      SHOT PROOF — Wide passenger-side three-quarter at the instant all four moving boundaries are visible:
+      blue rigid surface ahead, pink flexible sheet behind, tiny hands on the seams, Tina delighted inside.
+      LITERALIZATION HAZARDS / VETO — no flower, petals, leaves, wings, botanical forms, freestanding
+      canopy, convertible mechanism, torn metal, giant hand.
+
+  - title: 02 meg tensions one component rail
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png
+      - ../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png
+      - ../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png
+    prompt: >
+      REFERENCE AUTHORITY — Image 1 locks Raul, Meg, and wardrobe. Image 2 locks daylight top bleachers.
+      Image 3 locks dense mango-flesh armor and graphite joints. Image 4 locks mango helpers.
+      INVARIANTS — Raul's real face is uncovered; normal clothes remain visible on unarmored areas.
+      SUBSTRATE — One pre-shaped dense mango-flesh shoulder plate, separate from Raul.
+      INITIAL STATE — The plate rests on the bleacher seat three feet to Raul's right.
+      APPLIED FORCE — Meg leans back with both feet planted and pulls one long amber edible strip taut;
+      its far end passes through a visible loop on the plate. Four mango helpers push the plate from behind.
+      TOPOLOGY — The strip, plate loop, helpers, and open graphite shoulder socket form one uninterrupted
+      straight line. No other strings or floating components.
+      STATE CHANGE — The plate slides along the aluminum row toward the empty shoulder socket; half the
+      distance remains, making assembly incomplete and obvious.
+      SHOT PROOF — Low open daylight wide along the row, Meg at right under tension, Raul at left, moving
+      plate centered between them, every contact point visible.
+      LITERALIZATION HAZARDS / VETO — no flower, wings, lighthouse, beam, fishing rod, grape-character
+      chain, giant fruit behind Raul, finished suit, floating plate, bodybuilder anatomy.
+
+  - title: 03 five helpers carry one open elbow gap
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png
+      - ../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png
+      - ../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png
+    prompt: >
+      REFERENCE AUTHORITY — Image 1 locks Raul and Meg. Image 2 locks daylight top bleachers. Image 3
+      locks the opaque mango-flesh suit and graphite under-frame. Image 4 exactly locks mango helpers.
+      INVARIANTS — Raul's real uncovered face and a credible narrow mechanical silhouette.
+      SUBSTRATE — The upper-arm and forearm mango plates on Raul's bent right arm.
+      INITIAL STATE — They are separated by one clean eight-inch gap; the graphite elbow connector has
+      not arrived yet.
+      APPLIED FORCE — Exactly five mango helpers form one straight horizontal chain across that gap. The
+      first grips a metal loop on the upper-arm plate, each middle helper grips the next helper's hands,
+      and the fifth grips a loop on the forearm plate. Their bodies stretch under the forearm's weight.
+      TOPOLOGY — One gap, two loops, five helpers, four hand-to-hand links. No helpers anywhere else on
+      the armor. The forearm hangs slightly lower, proving the chain carries load.
+      STATE CHANGE — One small graphite connector approaches the gap from above but has not locked.
+      SHOT PROOF — Daylight medium close profile of the bent arm occupying half the frame, with Raul and
+      Meg's engaged faces visible behind it and every link large enough to read.
+      LITERALIZATION HAZARDS / VETO — no decorative garland, necklace, grape characters, helper crowd,
+      complete elbow joint, helpers sitting on armor, bodybuilder suit, plastic surface, crushing or pain.

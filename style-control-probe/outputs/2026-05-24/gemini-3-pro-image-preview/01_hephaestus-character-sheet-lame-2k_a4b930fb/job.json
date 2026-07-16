@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T15:07:56-07:00",
+  "started_at": "2026-05-24T15:07:06-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "hephaestus-character-sheet-lame-2k",
+  "model": "gemini-3-pro-image-preview",
+  "prompt": "A character model sheet / animation turntable, on a clean plain white studio background.\n\nSUBJECT \u2014 extract and render ONLY the bearded, fair-haired smith on the LEFT of the reference image. Ignore the gold automata and the industrial background entirely. He is HEPHAESTUS: a MIDDLE-AGED smith (not an old man, not white-haired), broad and stooped in build, fair/blond shoulder-length hair, a full beard, a weary tender watchful expression. He wears a pale cream work-robe draped off one shoulder. Keep his exact face, hair, beard, build and costume identical across every view.\n\nHIS LAMENESS IS A DEFINING TRAIT AND MUST READ CLEARLY: his right leg is visibly lamed \u2014 the lower leg twisted and the foot turned inward (a club foot), the calf wasted/thinner than the sound left leg. He cannot bear weight evenly: he stoops, hip dropped, weight thrown onto the sound leg, and leans on a simple worn wooden staff/crutch for support. This asymmetry must be obvious in every full-body view.\n\nLAYOUT \u2014 a multi-angle turntable spread, evenly and identically lit across all views:\n- full-body FRONT view\n- full-body THREE-QUARTER FRONT view\n- full-body BACK view\nplus two clearly labeled detail callout panels: a head-and-shoulders FACE close-up, and a LEG DETAIL close-up of the lamed, twisted lower leg and turned foot.\n\nSTYLE \u2014 painterly cinematic concept-art rendering matching the reference image's medium and palette (warm gold skin tones against cool light, rich brushwork). NOT photoreal, NOT a flat line drawing.\n\nClean white background, no environment, no other characters, no props beyond his costume and his support staff, only faint angle markers. 16:9 aspect ratio.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "2K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 2,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet-lame-2k_a4b930fb",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet-lame-2k_a4b930fb/hephaestus-character-sheet-lame-2k_01.png",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet-lame-2k_a4b930fb/hephaestus-character-sheet-lame-2k_02.png",
+      "width": 2752,
+      "height": 1536
+    }
+  ]
+}

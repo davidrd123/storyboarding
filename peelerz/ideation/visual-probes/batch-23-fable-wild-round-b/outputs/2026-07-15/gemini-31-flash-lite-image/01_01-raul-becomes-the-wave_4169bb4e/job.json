@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:09:50-07:00",
+  "started_at": "2026-07-15T15:09:43-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/scenes.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 raul becomes the wave",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 locks Raul and Meg, relocated together to crowded night football bleachers. Image 2 locks the irregular translucent mango-helper material only. The crowd performs the wave, but the moving crest is physically made of hundreds of small mango gummy figures rippling through successive rows and gently lifting spectators as they pass. Raul's ordinary body dissolves only at the leading edge into identical mango units while Meg reaches toward him, fully engaged. Wide stadium view shows human wave behind, gummy crest, and Raul-to-crest transition. No water wave, explosion, giant robot, detached Raul clone, empty stands, or panic.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or character sheet. Treat the impossible idea as one physical rule photographed in one world. Preserve only declared reference roles. Raul and Meg remain together in high-school football bleachers. Liz and John remain together on campus. Mango helpers are irregular translucent fruit-like gummy pieces with minimal features, not gummy bears or preschool mascots. Driver scenes use restrained, deadpan documentary realism with exactly one impossible channel. Candy stretches rather than tears. Benign, appetizing, youthful, visually legible. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_02.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-raul-becomes-the-wave_4169bb4e",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-raul-becomes-the-wave_4169bb4e/01-raul-becomes-the-wave_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

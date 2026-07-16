@@ -1,0 +1,836 @@
+{
+  "created_at": "2026-07-14T03:23:01-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+  "job_count": 17,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:19:11-07:00",
+      "started_at": "2026-07-14T03:18:57-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "01 center eaten crew wakes in peel",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg's identity and clothing. Image 2 is the established world; continue its top-row geography, empty descending seats, field, and dusk light. Image 3 is exact authority for every mango helper's design and material. BEAT \u2014 Medium two-shot. Raul has just eaten the soft center of one peeled mango gummy. He still holds its single long empty edible peel curled across both hands. Exactly four tiny mango helpers have awakened inside the curl: two climb out, one grabs the peel edge, one raises both arms to rally the others. Meg notices the movement beside him. The product action, empty center, continuous peel, and helpers are all readable. AVOID \u2014 intact second gummy, paper wrapper physics, helpers floating randomly, armor already formed, crowded row, giant hands, green characters.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-center-eaten-crew-wakes-in-peel_21d071d9",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-center-eaten-crew-wakes-in-peel_21d071d9/01-center-eaten-crew-wakes-in-peel_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-center-eaten-crew-wakes-in-peel_21d071d9/01-center-eaten-crew-wakes-in-peel_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:19:25-07:00",
+      "started_at": "2026-07-14T03:19:11-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 2,
+      "mode": "image",
+      "title": "02 mango crew wraps raul",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks identity and clothing. Image 2 locks the stadium world and seating geography. Image 3 locks mango-helper appearance; do not reinterpret them. BEAT \u2014 Dynamic medium-wide at the top row. Exactly eight helpers work like a coordinated rigging crew, physically hauling Raul's one continuous mango peel around his seated body. The elastic peel stretches, thins, and glows at tension points as it rises from his ankles toward his shoulders, beginning to enclose him. Raul is delighted; Meg leans back to make room. Every helper touches or pulls the same connected peel\u2014no magic levitation and no tools. AVOID \u2014 finished armor, paper ribbons, bandages, constriction distress, random candy swarm, helpers with signs, crowded seats.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-crew-wraps-raul_ff5a1ca5",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-crew-wraps-raul_ff5a1ca5/02-mango-crew-wraps-raul_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-crew-wraps-raul_ff5a1ca5/02-mango-crew-wraps-raul_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:19:37-07:00",
+      "started_at": "2026-07-14T03:19:25-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 3,
+      "mode": "image",
+      "title": "03 giant mango replacement wide",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks identity and clothing. Image 2 is the literal world and staging authority. Image 3 supplies only the seated giant-mango scale; reject its visible human silhouette, transparent cocoon idea, crowded row, and night exposure. BEAT \u2014 Wide frame continuing Image 2. Raul has been completely replaced at his exact seat by one enormous upright mango-shaped gummy, roughly his seated height, softly glowing orange-gold. No part or silhouette of Raul is visible inside. His Peelerz bag rests beside the mango and his familiar sneakers remain directly below it as the comic clue. Fine orange lightning begins crawling over the gummy surface. Meg leans away with an astonished raised eyebrow. The ordinary game continues below. AVOID \u2014 human trapped inside, egg, blob monster, fire, explosion already happening, extra giant fruit, opaque plastic, crowd beside Meg.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-cocoon_ce38620f/02-mango-cocoon_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-cocoon_ce38620f/02-mango-cocoon_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-giant-mango-replacement-wide_03b1e8ee",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-giant-mango-replacement-wide_03b1e8ee/03-giant-mango-replacement-wide_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-giant-mango-replacement-wide_03b1e8ee/03-giant-mango-replacement-wide_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:19:48-07:00",
+      "started_at": "2026-07-14T03:19:37-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 4,
+      "mode": "image",
+      "title": "04 giant mango stress close",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Meg. Image 2 locks light, setting, and top-row isolation. Image 3 supplies giant mango scale only, never the person visible inside. BEAT \u2014 Tight cinematic insert across the giant mango's glossy curved surface with Meg's profile in the near background. The edible outer layer stretches outward at four internal pressure points; each stress point thins translucent and glows amber while clean anime lightning traces between them. The gummy is about to open but has not burst. Meg studies it with fascinated apprehension. AVOID \u2014 cracks in hard glass, leaking liquid, flesh, human silhouette, horror, full explosion, generic energy ball.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-cocoon_ce38620f/02-mango-cocoon_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-cocoon_ce38620f/02-mango-cocoon_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-giant-mango-stress-close_a7dc6d7c",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-giant-mango-stress-close_a7dc6d7c/04-giant-mango-stress-close_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-giant-mango-stress-close_a7dc6d7c/04-giant-mango-stress-close_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:20:07-07:00",
+      "started_at": "2026-07-14T03:19:48-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 5,
+      "mode": "image",
+      "title": "05 mango shell bursts into mecha",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Raul, Meg, and wardrobe. Image 2 locks the world. Image 3 locks every helper. Image 4 locks the mango-mecha panels, proportions, joints, and material; place Raul's real uncovered face from Image 1 in its open face aperture. BEAT \u2014 Heroic mid-transformation wide. The giant mango shell opens outward in five thick elastic peel sections rather than shattering. Raul rises from the center as those exact sections fold and lock into the referenced mecha's chest, shoulders, arms, and legs. Orange lightning joins the pieces. Six helpers ride or guide the moving panels with their hands. Meg remains safely visible on the next seat. Preserve the empty rows and field behind the event. AVOID \u2014 glass debris, goo blast, generic robot, gummy bodybuilder, helmet hiding Raul, weapons, helpers redesigned as humans, crowd surrounding them.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-mango-shell-bursts-into-mecha_6bd384a3",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-mango-shell-bursts-into-mecha_6bd384a3/05-mango-shell-bursts-into-mecha_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-mango-shell-bursts-into-mecha_6bd384a3/05-mango-shell-bursts-into-mecha_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:20:23-07:00",
+      "started_at": "2026-07-14T03:20:07-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 6,
+      "mode": "image",
+      "title": "06 mango pit crew completes mecha",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks human identity and clothing. Image 2 locks the world. Image 3 is exact helper authority. Image 4 is exact mecha authority, with Raul's uncovered face visible. BEAT \u2014 Low medium frame at the top bleachers. Raul stands almost fully suited in the referenced mango mecha while exactly eight helpers complete distinct physical tasks: two push a shoulder plate, two pull a glowing peel connector taut, two brace a shin panel, and two signal completion. Their tiny hands contact the components. Raul looks down, thrilled; Meg watches from her seat. No tools. AVOID \u2014 signs or words, generic construction workers, floating parts, gummy-bear helpers, bodybuilder armor, weapon, full stadium crowd at their row.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-mango-pit-crew-completes-mecha_07c2d16d",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-mango-pit-crew-completes-mecha_07c2d16d/06-mango-pit-crew-completes-mecha_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-mango-pit-crew-completes-mecha_07c2d16d/06-mango-pit-crew-completes-mecha_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:20:40-07:00",
+      "started_at": "2026-07-14T03:20:23-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 7,
+      "mode": "image",
+      "title": "07 finished mecha and hype crew",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Images 1\u20134 lock human identity, world, helper design, and mecha design in that order. Do not redesign any of them. BEAT \u2014 Clean heroic wide from lower on the empty bleachers. Fully transformed Raul stands at the very top in the exact mango mecha, uncovered real face visible, one energetic pumped pose. Exactly ten mango helpers form a loose line along the railing and echo his pose with tiny variations. Meg remains seated just outside the formation, amused. Stadium floodlights rim the translucent joints; the game and crowd remain small below. AVOID \u2014 orange gummy strongman, block robot, identical miniature Rauls, weapons, empty field, crowd moved to top row, giant helpers.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_07-mango-crew-direct-turntable_090c3b00/07-mango-crew-direct-turntable_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/07_07-finished-mecha-and-hype-crew_e9fb2c27",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/07_07-finished-mecha-and-hype-crew_e9fb2c27/07-finished-mecha-and-hype-crew_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/07_07-finished-mecha-and-hype-crew_e9fb2c27/07-finished-mecha-and-hype-crew_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:20:54-07:00",
+      "started_at": "2026-07-14T03:20:40-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 8,
+      "mode": "image",
+      "title": "08 anime effect reaches the game",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks the wide geography. Image 3 supplies only the localized anime propagation across the football field. Image 4 locks Raul's mecha. BEAT \u2014 Wide view over Raul and Meg's shoulders from the top row. Mecha-Raul glows softly at frame right while a visible orange wave travels down the empty seats and reaches the live football play. Only the active play becomes anime: one runner gains controlled speed lines, pompoms pop into small orange graphic bursts, and the scoreboard emits a stylized pulse. The physical field and people remain recognizable. Meg watches the effect reach the game. AVOID \u2014 real fire, destruction, entire candyland replacement, empty play, anime teenagers in the foreground, illegible geography.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/08_08-anime-effect-reaches-the-game_e01c1c83",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/08_08-anime-effect-reaches-the-game_e01c1c83/08-anime-effect-reaches-the-game_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/08_08-anime-effect-reaches-the-game_e01c1c83/08-anime-effect-reaches-the-game_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:21:08-07:00",
+      "started_at": "2026-07-14T03:20:54-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 9,
+      "mode": "image",
+      "title": "09 meg has not turned around yet",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Meg. Image 2 locks the top-row world. Image 3 supplies only the distant anime chaos affecting the game. BEAT \u2014 Tight shallow-focus portrait of Meg calmly examining one peeled deep-purple grape gummy in her fingertips. She has not turned around yet. Far below behind her, the referee freezes mid-whistle inside a graphic burst while players trail orange speed lines and the crowd reacts. The gag is the contrast between her quiet concentration and obvious distant chaos. No grape creature is visible yet. AVOID \u2014 bored contempt, looking at camera, green gummy, creature already emerged, crowded top row, whole frame becoming animation.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-meg-has-not-turned-around-yet_aaf34083",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-meg-has-not-turned-around-yet_aaf34083/09-meg-has-not-turned-around-yet_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-meg-has-not-turned-around-yet_aaf34083/09-meg-has-not-turned-around-yet_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:21:27-07:00",
+      "started_at": "2026-07-14T03:21:08-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 10,
+      "mode": "image",
+      "title": "10 public spectacle private visitor",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks identities. Image 2 locks world geography and dusk light. Image 3 locks Raul's finished mecha. Image 4 locks the single grape familiar exactly. BEAT \u2014 Cinematic shallow-focus cross-frame at the isolated top row. Foreground Meg holds the single grape familiar on her palm and exchanges a quiet, curious look with it. Deep background Raul stands in the referenced mango mecha amid orange lightning and distant game spectacle. Preserve a large band of empty bleachers between their visual scales. Meg is privately engaged, not unimpressed. AVOID \u2014 extra familiar, green character, generic purple imp, crowded seating, mecha in foreground, romance, split-screen layout.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-public-spectacle-private-visitor_797e7251",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-public-spectacle-private-visitor_797e7251/10-public-spectacle-private-visitor_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-public-spectacle-private-visitor_797e7251/10-public-spectacle-private-visitor_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:21:39-07:00",
+      "started_at": "2026-07-14T03:21:27-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 11,
+      "mode": "image",
+      "title": "11 grape familiar peels awake",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Meg. Image 2 locks the world. Image 3 is exact authority for the single grape familiar; reproduce its gentle face, proportions, and continuous peeled hood. BEAT \u2014 Intimate macro-medium at the top row. Meg gently opens one deep-purple grape gummy between her fingertips. The soft center itself is becoming the referenced familiar while the continuous thinner outer layer lifts and settles around it as its pointed hood and cape. One hand still holds the curling peel, making the transformation physically legible. Meg smiles in private recognition. Raul's orange event is only distant bokeh. AVOID \u2014 creature placed beside an intact gummy, fabric clothing, tearing flesh, extra familiar, sinister eyes, green color, mouth action yet.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/11_11-grape-familiar-peels-awake_d55dfe7c",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/11_11-grape-familiar-peels-awake_d55dfe7c/11-grape-familiar-peels-awake_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/11_11-grape-familiar-peels-awake_d55dfe7c/11-grape-familiar-peels-awake_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:21:53-07:00",
+      "started_at": "2026-07-14T03:21:39-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 12,
+      "mode": "image",
+      "title": "12 grape familiar bows on empty seat",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Meg. Image 2 locks the empty top-row theater. Image 3 exactly locks the single familiar. BEAT \u2014 Quiet medium two-shot. The grape familiar stands alone on the empty aluminum seat beside Meg and performs one solemn theatrical bow, holding the edge of its translucent peel-cape. Meg looks down with dry amusement and leans slightly closer. A wide sky and empty seats isolate their private exchange while the ordinary game glows far below. AVOID \u2014 generic mascot performance, hat, cane, clothing, second creature, crowd beside them, green color, sinister demon expression.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/12_12-grape-familiar-bows-on-empty-seat_e55e5528",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/12_12-grape-familiar-bows-on-empty-seat_e55e5528/12-grape-familiar-bows-on-empty-seat_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/12_12-grape-familiar-bows-on-empty-seat_e55e5528/12-grape-familiar-bows-on-empty-seat_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:22:04-07:00",
+      "started_at": "2026-07-14T03:21:53-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 13,
+      "mode": "image",
+      "title": "13 meg accepts invitation",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Meg. Image 2 locks geography and light. Image 3 exactly locks the single familiar. BEAT \u2014 Eye-level intimate close-up. Meg holds the familiar at eye height on her open palm. It points one tiny hand toward her and then toward her gently opened mouth like an inviting guide; its peeled cape stretches behind into one thin violet candy ribbon. Meg knowingly leans closer, amused and willing. Preserve clear physical distance before any dive. Orange stadium energy is distant bokeh. AVOID \u2014 forced feeding, fear, giant mouth, tongue emphasis, visible throat, creature already touching her face, extra familiar, green light.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/13_13-meg-accepts-invitation_7948db28",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/13_13-meg-accepts-invitation_7948db28/13-meg-accepts-invitation_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/13_13-meg-accepts-invitation_7948db28/13-meg-accepts-invitation_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:22:18-07:00",
+      "started_at": "2026-07-14T03:22:04-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 14,
+      "mode": "image",
+      "title": "14 grape familiar true midair dive",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Meg's profile. Image 2 locks the top-row background and light. Image 3 exactly locks the single familiar. BEAT \u2014 Strict side-profile macro composed as hand \u2192 airborne character \u2192 face. Meg's open palm is low at frame left and her smiling profile is at frame right. The grape familiar is fully airborne halfway between them, horizontal and headfirst in a joyful swan dive, arms forward, feet behind. There is unmistakable empty air separating it from both her hand and mouth. One short violet peel- ribbon traces the arc from palm to its trailing cape. Focus is on the midair familiar. AVOID \u2014 creature standing on palm, creature sitting, contact with lips, giant mouth, teeth or tongue emphasis, throat view, falling human, terror, extra creature.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/14_14-grape-familiar-true-midair-dive_47e2b0a0",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/14_14-grape-familiar-true-midair-dive_47e2b0a0/14-grape-familiar-true-midair-dive_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/14_14-grape-familiar-true-midair-dive_47e2b0a0/14-grape-familiar-true-midair-dive_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:22:31-07:00",
+      "started_at": "2026-07-14T03:22:18-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 15,
+      "mode": "image",
+      "title": "15 violet passage becomes ivy",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks the confectionary tunnel depth, stained-glass jelly light, and circular destination composition, but change its material from green apple to deep grape violet. Image 2 exactly locks the single familiar. Image 3 locks only the sunny ivy-covered campus visible beyond the exit. BEAT \u2014 Camera travels inside a wholly confectionary violet grape-gummy passage. The familiar glides ahead toward daylight, its thin peeled cape trailing as one violet tendril along the tunnel wall. Only as that tendril reaches the bright opening does it gradually turn green and become real ivy climbing the campus building outside. The morph is continuous and visible in one frame. AVOID \u2014 teeth, tongue, throat, flesh, cave rock, underwater ocean, abrupt separate grapevine, extra creatures, night campus, generic purple vortex.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-green-candy-passage_9302926a/09-green-candy-passage_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png",
+          "../../../script/PEELERZ - 09 - campus walk.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/09_09-green-candy-passage_9302926a/09-green-candy-passage_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/15_15-violet-passage-becomes-ivy_5a13625a",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/15_15-violet-passage-becomes-ivy_5a13625a/15-violet-passage-becomes-ivy_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/15_15-violet-passage-becomes-ivy_5a13625a/15-violet-passage-becomes-ivy_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:22:44-07:00",
+      "started_at": "2026-07-14T03:22:31-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 16,
+      "mode": "image",
+      "title": "16 grape bunch personalities alternate",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Meg and Raul. Image 2 locks the world. Image 3 exactly locks the grape-bunch character material, faces, and cluster logic. BEAT \u2014 Playful alternate medium frame. Meg opens a grape Peelerz and a compact cluster of twelve round grape personalities unfolds in her hands. Three individual grapes pop free with tiny arms waving while the remaining nine cling together as a recognizable bunch. Raul's orange transformation glows softly behind her. Meg is delighted by the tiny social world rather than merely reacting. AVOID \u2014 one hooded familiar, loose realistic fruit, swarm filling frame, generic gummy bears, green apple, crowded row, horror faces.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30/03-grape-bunch-multiplicity-sheet_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30/03-grape-bunch-multiplicity-sheet_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/16_16-grape-bunch-personalities-alternate_26bb7ef1",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/16_16-grape-bunch-personalities-alternate_26bb7ef1/16-grape-bunch-personalities-alternate_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/16_16-grape-bunch-personalities-alternate_26bb7ef1/16-grape-bunch-personalities-alternate_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T03:23:01-07:00",
+      "started_at": "2026-07-14T03:22:44-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+      "source_index": 17,
+      "mode": "image",
+      "title": "17 gummy football crowd alternate",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg as ordinary humans. Image 2 locks the exact wide bleacher geography. Images 3 and 4 lock the tactile scale, simple faces, and fruit-specific gummy character language for the transformed crowd. BEAT \u2014 Comedic wide continuing the world plate. Raul and Meg remain ordinary and completely unbothered at the isolated top row. Every spectator in the lower crowded rows has become a small colorful fruit-gummy character wearing a tiny team scarf or holding a tiny foam finger, all cheering wildly toward the unchanged live football game. Preserve the long empty rows separating the teens from the gummy crowd. AVOID \u2014 human crowd remaining, gummy bears, giant gummies, transformed Raul or Meg, candy football field, characters moved to top row, preschool illustration.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+          "../../inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30/03-grape-bunch-multiplicity-sheet_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-grape-bunch-multiplicity-sheet_74039a30/03-grape-bunch-multiplicity-sheet_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/17_17-gummy-football-crowd-alternate_4d48d96f",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/17_17-gummy-football-crowd-alternate_4d48d96f/17-gummy-football-crowd-alternate_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/17_17-gummy-football-crowd-alternate_4d48d96f/17-gummy-football-crowd-alternate_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{"fragments": [
+ {"id": "c501",
+  "text": "Gushers Fruit Heads: eating the fruit snack instantly turns the eater's head into the matching fruit — a normal kid's body topped by an enormous, unmistakable fruit head.",
+  "source": "Gushers — Fruit Heads (1990s), record grade B",
+  "tags": {
+    "physical-operation": ["inflate"],
+    "product-fact": ["fruit-form"],
+    "temporal-behavior": ["instantaneous"],
+    "emotional-fantasy": ["mischief"]
+  }},
+ {"id": "c502",
+  "text": "Capri Sun Disrespectoids: how a kid handles the pouch determines the transformation — bend, squeeze or mishandle it and the body becomes a grotesquely literal embodiment of that exact abuse.",
+  "source": "Capri Sun — Disrespectoids / Respect the Pouch (2009–), record grade B",
+  "tags": {
+    "physical-operation": ["fold"],
+    "material-behavior": ["plastic"],
+    "temporal-behavior": ["delayed"],
+    "emotional-fantasy": ["mischief"]
+  }},
+ {"id": "c503",
+  "text": "Skittles Touch: anything Tim touches turns to Skittles — his office desk disintegrates into candy while coworkers happily eat the evidence and he despairs at his own contagious hand.",
+  "source": "Skittles — Touch (2007), record grade B",
+  "tags": {
+    "physical-operation": ["dissolve"],
+    "temporal-behavior": ["instantaneous"],
+    "social-configuration": ["witnessed"],
+    "productive-contradiction": ["controlled-chaos"]
+  }},
+ {"id": "c504",
+  "text": "Evian Baby & Me: adults see their inner selves as baby reflections moving in perfect sync — a dancer in the street mirrored by an identically dressed baby in the shop window.",
+  "source": "Evian — Baby & Me (2013), record grade A",
+  "tags": {
+    "spatial-relation": ["mirrored"],
+    "transition-affordance": ["reflection"],
+    "emotional-fantasy": ["recognition"],
+    "social-configuration": ["paired"]
+  }},
+ {"id": "c505",
+  "text": "Old Spice The Man Your Man Could Smell Like: one unbroken direct-address monologue holds steady while set, props and scale transform around the spokesman — ending seated backward on a horse.",
+  "source": "Old Spice — The Man Your Man Could Smell Like (2010), record grade A",
+  "tags": {
+    "transition-affordance": ["constant-anchor"],
+    "temporal-behavior": ["gradual"],
+    "social-configuration": ["broadcast"],
+    "emotional-fantasy": ["power"],
+    "formal-medium": ["live-action"]
+  }},
+ {"id": "c506",
+  "text": "Cravendale Cats with Thumbs: milk-obsessed cats evolve opposable thumbs and organize a society around that single development — a line of unnervingly calm cats flexing them as their owner realizes.",
+  "source": "Cravendale — Cats with Thumbs (2011), record grade A",
+  "tags": {
+    "emotional-fantasy": ["mischief"],
+    "social-configuration": ["crowd"],
+    "temporal-behavior": ["gradual"],
+    "productive-contradiction": ["polite-violation"]
+  }},
+ {"id": "c507",
+  "text": "Samsung Ostrich: a flightless bird experiences flight through a VR headset, then carries the conviction into real air — a photoreal ostrich suspended against sunset, legs bicycling with astonished determination.",
+  "source": "Samsung — Ostrich (2017), record grade B",
+  "tags": {
+    "spatial-relation": ["suspended"],
+    "temporal-behavior": ["rehearsed"],
+    "emotional-fantasy": ["escape"],
+    "formal-medium": ["live-action"]
+  }},
+ {"id": "c508",
+  "text": "Levi's Odyssey: running bodies ignore architecture, bursting through wall after wall as if concrete were paper — two runners punch cleanly through an apartment and keep going into open forest air.",
+  "source": "Levi's Engineered Jeans — Odyssey (2002), record grade B",
+  "tags": {
+    "transition-affordance": ["rupture"],
+    "spatial-relation": ["threshold"],
+    "emotional-fantasy": ["escape"],
+    "social-configuration": ["paired"]
+  }},
+ {"id": "c509",
+  "text": "IKEA Beds: a woman falls through a dream sky populated with floating beds, testing landing after landing until she reaches her own — thousands of beds suspended above the city.",
+  "source": "IKEA — Beds (2014), record grade B",
+  "tags": {
+    "spatial-relation": ["suspended"],
+    "temporal-behavior": ["rehearsed"],
+    "emotional-fantasy": ["relief"],
+    "social-configuration": ["alone"]
+  }},
+ {"id": "c510",
+  "text": "Apple HomePod Welcome Home: music physically stretches and recolors a cramped apartment around its dancing tenant — a narrow hallway pulled open into impossible bands of space and color by her body.",
+  "source": "Apple HomePod — Welcome Home (2018), record grade B",
+  "tags": {
+    "physical-operation": ["stretch"],
+    "material-behavior": ["rubber"],
+    "spatial-relation": ["compressed"],
+    "emotional-fantasy": ["relief"],
+    "temporal-behavior": ["gradual"]
+  }},
+ {"id": "c511",
+  "text": "Burberry Open Spaces: garment freedom becomes gravityless group flight — four young people glide in formation over real British fields and coastline, their clothes moving as visibly as their bodies.",
+  "source": "Burberry — Open Spaces (2021), record grade B",
+  "tags": {
+    "spatial-relation": ["suspended"],
+    "material-behavior": ["fabric"],
+    "emotional-fantasy": ["belonging"],
+    "social-configuration": ["crowd"]
+  }},
+ {"id": "c512",
+  "text": "Kenzo World: a restrained gala guest's pent-up energy erupts into wild choreography through a formal building — she points down an empty hall and fires a green laser from her fingertip.",
+  "source": "Kenzo — Kenzo World (2016), record grade C",
+  "tags": {
+    "emotional-fantasy": ["mischief"],
+    "temporal-behavior": ["instantaneous"],
+    "social-configuration": ["alone"],
+    "productive-contradiction": ["polite-violation"]
+  }},
+ {"id": "c513",
+  "text": "Coca-Cola Masterpiece: one bottle relays from artwork to artwork, each world redrawing it in its own visual grammar — it changes medium at the exact seam where two famous canvases meet.",
+  "source": "Coca-Cola — Masterpiece (2023), record grade A",
+  "tags": {
+    "transition-affordance": ["constant-anchor"],
+    "spatial-relation": ["threshold"],
+    "formal-medium": ["oil-painting"],
+    "social-configuration": ["paired"]
+  }},
+ {"id": "c514",
+  "text": "Honda Paper: the company's whole history unfolds in one hand-made paper universe — human hands flip, slide and rotate drawings so a motorcycle becomes car, racer, and finally flight, in camera.",
+  "source": "Honda — Paper (2015), record grade A",
+  "tags": {
+    "material-behavior": ["paper"],
+    "formal-medium": ["stop-motion"],
+    "transition-affordance": ["constant-anchor"],
+    "physical-operation": ["fold"],
+    "temporal-behavior": ["gradual"]
+  }},
+ {"id": "c515",
+  "text": "Lacoste Timeless: every train carriage belongs to a different decade; a man's romantic pursuit stays continuous while clothes, passengers and design change — he crosses each coupling into a new era mid-stride.",
+  "source": "Lacoste — Timeless (2017), record grade B",
+  "tags": {
+    "spatial-relation": ["threshold"],
+    "transition-affordance": ["constant-anchor"],
+    "emotional-fantasy": ["intimacy"],
+    "social-configuration": ["paired"]
+  }},
+ {"id": "c516",
+  "text": "Adidas_1 Hello Tomorrow: awakened shoes carry a sleeper through a dark gravity-shifting dream where each footstep generates the path — he runs across walls and ceiling on a trail of light.",
+  "source": "Adidas_1 — Hello Tomorrow (2005), record grade C",
+  "tags": {
+    "spatial-relation": ["suspended"],
+    "physical-operation": ["unlock"],
+    "emotional-fantasy": ["awe"],
+    "temporal-behavior": ["gradual"],
+    "social-configuration": ["alone"]
+  }},
+ {"id": "c517",
+  "text": "PlayStation 2 The Third Place: the console is a portal into a monochrome dream realm of doubles and fragmented identity — a young man faces his doppelgänger beside an inexplicable human-duck figure.",
+  "source": "PlayStation 2 — The Third Place (2000), record grade A",
+  "tags": {
+    "spatial-relation": ["mirrored", "threshold"],
+    "emotional-fantasy": ["recognition"],
+    "productive-contradiction": ["lucid-weirdness"],
+    "formal-medium": ["live-action"]
+  }},
+ {"id": "c518",
+  "text": "Honda The Other Side: one synchronized drive, two realities — holding the R key flips between a daytime school run and a nocturnal art-heist, matched frame for frame, gesture for gesture.",
+  "source": "Honda Civic / Type R — The Other Side (2014), record grade A",
+  "tags": {
+    "spatial-relation": ["mirrored"],
+    "transition-affordance": ["match-cut"],
+    "temporal-behavior": ["instantaneous"],
+    "physical-operation": ["unlock"],
+    "productive-contradiction": ["polite-violation"]
+  }},
+ {"id": "c519",
+  "text": "Coca-Cola Happiness Factory: inside the vending machine lives a complete civilization whose creatures, terrain and machinery exist to prepare one bottle, which emerges through the coin slot after an ornate ritual.",
+  "source": "Coca-Cola — Happiness Factory (2006), record grade B",
+  "tags": {
+    "spatial-relation": ["nested"],
+    "social-configuration": ["convergence"],
+    "temporal-behavior": ["rehearsed"],
+    "emotional-fantasy": ["awe"]
+  }},
+ {"id": "c520",
+  "text": "Oreo Wonderfilled: sharing the cookie rewrites a story's emotional logic — an iconic antagonist receives an Oreo and the illustrated world around him blossoms into an unexpectedly friendly version of itself.",
+  "source": "Oreo — Wonderfilled (2013), record grade A",
+  "tags": {
+    "social-configuration": ["paired"],
+    "emotional-fantasy": ["belonging"],
+    "formal-medium": ["cel-animation"],
+    "temporal-behavior": ["instantaneous"]
+  }},
+ {"id": "c521",
+  "text": "Sony Bravia Balls: hundreds of thousands of colored balls pour down real San Francisco streets — a whole hill filled edge-to-edge with bouncing color, the city still legible beneath the spectacle.",
+  "source": "Sony Bravia — Balls (2005), record grade A",
+  "tags": {
+    "material-behavior": ["rubber"],
+    "physical-operation": ["decant"],
+    "temporal-behavior": ["gradual"],
+    "emotional-fantasy": ["awe"],
+    "productive-contradiction": ["controlled-chaos"]
+  }},
+ {"id": "c522",
+  "text": "Guinness Surfer: the violence and white foam of a breaking wave materialize as enormous charging horses — mythic white stallions surge inside the dark wall of water beside the waiting surfers.",
+  "source": "Guinness — Surfer (1999), record grade A",
+  "tags": {
+    "material-behavior": ["foam"],
+    "emotional-fantasy": ["awe"],
+    "temporal-behavior": ["delayed"],
+    "social-configuration": ["witnessed"]
+  }},
+ {"id": "c523",
+  "text": "Cadbury Gorilla: the film performs pleasure instead of explaining chocolate — a solemn gorilla sits at a full drum kit, closes its eyes, and waits before the ecstatic musical release.",
+  "source": "Cadbury Dairy Milk — Gorilla (2007), record grade A",
+  "tags": {
+    "temporal-behavior": ["delayed"],
+    "emotional-fantasy": ["relief"],
+    "social-configuration": ["alone"],
+    "productive-contradiction": ["lucid-weirdness"]
+  }},
+ {"id": "c524",
+  "text": "Lurpak Kitchen Odyssey: making one omelette shot as an epic macro voyage — butter, egg and pan become monumental terrain and explosive weather while remaining appetizing food in close-up.",
+  "source": "Lurpak — Kitchen Odyssey (2011), record grade B",
+  "tags": {
+    "formal-medium": ["macro"],
+    "spatial-relation": ["miniature"],
+    "product-fact": ["texture-contrast"],
+    "emotional-fantasy": ["awe"],
+    "temporal-behavior": ["gradual"]
+  }},
+ {"id": "c525",
+  "text": "Honda Cog: dozens of isolated car parts trigger one another in one exact chain reaction — each collision both payoff and setup — until the finished Accord rolls away.",
+  "source": "Honda Accord — Cog (2003), record grade A",
+  "tags": {
+    "temporal-behavior": ["gradual", "rehearsed"],
+    "productive-contradiction": ["controlled-chaos"],
+    "formal-medium": ["live-action"],
+    "social-configuration": ["alone"]
+  }},
+ {"id": "c526",
+  "text": "PlayStation 2 Mountain: thousands of people climb, support and overtake one another until their bodies form one colossal human mountain against the skyline, a single tiny figure reaching its summit.",
+  "source": "PlayStation 2 — Mountain (2003), record grade B",
+  "tags": {
+    "social-configuration": ["crowd", "convergence"],
+    "spatial-relation": ["layered"],
+    "emotional-fantasy": ["power"],
+    "temporal-behavior": ["gradual"]
+  }}
+]}

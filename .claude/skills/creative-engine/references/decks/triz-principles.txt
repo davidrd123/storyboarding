@@ -1,0 +1,43 @@
+# TRIZ 40 inventive principles (Altshuller), glossed for creative work.
+# Protocol: state the craft contradiction ("improving X worsens Y"), draw 3
+# principles, resolve with BOTH improving — no trade-off allowed.
+1. Segmentation — divide it into independent parts; make it modular
+2. Taking out — extract the disturbing part or the only necessary part
+3. Local quality — make each part serve a different function; no uniformity
+4. Asymmetry — replace symmetry with asymmetry; increase existing asymmetry
+5. Merging — bring identical or related operations together in space or time
+6. Universality — one part performs multiple functions; eliminate the rest
+7. Nested doll — place one inside another, inside another
+8. Anti-weight — compensate weight by joining with something that lifts
+9. Preliminary anti-action — pre-stress against the known future problem
+10. Preliminary action — do the required change before it is needed
+11. Beforehand cushioning — prepare emergency means in advance
+12. Equipotentiality — remove the need to raise or lower; keep it level
+13. The other way round — invert the action; fix what moves, move what's fixed
+14. Spheroidality — replace straight lines with curves, rollers, rotation
+15. Dynamics — make it adjustable, movable, adaptive mid-process
+16. Partial or excessive action — do slightly less or absurdly more than needed
+17. Another dimension — move into 2D/3D; tilt it; use the reverse side
+18. Vibration — oscillate it; use resonance
+19. Periodic action — replace continuous action with pulses and pauses
+20. Continuity of useful action — eliminate idle strokes; everything works always
+21. Skipping — run the harmful or risky step at very high speed
+22. Blessing in disguise — use the harmful factor to achieve the positive effect
+23. Feedback — introduce feedback; or change the feedback that exists
+24. Intermediary — use a carrier or temporary intermediate object
+25. Self-service — the thing services itself; waste products do the work
+26. Copying — use a cheap copy instead of the fragile expensive original
+27. Cheap short-living objects — replace one durable thing with many disposables
+28. Mechanics substitution — replace the mechanism with a field, smell, sound
+29. Pneumatics and hydraulics — use air, water, inflation instead of solids
+30. Flexible shells and thin films — membranes instead of walls
+31. Porous materials — make it porous; hide function in the pores
+32. Color changes — change color, transparency, visibility
+33. Homogeneity — make interacting objects of the same material
+34. Discarding and recovering — parts that vanish or restore themselves mid-use
+35. Parameter changes — change the state: gas, liquid, solid, concentration
+36. Phase transitions — use the moment of transformation itself
+37. Thermal expansion — use expansion and contraction
+38. Strong oxidants — enrich the atmosphere; intensify the environment
+39. Inert atmosphere — calm the environment to nothing; add void
+40. Composite materials — combine materials with different properties

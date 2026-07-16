@@ -1,0 +1,297 @@
+{"fragments": [
+  {"id": "c101",
+   "text": "Méliès pumps his own duplicate head with bellows in The Man with the Rubber Head; it swells to fill the room, then bursts.",
+   "source": "The Man with the Rubber Head (1901)",
+   "tags": {
+     "physical-operation": ["inflate"],
+     "material-behavior": ["rubber"],
+     "temporal-behavior": ["gradual"],
+     "emotional-fantasy": ["mischief"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "c102",
+   "text": "Keaton steps into the movie screen in Sherlock Jr.; each cut strands him on a new set — garden, cliff edge, lion den — the world reshuffling underfoot.",
+   "source": "Sherlock Jr. (1924)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "transition-affordance": ["match-cut"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["mischief"],
+     "formal-medium": ["live-action"]
+   }},
+  {"id": "c103",
+   "text": "Rings of light climb the seated machine-man in Metropolis as Maria's stolen face forms over the chrome, one luminous stratum at a time.",
+   "source": "Metropolis (1927)",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "spatial-relation": ["layered"],
+     "temporal-behavior": ["gradual"],
+     "emotional-fantasy": ["power"],
+     "social-configuration": ["witnessed"]
+   }},
+  {"id": "c104",
+   "text": "Dorothy opens the sepia farmhouse door in The Wizard of Oz and the doorway becomes a window flooded with Technicolor — the dull inside framing a saturated elsewhere.",
+   "source": "The Wizard of Oz (1939)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "transition-affordance": ["wipe"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["awe"],
+     "product-fact": ["texture-contrast"]
+   }},
+  {"id": "c105",
+   "text": "Shrunk below doll size in The Incredible Shrinking Man, Scott duels a cellar spider with a sewing pin and beds down inside a matchbox.",
+   "source": "The Incredible Shrinking Man (1957)",
+   "tags": {
+     "spatial-relation": ["miniature"],
+     "temporal-behavior": ["gradual"],
+     "formal-medium": ["live-action"],
+     "social-configuration": ["alone"],
+     "emotional-fantasy": ["awe"]
+   }},
+  {"id": "c106",
+   "text": "In Karel Zeman's Invention for Destruction, live actors sail seas hatched like Victorian engravings — etched flat lines and breathing flesh sharing one continuous world.",
+   "source": "Invention for Destruction (1958)",
+   "tags": {
+     "material-behavior": ["paper"],
+     "spatial-relation": ["layered"],
+     "formal-medium": ["toy-theater"],
+     "productive-contradiction": ["lucid-weirdness"],
+     "product-fact": ["texture-contrast"]
+   }},
+  {"id": "c107",
+   "text": "In The Colour of Pomegranates, crushed pomegranates bleed dark juice through white cloth, the stain spreading into the shape of an ancient kingdom.",
+   "source": "The Colour of Pomegranates (1969)",
+   "tags": {
+     "physical-operation": ["decant"],
+     "material-behavior": ["fabric", "syrup"],
+     "product-fact": ["fruit-form"],
+     "temporal-behavior": ["gradual"],
+     "emotional-fantasy": ["recognition"]
+   }},
+  {"id": "c108",
+   "text": "Honey's first henshin in Cutie Honey: clothes burst away in a ring of light and a new self snaps on — the ur-template of magical-girl molting.",
+   "source": "Cutie Honey (1973)",
+   "tags": {
+     "physical-operation": ["shed"],
+     "temporal-behavior": ["instantaneous"],
+     "formal-medium": ["cel-animation"],
+     "emotional-fantasy": ["power"],
+     "social-configuration": ["alone"]
+   }},
+  {"id": "c109",
+   "text": "Norstein's hedgehog steps into the fog bank in Hedgehog in the Fog and half-vanishes; a white horse surfaces from the vapor like a developing photograph.",
+   "source": "Hedgehog in the Fog (1975)",
+   "tags": {
+     "physical-operation": ["dissolve"],
+     "spatial-relation": ["layered", "threshold"],
+     "temporal-behavior": ["gradual"],
+     "emotional-fantasy": ["awe"]
+   }},
+  {"id": "c110",
+   "text": "In The Thing, Norris's chest splits open into a toothed mouth mid-defibrillation; later his severed head sprouts crab legs and walks away.",
+   "source": "The Thing (1982)",
+   "tags": {
+     "physical-operation": ["split"],
+     "transition-affordance": ["rupture"],
+     "material-behavior": ["flesh"],
+     "spatial-relation": ["inside-out"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "c111",
+   "text": "A pencil-drawn hand reaches out of the comic panel in a-ha's Take On Me and pulls the girl through; inside, she is rotoscope lines too.",
+   "source": "Take On Me (1985)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "material-behavior": ["paper", "ink"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["intimacy"],
+     "social-configuration": ["paired"]
+   }},
+  {"id": "c112",
+   "text": "Peter Gabriel's face rebuilt frame by frame in Sledgehammer: fruit orbits his pixilated head, plums for eyes, a mask assembling and unassembling itself.",
+   "source": "Sledgehammer (1986)",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "spatial-relation": ["orbiting"],
+     "product-fact": ["fruit-form", "layers"],
+     "formal-medium": ["stop-motion"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "c113",
+   "text": "Tetsuo's arm in Akira regrows from cables and scrap, then his whole body balloons into a flesh avalanche that swallows what he loves.",
+   "source": "Akira (1988)",
+   "tags": {
+     "physical-operation": ["inflate"],
+     "material-behavior": ["flesh"],
+     "transition-affordance": ["rupture"],
+     "emotional-fantasy": ["power"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "c114",
+   "text": "Svankmajer's taxidermy rabbit in Alice tears itself off its museum mount, leaking sawdust from the split seam, and pins its own belly shut.",
+   "source": "Alice (1988)",
+   "tags": {
+     "physical-operation": ["split"],
+     "material-behavior": ["fabric"],
+     "formal-medium": ["stop-motion"],
+     "spatial-relation": ["inside-out"],
+     "productive-contradiction": ["polite-violation"]
+   }},
+  {"id": "c115",
+   "text": "Usagi's henshin in Sailor Moon: ribbons of light wrap her silhouette and harden into uniform, nails first — the same rehearsed molt every episode.",
+   "source": "Sailor Moon (1992)",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "material-behavior": ["fabric"],
+     "temporal-behavior": ["rehearsed", "looping"],
+     "formal-medium": ["cel-animation"],
+     "emotional-fantasy": ["power"]
+   }},
+  {"id": "c116",
+   "text": "Gromit, kneeling on a runaway toy train in The Wrong Trousers, lays each curve of track from a box an instant before the wheels need it.",
+   "source": "The Wrong Trousers (1993)",
+   "tags": {
+     "spatial-relation": ["miniature"],
+     "physical-operation": ["unroll"],
+     "formal-medium": ["stop-motion"],
+     "temporal-behavior": ["instantaneous"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "c117",
+   "text": "Ghost in the Shell opens with a body born in layers: metal skeleton dipped, muscle knit on, then a skin sheath that flakes away as Kusanagi wakes.",
+   "source": "Ghost in the Shell (1995)",
+   "tags": {
+     "physical-operation": ["laminate", "shed"],
+     "material-behavior": ["flesh"],
+     "spatial-relation": ["layered"],
+     "temporal-behavior": ["gradual"],
+     "product-fact": ["layers"]
+   }},
+  {"id": "c118",
+   "text": "In Neon Genesis Evangelion, Unit-01's purple armor is revealed as restraints; berserk, the faceplate cracks and a living eye and bleeding jaw push through.",
+   "source": "Neon Genesis Evangelion (1995)",
+   "tags": {
+     "transition-affordance": ["rupture"],
+     "spatial-relation": ["inside-out"],
+     "material-behavior": ["flesh"],
+     "emotional-fantasy": ["awe"],
+     "productive-contradiction": ["controlled-chaos"]
+   }},
+  {"id": "c119",
+   "text": "Neo touches the cracked mirror in The Matrix; it goes liquid, crawls up his arm like chrome syrup, and pours down his throat.",
+   "source": "The Matrix (1999)",
+   "tags": {
+     "material-behavior": ["syrup", "glass"],
+     "transition-affordance": ["reflection"],
+     "physical-operation": ["dissolve"],
+     "temporal-behavior": ["gradual"]
+   }},
+  {"id": "c120",
+   "text": "At the climax of Adolescence of Utena, Utena transforms into a pink car; Anthy grips the wheel and drives her friend's body out of the world.",
+   "source": "Adolescence of Utena (1999)",
+   "tags": {
+     "physical-operation": ["shed"],
+     "emotional-fantasy": ["escape"],
+     "social-configuration": ["paired"],
+     "temporal-behavior": ["instantaneous"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "c121",
+   "text": "A waist-high door behind a filing cabinet in Being John Malkovich opens on a mud-slick tunnel into an actor's skull; fifteen minutes later you drop beside the turnpike.",
+   "source": "Being John Malkovich (1999)",
+   "tags": {
+     "spatial-relation": ["miniature", "nested"],
+     "transition-affordance": ["mouth-portal"],
+     "temporal-behavior": ["delayed"],
+     "emotional-fantasy": ["escape"],
+     "productive-contradiction": ["polite-violation"]
+   }},
+  {"id": "c122",
+   "text": "In Chris Cunningham's All Is Full of Love, assembly arms plate a robot Björk together — porcelain panels over wet machinery — while she kisses her own duplicate.",
+   "source": "All Is Full of Love (1999)",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "material-behavior": ["glass"],
+     "spatial-relation": ["mirrored"],
+     "social-configuration": ["paired"],
+     "emotional-fantasy": ["intimacy"]
+   }},
+  {"id": "c123",
+   "text": "In Spirited Away, Chihiro's parents bulge into pigs mid-bite, cheeks splitting their human clothes, while she stands at the tunnel mouth between worlds.",
+   "source": "Spirited Away (2001)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "physical-operation": ["inflate"],
+     "transition-affordance": ["mouth-portal"],
+     "emotional-fantasy": ["recognition"],
+     "social-configuration": ["witnessed"]
+   }},
+  {"id": "c124",
+   "text": "The door dial in Howl's Moving Castle: four wedges of paint, four cities; turn the knob and the same doorframe opens somewhere else.",
+   "source": "Howl's Moving Castle (2004)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "transition-affordance": ["rotation"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["escape"]
+   }},
+  {"id": "c125",
+   "text": "In Paprika, the villain pins the dream-girl to a table and peels her skin back like a wetsuit, revealing Dr. Chiba asleep inside her own alter ego.",
+   "source": "Paprika (2006)",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["flesh", "rubber"],
+     "spatial-relation": ["nested"],
+     "transition-affordance": ["peel-reveal"],
+     "productive-contradiction": ["polite-violation"]
+   }},
+  {"id": "c126",
+   "text": "The little door in Coraline is bricked up by day; at night the bricks are gone and a ribbed, breathing tunnel glows toward a copied home.",
+   "source": "Coraline (2009)",
+   "tags": {
+     "spatial-relation": ["threshold", "mirrored"],
+     "transition-affordance": ["mouth-portal"],
+     "formal-medium": ["stop-motion"],
+     "emotional-fantasy": ["belonging"],
+     "temporal-behavior": ["looping"]
+   }},
+  {"id": "c127",
+   "text": "At the end of Under the Skin, the alien peels her human surface open from the back and holds her own blinking face in her hands, regarding it.",
+   "source": "Under the Skin (2013)",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["flesh"],
+     "spatial-relation": ["inside-out"],
+     "transition-affordance": ["peel-reveal"],
+     "emotional-fantasy": ["recognition"]
+   }},
+  {"id": "c128",
+   "text": "In Song of the Sea, Saoirse buttons on the white selkie coat her father keeps locked in a chest, and the sea finally accepts her.",
+   "source": "Song of the Sea (2014)",
+   "tags": {
+     "physical-operation": ["unlock"],
+     "material-behavior": ["fabric"],
+     "emotional-fantasy": ["belonging"],
+     "social-configuration": ["paired"]
+   }},
+  {"id": "c129",
+   "text": "At kataware-doki in Your Name — the twilight seam between day and night — Taki and Mitsuha finally stand on the same crater rim, until the light closes.",
+   "source": "Your Name (2016)",
+   "tags": {
+     "spatial-relation": ["threshold"],
+     "temporal-behavior": ["delayed"],
+     "social-configuration": ["paired"],
+     "emotional-fantasy": ["recognition"],
+     "transition-affordance": ["match-cut"]
+   }},
+  {"id": "c130",
+   "text": "Miles' leap of faith in Into the Spider-Verse: he falls upward through Ben-Day dots and shattering glass, the frame rate doubling as the suit becomes his.",
+   "source": "Spider-Man: Into the Spider-Verse (2018)",
+   "tags": {
+     "material-behavior": ["ink", "glass"],
+     "transition-affordance": ["rupture"],
+     "emotional-fantasy": ["power"],
+     "temporal-behavior": ["instantaneous"]
+   }}
+]}

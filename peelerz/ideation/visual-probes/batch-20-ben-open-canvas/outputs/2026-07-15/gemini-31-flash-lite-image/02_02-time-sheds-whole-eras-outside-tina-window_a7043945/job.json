@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:37:45-07:00",
+  "started_at": "2026-07-15T14:37:30-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 time sheds whole eras outside tina window",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, blue hoodie, rear-seat position, car interior, lychee Peelerz, and the intimate bite. The car itself stays ordinary and intact. ONE RULE \u2014 Each distant musical tuning note causes the entire neighborhood to shed its current historical era as one complete translucent street-shaped shell, revealing a different era below. FRAME \u2014 Cinematic passenger-side view holding Tina's calm profile and gummy in the foreground while the world outside dominates. Above the active street hang three enormous hollow cast-off versions of the exact same block: a translucent 1950s suburb, a present-day strip mall, and an overgrown future, each including ghost-thin roads, utility poles, cars, signs without readable text, and building facades. Beneath those shells the live street is a saturated practical 1970s Japanese- fantasy city with rooftop musicians visibly tuning. Tina's unhurried bite is the still point. VISUAL PROOF \u2014 three complete discarded time-shells separated in depth above one current street; Tina sees all eras through one ordinary window. AVOID \u2014 peeling the car, time-travel portal, duplicate Tinas, generic multiverse circles, city destruction, clock graphics, collage panels.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-time-sheds-whole-eras-outside-tina-window_a7043945",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-time-sheds-whole-eras-outside-tina-window_a7043945/02-time-sheds-whole-eras-outside-tina-window_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/02_02-time-sheds-whole-eras-outside-tina-window_a7043945/02-time-sheds-whole-eras-outside-tina-window_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T14:40:44-07:00",
+  "started_at": "2026-07-11T14:40:36-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "s001 continuous peel tether",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal cinematic commercial styleframe that tests one precise impossible rule. Preserve the reference image's same 18-year-old Tina, casual wardrobe, pink Peelerz lychee candy and package, and grounded late-afternoon neighborhood realism, but move the camera to a wide three-quarter exterior view above the Uber. One single physically continuous translucent fruit-skin ribbon begins at the passenger-seat upholstery, peels through the car body without becoming separate fragments, continues into one lifted strip of asphalt, and reaches toward the skyline. Tina is airborne just above the opened car, gripping the attached ribbon like a kite tether while holding the bitten Peelerz in her other hand. The entire transformation must read as ONE unbroken peel crossing several surfaces; all untouched parts of the neighborhood remain ordinary documentary reality. Strong hero hierarchy and instantly traceable continuous line. No candyland, no rainbow explosion, no generic floating candy, no multiple unrelated effects, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": "../../../script/PEELERZ - 01 - Tina in car.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/01_s001-continuous-peel-tether_921d8a93",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/01_s001-continuous-peel-tether_921d8a93/s001-continuous-peel-tether_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

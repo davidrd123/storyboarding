@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T19:37:58-07:00",
+  "started_at": "2026-07-13T19:37:53-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-08-miniature-music-video-progression/prompts.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 colored light arrives first",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: lighting-weather. Asset type: cinematic storyboard opening frame. Image 1 is the edit target. Preserve Tina's identity, pose, gaze, clothing, hands, gummy, package, car interior, street, camera, and all geometry. Change only the light and distant color atmosphere. A soft cyan ambient fill begins entering through the passenger window while a restrained pink reflection from the lychee gummy touches Tina's cheek, fingers, and the black car trim. Far outside, the ordinary houses pick up slightly simplified coral and butter-yellow color, but remain real houses. Tina is still focused on the gummy. Warm late-afternoon key light, cyan fill, pink bounce, dark blue-black car interior, premium music-video photography.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one frame from a coherent live-action Peelerz music-video commercial. Preserve Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz package. The visual idea is deliberately simple: Tina remains photographic while the world outside becomes a small handbuilt tabletop set. Favor restrained production design, bold controlled light, tactile practical effects, visible fine suspension thread, and charming artificiality. No elaborate fantasy lore, giant creatures, underwater ocean, CGI spectacle, crowded candyland, captions, borders, or watermarks.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-08-miniature-music-video-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-colored-light-arrives-first_c8b1646d",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-08-miniature-music-video-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-colored-light-arrives-first_c8b1646d/01-colored-light-arrives-first_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

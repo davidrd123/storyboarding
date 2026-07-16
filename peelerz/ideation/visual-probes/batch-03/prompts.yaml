@@ -1,0 +1,127 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-image-preview
+  aspect_ratio: "16:9"
+  image_size: "1K"
+  num_outputs: 1
+
+jobs:
+  - title: "tina broad peel tether repair"
+    images:
+      - ../batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/01_s001-continuous-peel-tether_921d8a93/s001-continuous-peel-tether_01.png
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+    prompt: >
+      Repair the first reference into a more physically legible photoreal candy-commercial
+      styleframe. Preserve Tina, the neighborhood, the car, her pink Lychee Peelerz and the basic
+      wide composition. Replace the current thin decorative pink ribbon with ONE broad translucent
+      lychee-pink band that is unmistakably the peeled outer skin of the car. Its lower end remains
+      visibly attached to a raw lifted edge on the car roof; the same uninterrupted band curls once
+      through the air and is taut in Tina's raised hand. Show tension and a clear underside so the
+      eye can trace attachment → continuous material → her grip. Remove every other ribbon, cord,
+      floating fragment and unrelated effect. The band should look like clean glossy confectionery
+      fruit skin, not flesh or fabric. One visible verb: she has peeled the car and is tethered to it.
+      No text except existing packaging, no watermark.
+
+  - title: "tina neighborhood is a moving stage set"
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+    prompt: >
+      Create a photoreal cinematic commercial styleframe answering Ben's question “what is outside
+      Tina's window?” without using peeling, portals, or gummy material. Preserve the same Tina,
+      wardrobe, pink Lychee Peelerz and package, and ordinary rideshare interior. Seen through her
+      open passenger window, the entire suburban neighborhood is revealed as a shallow practical
+      theater set being moved past the stationary car: full-size painted house facades ride on visible
+      wheeled tracks, a blue-sky cloth backdrop hangs from a rig, and two bored teenage stagehands in
+      everyday school clothes quietly push the scenery. Tina has just bitten the candy and watches,
+      amused but unsurprised. Make the window frame the boundary between real car and practical set.
+      One impossible reveal, grounded daylight, tactile production design, no fantasy glow, no peel,
+      no candyland, no readable signs, no watermark.
+
+  - title: "raul social flavor mecha mutation"
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/03_raul-multi-flavor-candy-mecha-baseline_44ce0155/raul-multi-flavor-candy-mecha-baseline_01.png
+    prompt: >
+      Create a cinematic commercial styleframe that mutates the candy mecha from generic armor into
+      a social assembly rule. Preserve Raul and Meg's faces, age, wardrobe, Peelerz packaging, and
+      the high-school football bleachers. Raul stands centered inside an original translucent candy
+      exoskeleton. Four different students around him each hold a different Peelerz flavor and feed
+      ONE long curled peel-strip into exactly one matching body module: mango-gold leg, lychee-pink
+      torso, green-apple arm, grape-purple arm. The colored strips remain visibly continuous from each
+      student's candy to Raul's matching module, like friends plugging their choices into a shared
+      avatar. Raul's real face is visible; Meg supplies the final mango leg with a dry expression.
+      Make the social cause and flavor mapping readable before spectacle. No franchise likeness,
+      no weapons, no energy beams, no generic rainbow aura, no candyland, no text, no watermark.
+
+  - title: "raul giant mango echo mutation"
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/04_giant-raul-eats-small-raul-baseline_5466f674/giant-raul-eats-small-raul-baseline_01.png
+    prompt: >
+      Create a cleaner product-causal variation of the giant-Raul commercial styleframe. Preserve
+      normal-size Raul and Meg on the football bleachers, their faces, wardrobe, mango Peelerz candy
+      and package, and the comic giant-over-small composition. Normal Raul holds a freshly bitten
+      translucent mango candy. The giant duplicate leaning down behind him is now a luminous but
+      materially solid forty-foot gummy echo of Raul: warm mango-gold translucency, subtle layered
+      candy interior, and one clean curled peel edge along his shoulder. He playfully lifts little
+      Raul toward his open mouth while Meg remains unimpressed. Keep the giant recognizably Raul and
+      appetizingly confectionary, never anatomical or gelatinous flesh. No injury, no teeth close-up,
+      no horror, no extra magic, no text, no watermark.
+
+  - title: "couple peel redraws one campus arch repair"
+    images:
+      - ../../../script/PEELERZ - 10 - campus connection.png
+      - ../batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/06_couple-gummy-film-redraws-world-mutation_7b44bbbe/couple-gummy-film-redraws-world-mutation_01.png
+    prompt: >
+      Repair the world-redrawing idea into a physically provable transition styleframe. Preserve Liz
+      and John, their faces, clothes, Peelerz products, warm campus light, and centered connection.
+      Behind them is one recognizable ivy-covered stone campus arch. A broad translucent mango peel
+      film begins visibly at the curled candy peel in Liz's raised hand and sweeps vertically across
+      the arch. Stage the exact instant of conversion: on one side the arch is photographic stone and
+      ivy; where the film intersects it, the same masonry is half-photographic and half-painted; on
+      the far side the SAME arch has become a hand-painted fruit-tree gateway. Keep its silhouette and
+      perspective continuous across all three states. The film must cross the foreground and cast a
+      faint colored refraction, not form a portal circle. One object visibly being redrawn, one cause,
+      no extra worlds, no candy explosion, no text, no watermark.
+
+  - title: "couple campus rotates around them control"
+    images:
+      - ../../../script/PEELERZ - 10 - campus connection.png
+    prompt: >
+      Create a photoreal cinematic commercial styleframe for a non-peel world-building control.
+      Preserve Liz and John, their faces, wardrobe, Peelerz candies and packages, and their quiet
+      connection at the center of an ordinary college quad. The couple remains perfectly upright and
+      weightless, facing one another, while gravity has rotated the campus ninety degrees around them:
+      students calmly walk along the vertical stone wall as though it were pavement, bicycles rest
+      against the former ground overhead, and loose leaves fall sideways toward the building. Use a
+      wide canted composition with one unambiguous gravity direction. Everyone underreacts. The bite
+      is already taken; do not add an energy source or peel mechanism. One impossible physical law,
+      no Doctor Strange imagery, no portal, no generic floating debris cloud, no text, no watermark.
+
+  - title: "couple stop motion pantry campus world"
+    images:
+      - ../../../script/PEELERZ - 10 - campus connection.png
+    prompt: >
+      Create a cinematic commercial styleframe showing one concrete world Liz and John could float
+      through. Preserve their faces, age, wardrobe, Peelerz candies and packages, and centered eyeline,
+      but translate the entire world—including the couple—into premium tactile stop-motion. The campus
+      quad is rebuilt from pantry materials at believable miniature scale: cork-and-biscuit buildings,
+      fruit-leather lawns, paper-label windows, toothpick bicycles, and mango-peel trees. Liz and John
+      float a foot above the path while ordinary stop-motion students continue walking beneath them,
+      unconcerned. Materials must remain handcrafted and imperfect, not glossy 3D animation. One
+      coherent world rather than a collage, warm youthful charm, no candyland explosion, no text
+      beyond recognizable Peelerz packages, no watermark.
+
+  - title: "tina each house at a different hour control"
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+    prompt: >
+      Create a photoreal cinematic commercial styleframe answering “what is outside the window?” with
+      a time rule rather than a peel rule. Preserve the same Tina, wardrobe, rideshare interior, pink
+      Lychee Peelerz candy and package. From inside the moving car, show one continuous suburban block
+      through the passenger window, but each adjacent house occupies a visibly different hour of the
+      same day: blue dawn with sprinklers, hard noon sun, glowing sunset, deep night with porch lights.
+      The boundaries fall cleanly at property lines while architecture and camera perspective remain
+      continuous. Tina, lit neutrally inside the car, has just taken a bite and looks outward. Make the
+      four times legible through shadows, sky and household activity—not labels or clocks. One temporal
+      law, no split-screen borders, no peel, no portal, no fantasy particles, no text, no watermark.

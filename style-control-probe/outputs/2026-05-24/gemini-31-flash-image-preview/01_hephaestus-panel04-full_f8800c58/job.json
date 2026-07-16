@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T01:51:02-07:00",
+  "started_at": "2026-05-24T01:50:44-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "hephaestus-panel04-full",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Render this storyboard panel as a finished, standalone, full-frame cinematic image: insert close-up of the smith's hands cradling a gold automaton's face and shoulder. Match the art style, palette, the bearded blond smith Hephaestus, and the gold automata of the reference. ONE single full image only \u2014 no grid, no panels, no borders, no text, no labels, no captions.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": null,
+    "system_prompt": "Match the exact painterly cinematic concept-art style, palette, color, and rendering of the reference image \u2014 cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze, visible brushwork. Reproduce its look precisely.",
+    "num_outputs": 1,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/9up-panels/panel_04.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/9up-panels/panel_04.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-panel04-full_f8800c58",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-panel04-full_f8800c58/hephaestus-panel04-full_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

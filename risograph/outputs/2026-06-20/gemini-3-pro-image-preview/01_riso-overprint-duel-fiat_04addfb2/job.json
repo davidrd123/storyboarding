@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-06-20T15:59:01-07:00",
+  "started_at": "2026-06-20T15:56:40-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "riso-overprint-duel-fiat",
+  "model": "gemini-3-pro-image-preview",
+  "prompt": "A TWO-COLOR RISOGRAPH zine page, \"overprint duel\" composition, on warm off-white paper. LEFT: the crowned robed king from the reference, printed in FEDERAL BLUE engraved line work, his ring-hand extended to the right as if commanding. RIGHT: a praying veiled Madonna devotional engraving printed in FLUORESCENT PINK, facing the king. The two figures OVERLAP in the center of the page; where blue and pink inks cross they MULTIPLY into deep purple, forming a contested seam down the middle.\n\nKeep both figures as crisp antique engraving cross-hatch line art. Riso authenticity: registration offset between the pink and blue plates, paper grain, roller streaks. In the purple overprint seam between their hands, place a SINGLE word in bold inscriptional Roman capitals reading \"FIAT\", knocked out to white paper so it glows. Small Latin caption along the bottom keyline in engraved caps: \"REX \u00b7 ET \u00b7 REGINA\". Tense, symmetrical-but-colliding devotional composition. 8.5x11 zine page.",
+  "resolved_params": {
+    "aspect_ratio": "3:4",
+    "image_size": "2K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 2,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/ddickinson_a_robed_king_mid-command_ring_hand_extended_stern__b1520847-7642-4903-9a12-9770df54dcbf_2 (1).png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/ddickinson_a_robed_king_mid-command_ring_hand_extended_stern__b1520847-7642-4903-9a12-9770df54dcbf_2 (1).png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/outputs/2026-06-20/gemini-3-pro-image-preview/01_riso-overprint-duel-fiat_04addfb2",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/outputs/2026-06-20/gemini-3-pro-image-preview/01_riso-overprint-duel-fiat_04addfb2/riso-overprint-duel-fiat_01.png",
+      "width": 1792,
+      "height": 2400
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/outputs/2026-06-20/gemini-3-pro-image-preview/01_riso-overprint-duel-fiat_04addfb2/riso-overprint-duel-fiat_02.png",
+      "width": 1792,
+      "height": 2400
+    }
+  ]
+}

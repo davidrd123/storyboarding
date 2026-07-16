@@ -1,0 +1,174 @@
+{
+  "created_at": "2026-07-14T02:18:52-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/failed-retry.yaml",
+  "job_count": 4,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T02:18:31-07:00",
+      "started_at": "2026-07-14T02:18:22-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/failed-retry.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "03 mango fireworks assemble limbs retry",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. Preserve Raul and Meg from Image 1 but place them in football bleachers. Image 2 supplies Raul's orange anime transformation energy. Image 3 is only loose scale context for giant mango limbs. Create a wide mid-transformation styleframe. Dozens of tiny mango gummy characters have burst above the bleachers like orange fireworks and now stream back down along four clean arcs. Their linked translucent bodies visibly coalesce into two giant mango-gummy arms and two legs around Raul. His real face remains visible at the center; Meg remains identifiable at his side. Show the assembly paths, not a random explosion or finished block robot.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl from the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Preserve their youthful live-action identity while allowing anime effects and tactile candy characters. Raul's mango helpers are small energetic translucent orange-gold gummy hype-men who physically assist his transformation. Meg has exactly one acid-green apple gummy imp: small, clever, sardonic, inviting, and confectionary rather than monstrous. Raul's event is public orange spectacle; Meg's is private green invitation. Avoid preschool mascot styling, weapons, generic robots, anatomy, gore, unwanted extra characters, captions, borders, watermarks, and added package copy.\n",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../../../script/PEELERZ - 06 - anime transformation.png",
+          "../../../script/PEELERZ - 07 - mango voltron.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 07 - mango voltron.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/01_03-mango-fireworks-assemble-limbs-retry_38bf7b9a",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/01_03-mango-fireworks-assemble-limbs-retry_38bf7b9a/03-mango-fireworks-assemble-limbs-retry_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T02:18:36-07:00",
+      "started_at": "2026-07-14T02:18:31-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/failed-retry.yaml",
+      "source_index": 2,
+      "mode": "image",
+      "title": "06 meg coaxes imp from gummy retry",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. Image 1 controls Meg's identity and clothing but relocate her to football bleachers. Image 2 supports her face and eye color only; reject the extreme mouth composition. Create an intimate medium close-up. Meg gently peels apart one translucent acid-green apple gummy between her fingers. Exactly one tiny green gummy imp unfolds from the candy itself and stands on her fingertips with small hands, meeting her gaze. Meg smiles with private recognition. Raul's orange transformation is only a distant soft bokeh glow. Jewel candy macro texture, no demon horror, swarm, wings, or anatomical imagery.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl from the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Preserve their youthful live-action identity while allowing anime effects and tactile candy characters. Raul's mango helpers are small energetic translucent orange-gold gummy hype-men who physically assist his transformation. Meg has exactly one acid-green apple gummy imp: small, clever, sardonic, inviting, and confectionary rather than monstrous. Raul's event is public orange spectacle; Meg's is private green invitation. Avoid preschool mascot styling, weapons, generic robots, anatomy, gore, unwanted extra characters, captions, borders, watermarks, and added package copy.\n",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../../../script/PEELERZ - 08 - Meg reaction.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 08 - Meg reaction.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/02_06-meg-coaxes-imp-from-gummy-retry_46083f64",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/02_06-meg-coaxes-imp-from-gummy-retry_46083f64/06-meg-coaxes-imp-from-gummy-retry_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T02:18:45-07:00",
+      "started_at": "2026-07-14T02:18:36-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/failed-retry.yaml",
+      "source_index": 3,
+      "mode": "image",
+      "title": "07 meg accepts invitation retry",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. Images 1 and 2 control Meg's identity while moving her into football bleachers. Image 3 supplies only the receding orange Raul energy behind her. Meg holds the single glowing green gummy imp at eye level. The imp points toward her gently opened mouth like a daring guide, and Meg willingly leans closer with an amused expression. A thin translucent ribbon of green apple candy light begins connecting her hand and mouth. Preserve physical distance before the dive. No fear, forced feeding, giant mouth, visible throat, tongue emphasis, or extra imps.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl from the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Preserve their youthful live-action identity while allowing anime effects and tactile candy characters. Raul's mango helpers are small energetic translucent orange-gold gummy hype-men who physically assist his transformation. Meg has exactly one acid-green apple gummy imp: small, clever, sardonic, inviting, and confectionary rather than monstrous. Raul's event is public orange spectacle; Meg's is private green invitation. Avoid preschool mascot styling, weapons, generic robots, anatomy, gore, unwanted extra characters, captions, borders, watermarks, and added package copy.\n",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../../../script/PEELERZ - 08 - Meg reaction.png",
+          "../../../script/PEELERZ - 06 - anime transformation.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 08 - Meg reaction.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/03_07-meg-accepts-invitation-retry_b8ff1f44",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/03_07-meg-accepts-invitation-retry_b8ff1f44/07-meg-accepts-invitation-retry_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T02:18:52-07:00",
+      "started_at": "2026-07-14T02:18:46-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/failed-retry.yaml",
+      "source_index": 4,
+      "mode": "image",
+      "title": "08 imp dives carrying camera retry",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. Preserve Meg's face and blonde hair from Images 1 and 2, relocated to football bleachers. Image 3 supplies stretched orange anime energy in the distant background. Create a dynamic but tasteful macro frame. Exactly one acid-green gummy imp joyfully swan dives from Meg's open palm toward her smiling open mouth, tiny arms extended. Its short trajectory is traced by one ribbon of translucent green apple candy light, and the camera appears to follow just behind it. Keep Meg active and amused. No anatomical throat, teeth emphasis, terror, falling human, green swarm, or grotesque scale.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl from the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Preserve their youthful live-action identity while allowing anime effects and tactile candy characters. Raul's mango helpers are small energetic translucent orange-gold gummy hype-men who physically assist his transformation. Meg has exactly one acid-green apple gummy imp: small, clever, sardonic, inviting, and confectionary rather than monstrous. Raul's event is public orange spectacle; Meg's is private green invitation. Avoid preschool mascot styling, weapons, generic robots, anatomy, gore, unwanted extra characters, captions, borders, watermarks, and added package copy.\n",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../../../script/PEELERZ - 08 - Meg reaction.png",
+          "../../../script/PEELERZ - 06 - anime transformation.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 08 - Meg reaction.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/04_08-imp-dives-carrying-camera-retry_bd924f5c",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-14-raul-meg-paired-pass/outputs/2026-07-14/gemini-31-flash-lite-image/04_08-imp-dives-carrying-camera-retry_bd924f5c/08-imp-dives-carrying-camera-retry_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

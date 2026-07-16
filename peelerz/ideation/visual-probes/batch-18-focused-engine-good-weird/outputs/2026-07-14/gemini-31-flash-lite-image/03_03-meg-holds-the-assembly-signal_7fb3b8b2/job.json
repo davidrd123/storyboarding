@@ -1,0 +1,52 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T22:45:39-07:00",
+  "started_at": "2026-07-14T22:45:22-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "03 meg holds the assembly signal",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. DISTANCE RING: adjacent. REFERENCE AUTHORITY \u2014 Image 1 locks Raul, Meg, clothing, and their friendship. Image 2 locks warm daylight, top-row geography, and the broad empty bleacher space. Image 3 exactly locks the dense opaque mango-flesh armor language. Image 4 locks mango-helper material and body design. Image 5 locks Meg's single purple grape familiar. ONE RULE \u2014 A giant mango has bloomed into five pre-shaped armor petals, and each one can move only while Meg holds its single luminous edible-peel connector taut like a lighthouse beam. FRAME \u2014 Open daylight wide with Raul centered inside the five-petal mango assembly at the isolated top row, still partly in his normal clothing and with his real face uncovered. Three dense mango- flesh panels are locked onto the graphite under-frame; two remain attached to the opened mango. Eight tiny mango helpers visibly push the next shoulder panel along one amber connector. Meg is not watching passively: seated one row higher, she braces both feet and pulls that same long elastic connector taut with both hands, aiming it toward the open joint. Her grape familiar stands on her knee and signals the route. Field and empty seats remain legible. VISUAL PROOF \u2014 Meg's bodily tension, the continuous connector, helper hands, moving panel, and open joint read as one causal chain. AVOID \u2014 finished armor, random hovering parts, bodybuilder suit, translucent orange plastic, helpless Meg, helpers used as decoration, crowded top row.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+      "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+      "../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png"
+    ],
+    "config": {}
+  },
+  "input_count": 5,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-meg-holds-the-assembly-signal_7fb3b8b2",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-meg-holds-the-assembly-signal_7fb3b8b2/03-meg-holds-the-assembly-signal_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-meg-holds-the-assembly-signal_7fb3b8b2/03-meg-holds-the-assembly-signal_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

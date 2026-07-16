@@ -1,0 +1,38 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T19:09:11-07:00",
+  "started_at": "2026-07-13T19:09:03-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-06-giant-hand-progression/prompts.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 impossible scale clue",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: precise-object-edit. Asset type: cinematic storyboard opening frame. Image 1 is the edit target and authority for Tina, product, car interior, camera, and ordinary Los Angeles street. Preserve the entire foreground. Tina remains absorbed in the peeled gummy. Change only the far exterior background: beyond several rooftops, the rounded top of one colossal human fingertip is barely visible for a moment, softly out of focus and easy to mistake for a peach-colored water tower. Its fingerprint ridges catch the afternoon light. The car remains enclosed and normal. Make the clue occupy less than eight percent of the image and reward a second look.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one frame from a coherent live-action Peelerz commercial sequence. Maintain Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz package. Photoreal cinematic advertising, real suburban textures, gentle deadpan wonder. The giant hand is warm, careful, and curious rather than threatening. One precise scale rule, no destruction, panic, horror, cartoon style, captions, panel borders, watermarks, or generic candyland.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png"
+    ],
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-06-giant-hand-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-impossible-scale-clue_d5b3293f",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-06-giant-hand-progression/outputs/2026-07-13/gemini-31-flash-lite-image/01_01-impossible-scale-clue_d5b3293f/01-impossible-scale-clue_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

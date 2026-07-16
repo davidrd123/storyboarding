@@ -1,0 +1,56 @@
+{
+  "created_at": "2026-05-24T03:31:48-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-05-24T03:31:48-07:00",
+      "started_at": "2026-05-24T03:30:58-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+      "source_index": 1,
+      "mode": "image",
+      "title": "hephaestus-kit03-nbpro-redo",
+      "model": "gemini-3-pro-image-preview",
+      "prompt": "Three references (house grammar). IMAGE 1 = STYLE reference \u2014 borrow clean painterly concept-art style, palette, finish. IMAGE 2 = the clean storyboard board \u2014 borrow world + consistency. IMAGE 3 = the IDENTITY reference for the smith Hephaestus \u2014 BORROW his exact face, age, hair, and beard; DO NOT borrow its grain or rendering.\n\nCRITICAL \u2014 CHARACTER IDENTITY: Hephaestus is an OLDER, weary, careworn smith \u2014 ash-blond hair going grey, a full unkempt greying beard, a deeply LINED and weathered face, heavy tired eyes, a heavy stooped build. He is NOT young, NOT handsome, NOT heroic, NOT idealized or godlike. Match the identity reference (Image 3) exactly.\n\nSHOT \u2014 CLOSE-UP: his weary, lined face in three-quarter, looking screen-right toward his work; tender, proud, a flicker of unease; gold automata and spark-glow soft and blurred behind him. Clean, smooth, finished painterly concept-art; cool blue gloom, warm spark-light. ONE full-frame image, 16:9 \u2014 no grid, no panels, no borders, no text, no labels.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": null,
+        "temperature": null,
+        "system_prompt": "Render clean, smooth, finished painterly concept-art. CRITICAL: the smith is older, weary, lined, NOT young or idealized \u2014 match the identity reference. Cool blue/violet shadow, warm spark-light, no grain.",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-9up-rerender-nbpro_31e4557a/hephaestus-9up-rerender-nbpro_01.png",
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/kit-gpt/panel-03.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-9up-rerender-nbpro_31e4557a/hephaestus-9up-rerender-nbpro_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/kit-gpt/panel-03.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-kit03-nbpro-redo_b2120972",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-kit03-nbpro-redo_b2120972/hephaestus-kit03-nbpro-redo_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-kit03-nbpro-redo_b2120972/hephaestus-kit03-nbpro-redo_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

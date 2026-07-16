@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:10:24-07:00",
+  "started_at": "2026-07-15T15:10:18-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/scenes.yaml",
+  "source_index": 7,
+  "mode": "image",
+  "title": "07 sun peeled",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Images lock the rear-seat composition, Tina, product, and dark car. A single untouched pink lychee gummy sits on the armrest in a narrow afternoon sunbeam. Wherever sunlight crosses it, the thin edible outer layer lifts and curls open by itself in one continuous strip; the exposed center turns the sunbeam into thick suspended pink juice-light that fills only the illuminated volume. Tina watches without touching. Macro live-action physicality. No hands peeling, no face on candy, no melting blob, no car transformation.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished, coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or design sheet. Treat every impossible event as a physical rule inside one photographed world. Preserve only the reference roles declared in each job. Keep Tina in the back seat whenever she appears in a car; Raul and Meg belong together in high-school football bleachers; Liz and John belong together on campus. Both gummy center and peel are edible. Candy stretches rather than tears. Favor good weirdness, readable scale, benign wonder, and appetizing tactile materials. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/07_07-sun-peeled_97201fe9",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/07_07-sun-peeled_97201fe9/07-sun-peeled_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

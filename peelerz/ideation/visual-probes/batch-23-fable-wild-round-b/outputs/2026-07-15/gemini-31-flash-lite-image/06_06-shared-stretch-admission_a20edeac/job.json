@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:10:19-07:00",
+  "started_at": "2026-07-15T15:10:14-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/scenes.yaml",
+  "source_index": 6,
+  "mode": "image",
+  "title": "06 shared stretch admission",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Images lock Liz and John, wardrobe, campus steps, product, and their shared approach. At golden hour they each hold one end of a single translucent two-layer gummy stretched exactly one meter between them. The edible outer peel and center remain visibly distinct and both elongate without tearing. The taut candy bends the background light into a broad taffy lens while their eyes remain locked in the charged instant before snap-back. Product-forward medium-wide, no extra hands, no rope, no portal, no giant candy sheet, no duplicate gummies, and no disengaged expressions.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or character sheet. Treat the impossible idea as one physical rule photographed in one world. Preserve only declared reference roles. Raul and Meg remain together in high-school football bleachers. Liz and John remain together on campus. Mango helpers are irregular translucent fruit-like gummy pieces with minimal features, not gummy bears or preschool mascots. Driver scenes use restrained, deadpan documentary realism with exactly one impossible channel. Candy stretches rather than tears. Benign, appetizing, youthful, visually legible. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 09 - campus walk.png",
+      "../../../script/PEELERZ - 10 - campus connection.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-shared-stretch-admission_a20edeac",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-shared-stretch-admission_a20edeac/06-shared-stretch-admission_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

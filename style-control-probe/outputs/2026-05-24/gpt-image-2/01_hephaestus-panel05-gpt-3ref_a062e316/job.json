@@ -1,0 +1,28 @@
+{
+  "title": "hephaestus-panel05-gpt-3ref",
+  "model": "gpt-image-2",
+  "size": "1536x864",
+  "quality": "high",
+  "prompt": "You are a cinematic concept-art illustrator. Match the style anchor's exact painterly look \u2014 cool electric blue/violet shadow, warm gold, orange spark-light, volumetric haze, visible brushwork.\n\nYou are given three reference images. IMAGE 1 is the rough composition for THIS shot \u2014 keep its framing and staging. IMAGE 2 is the STYLE ANCHOR \u2014 match its exact painterly concept-art style, palette, and brushwork. IMAGE 3 is the full storyboard page of this same scene \u2014 use it ONLY for cross-shot consistency of the world, character, and the gold automata; do NOT reproduce its grid, panels, borders, or labels.\n\nSTORY CONTEXT (reason over this): a cast-out smith builds golden beings for others, taking quiet pride; beneath the warmth, the first hairline crack \u2014 does the made thing look back? Subtext for this shot: the instant a blank golden face becomes a someone.\n\nSHOT: close-up of one gold automaton's serene face, three-quarter profile turned screen-LEFT toward its unseen maker; its eyes just opening, a faint inner light waking. Hand-wrought seams, matte hammered gold, not chrome. Cool blue key, warm welder-rim; the ranks of identical others soft and blurred behind so this one reads as singular. 180 axis: it looks screen-left.\n\nONE finished full-frame cinematic image \u2014 no grid, no panels, no borders, no text, no labels.",
+  "input_images": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/9up-panels/panel_05.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-9up-coverage_c970632f/hephaestus-9up-coverage_01.png"
+  ],
+  "endpoint": "edit",
+  "latency_seconds": 117.07,
+  "output": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gpt-image-2/01_hephaestus-panel05-gpt-3ref_a062e316/hephaestus-panel05-gpt-3ref_01.png",
+  "usage": {
+    "input_tokens": 3372,
+    "input_tokens_details": {
+      "image_tokens": 3068,
+      "text_tokens": 304
+    },
+    "output_tokens": 4312,
+    "total_tokens": 7684,
+    "output_tokens_details": {
+      "image_tokens": 4312,
+      "text_tokens": 0
+    }
+  }
+}

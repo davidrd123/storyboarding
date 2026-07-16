@@ -1,0 +1,14 @@
+# THE SOLVENT — keep generated images and large reference scans out of git.
+# (Storyboarding is the repo root; these are local-only working assets.)
+
+# All generated output — regenerable and large.
+outputs/
+
+# Copyrighted reference scans (≈862 MB of The Filth pages) — local reference only.
+refs/the-filth/
+
+# Stray extract artifacts swept in with the scans.
+*.bmp
+
+# OS cruft
+.DS_Store

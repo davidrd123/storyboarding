@@ -1,0 +1,44 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:10:59-07:00",
+  "started_at": "2026-07-15T15:10:53-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/scenes.yaml",
+  "source_index": 12,
+  "mode": "image",
+  "title": "12 island is the candy",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "References supply the four teenage protagonists, product world, and tropical aerial scale; do not inherit their original compositions. Tina, Raul, Meg, Liz, and John stand together atop one colossal pink lychee fruit floating in a turquoise sea. They pull five continuous sections of its translucent edible outer layer outward like landing-pad petals, revealing a bright full-size beach, palms, lagoon, and small town nested inside the juicy center. Aerial oblique with bodies readable. No random archipelago, giant face, mechanical hatch, torn skin, religious tableau, or extra heroes.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished, coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or design sheet. Treat every impossible event as a physical rule inside one photographed world. Preserve only the reference roles declared in each job. Keep Tina in the back seat whenever she appears in a car; Raul and Meg belong together in high-school football bleachers; Liz and John belong together on campus. Both gummy center and peel are edible. Candy stretches rather than tears. Favor good weirdness, readable scale, benign wonder, and appetizing tactile materials. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 09 - campus walk.png",
+      "../../../script/PEELERZ - 14 - sky islands.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 14 - sky islands.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/12_12-island-is-the-candy_18c600ca",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/12_12-island-is-the-candy_18c600ca/12-island-is-the-candy_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

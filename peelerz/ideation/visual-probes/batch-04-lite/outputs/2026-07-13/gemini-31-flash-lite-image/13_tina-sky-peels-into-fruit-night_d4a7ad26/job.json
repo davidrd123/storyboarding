@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T17:27:27-07:00",
+  "started_at": "2026-07-13T17:27:19-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/prompts.yaml",
+  "source_index": 13,
+  "mode": "image",
+  "title": "tina sky peels into fruit night",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 is the edit target. Preserve Tina, her face, wardrobe, pose, package, gummy, rideshare interior, street, and camera. Image 2 is identity and product support only. Above the normal Los Angeles houses, one corner of the blue afternoon sky stretches and curls back as a translucent gummy membrane. Beneath it is a deep tropical night sky with glowing fruit-colored constellations, distant floating islands, and tiny airships. The membrane has rounded confectionary edges and glows where it thins, never paper or flesh. Tina looks out in silent wonder. Huge scale with a restrained frame, appetizing material, no white backing, no torn sky fragments, no text.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Generate exploratory cinematic candy-commercial styleframes. Follow the stated role of each reference image. When Image 1 is named as the edit target, preserve its subject, face, wardrobe, car interior, camera position, and photographic realism unless the prompt explicitly changes them. Avoid captions, panel borders, watermarks, generic candyland, and random rainbow effects.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/13_tina-sky-peels-into-fruit-night_d4a7ad26",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/13_tina-sky-peels-into-fruit-night_d4a7ad26/tina-sky-peels-into-fruit-night_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

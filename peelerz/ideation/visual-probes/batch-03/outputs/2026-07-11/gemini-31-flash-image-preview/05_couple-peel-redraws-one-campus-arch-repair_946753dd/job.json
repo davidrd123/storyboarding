@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T17:56:35-07:00",
+  "started_at": "2026-07-11T17:56:25-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/prompts.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "couple peel redraws one campus arch repair",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Repair the world-redrawing idea into a physically provable transition styleframe. Preserve Liz and John, their faces, clothes, Peelerz products, warm campus light, and centered connection. Behind them is one recognizable ivy-covered stone campus arch. A broad translucent mango peel film begins visibly at the curled candy peel in Liz's raised hand and sweeps vertically across the arch. Stage the exact instant of conversion: on one side the arch is photographic stone and ivy; where the film intersects it, the same masonry is half-photographic and half-painted; on the far side the SAME arch has become a hand-painted fruit-tree gateway. Keep its silhouette and perspective continuous across all three states. The film must cross the foreground and cast a faint colored refraction, not form a portal circle. One object visibly being redrawn, one cause, no extra worlds, no candy explosion, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 10 - campus connection.png",
+      "../batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/06_couple-gummy-film-redraws-world-mutation_7b44bbbe/couple-gummy-film-redraws-world-mutation_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/06_couple-gummy-film-redraws-world-mutation_7b44bbbe/couple-gummy-film-redraws-world-mutation_01.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/05_couple-peel-redraws-one-campus-arch-repair_946753dd",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/05_couple-peel-redraws-one-campus-arch-repair_946753dd/couple-peel-redraws-one-campus-arch-repair_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

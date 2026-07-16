@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-05-23T01:14:01-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-05-23T01:14:01-07:00",
+      "started_at": "2026-05-23T01:13:16-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+      "source_index": 1,
+      "mode": "image",
+      "title": "hermes-courier-v02-loose",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Use the attached reference image for STYLE ONLY \u2014 borrow its line quality, palette, texture, and rendering technique. Do NOT borrow its subject (the bearded glassblower), its forge, its composition, or any scene element from it. Render a completely new scene in that style: Hermes as a modern bike courier mid-sprint, standing on the pedals, weaving his bicycle through gridlocked city traffic. Winged sneakers, a messenger bag spilling glowing parcels, scarf and limbs streaking with motion. Stalled cars and exhaust haze around him, chaotic energetic street. Dynamic diagonal composition, strong sense of speed.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": null,
+        "temperature": null,
+        "system_prompt": "A loose, energetic search-line illustration. Forms built from scratchy, multi-stroke black ink/charcoal contour lines with visible overlapping construction strokes and varying weight. Flat, opaque gouache color in bold blocks that deliberately misregister \u2014 bleeding past or falling short of the linework, leaving dry-brush edges and exposed off-white paper. Restricted high-contrast palette: cobalt blue, cadmium orange, glowing yellow, ochre, lavender, deep black on off-white paper. Grainy, toothy, matte texture; dry-brush drag. Neo-expressionist editorial illustration \u2014 gestural, hand-made. No smooth gradients, no photorealism, no clean vector lines. Emphasize the RAW, UNFINISHED planning-sketch register: heavy dry-brush drag, scribbled overlapping search/construction lines left visible, color blocks crudely offset from the linework, large areas of exposed off-white paper, splatter and smudge, frantic gestural energy. A working sketch, not a polished plate.",
+        "num_outputs": 2,
+        "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-21/G1-search-line-expressionism/ddickinson_Hephaestus_the_glassblower_the_forge_is_a_roaring__054e808b-8a53-4c43-9552-fd1a514e2532_2.png",
+        "images": null,
+        "config": {}
+      },
+      "input_count": 1,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-21/G1-search-line-expressionism/ddickinson_Hephaestus_the_glassblower_the_forge_is_a_roaring__054e808b-8a53-4c43-9552-fd1a514e2532_2.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_hermes-courier-v02-loose_a9f44434",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_hermes-courier-v02-loose_a9f44434/hermes-courier-v02-loose_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_hermes-courier-v02-loose_a9f44434/hermes-courier-v02-loose_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

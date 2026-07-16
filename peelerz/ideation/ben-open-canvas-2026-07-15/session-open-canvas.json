@@ -1,0 +1,636 @@
+{
+  "name": "ben-open-canvas-2026-07-15",
+  "batch": 2,
+  "seeds": [
+    {
+      "id": "s001",
+      "batch": 1,
+      "text": "W1 election of scale",
+      "mechanism": "scale-election",
+      "operator": "morphological-collision",
+      "stimulus": "2101:1",
+      "parent": null,
+      "niche": {
+        "frame": "world-event",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s002",
+      "batch": 1,
+      "text": "W2 migrating architecture",
+      "mechanism": "migrating-architecture",
+      "operator": "morphological-collision",
+      "stimulus": "2101:2",
+      "parent": null,
+      "niche": {
+        "frame": "world-event",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s003",
+      "batch": 1,
+      "text": "W3 time molts outside Tina window",
+      "mechanism": "time-molts",
+      "operator": "morphological-collision",
+      "stimulus": "2101:3",
+      "parent": null,
+      "niche": {
+        "frame": "world-event",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s004",
+      "batch": 1,
+      "text": "W4 stadium rehearses ocean",
+      "mechanism": "stadium-rehearsal-tide",
+      "operator": "morphological-collision",
+      "stimulus": "2101:4",
+      "parent": null,
+      "niche": {
+        "frame": "world-event",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s005",
+      "batch": 1,
+      "text": "W5 day breathes centuries",
+      "mechanism": "time-breathes",
+      "operator": "morphological-collision",
+      "stimulus": "2101:5",
+      "parent": null,
+      "niche": {
+        "frame": "world-event",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s006",
+      "batch": 1,
+      "text": "M1 mural broadcasts stop-motion world",
+      "mechanism": "mural-authors-world",
+      "operator": "morphological-collision",
+      "stimulus": "2102:1",
+      "parent": null,
+      "niche": {
+        "frame": "authored-medium",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s007",
+      "batch": 1,
+      "text": "M2 crowd prints stadium into RPG",
+      "mechanism": "crowd-registration-game",
+      "operator": "morphological-collision",
+      "stimulus": "2102:2",
+      "parent": null,
+      "niche": {
+        "frame": "authored-medium",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s008",
+      "batch": 1,
+      "text": "M3 camera joins Tina scene",
+      "mechanism": "camera-defects-into-scene",
+      "operator": "morphological-collision",
+      "stimulus": "2102:3",
+      "parent": null,
+      "niche": {
+        "frame": "authored-medium",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s009",
+      "batch": 1,
+      "text": "M4 bag stage-manages rotating worlds",
+      "mechanism": "bag-stage-manager",
+      "operator": "morphological-collision",
+      "stimulus": "2102:4",
+      "parent": null,
+      "niche": {
+        "frame": "authored-medium",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s010",
+      "batch": 1,
+      "text": "M5 audience selects medium",
+      "mechanism": "audience-medium-election",
+      "operator": "morphological-collision",
+      "stimulus": "2102:5",
+      "parent": null,
+      "niche": {
+        "frame": "authored-medium",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s011",
+      "batch": 1,
+      "text": "R1 infinite bag infinite couple",
+      "mechanism": "recursive-container",
+      "operator": "morphological-collision",
+      "stimulus": "2103:1",
+      "parent": null,
+      "niche": {
+        "frame": "role-exchange",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s012",
+      "batch": 1,
+      "text": "R2 Tina trades places with future self",
+      "mechanism": "future-self-scale-swap",
+      "operator": "morphological-collision",
+      "stimulus": "2103:2",
+      "parent": null,
+      "niche": {
+        "frame": "role-exchange",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s013",
+      "batch": 1,
+      "text": "R3 Raul and camera exchange roles",
+      "mechanism": "camera-character-swap",
+      "operator": "morphological-collision",
+      "stimulus": "2103:3",
+      "parent": null,
+      "niche": {
+        "frame": "role-exchange",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s014",
+      "batch": 1,
+      "text": "R4 stadium fits on snack tray",
+      "mechanism": "interior-exterior-capacity-swap",
+      "operator": "morphological-collision",
+      "stimulus": "2103:4",
+      "parent": null,
+      "niche": {
+        "frame": "role-exchange",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s015",
+      "batch": 1,
+      "text": "R5 shadows adventure first",
+      "mechanism": "shadow-prelives-adventure",
+      "operator": "morphological-collision",
+      "stimulus": "2103:5",
+      "parent": null,
+      "niche": {
+        "frame": "role-exchange",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s016",
+      "batch": 1,
+      "text": "G1 football creates flavor epochs",
+      "mechanism": "sport-creates-flavor-worlds",
+      "operator": "morphological-collision",
+      "stimulus": "2104:1",
+      "parent": null,
+      "niche": {
+        "frame": "gummyverse-myth",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s017",
+      "batch": 1,
+      "text": "G2 stadium becomes animal-borne archipelago",
+      "mechanism": "animal-borne-field-islands",
+      "operator": "morphological-collision",
+      "stimulus": "2104:2",
+      "parent": null,
+      "niche": {
+        "frame": "gummyverse-myth",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s018",
+      "batch": 1,
+      "text": "G3 neighborhood spans sleeping fruit deity",
+      "mechanism": "sleeping-fruit-cosmology",
+      "operator": "morphological-collision",
+      "stimulus": "2104:3",
+      "parent": null,
+      "niche": {
+        "frame": "gummyverse-myth",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s019",
+      "batch": 1,
+      "text": "G4 peel war reveals shared orchard",
+      "mechanism": "map-war-shared-roots",
+      "operator": "morphological-collision",
+      "stimulus": "2104:4",
+      "parent": null,
+      "niche": {
+        "frame": "gummyverse-myth",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s020",
+      "batch": 1,
+      "text": "G5 pilgrimage through flavor museum",
+      "mechanism": "flavor-museum-pilgrimage",
+      "operator": "morphological-collision",
+      "stimulus": "2104:5",
+      "parent": null,
+      "niche": {
+        "frame": "gummyverse-myth",
+        "encounter": "finale"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s021",
+      "batch": 2,
+      "text": "A1 hive of possible days",
+      "mechanism": "physical-possibility-grid",
+      "operator": "morphological-collision",
+      "stimulus": "contact-sheet+beekeeping+discard-axiom",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s022",
+      "batch": 2,
+      "text": "A2 every football play at once",
+      "mechanism": "attention-pollinates-play",
+      "operator": "morphological-collision",
+      "stimulus": "contact-sheet+beekeeping+discard-axiom",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s023",
+      "batch": 2,
+      "text": "A3 crossbreed whole worlds",
+      "mechanism": "world-crosspollination",
+      "operator": "morphological-collision",
+      "stimulus": "contact-sheet+beekeeping+discard-axiom",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s024",
+      "batch": 2,
+      "text": "B1 vertical road trellis",
+      "mechanism": "gravity-customs-lattice",
+      "operator": "morphological-collision",
+      "stimulus": "trellis+customs+sections",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s025",
+      "batch": 2,
+      "text": "B2 climbable playbook",
+      "mechanism": "play-route-sky-lattice",
+      "operator": "morphological-collision",
+      "stimulus": "trellis+customs+sections",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s026",
+      "batch": 2,
+      "text": "B3 customs of subtraction",
+      "mechanism": "progressive-world-subtraction",
+      "operator": "morphological-collision",
+      "stimulus": "trellis+customs+sections",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s027",
+      "batch": 2,
+      "text": "C1 city between flavor tides",
+      "mechanism": "tidal-city-recomposition",
+      "operator": "morphological-collision",
+      "stimulus": "sandbar+swarm-robotics+repetition",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s028",
+      "batch": 2,
+      "text": "C2 geological football fields",
+      "mechanism": "repeated-play-geology",
+      "operator": "morphological-collision",
+      "stimulus": "sandbar+swarm-robotics+repetition",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s029",
+      "batch": 2,
+      "text": "C3 shared steps create land",
+      "mechanism": "rhythmic-land-assembly",
+      "operator": "morphological-collision",
+      "stimulus": "sandbar+swarm-robotics+repetition",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s030",
+      "batch": 2,
+      "text": "D1 traveling neighborhood pod",
+      "mechanism": "neighborhood-world-pod",
+      "operator": "morphological-collision",
+      "stimulus": "pod+falconry+subtraction",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "tina"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s031",
+      "batch": 2,
+      "text": "D2 competing stadium pods",
+      "mechanism": "subtractive-stadium-pods",
+      "operator": "morphological-collision",
+      "stimulus": "pod+falconry+subtraction",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "raul-meg"
+      },
+      "flags": [],
+      "dup_of": null
+    },
+    {
+      "id": "s032",
+      "batch": 2,
+      "text": "D3 exchanged world pods",
+      "mechanism": "world-pod-replacement",
+      "operator": "morphological-collision",
+      "stimulus": "pod+falconry+subtraction",
+      "parent": null,
+      "niche": {
+        "frame": "displaced-worlds",
+        "encounter": "liz-john"
+      },
+      "flags": [],
+      "dup_of": null
+    }
+  ],
+  "banlist": {
+    "scale-election": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "migrating-architecture": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "time-molts": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "stadium-rehearsal-tide": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "time-breathes": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "mural-authors-world": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "crowd-registration-game": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "camera-defects-into-scene": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "bag-stage-manager": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "audience-medium-election": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "recursive-container": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "future-self-scale-swap": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "camera-character-swap": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "interior-exterior-capacity-swap": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "shadow-prelives-adventure": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "sport-creates-flavor-worlds": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "animal-borne-field-islands": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "sleeping-fruit-cosmology": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "map-war-shared-roots": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "flavor-museum-pilgrimage": {
+      "state": "round",
+      "batch": 2,
+      "evidence": "Rendered or explored in open-canvas round 1; exclude from round 2."
+    },
+    "physical-possibility-grid": {
+      "state": "round",
+      "batch": 2
+    },
+    "attention-pollinates-play": {
+      "state": "round",
+      "batch": 2
+    },
+    "world-crosspollination": {
+      "state": "round",
+      "batch": 2
+    },
+    "gravity-customs-lattice": {
+      "state": "round",
+      "batch": 2
+    },
+    "play-route-sky-lattice": {
+      "state": "round",
+      "batch": 2
+    },
+    "progressive-world-subtraction": {
+      "state": "round",
+      "batch": 2
+    },
+    "tidal-city-recomposition": {
+      "state": "round",
+      "batch": 2
+    },
+    "repeated-play-geology": {
+      "state": "round",
+      "batch": 2
+    },
+    "rhythmic-land-assembly": {
+      "state": "round",
+      "batch": 2
+    },
+    "neighborhood-world-pod": {
+      "state": "round",
+      "batch": 2
+    },
+    "subtractive-stadium-pods": {
+      "state": "round",
+      "batch": 2
+    },
+    "world-pod-replacement": {
+      "state": "round",
+      "batch": 2
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "created_at": "2026-07-11T14:41:09-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+  "job_count": 4,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-11T14:40:44-07:00",
+      "started_at": "2026-07-11T14:40:36-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "s001 continuous peel tether",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Create a photoreal cinematic commercial styleframe that tests one precise impossible rule. Preserve the reference image's same 18-year-old Tina, casual wardrobe, pink Peelerz lychee candy and package, and grounded late-afternoon neighborhood realism, but move the camera to a wide three-quarter exterior view above the Uber. One single physically continuous translucent fruit-skin ribbon begins at the passenger-seat upholstery, peels through the car body without becoming separate fragments, continues into one lifted strip of asphalt, and reaches toward the skyline. Tina is airborne just above the opened car, gripping the attached ribbon like a kite tether while holding the bitten Peelerz in her other hand. The entire transformation must read as ONE unbroken peel crossing several surfaces; all untouched parts of the neighborhood remain ordinary documentary reality. Strong hero hierarchy and instantly traceable continuous line. No candyland, no rainbow explosion, no generic floating candy, no multiple unrelated effects, no text, no watermark.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "",
+        "num_outputs": 1,
+        "image": "../../../script/PEELERZ - 01 - Tina in car.png",
+        "images": null,
+        "config": {}
+      },
+      "input_count": 1,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/01_s001-continuous-peel-tether_921d8a93",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/01_s001-continuous-peel-tether_921d8a93/s001-continuous-peel-tether_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-11T14:40:53-07:00",
+      "started_at": "2026-07-11T14:40:44-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+      "source_index": 2,
+      "mode": "image",
+      "title": "s034 sky inhale orbit",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Create a photoreal cinematic commercial styleframe using the reference image's same Tina, wardrobe, Uber, pink Peelerz candy and package. View her at the open passenger window in a normal late-afternoon neighborhood. A bitten pink Peelerz is held directly beside her open mouth and is the unmistakable visual center of a localized air current. Loose street objects outside \u2014 leaves, receipts, a paper cup, a lightweight patio chair, loose mail \u2014 follow one clean curved orbital path through the open window around the candy and Tina. The heavy car and buildings stay grounded. Make the orbit readable through spatial arrangement, lifted hair, clothing, and object orientation rather than drawn motion lines. One impossible physical rule only: the open window and Peelerz bite have become the center of a slow inhale. Dynamic but compositionally clean. No tornado funnel, no disaster, no candyland, no generic magic glow, no extra characters, no text, no watermark.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "",
+        "num_outputs": 1,
+        "image": "../../../script/PEELERZ - 01 - Tina in car.png",
+        "images": null,
+        "config": {}
+      },
+      "input_count": 1,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/02_s034-sky-inhale-orbit_b624ca04",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/02_s034-sky-inhale-orbit_b624ca04/s034-sky-inhale-orbit_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-11T14:41:01-07:00",
+      "started_at": "2026-07-11T14:40:53-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+      "source_index": 3,
+      "mode": "image",
+      "title": "s035 stopped feed baseline",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Create a clear photoreal commercial styleframe using the reference image's same Tina, wardrobe, Uber, pink Peelerz candy and package. From inside the car, the passenger window behaves like a physical vertical social-media feed: the passing neighborhood is divided into several tall, translucent story-like panels sliding past with vertical motion blur, while exactly one real house outside is perfectly sharp, centered, and held still beneath a simple universal pause icon embedded in the glass. Tina holds the freshly bitten Peelerz close to the window; a subtle crisp circular contact ripple connects the candy to the paused panel so the product is visibly causal. The visual metaphor must be understandable without readable captions. Graphic hierarchy: bitten candy in foreground, paused sharp house as the main exterior subject, other houses visibly scrolling. Grounded teen commercial photography, not futuristic interface spectacle. No illegible generated text, no phone, no candyland, no generic color explosion, no watermark.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "",
+        "num_outputs": 1,
+        "image": "../../../script/PEELERZ - 01 - Tina in car.png",
+        "images": null,
+        "config": {}
+      },
+      "input_count": 1,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/03_s035-stopped-feed-baseline_6cb2f0af",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/03_s035-stopped-feed-baseline_6cb2f0af/s035-stopped-feed-baseline_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-11T14:41:09-07:00",
+      "started_at": "2026-07-11T14:41:01-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+      "source_index": 4,
+      "mode": "image",
+      "title": "s036 wrapper paperweight restage",
+      "model": "gemini-3.1-flash-image-preview",
+      "prompt": "Create a photoreal cinematic commercial styleframe that tests an extreme scale relationship. Restage the scene from an ultra-low gutter-level wide-angle camera. In the immediate foreground, a recognizable pink Peelerz wrapper lies perfectly flat and pin-sharp on the asphalt, pressing a deep paperweight-like depression into the street as though impossibly heavy. Beyond it, an entire suburban block \u2014 houses, lawns, parked cars and sidewalks \u2014 has lifted ten feet into the air, leaving dark empty foundation-shaped shadows beneath everything. The floating neighborhood subtly tilts around the wrapper as its single grounded pivot. The Uber remains visible in the midground with Tina at the open window holding the bitten pink candy. Use forced perspective so the wrapper and floating architecture are both immediately legible in one frame. One impossible rule only. Documentary afternoon realism, restrained color, no generic levitation glow, no candyland, no text beyond existing Peelerz packaging, no watermark.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "",
+        "num_outputs": 1,
+        "image": "../../../script/PEELERZ - 01 - Tina in car.png",
+        "images": null,
+        "config": {}
+      },
+      "input_count": 1,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/04_s036-wrapper-paperweight-restage_7d71e832",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/04_s036-wrapper-paperweight-restage_7d71e832/s036-wrapper-paperweight-restage_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

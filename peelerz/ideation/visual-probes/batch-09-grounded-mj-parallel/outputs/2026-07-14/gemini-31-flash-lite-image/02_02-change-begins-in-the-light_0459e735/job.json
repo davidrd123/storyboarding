@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T00:39:38-07:00",
+  "started_at": "2026-07-14T00:39:31-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/prompts.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 change begins in the light",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 is the edit target. Preserve Tina, pose, gaze, clothing, hands, gummy, package, car, camera, and all foreground geometry. Image 2 is treatment inspiration only, and Image 3 supports identity and candy. Show the earliest change through light and one distant exterior detail. The neighborhood is still mostly ordinary and gray, but a soft pink glow reaches one house, the house begins turning coral, and one small paper-like palm appears at the far edge. The gummy throws a pearly pink reflection onto Tina's fingers and cheek. Restrained music-video photography, one clear visual idea, no added passenger or giant candy landscape.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one live-action cinematic Peelerz music-video styleframe, never a collage or storyboard grid. Preserve Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Keep the visual idea simple and physically legible. The outside world may become a colorful handmade miniature tropical neighborhood and a few gummy fish may cross into the car. The only permitted climax mechanics are a giant hand peeling the car open or the peeled car skin becoming a parachute. Do not invent any other narrative mechanism. Favor tactile practical effects, warm key light, cyan fill, restrained pearly pink bounce, and sparse compositions. No visible crew, studio equipment, floating islands, generic candyland, random rainbow effects, captions, borders, logos added beyond the referenced package, or watermarks.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-change-begins-in-the-light_0459e735",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-change-begins-in-the-light_0459e735/02-change-begins-in-the-light_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

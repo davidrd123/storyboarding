@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:38:48-07:00",
+  "started_at": "2026-07-15T14:38:29-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+  "source_index": 6,
+  "mode": "image",
+  "title": "06 tina crosses a sleeping fruit cosmology",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, intact car, and lychee product entrance. Image 3 supplies appetizing tropical fruit-world material only. This is a radical world reveal, not a car transformation or flight scene. ONE RULE \u2014 Tina discovers that her entire neighborhood is a ceremonial game arranged across the sleeping body of a continent-sized fruit being; her bite makes it laugh gently in its sleep, and each breath rearranges streets, seasons, and tiny fruit societies across its surface. FRAME \u2014 Vast benign mythic panorama with intricate playful detail, photographed like a premium practical fantasy film rather than children's animation. Tina's ordinary dark car is a tiny but visible object on a road crossing the luminous cheek of a colossal serene sleeper made from mango, lychee, grape, and edible peel forms. Its closed eye is a lake; its hair is a tropical archipelago; its shoulders hold miniature cities and ceremonial sports. A soft sleeping smile sends one visible wave across the body: ahead is lush summer, behind is crystalline fruit-winter, and tiny societies cheerfully move their houses between seasons. Tina looks from the car window in cosmic mischief. VISUAL PROOF \u2014 recognizable tiny car and road; unmistakable continent-scale sleeping fruit body; multiple inhabited regions; one breath-wave reorganizing seasons. AVOID \u2014 horror giant, realistic flesh, Buddha or direct religious iconography, fruit portrait close-up, floating fruit collage, car peeling, parachute, generic candyland, destruction.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png",
+      "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-tina-crosses-a-sleeping-fruit-cosmology_86892f56",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-tina-crosses-a-sleeping-fruit-cosmology_86892f56/06-tina-crosses-a-sleeping-fruit-cosmology_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-tina-crosses-a-sleeping-fruit-cosmology_86892f56/06-tina-crosses-a-sleeping-fruit-cosmology_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

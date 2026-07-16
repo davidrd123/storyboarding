@@ -1,0 +1,47 @@
+{
+  "success": true,
+  "prediction_id": null,
+  "status": "ok",
+  "error": null,
+  "model": {
+    "id": "bytedance/seedance-2.0",
+    "version": "@latest"
+  },
+  "inputs": {
+    "prompt": "[Image1] is a STORYBOARD of a single continuous scene, shown as six coverage panels \u2014 use it as an ingredient reference only, for the world, character, palette, and the beats it contains. Do NOT reproduce the storyboard: no panel grid, no borders, no gutters, no letter labels. Synthesize ONE single continuous cinematic shot of this scene. A painterly concept-art forge: cavernous workshop, cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze. The seams are visible; nothing is smooth or over-rendered. One unbroken take. Open wide on the cavernous workshop, the long line of gold automata receding into blue dark. A slow, patient dolly-in tracks down the line, gold figures sliding past in the foreground, and arrives on Hephaestus, bearded, at his station. An overhead robotic welder arm lowers and sparks against a gold automaton's face; sparks scatter and tick out across the floor. The camera settles on Hephaestus's weary regard, steam drifting between them. Patient, monumental, the banked heat of the forge. Low mechanical hum, the hiss and crack of the welder.",
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "reference_images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-storyboard-page-hpsp01_ea0b98e0/hephaestus-storyboard-page-hpsp01_02.png"
+    ]
+  },
+  "resolved_params": {
+    "prompt": "[Image1] is a STORYBOARD of a single continuous scene, shown as six coverage panels \u2014 use it as an ingredient reference only, for the world, character, palette, and the beats it contains. Do NOT reproduce the storyboard: no panel grid, no borders, no gutters, no letter labels. Synthesize ONE single continuous cinematic shot of this scene. A painterly concept-art forge: cavernous workshop, cool electric blue and violet shadow, warm gold automata, orange spark-light, volumetric haze. The seams are visible; nothing is smooth or over-rendered. One unbroken take. Open wide on the cavernous workshop, the long line of gold automata receding into blue dark. A slow, patient dolly-in tracks down the line, gold figures sliding past in the foreground, and arrives on Hephaestus, bearded, at his station. An overhead robotic welder arm lowers and sparks against a gold automaton's face; sparks scatter and tick out across the floor. The camera settles on Hephaestus's weary regard, steam drifting between them. Patient, monumental, the banked heat of the forge. Low mechanical hum, the hiss and crack of the welder.",
+    "duration": 8,
+    "resolution": "720p",
+    "aspect_ratio": "16:9",
+    "generate_audio": false,
+    "reference_images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-31-flash-image-preview/01_hephaestus-storyboard-page-hpsp01_ea0b98e0/hephaestus-storyboard-page-hpsp01_02.png"
+    ]
+  },
+  "outputs": [
+    {
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/seedance-2.0/01_hephaestus-oner-from-board_20998783/hephaestus-oner-from-board_00.mp4",
+      "url": "https://replicate.delivery/xezq/zIeLcTslpp1nW62rfHGKWF8jIlSBdyXB6n1ojNEGUlkyMGoWA/tmpl_pc0bk7.mp4",
+      "bytes": 5285640,
+      "expires_at": "2026-05-24T09:05:07Z",
+      "_metrics": {
+        "download_time_s": 0.2792035840684548
+      }
+    }
+  ],
+  "cold_start": true,
+  "metrics": {
+    "predict_time_s": 243.71671112498734,
+    "download_time_s": 0.2792035840684548,
+    "elapsed_s": 243.99705333309248
+  }
+}

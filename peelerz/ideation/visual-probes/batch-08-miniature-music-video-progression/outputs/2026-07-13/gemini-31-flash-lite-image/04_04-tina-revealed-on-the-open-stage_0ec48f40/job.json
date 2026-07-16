@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T19:38:19-07:00",
+  "started_at": "2026-07-13T19:38:13-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-08-miniature-music-video-progression/prompts.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "04 tina revealed on the open stage",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: compositing. Asset type: cinematic storyboard reveal frame. Image 1 controls Tina, product, handbuilt miniature language, gummy fish, controlled palette, and music-video lighting. Image 2 supplies only the readable exterior reveal of Tina inside an opened car. Reject the parachute, orange gummy upholstery, floating sky, rainbow effects, and explosive separation. Cut to a simple symmetrical wide shot that reveals the whole construction as a small soundstage. Tina remains in the intact black rear seat at center, holding the pink gummy and Peelerz bag. The car's two peeled blue-gray shell panels stand open at the sides like stage wings, their undersides pale translucent pink. Behind her are the turquoise cyclorama, four toy bungalows, three sparse palms, and seven pink-and-white gummy fish hanging on visible monofilament. Warm spotlight on Tina, cyan ambient set light, subtle pink reflections, deep shadows at the stage edges. Handmade, graphic, playful, uncluttered, and still only foreshadowing an underwater scene.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one frame from a coherent live-action Peelerz music-video commercial. Preserve Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz package. The visual idea is deliberately simple: Tina remains photographic while the world outside becomes a small handbuilt tabletop set. Favor restrained production design, bold controlled light, tactile practical effects, visible fine suspension thread, and charming artificiality. No elaborate fantasy lore, giant creatures, underwater ocean, CGI spectacle, crowded candyland, captions, borders, or watermarks.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-08-miniature-music-video-progression/outputs/2026-07-13/gemini-31-flash-lite-image/04_04-tina-revealed-on-the-open-stage_0ec48f40",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-08-miniature-music-video-progression/outputs/2026-07-13/gemini-31-flash-lite-image/04_04-tina-revealed-on-the-open-stage_0ec48f40/04-tina-revealed-on-the-open-stage_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

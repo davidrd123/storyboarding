@@ -1,0 +1,66 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: 16:9
+  image_size: 1K
+  num_outputs: 1
+  system_prompt: >
+    Create one frame from a coherent live-action Peelerz commercial sequence. Maintain Tina as the
+    same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz
+    package. Photoreal cinematic advertising with tactile real-world materials. The sky behaves as one
+    peelable atmospheric membrane. Elegant, buoyant, and benign; no generic rainbow, candyland,
+    explosion, disaster, captions, panel borders, watermarks, or extra characters.
+
+jobs:
+  - title: 01 seam in the ordinary sky
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+    prompt: >
+      Use case: precise-object-edit. Asset type: cinematic storyboard opening frame. Image 1 is the edit
+      target and controls Tina, product, car interior, street, camera, and daylight. Preserve everything
+      except one tiny atmospheric detail. High in the blue sky outside the passenger window, add a very
+      fine curved seam and a thumbnail-sized translucent corner beginning to lift like clear fruit skin.
+      It is barely visible against the clouds. Tina still studies the peeled gummy and has not noticed.
+      The car is fully intact and enclosed. Ordinary realism first, anomaly second.
+
+  - title: 02 tina sees the sky peel back
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/13_tina-sky-peels-into-fruit-night_d4a7ad26/tina-sky-peels-into-fruit-night_01.png
+    prompt: >
+      Use case: identity-preserve. Asset type: cinematic storyboard reaction frame. Image 1 controls
+      Tina, product, car, camera, neighborhood, and photographic realism. Image 2 supplies only the sky
+      membrane concept. Tina looks upward through the window as wind catches the lifted corner. A broad
+      strip of ordinary blue afternoon sky peels backward overhead with a thin translucent pink edge,
+      revealing a deep fruit-night atmosphere beneath it: sparse lychee-like moons, a few botanical
+      constellations, and enormous depth. Keep most of the street and sky ordinary so the moving boundary
+      is legible. The car remains intact. Avoid decorative clutter and floating islands.
+
+  - title: 03 sky peel catches the car
+    images:
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/13_tina-sky-peels-into-fruit-night_d4a7ad26/tina-sky-peels-into-fruit-night_01.png
+      - ../../../script/PEELERZ - 03 - car peels open.png
+    prompt: >
+      Use case: compositing. Asset type: cinematic storyboard action frame. Image 1 controls Tina's
+      identity, product, neighborhood, and the translucent sky-peel material. Image 2 supplies only the
+      wide exterior idea of the car opening around seated Tina. Reject its orange gummy upholstery,
+      completed rainbow parachute, empty sky, and flying pose. From a passenger-side exterior tracking
+      view, show the long peeled ribbon of sky sweeping down in the wind and catching the roof seam of
+      the moving car. The blue-gray roof and upper side skin peel backward with it in two continuous
+      flexible layers. Tina stays seated in the intact black frame holding the gummy and bag. The street
+      remains below; this is the instant before lift. Smooth material continuity, no debris or crash.
+
+  - title: 04 peeled shell becomes the canopy
+    images:
+      - ../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/13_tina-sky-peels-into-fruit-night_d4a7ad26/tina-sky-peels-into-fruit-night_01.png
+      - ../../../script/PEELERZ - 04 - parachute flight.png
+    prompt: >
+      Use case: compositing. Asset type: cinematic storyboard transition frame. Image 1 controls Tina's
+      identity, pink lychee product, sky membrane, neighborhood, and fruit-night opening. Image 2
+      supplies only the readable low-angle silhouette of a person lifted beneath a canopy; reject its
+      generic rainbow fabric and empty blue background. Show Tina just above the same residential
+      street, secured in the recognizable detached rear car seat, holding the glowing lychee gummy and
+      Peelerz bag. Above her, the car's peeled roof and the translucent pink-edged sky membrane have
+      joined into one enormous soft lychee-skin canopy, pale pearl outside and luminous blush inside.
+      Behind it, part of the afternoon sky remains peeled back to reveal the sparse fruit-night cosmos.
+      This is the earned beginning of flight, not a separate parachute appearing from nowhere.

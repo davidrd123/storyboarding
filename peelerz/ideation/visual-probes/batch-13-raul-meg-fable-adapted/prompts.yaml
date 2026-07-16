@@ -1,0 +1,164 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 1
+  system_prompt: >
+    Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid.
+    Follow each prompt's stated reference roles. Preserve Raul as the same dark-haired teenage boy and
+    Meg as the same blonde teenage girl in the source images, but always relocate their encounter from
+    the park bench to crowded high-school football bleachers. Raul's flavor is mango-orange. Meg's
+    working flavor is acid-green apple. Mango minions are energetic translucent gummy hype-men; Meg has
+    exactly one sardonic green gummy imp. Preserve live-action teenage identities while using anime
+    energy or tactile candy characters where requested. Mouth-passage imagery must remain wholly
+    confectionary and never anatomical. Avoid generic robot armor, weapons, preschool mascots, horror,
+    captions, borders, watermarks, and added package copy.
+
+jobs:
+  - title: 01 eat center wear peel
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+      - ../../../script/PEELERZ - 07 - mango voltron.png
+    prompt: >
+      Use case: ads-marketing. Image 1 controls Raul and Meg identity, clothing, and product but not the
+      park location; place them together in football bleachers. Image 2 supports Raul's face and orange
+      anime energy. Image 3 supplies only the broad idea of armor assembled around Raul; reject its
+      blocky pixel design and empty orange background. Raul pops the soft center of one peeled mango
+      gummy into his mouth while its long curled golden outer layer spirals up one arm and visibly
+      flattens into glossy translucent shoulder and forearm plates. Meg and nearby students react in
+      awe. Show center entering mouth, continuous peel, and newly formed armor in one readable frame.
+
+  - title: 02 mango cocoon
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+    prompt: >
+      Use case: ads-marketing. Preserve Raul, Meg, clothing, and product from Image 1 but relocate them
+      to night-game football bleachers under floodlights. Image 2 supplies Raul's silhouette and orange
+      lightning language only. Raul is completely enclosed inside one enormous upright translucent
+      mango gummy cocoon occupying his bleacher position. His human silhouette is clearly visible
+      through appetizing amber jelly, with several clean orange lightning bolts arcing inside around
+      him. Meg and nearby students step back in astonishment. The gummy is a benign confectionary shell,
+      not flesh, slime, an egg, fire, or an explosion.
+
+  - title: 03 mango fireworks coalesce into limbs
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+      - ../../../script/PEELERZ - 07 - mango voltron.png
+    prompt: >
+      Use case: ads-marketing. Image 1 controls Raul and Meg identity at football bleachers. Image 2
+      supplies Raul's orange energy. Image 3 supplies only the scale of giant arms and legs around a
+      visible human center. Create a wide mid-transformation frame. Tiny grinning translucent mango
+      gummy characters burst above the bleachers like orange fireworks, then stream down in four clear
+      arcs and physically link together to form two enormous arms and two legs around cheering Raul.
+      Meg remains visible beside the formation. Make fireworks-to-character-to-limb progression
+      legible, not a random candy explosion or finished generic robot.
+
+  - title: 04 hype squad poses
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+      - ../../../script/PEELERZ - 07 - mango voltron.png
+    prompt: >
+      Use case: ads-marketing. Preserve Raul's face from Images 1 and 2 and rebuild Image 3's blocky
+      concept as a premium translucent mango-gummy transformation. Create a low hero wide shot at the
+      front of a high-school football field. Towering Ani-Mango-Raul holds one triumphant pumped pose,
+      his real face visible inside glossy orange-gold mango armor. Along the sideline, exactly twelve
+      small mango gummy guys strike the identical pose in a coordinated row. Stadium floodlights flare
+      behind them; Meg remains visible in the nearest bleachers. No weapons, empty arena, toy robot, or
+      unrelated flavors.
+
+  - title: 05 mango pit crew
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+      - ../../../script/PEELERZ - 07 - mango voltron.png
+    prompt: >
+      Use case: ads-marketing. Image 1 controls Raul and Meg identities at football bleachers. Image 2
+      supplies Raul's expression, sparks, and speed lines. Image 3 supplies loose finished-form context
+      only. Eight tiny mango gummy minions swarm around Raul like a racing pit crew: two carry glossy
+      mango forearm pieces, two press thigh pieces into place, two tighten curled peel connectors at his
+      shoulders, and two signal completion. Raul grins mid-transformation while Meg watches beside him.
+      The helpers use their hands and the candy pieces themselves, not metal tools, bolts, wrenches,
+      mechanical armor, or chaotic crowding.
+
+  - title: 06 football game goes anime
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+      - ../../../script/PEELERZ - 07 - mango voltron.png
+    prompt: >
+      Use case: ads-marketing. Relocate Raul and Meg from Image 1 to high-school football bleachers.
+      Images 2 and 3 supply Raul's mango-orange anime energy but not exact composition. Create a wide
+      stadium view from behind Raul and Meg. The live football play itself has become anime: one running
+      back trails bold fire and speed lines, cheerleader pompoms burst into controlled orange fireworks,
+      and the scoreboard emits stylized light. Raul glows mango-gold in the foreground bleachers while
+      Meg watches. Preserve recognizable players, field, crowd, and stadium underneath the effects.
+      No actual fire damage, scoreboard explosion, empty field, or full environmental candyland.
+
+  - title: 07 meg not impressed
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+      - ../../../script/PEELERZ - 08 - Meg reaction.png
+    prompt: >
+      Use case: ads-marketing. Image 1 controls Raul and Meg identity and seating relationship but move
+      them to crowded football bleachers. Image 2 supplies the enormous orange anime transformation
+      around Raul. Image 3 supports Meg's face only; reject its extreme wide-angle mouth crop. Create a
+      comedic two-depth frame. Raul transforms amid orange lightning in the middle background while
+      foreground Meg calmly eats her acid-green apple gummy and raises one eyebrow, dry and almost
+      unimpressed. Keep both characters legible. No boredom, phone, contempt, extra green creature,
+      isolated portrait, or park setting.
+
+  - title: 08 green imp arrives
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 08 - Meg reaction.png
+    prompt: >
+      Use case: ads-marketing. Preserve Meg's blonde identity and yellow outfit from the references but
+      place her among crowded football bleachers in soft evening stadium light. Create an intimate
+      medium frame. Exactly one small acid-green translucent gummy imp with tiny hands sits upright on
+      Meg's knee and looks up at her. Meg looks back with dry curiosity. Other spectators continue
+      watching the game and do not notice the imp. Make it charming, sardonic, jewel-like candy—not a
+      demon, frog, baby mascot, plush toy, or green swarm.
+
+  - title: 09 green imp dives in
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 08 - Meg reaction.png
+    prompt: >
+      Use case: ads-marketing. Preserve Meg's identity from both references and relocate her to
+      football bleachers at night. Create a dynamic tasteful macro frame. Meg holds her hand raised near
+      her face while the single glowing green gummy imp performs a joyful swan dive from her palm toward
+      her smiling open mouth. Its tiny body and extended arms remain fully visible; one short green light
+      arc traces the motion. Stadium lights and crowd form soft bokeh. No literal falling human, fear,
+      forced feeding, giant mouth, visible throat, tongue emphasis, or extra imps.
+
+  - title: 10 green candy tunnel
+    images:
+      - ../../../script/PEELERZ - 08 - Meg reaction.png
+      - ../../../script/PEELERZ - 09 - campus walk.png
+    prompt: >
+      Use case: ads-marketing. Image 1 supplies only the transition's origin in Meg; do not show her face
+      or anatomy. Image 2 supplies the bright garden-campus light at the far destination. Create a
+      camera view inside an entirely confectionary green apple gummy tunnel. Translucent jelly walls
+      glow from within like stained glass and suspended sugar crystals sparkle like stars. The tiny
+      silhouette of exactly one green gummy imp swims ahead toward a brilliant garden opening. No
+      teeth, tongue, throat, flesh, cave stone, intestinal imagery, underwater ocean, or extra creature.
+
+  - title: 11 gummy skydiver reunion
+    images:
+      - ../../../script/PEELERZ - 14 - sky islands.png
+      - ../../../script/PEELERZ - 04 - parachute flight.png
+      - ../../../script/PEELERZ - 07 - mango voltron.png
+    prompt: >
+      Use case: ads-marketing. Image 1 supplies the bright cloud altitude and floating Peelerz-island
+      finale, but simplify its clutter. Image 2 supplies a distant parachuting Tina only. Image 3
+      supplies distant Ani-Mango-Raul scale only, rebuilt as translucent candy armor. In the foreground,
+      dozens of tiny colorful gummy characters skydive together through the clouds, holding hands in
+      several clean circular formation rings. Tina's parachute and transformed Raul remain small but
+      recognizable in the distance. Bright joyful aerial wide shot. No rainbow emphasis, aircraft,
+      falling panic, duplicate heroes, or generic candyland ground.

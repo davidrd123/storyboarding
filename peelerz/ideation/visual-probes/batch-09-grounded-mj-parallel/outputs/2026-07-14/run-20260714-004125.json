@@ -1,0 +1,50 @@
+{
+  "created_at": "2026-07-14T00:41:31-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/prompt-12-retry.yaml",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T00:41:31-07:00",
+      "started_at": "2026-07-14T00:41:26-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/prompt-12-retry.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "12 parachute hero image retry",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Image 1 controls Tina, wardrobe, product, and intact dark rear passenger compartment. Image 2 controls the miniature tropical world, fish, and warm-cyan-pink music-video palette. Image 3 supplies only the established car-peel canopy premise. Create a wide hero image: Tina and the opened passenger compartment lift gently beneath a pearly pink parachute made from the car's own peeled outer skin. The curled peel visibly forms the canopy and its continuous tethers. The small colorful tropical neighborhood is below, under a clear teal sky, with a sparse school of gummy fish drifting beside Tina. Golden backlight passes through the canopy. No conventional fabric parachute, airplane, giant hand, floating island, ocean, or extra mechanism.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one live-action cinematic Peelerz music-video styleframe, never a collage or storyboard grid. Preserve Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Keep the visual idea simple and physically legible. Favor tactile practical effects, warm key light, cyan fill, restrained pearly pink bounce, and sparse composition. Do not invent any narrative mechanism beyond the peeled car skin becoming a parachute. No visible crew, studio equipment, floating islands, generic candyland, random rainbow effects, captions, borders, or watermarks.\n",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+          "../../../script/PEELERZ - 03 - car peels open.png"
+        ],
+        "config": {}
+      },
+      "input_count": 3,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/15_tina-stop-motion-neighborhood_384e9992/tina-stop-motion-neighborhood_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/01_12-parachute-hero-image-retry_2daf5fb1",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/01_12-parachute-hero-image-retry_2daf5fb1/12-parachute-hero-image-retry_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

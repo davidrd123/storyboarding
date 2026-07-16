@@ -1,0 +1,9 @@
+{
+  "frame": ["authored medium"],
+  "encounter": ["Tina in the back of a car", "Raul and Meg in football bleachers", "Liz and John on campus steps"],
+  "authorship_shift": ["background extras redraw the foreground", "the camera becomes a visible character", "shadows edit their owners", "the product bag stages the scene", "a mural paints the live action", "the audience chooses the next medium"],
+  "medium_change": ["live action to stop-motion food sculpture", "live action to 16-bit role-playing game", "live action to illuminated manuscript", "live action to theatrical paper stage", "live action to wet fresco", "live action to cosmic anime"],
+  "far_domain": ["printing press registration", "puppet theatre", "museum conservation", "pirate radio", "courtroom testimony", "dream interpretation"],
+  "invariant": ["one bite gesture", "the same camera orbit", "one blue hoodie", "one yellow jacket", "two hands nearly touching", "the package silhouette"],
+  "emotional_fantasy": ["escape from being background", "public power", "being recognized", "co-authorship", "mischievous control", "private wonder"]
+}

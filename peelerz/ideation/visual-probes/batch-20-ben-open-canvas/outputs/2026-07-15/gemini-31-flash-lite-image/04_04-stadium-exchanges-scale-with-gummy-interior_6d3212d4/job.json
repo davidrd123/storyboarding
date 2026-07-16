@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:38:11-07:00",
+  "started_at": "2026-07-15T14:37:57-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "04 stadium exchanges scale with gummy interior",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg's identities and friendship. Image 2 locks the daylight high-school bleachers and live football game. Image 3 locks dense peeled mango-candy material. No mecha transformation occurs. ONE RULE \u2014 The exterior football stadium shrinks into a meticulous live working model on the snack tray between Raul and Meg, while the soft interior of Raul's bitten mango gummy expands into the only remaining full-size stadium. FRAME \u2014 Deadpan daylight medium-wide at the top bleachers. Raul and Meg sit normally beside a cafeteria-size tray holding the entire tiny stadium: microscopic bleachers, moving players, field, scoreboard, lights, and crowd, all operating. Raul holds one bitten peeled mango gummy above it. The gummy has a clean dollhouse-like cutaway: within its soft yellow-orange interior is a vast full-size football arena receding miles into luminous mango space, with normal-size players visible deep inside. The actual landscape around the teenagers is now mostly empty grass where the stadium used to be. Everyone in the tiny crowd continues watching the game. VISUAL PROOF \u2014 real teenagers; tray-sized exterior stadium; one small gummy containing a visibly immense interior stadium; empty real landscape. AVOID \u2014 snow globe, toy packaging, ordinary screen, portal ring, mecha, giant gummy mascot, mini helpers, body horror.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+      "../../../references/stills/97882-PeelerzGummy-Mango-Sample__43665.jpg"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/stills/97882-PeelerzGummy-Mango-Sample__43665.jpg"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-stadium-exchanges-scale-with-gummy-interior_6d3212d4",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-stadium-exchanges-scale-with-gummy-interior_6d3212d4/04-stadium-exchanges-scale-with-gummy-interior_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/04_04-stadium-exchanges-scale-with-gummy-interior_6d3212d4/04-stadium-exchanges-scale-with-gummy-interior_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

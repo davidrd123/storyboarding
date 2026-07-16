@@ -1,0 +1,312 @@
+{
+  "created_at": "2026-07-14T22:46:27-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+  "job_count": 6,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:45:04-07:00",
+      "started_at": "2026-07-14T22:44:50-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+      "source_index": 1,
+      "mode": "image",
+      "title": "01 sugar frost lotus rig",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. DISTANCE RING: adjacent. REFERENCE AUTHORITY \u2014 Image 1 locks Tina's identity, blue hoodie, rear-seat position, and dark sedan. Image 2 locks the delicious giant-car /  miniature-tropical-neighborhood scale and the tiny lychee-helper scale. Image 3 locks the softened car-skin seam topology. Image 4 locks the car-skin-to-pink-canopy material continuity. ONE RULE \u2014 The lychee helpers do not haul panels. They haul luminous sugar-frost seam lines, and the softened car surface obediently follows those moving lines into four broad pink-lined petals. FRAME \u2014 Wide three-quarter passenger-side impossible documentary photograph. The car is twice the height of nearby miniature houses. Tina is still centered in the coherent rear seat. Dozens of tiny pink-and-white lychee helpers stand at specific contact points, pulling the same four glowing seam lines in coordinated teams. Immediately behind each advancing line, rigid blue-gray car skin has changed into flexible pearly lychee rind. Four large attached petals are halfway up, beginning to meet above Tina as the first shallow parasail. Her expression is delighted recognition. VISUAL PROOF \u2014 In one glance we can trace helper hands to seam tension to transformed surface to rising canopy. AVOID \u2014 torn or detached metal, ordinary convertible, unrelated fabric parachute, flower growing out of the car, random helpers floating, giant human hand, finished airborne shot.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+          "../batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+          "../batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-sugar-frost-lotus-rig_2510534b",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-sugar-frost-lotus-rig_2510534b/01-sugar-frost-lotus-rig_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-sugar-frost-lotus-rig_2510534b/01-sugar-frost-lotus-rig_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:45:22-07:00",
+      "started_at": "2026-07-14T22:45:04-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+      "source_index": 2,
+      "mode": "image",
+      "title": "02 reflection peels first",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. DISTANCE RING: feral. REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Tina, wardrobe, car interior, and restrained live-action photography. Image 3 locks the readable four- petal car transformation. Image 4 locks the pearly pink transformed material. ONE RULE \u2014 Tina and the real car remain perfectly still while every reflection of the car blooms open first; one reflected peel strip then crosses the boundary and begins to tug reality after it. FRAME \u2014 Quiet passenger-side medium-wide on a rain-wet street. The actual dark sedan is intact and Tina sits motionless in the back seat holding one lychee gummy. In the closed side window and the wet pavement below, the same car is unmistakably reflected already open into four broad pink-lined lotus/parasail petals. At one upper corner, a single pearly-pink reflected strip physically emerges out through the glass plane like a taut kite ribbon and lifts only the first inch of the real roof. Tina has just noticed it. Keep generous calm negative space. VISUAL PROOF \u2014 Real car intact; reflected car open; exactly one strip crosses from reflection into reality. AVOID \u2014 mirror portal, duplicate human, spectral monster, whole car already transformed, generalized magical glow, city destruction, dream montage.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 01 - Tina in car.png",
+          "../batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-interior-hero_21c58caf/01-interior-hero_01.png",
+          "../batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+          "../batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-09-grounded-mj-parallel/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-interior-hero_21c58caf/01-interior-hero_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-reflection-peels-first_c29e999c",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-reflection-peels-first_c29e999c/02-reflection-peels-first_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-reflection-peels-first_c29e999c/02-reflection-peels-first_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:45:39-07:00",
+      "started_at": "2026-07-14T22:45:22-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+      "source_index": 3,
+      "mode": "image",
+      "title": "03 meg holds the assembly signal",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. DISTANCE RING: adjacent. REFERENCE AUTHORITY \u2014 Image 1 locks Raul, Meg, clothing, and their friendship. Image 2 locks warm daylight, top-row geography, and the broad empty bleacher space. Image 3 exactly locks the dense opaque mango-flesh armor language. Image 4 locks mango-helper material and body design. Image 5 locks Meg's single purple grape familiar. ONE RULE \u2014 A giant mango has bloomed into five pre-shaped armor petals, and each one can move only while Meg holds its single luminous edible-peel connector taut like a lighthouse beam. FRAME \u2014 Open daylight wide with Raul centered inside the five-petal mango assembly at the isolated top row, still partly in his normal clothing and with his real face uncovered. Three dense mango- flesh panels are locked onto the graphite under-frame; two remain attached to the opened mango. Eight tiny mango helpers visibly push the next shoulder panel along one amber connector. Meg is not watching passively: seated one row higher, she braces both feet and pulls that same long elastic connector taut with both hands, aiming it toward the open joint. Her grape familiar stands on her knee and signals the route. Field and empty seats remain legible. VISUAL PROOF \u2014 Meg's bodily tension, the continuous connector, helper hands, moving panel, and open joint read as one causal chain. AVOID \u2014 finished armor, random hovering parts, bodybuilder suit, translucent orange plastic, helpless Meg, helpers used as decoration, crowded top row.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+          "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+          "../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png"
+        ],
+        "config": {}
+      },
+      "input_count": 5,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-meg-holds-the-assembly-signal_7fb3b8b2",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-meg-holds-the-assembly-signal_7fb3b8b2/03-meg-holds-the-assembly-signal_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-meg-holds-the-assembly-signal_7fb3b8b2/03-meg-holds-the-assembly-signal_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:45:54-07:00",
+      "started_at": "2026-07-14T22:45:39-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+      "source_index": 4,
+      "mode": "image",
+      "title": "04 every bite is a replayed component",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. DISTANCE RING: lateral. REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks the daylight stadium geography. Image 3 locks the opaque mango-flesh component. Image 4 supplies only the idea that product energy can propagate clearly onto the active football play. ONE RULE \u2014 Each bite Raul took is replayed on the stadium screen; at the exact replayed chew, one dense mango-flesh armor component exits the screen physically, and the matching football formation rises exactly one foot above the turf. FRAME \u2014 Wide over Raul and Meg's shoulders from the empty top row. The scoreboard shows a clean giant freeze-frame of Raul biting one peeled mango gummy, without readable invented text. One dense segmented mango shoulder component is halfway out of the screen, moving toward the matching open graphite joint on Raul. Directly below, one complete player formation hovers one foot above its own crisp shadows while the rest of the field remains grounded. Meg catches a much smaller matching wrist piece handed to her by the single grape familiar. The image should feel like precise sports- replay causality, not general stadium magic. VISUAL PROOF \u2014 Screen bite, exiting component, open joint, and hovering formation align on one clear axis. AVOID \u2014 illegible scoreboard typography, fire, flying whole stadium, finished generic robot, mango slices stuck on clothing, multiple grape familiars, night lighting.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+          "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+          "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-every-bite-is-a-replayed-component_0925612d",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-every-bite-is-a-replayed-component_0925612d/04-every-bite-is-a-replayed-component_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-every-bite-is-a-replayed-component_0925612d/04-every-bite-is-a-replayed-component_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:46:13-07:00",
+      "started_at": "2026-07-14T22:45:55-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+      "source_index": 5,
+      "mode": "image",
+      "title": "05 helpers are temporary joints",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. DISTANCE RING: feral. REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight top-row space. Image 3 locks Raul's opaque mango-flesh mecha design and open real face. Image 4 exactly locks the mango helpers. Image 5 locks the single grape familiar. ONE RULE \u2014 The mango armor panels cannot touch at first. Teams of tiny mango helpers link hand-to- hand across the open gaps and act as temporary living elbow and knee joints until graphite locks arrive. FRAME \u2014 Low daylight pit-lane angle running along an empty bleacher row. Raul stands in an almost- complete dense mango-flesh mecha, real delighted face visible, but the armor has four purposeful open joint gaps. At the closest bent elbow, a clearly readable chain of five small mango helpers spans from upper-arm panel to forearm panel under tension, each holding the next. A second shorter chain braces one knee. Amber graphite connectors are visibly sliding toward them. Meg kneels close, engaged and concerned-in-a-fun-way; her grape familiar raises one hand as the lock signal. A small fruit-gummy crowd below echoes the helpers' linked formation. VISUAL PROOF \u2014 The tiny cute crew is visibly load-bearing inside a convincing power silhouette. AVOID \u2014 helpers merely sitting on armor, painful crushing, detached limbs, transparent gummy suit, orange bodybuilder, generic construction workers, weapons, night, chaos everywhere.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../../../script/PEELERZ - 05 - park bench.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+          "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+          "../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png",
+          "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png"
+        ],
+        "config": {}
+      },
+      "input_count": 5,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/02_08-grape-familiar-direct-mutation_c8fe6756/08-grape-familiar-direct-mutation_02.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-helpers-are-temporary-joints_0eb98e18",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-helpers-are-temporary-joints_0eb98e18/05-helpers-are-temporary-joints_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/05_05-helpers-are-temporary-joints_0eb98e18/05-helpers-are-temporary-joints_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    },
+    {
+      "status": "ok",
+      "created_at": "2026-07-14T22:46:27-07:00",
+      "started_at": "2026-07-14T22:46:13-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/scenes.yaml",
+      "source_index": 6,
+      "mode": "image",
+      "title": "06 canopy arc becomes scoreboard arc",
+      "model": "gemini-3.1-flash-lite-image",
+      "prompt": "Use case: ads-marketing. DISTANCE RING: adjacent cross-scene rhyme. REFERENCE AUTHORITY \u2014 Image 1 locks the shallow pink parasail curve and its continuous peel material. Image 2 locks the daylight stadium, Raul and Meg positions, and large empty seating band. Image 3 supplies only a localized field transformation. Image 4 locks opaque mango-flesh mecha material. ONE RULE \u2014 Tina's pink parasail edge has crossed the cut and become the stadium scoreboard arch; its pink-to-rainbow colors descend from that arch into raised yard lines that draw Raul's assembly space in three dimensions. FRAME \u2014 One silent, compositionally clean daylight stadium wide from the top bleachers. A single monumental curved arch above and behind the scoreboard has the tactile translucent edge and rib spacing of Tina's lychee-pink canopy, changing gradually through a restrained rainbow. From its two ends, the matching colored yard lines lift vertically three feet from the turf like flexible edible ribbons and continue up the empty bleacher aisles, outlining one open construction volume around Raul's partial dense mango mecha. Meg stands just outside the outline and touches one pink line, recognizing it. Preserve much ordinary stadium reality and daylight. VISUAL PROOF \u2014 One exact curve/color system links canopy, scoreboard, field lines, and Raul's build. AVOID \u2014 generic rainbow sky, candyland replacement, real fire, laser cage, crowded top row, finished plastic superhero, Tina visible in the stadium, captions, split-screen or two-frame layout.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": "1K",
+        "temperature": null,
+        "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, split screen, or storyboard grid. This is a focused creativity-engine probe: preserve the declared identity, world, character, and material authorities, but make the prompt's one strange physical rule bold, concrete, and instantly visible. Do not domesticate the mechanism into generic glow, floating particles, or an unexplained finished state. Show physical contacts, tension, seams, material continuity, and cause-and-effect. Keep the tone youth-coded, funny, tactile, appetizing, benign, and cinematically credible\u2014not preschool mascot art. Mango armor is opaque dense mango flesh, never orange plastic or a gummy bodybuilder. Transformed car skin is flexible lychee rind, never torn metal. No captions, labels, borders, watermarks, invented package copy, gore, weapons, or generic gummy bears.\n",
+        "num_outputs": 2,
+        "image": null,
+        "images": [
+          "../batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png",
+          "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+          "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png",
+          "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png"
+        ],
+        "config": {}
+      },
+      "input_count": 4,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png"
+      ],
+      "attempts": 2,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-canopy-arc-becomes-scoreboard-arc_7897d4d0",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-canopy-arc-becomes-scoreboard-arc_7897d4d0/06-canopy-arc-becomes-scoreboard-arc_01.png",
+          "width": 1376,
+          "height": 768
+        },
+        {
+          "index": 2,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-18-focused-engine-good-weird/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-canopy-arc-becomes-scoreboard-arc_7897d4d0/06-canopy-arc-becomes-scoreboard-arc_02.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

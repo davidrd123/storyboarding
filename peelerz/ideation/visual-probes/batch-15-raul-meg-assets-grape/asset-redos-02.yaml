@@ -1,0 +1,34 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 2
+  system_prompt: >
+    Preserve the attached character's identity and charm. Make only the requested presentation or
+    material change. Clean off-white studio background, consistent soft light, no environment, people,
+    props, packaging, captions, labels, borders, or watermark.
+
+jobs:
+  - title: 07 mango crew direct turntable
+    images:
+      - ../../inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png
+    prompt: >
+      Use case: ads-marketing. Turn the exact small mango gummy character from Image 1 into a clean
+      turntable. Keep its irregular leaning mango body, tiny nub hands and feet, dot eyes, tiny mouth,
+      translucent yellow-orange material, and understated handmade charm unchanged. Show front,
+      three-quarter front, strict side, and back views of one identical character, plus small hauling
+      and cheering callouts. Remove only the group and pink bleacher prop.
+
+  - title: 08 grape familiar direct mutation
+    images:
+      - ../../inspo/gummy-guys/gens-01/ddickinson_a_small_pale_green_translucent_jelly_creature_wear_68aa24f1-9869-4a38-8705-3731e0334afe_3.png
+    prompt: >
+      Use case: ads-marketing. Turn the exact gentle hooded jelly creature from Image 1 into a clean
+      turntable and change only its color and hood material. Keep its small triangular body, tiny feet,
+      simple friendly dot-eyed face, proportions, and shy odd charm unchanged. Make its entire body
+      deep grape-violet translucent gummy candy; make the pointed hood and short cape a thinner,
+      translucent peeled-grape gummy layer rather than fuzzy fabric. Show front, three-quarter front,
+      strict side, and back views of the identical character, plus small bowing and swan-dive callouts.
+      Remove only the blue platform and original green/lavender colors. The expression stays gentle,
+      never sly or sinister.

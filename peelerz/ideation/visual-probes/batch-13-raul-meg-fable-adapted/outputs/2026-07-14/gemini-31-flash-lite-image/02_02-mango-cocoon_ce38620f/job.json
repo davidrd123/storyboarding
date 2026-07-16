@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:15:16-07:00",
+  "started_at": "2026-07-14T02:15:08-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/prompts.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 mango cocoon",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Preserve Raul, Meg, clothing, and product from Image 1 but relocate them to night-game football bleachers under floodlights. Image 2 supplies Raul's silhouette and orange lightning language only. Raul is completely enclosed inside one enormous upright translucent mango gummy cocoon occupying his bleacher position. His human silhouette is clearly visible through appetizing amber jelly, with several clean orange lightning bolts arcing inside around him. Meg and nearby students step back in astonishment. The gummy is a benign confectionary shell, not flesh, slime, an egg, fire, or an explosion.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid. Follow each prompt's stated reference roles. Preserve Raul as the same dark-haired teenage boy and Meg as the same blonde teenage girl in the source images, but always relocate their encounter from the park bench to crowded high-school football bleachers. Raul's flavor is mango-orange. Meg's working flavor is acid-green apple. Mango minions are energetic translucent gummy hype-men; Meg has exactly one sardonic green gummy imp. Preserve live-action teenage identities while using anime energy or tactile candy characters where requested. Mouth-passage imagery must remain wholly confectionary and never anatomical. Avoid generic robot armor, weapons, preschool mascots, horror, captions, borders, watermarks, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 06 - anime transformation.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 06 - anime transformation.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-cocoon_ce38620f",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/02_02-mango-cocoon_ce38620f/02-mango-cocoon_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

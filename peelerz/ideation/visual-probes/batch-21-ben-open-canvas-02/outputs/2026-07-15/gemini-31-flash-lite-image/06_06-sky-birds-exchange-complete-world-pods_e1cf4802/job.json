@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:00:20-07:00",
+  "started_at": "2026-07-15T15:00:04-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+  "source_index": 6,
+  "mode": "image",
+  "title": "06 sky birds exchange complete world pods",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Liz and John, Peelerz bags, campus entrance, and identity. Image 3 supplies appetizing fruit-world density only. No current campus world-swap composition is inherited. ONE RULE \u2014 Colossal elegant birds exchange sealed translucent world-pods above the campus. When one pod descends, the existing world disappears in a strict sequence\u2014extras, cars, signs, buildings\u2014 while the complete replacement world emerges from inside the same pod. FRAME \u2014 One cinematic continuous daylight wide. Liz and John remain on the central campus steps, eyes locked. Directly above them a crane-like sky bird releases a house-sized pearly grape pod. Across the left third, ordinary campus still exists but all background people have vanished; the central third has lost cars, signs, and buildings, exposing clean ground; across the right third, an intricate night ocean-city is physically unfolding from the descending pod, with luminous canals, boats, libraries, and fruit constellations. Three other enormous birds cross the upper sky carrying unopened mango, lychee, and mixed-flavor pods containing visibly different climates. VISUAL PROOF \u2014 single descending pod; ordered disappearance; replacement world emerging; other world-pods in transit. AVOID \u2014 portal rings, flying field islands, giant fruit face, destructive birds, eggs hatching animals, collage, empty abstract void, direct religious symbolism.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 09 - campus walk.png",
+      "../../../script/PEELERZ - 10 - campus connection.png",
+      "../../../references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/references/amos-peelerz-all-3-flavors-w9ABMl70E60/selected/still-007.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-sky-birds-exchange-complete-world-pods_e1cf4802",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-sky-birds-exchange-complete-world-pods_e1cf4802/06-sky-birds-exchange-complete-world-pods_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/06_06-sky-birds-exchange-complete-world-pods_e1cf4802/06-sky-birds-exchange-complete-world-pods_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

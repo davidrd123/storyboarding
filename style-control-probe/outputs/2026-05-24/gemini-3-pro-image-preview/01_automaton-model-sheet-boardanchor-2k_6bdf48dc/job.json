@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T15:17:15-07:00",
+  "started_at": "2026-05-24T15:16:26-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "automaton-model-sheet-boardanchor-2k",
+  "model": "gemini-3-pro-image-preview",
+  "prompt": "A hero-prop / character model sheet for animation production, on a clean plain white studio background.\n\nSUBJECT \u2014 the reference image shows the canonical GOLD AUTOMATON design. Reproduce THIS exact design as a multi-angle turntable. Design spec (match exactly):\n- Head: a cylindrical, helmet-like skullcap, separated from the face by a distinct HORIZONTAL SEAM running across the forehead. Rigid blocky side panels frame the face.\n- Face: a stylized Greco-Roman mask \u2014 hollow, pupil-less almond eyes; a straight, prominent nose bridge; a flat unsmiling horizontal-line mouth; a strong squared jawline.\n- Surface: brass / burnished gold, semi-polished brushed metal with painterly facets (NOT mirror-chrome, NOT flat dead matte). Warm yellow highlights, cool blue-teal reflected shadow.\n- Construction: prominent CIRCULAR BALL-AND-SOCKET joints at the shoulders; a clear seam where the neck meets the collar.\n- Body: heroic humanoid proportions \u2014 broad blocky shoulders, thick cylindrical neck, tapered torso.\nThis is the canonical, mass-produced design \u2014 every figure identical. Do NOT add a crown, hat, crest, hair, or glowing eyes; do NOT smooth the face into a featureless blank mannequin.\n\nLAYOUT \u2014 a multi-angle turntable spread, evenly and identically lit across all views:\n- full-body FRONT view\n- full-body THREE-QUARTER FRONT view\n- full-body BACK view\nplus two detail callout panels: a head/face close-up showing the forehead seam and almond eye-sockets, and a shoulder close-up showing the ball-and-socket joint.\n\nSTYLE \u2014 painterly cinematic concept-art rendering matching the reference's medium (brushed gold, painterly facets, warm-gold-on-cool palette). NOT photoreal, NOT a flat line drawing.\n\nClean white background, no environment, no other figures, only faint angle markers. The reference shows the figure only from the chest up \u2014 invent the lower body, legs and feet consistently in the same design language. 16:9 aspect ratio.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "2K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 2,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/story/hephaestus-forge/refs/_crop-panel5-automaton.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/story/hephaestus-forge/refs/_crop-panel5-automaton.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_automaton-model-sheet-boardanchor-2k_6bdf48dc",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_automaton-model-sheet-boardanchor-2k_6bdf48dc/automaton-model-sheet-boardanchor-2k_01.png",
+      "width": 2752,
+      "height": 1536
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_automaton-model-sheet-boardanchor-2k_6bdf48dc/automaton-model-sheet-boardanchor-2k_02.png",
+      "width": 2752,
+      "height": 1536
+    }
+  ]
+}

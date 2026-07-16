@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T01:31:34-07:00",
+  "started_at": "2026-07-14T01:31:25-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/prompts.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "03 giant tina looks inside",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Use both references for Tina's exact face, hair, blue jacket, black top, gummy, and pouch. Create a wide exterior view of the normal dark car stopped on an ordinary neighborhood street. An enormous gentle duplicate of Tina kneels outside and peers curiously through the rear passenger window at normal-sized Tina holding the candy inside. The two Tinas clearly recognize one another. Precise playful forced-scale photography, warm afternoon light, deadpan wonder. No giant disembodied hand, destruction, candyland, or horror.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one cinematic advertising styleframe, never a collage or storyboard grid. Image 1 and Image 2 establish Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Preserve her identity and the product, but obey each prompt's new composition and creative situation. Every job is an independent idea after Tina eats the candy; it does not need to preserve the car-peel, parachute, tropical, miniature, or gummy-fish ideas from other rounds. Make the single situation immediately legible, benign, youthful, visually bold, and plausible as a polished commercial styleframe. No captions, borders, split screens, watermarks, random candyland, or added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-giant-tina-looks-inside_cd76ea7f",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-giant-tina-looks-inside_cd76ea7f/03-giant-tina-looks-inside_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

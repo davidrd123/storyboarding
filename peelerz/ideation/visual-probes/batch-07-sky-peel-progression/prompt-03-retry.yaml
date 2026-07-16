@@ -1,0 +1,23 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: 16:9
+  image_size: 1K
+  num_outputs: 1
+jobs:
+  - title: 03 revised shell becoming canopy
+    images:
+      - outputs/2026-07-13/gemini-31-flash-lite-image/02_02-tina-sees-the-sky-peel-back_c66a5ba1/02-tina-sees-the-sky-peel-back_01.png
+      - outputs/2026-07-13/gemini-31-flash-lite-image/04_04-peeled-shell-becomes-the-canopy_0d904024/04-peeled-shell-becomes-the-canopy_01.png
+    prompt: >
+      Use case: compositing. Asset type: cinematic storyboard bridge frame. Image 1 is the preceding
+      moment and controls Tina's identity, wardrobe, gummy, package, car, neighborhood, and peeled-sky
+      membrane. Image 2 is the following moment and controls the pearl-and-blush lychee-skin canopy,
+      detached rear seat, street, and photographic material language. Generate the exact midpoint.
+      Exterior passenger-side medium wide tracking view. The long pink-edged sky membrane has caught
+      the car roof. The entire blue-gray roof skin and upper passenger side are visibly peeled halfway
+      off in one flexible continuous sheet, arcing upward and beginning to inflate into the pale pearl
+      canopy shape from Image 2. The black rear-seat structure is exposed but still attached to the
+      moving chassis; Tina remains seated and holds the gummy and bag. Her hair and jacket respond to
+      the first upward pull. Keep the wheels on the street: this is one second before lift. No solid
+      torn metal, debris, crash, rainbow parachute, empty sky, caption, border, or watermark.

@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T01:33:07-07:00",
+  "started_at": "2026-07-14T01:33:00-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/prompts.yaml",
+  "source_index": 12,
+  "mode": "image",
+  "title": "12 car becomes a flock",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Use both references for Tina, clothing, gummy, pouch, dark car material, and rear seat. Create a cinematic transformation frame in open air. Most of the dark car has dissolved into a sweeping flock of translucent pink and white birds, while the intact rear seat carrying Tina is gently borne among them. At one trailing edge, dark automotive paint and metal visibly transition into luminous feathers so the transformation reads. The ordinary city is far below. Graceful physical surrealism, no parachute, giant hand, tropical island, crash, or debris.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one cinematic advertising styleframe, never a collage or storyboard grid. Image 1 and Image 2 establish Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Preserve her identity and the product, but obey each prompt's new composition and creative situation. Every job is an independent idea after Tina eats the candy; it does not need to preserve the car-peel, parachute, tropical, miniature, or gummy-fish ideas from other rounds. Make the single situation immediately legible, benign, youthful, visually bold, and plausible as a polished commercial styleframe. No captions, borders, split screens, watermarks, random candyland, or added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/12_12-car-becomes-a-flock_c1c74bd7",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-10-tina-open-situations/outputs/2026-07-14/gemini-31-flash-lite-image/12_12-car-becomes-a-flock_c1c74bd7/12-car-becomes-a-flock_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T19:09:18-07:00",
+  "started_at": "2026-07-13T19:09:11-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-06-giant-hand-progression/prompts.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "02 tina discovers the miniature street",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: identity-preserve. Asset type: cinematic storyboard reaction frame. Image 1 controls Tina, candy, package, car interior, camera, and lighting. Image 2 supplies only the tactile scale language of a real hand interacting with a miniature neighborhood. Tina turns toward the window in quiet disbelief. Outside, two enormous fingertips gently lift one rectangular section of lawn, sidewalk, and a parked car as though it were a removable piece of a meticulous architectural model. All other houses remain normal and continuous. Match real skin, miniature plants, asphalt, and sunlight. The giant person remains unseen beyond the fingertips. Keep the rideshare intact.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one frame from a coherent live-action Peelerz commercial sequence. Maintain Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz package. Photoreal cinematic advertising, real suburban textures, gentle deadpan wonder. The giant hand is warm, careful, and curious rather than threatening. One precise scale rule, no destruction, panic, horror, cartoon style, captions, panel borders, watermarks, or generic candyland.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/11_tina-street-is-a-miniature-world_0b609d11/tina-street-is-a-miniature-world_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/11_tina-street-is-a-miniature-world_0b609d11/tina-street-is-a-miniature-world_01.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-06-giant-hand-progression/outputs/2026-07-13/gemini-31-flash-lite-image/02_02-tina-discovers-the-miniature-street_3853f585",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-06-giant-hand-progression/outputs/2026-07-13/gemini-31-flash-lite-image/02_02-tina-discovers-the-miniature-street_3853f585/02-tina-discovers-the-miniature-street_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

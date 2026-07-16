@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:09:49-07:00",
+  "started_at": "2026-07-15T15:09:43-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/scenes.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 airborne asphalt lane",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Images lock Tina, the dark sedan, and rear-seat identity; Image 2 supplies only open-air flight scale. One intact suburban traffic lane has peeled upward from the street in a single continuous asphalt ribbon, carrying the intact sedan into the evening sky. The ribbon curls high above the houses while remaining connected to the street far below. Tina is clearly visible in the back seat looking down, delighted. Show the underside of the lifted road and a clean empty groove in the street. No flying-car magic, broken road debris, car wings, detached panels, or parachute.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished, coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or design sheet. Treat every impossible event as a physical rule inside one photographed world. Preserve only the reference roles declared in each job. Keep Tina in the back seat whenever she appears in a car; Raul and Meg belong together in high-school football bleachers; Liz and John belong together on campus. Both gummy center and peel are edible. Candy stretches rather than tears. Favor good weirdness, readable scale, benign wonder, and appetizing tactile materials. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-airborne-asphalt-lane_7c56f51b",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-airborne-asphalt-lane_7c56f51b/01-airborne-asphalt-lane_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

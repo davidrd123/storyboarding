@@ -1,0 +1,54 @@
+# Ordinary-persona deck. Evidence: varied MUNDANE personas partition
+# knowledge space and close the human-LLM diversity gap; famous "creative
+# visionary" personas are themselves a mode and fail. Apply sequentially,
+# one region of idea-space at a time. Never "be a visionary."
+retired air-traffic controller
+ink chemist
+tide-pool docent
+elevator inspector
+wedding florist
+freight-train dispatcher
+piano tuner
+hospice nurse
+minor-league mascot performer
+glassblower
+county-fair pie judge
+submarine cook
+theatrical stage rigger
+commercial beekeeper
+municipal arborist
+insurance claims adjuster
+film foley artist
+locksmith
+water-meter reader
+greenhouse orchidist
+ferry captain
+textile conservator
+demolition safety officer
+youth soccer referee
+bakery shift lead
+planetarium projectionist
+courtroom sketch artist
+long-haul trucker
+national park ranger
+neon-sign repairer
+bridal seamstress
+cheesemonger
+escalator mechanic
+birdwatching guide
+vending-machine restocker
+lighthouse docent
+high-school swim coach
+halal butcher
+county archivist
+school crossing guard
+mushroom farmer
+theatrical wig maker
+sign-language interpreter
+zamboni driver
+hotel night auditor
+rodeo clown
+watch repairer
+flower delivery driver
+chemistry teacher
+tugboat deckhand

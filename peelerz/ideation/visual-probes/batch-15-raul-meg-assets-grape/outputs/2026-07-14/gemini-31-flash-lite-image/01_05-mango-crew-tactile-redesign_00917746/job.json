@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T03:09:51-07:00",
+  "started_at": "2026-07-14T03:09:41-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/asset-redos.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "05 mango crew tactile redesign",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 controls the mango species: irregular leaning mango-fruit body, tiny nub hands and feet, dot eyes, tiny mouth, warm yellow-orange translucent gummy material, and handmade miniature-set charm. Remove its pink bleacher prop and group arrangement. Image 2 controls only the turntable layout; do not copy its larger mascot limbs, leaf cap, or polished generic face. OUTPUT \u2014 one consistent mango helper shown in full-body front, three-quarter front, strict side, and back views, plus small hauling and cheering action callouts. Preserve the minimal face and almost-limbless proportions from Image 1. Identical soft studio light across all views. AVOID \u2014 character labels, signs, separate accessories, human anatomy, bear ears, clothing, large arms, large shoes, plastic-toy finish.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create a clean reference-ready character turntable. Image 1 is the character-design authority; preserve its appealing proportions, personality, face simplicity, and tactile material. Image 2 is layout authority only. Show the same character consistently across angles on a plain off-white studio background. No environment, human figures, packaging, captions, labels, borders, watermark, or unrelated redesign.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png",
+      "outputs/2026-07-14/gemini-31-flash-lite-image/01_01-mango-crew-character-sheet_4cb50d16/01-mango-crew-character-sheet_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/inspo/gummy-guys/gens-01/ddickinson_a_dozen_identical_small_mango_gummy_characters_wit_e2bfbdd9-d156-4a2e-be2d-66928cd1181e_1.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-mango-crew-character-sheet_4cb50d16/01-mango-crew-character-sheet_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_05-mango-crew-tactile-redesign_00917746",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_05-mango-crew-tactile-redesign_00917746/05-mango-crew-tactile-redesign_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_05-mango-crew-tactile-redesign_00917746/05-mango-crew-tactile-redesign_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

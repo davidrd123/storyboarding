@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T02:02:09-07:00",
+  "started_at": "2026-07-14T02:02:04-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/prompts.yaml",
+  "source_index": 10,
+  "mode": "image",
+  "title": "10 driver does not notice",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Image 1 controls Tina's identity, blue jacket, gummy, pouch, back-seat position, and dark car. Image 2 supports her face and candy only. Image 3 supplies the broad car peel premise, but reject its orange upholstery, rainbow canopy, camera, and explosive fragments. Create a wider interior three-quarter view that clearly includes both front and back seats. An ordinary adult Uber driver remains in the front driver seat, eyes calmly on the road, one hand on the wheel and the other operating the turn signal. Around him, the blue-gray roof and upper door skins curl away in broad candy-colored peel strips, revealing open sky. Behind him, Tina remains in the back seat grinning and holding the pink gummy. The intact black seats, floor, windshield, and steering controls remain coherent. Deadpan comedy. No panicked driver, front-seat Tina, collision, torn metal, orange seats, or additional passengers.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage or storyboard grid. Follow the stated role of every reference image rather than blending all references indiscriminately. Preserve Tina as the same bookish eighteen-year-old young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Tina's fixed meeting point is the back seat of the car: never move her into the driver or front passenger seat. Make the specified physical situation immediately legible in one 16:9 image. Keep transformations benign, youthful, tactile, and suitable for a live-action candy commercial. Avoid captions, borders, split screens, watermarks, generic candyland, random rainbow effects, body horror, violent wreckage, and added package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png",
+      "../../../script/PEELERZ - 03 - car peels open.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 03 - car peels open.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-driver-does-not-notice_806677df",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-12-tina-notes-mining/outputs/2026-07-14/gemini-31-flash-lite-image/10_10-driver-does-not-notice_806677df/10-driver-does-not-notice_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

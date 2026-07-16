@@ -1,0 +1,26 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: 16:9
+  image_size: 1K
+  num_outputs: 1
+  system_prompt: >
+    Create the quiet opening frame of a coherent live-action Peelerz commercial. Photoreal cinematic
+    advertising, natural ordinary Los Angeles suburb, restrained practical-effects credibility.
+    Preserve Tina, wardrobe, pose, product, car, camera, and lighting. No caption, border, watermark,
+    fantasy landscape, open flower houses, extra characters, or random color effects.
+
+jobs:
+  - title: 01 revised barely visible roof seam
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+    prompt: >
+      Use case: precise-object-edit. Asset type: cinematic storyboard opening frame. Image 1 is the edit
+      target. Keep Tina's face, gaze, hair, blue jacket, black top, hands, glowing peeled pink lychee
+      gummy, pink Peelerz bag, seat, car interior, passenger window, camera, and daylight unchanged.
+      Change only one small distant house visible through the far-right portion of the window. Add a
+      hairline curved seam along that distant house's roof ridge, with one roof corner lifted only a few
+      inches like the very first movement of a flower bud. It must still read as a normal intact house
+      at first glance. Every other house is completely closed, ordinary, and unchanged. Tina remains
+      absorbed in the gummy and has not noticed. The impossible detail occupies less than five percent
+      of the image and should reward a second look.

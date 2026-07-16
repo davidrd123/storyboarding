@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T22:54:50-07:00",
+  "started_at": "2026-07-14T22:54:31-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/scenes.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "03 five helpers carry one open elbow gap",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight top bleachers. Image 3 locks the opaque mango-flesh suit and graphite under-frame. Image 4 exactly locks mango helpers. INVARIANTS \u2014 Raul's real uncovered face and a credible narrow mechanical silhouette. SUBSTRATE \u2014 The upper-arm and forearm mango plates on Raul's bent right arm. INITIAL STATE \u2014 They are separated by one clean eight-inch gap; the graphite elbow connector has not arrived yet. APPLIED FORCE \u2014 Exactly five mango helpers form one straight horizontal chain across that gap. The first grips a metal loop on the upper-arm plate, each middle helper grips the next helper's hands, and the fifth grips a loop on the forearm plate. Their bodies stretch under the forearm's weight. TOPOLOGY \u2014 One gap, two loops, five helpers, four hand-to-hand links. No helpers anywhere else on the armor. The forearm hangs slightly lower, proving the chain carries load. STATE CHANGE \u2014 One small graphite connector approaches the gap from above but has not locked. SHOT PROOF \u2014 Daylight medium close profile of the bent arm occupying half the frame, with Raul and Meg's engaged faces visible behind it and every link large enough to read. LITERALIZATION HAZARDS / VETO \u2014 no decorative garland, necklace, grape characters, helper crowd, complete elbow joint, helpers sitting on armor, bodybuilder suit, plastic surface, crushing or pain.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, not a collage or design sheet. Obey the countable mechanical specification before making the frame pretty. Keep one causal action readable through physical contact, tension, attached edges, and a visible active boundary. Preserve declared reference authorities. No captions, labels, watermarks, invented packaging, gore, weapons, generic gummy bears, generic magical glow, or unexplained finished transformations.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+      "../batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+      "../batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/04-opaque-mango-flesh-mecha-authority.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/05-mango-helper-material-authority.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-five-helpers-carry-one-open-elbow-gap_8ce5fe68",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-five-helpers-carry-one-open-elbow-gap_8ce5fe68/03-five-helpers-carry-one-open-elbow-gap_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/03_03-five-helpers-carry-one-open-elbow-gap_8ce5fe68/03-five-helpers-carry-one-open-elbow-gap_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

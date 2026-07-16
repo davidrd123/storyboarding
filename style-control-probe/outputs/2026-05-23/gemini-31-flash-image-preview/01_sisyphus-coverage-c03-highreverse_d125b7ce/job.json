@@ -1,0 +1,48 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-23T23:33:41-07:00",
+  "started_at": "2026-05-23T23:33:17-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "sisyphus-coverage-c03-highreverse",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "You are given a reference establishing shot of a scene, plus two close-up crops showing the litho mark-making to imitate. PRESERVE the world, set, and character from the establishing shot \u2014 the same derelict tiled transit hall, the same stooped old man in a heavy dark overcoat, the same stalled overloaded shopping cart, the same broken escalator climbing into shadow. KEEP the exact litho-crayon style, tri-tone palette, and grain from all references. Render the SAME scene from a NEW camera angle \u2014 do NOT copy the establishing composition: High reverse angle from the top of the escalator looking down at the tiny lone figure and his cart far below in the empty tiled hall.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": null,
+    "system_prompt": "A late-19th / early-20th-century multi-color transfer lithograph on grained limestone. Forms drawn with a No. 2\u20133 tusche litho-crayon, its line greasy, blunt, dragging and crumbling on coarse stone \u2014 soft feathered edges, no fine detail, no clean vector edges, no anti-aliasing. Mark-making is pressure-differentiated: heavy dragging pressure on foreground darks so the stone grain breaks the ink into dense speckle (never a flat solid fill), light rapid gestural strokes elsewhere; all tone built from crayon pressure over grain, never from gradients or cross-hatching. Three flat stencil-like color blocks printed in order \u2014 dusty rose-pink tint, then a single muted terracotta-red spot, then the deep Prussian blue-black key plate \u2014 with loose registration so the pink underlay peeks past or short of the key lines, leaving unprinted warm-cream paper borders. Coarse organic paper tooth throughout; visible ink starvation \u2014 speckled cream paper grain breaking through every dark area. Perspective and architecture are loose, organic, and hand-drawn \u2014 never mathematically straight or ruler-precise. Restricted low-saturation tri-tone palette: warm cream paper, dusty rose-pink, deep Prussian blue, with at most one muted terracotta-red accent. Stark, flat, high-contrast graphic shapes; form from flat silhouettes and heavy outlines. Absolutely no gradients, no digital glow, no volumetric shading, no specular highlights, no photorealism, no flat opaque digital fills, and never a sterile pure-white background \u2014 the substrate is always warm fibrous aged-cream paper.",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v06-notrist_d6f4ad20/sisyphus-escalator-v06-notrist_01.png",
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/refs/cerberus_crop_line.png",
+      "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/refs/cerberus_crop_mass.png"
+    ],
+    "config": {}
+  },
+  "input_count": 3,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-escalator-v06-notrist_d6f4ad20/sisyphus-escalator-v06-notrist_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/refs/cerberus_crop_line.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/refs/cerberus_crop_mass.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-coverage-c03-highreverse_d125b7ce",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-coverage-c03-highreverse_d125b7ce/sisyphus-coverage-c03-highreverse_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-23/gemini-31-flash-image-preview/01_sisyphus-coverage-c03-highreverse_d125b7ce/sisyphus-coverage-c03-highreverse_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

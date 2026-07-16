@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T14:37:30-07:00",
+  "started_at": "2026-07-15T14:37:18-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/scenes.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 campus buildings migrate",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Images 1 and 2 lock Liz and John, their wardrobe, Peelerz bags, campus-step entrance, and warm live-action register. They do not lock the later world. ONE RULE \u2014 At Liz and John's shared first bite, every campus building inhales, lifts its complete foundation on four enormous architectural legs, and begins a quiet seasonal migration across the horizon. The original stone step beneath the couple is the only architecture that stays grounded. FRAME \u2014 Deadpan daylight super-wide from slightly below the steps. Liz and John remain normal-size at center, smiling in recognition with their Peelerz bags. Behind them, a library, gymnasium, dormitory, clock tower, and lecture hall stride in one majestic herd at different distances; each carries attached lawns, trees, sidewalks, and tiny calmly commuting students. One moving lecture hall lowers a staircase so students can board while it walks. Buildings have no faces and are not monsters. Their legs remain made from their own columns, foundations, and staircases. VISUAL PROOF \u2014 fixed couple and step; five recognizable moving buildings; complete land parcels traveling with them; ordinary people treating migration as the new commute. AVOID \u2014 earthquake, destruction, floating buildings, giant animals disguised as buildings, fantasy castle, crowd panic.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary but coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Ben's brief is an open canvas: favor a bold whole- world creative situation over improving any existing car-peel, parachute, or mango-mecha idea. Preserve only the explicitly declared talent/location authorities. Make the prompt's single impossible rule visible at world scale with one dominant verb, clear spatial organization, and a youthful sense of wonder. The result can be excessive, mythic, psychedelic, deadpan, or impossible, but must remain benign, appetizing, and not preschool-coded. No car opening into petals, no parachute, no robot/mecha armor, no construction-helper crew, no rainbow arch, no generic cheering gummy crowd, no captions, labels, borders, watermarks, gore, weapons, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 09 - campus walk.png",
+      "../../../script/PEELERZ - 10 - campus connection.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-campus-buildings-migrate_d5e83d7a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-campus-buildings-migrate_d5e83d7a/01-campus-buildings-migrate_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-20-ben-open-canvas/outputs/2026-07-15/gemini-31-flash-lite-image/01_01-campus-buildings-migrate_d5e83d7a/01-campus-buildings-migrate_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

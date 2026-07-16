@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T22:54:11-07:00",
+  "started_at": "2026-07-14T22:53:59-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/scenes.yaml",
+  "source_index": 1,
+  "mode": "image",
+  "title": "01 four attached car sheets follow moving seams",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Tina, blue hoodie, rear seat, and dark sedan. Image 2 locks the real-car / miniature-neighborhood scale and tiny lychee-helper scale. Images 3 and 4 lock flexible car-skin material and its eventual canopy continuity. INVARIANTS \u2014 Wheelbase, pillars, floor, rear seat, and Tina remain coherent and grounded. SUBSTRATE \u2014 Only the painted roof and upper door skin changes. INITIAL STATE \u2014 Blue-gray, rigid, flush with the car. APPLIED FORCE \u2014 Four teams of tiny lychee helpers pull four glowing sugar seams rearward; every helper's hands grip a seam, never a panel. TOPOLOGY \u2014 Exactly four broad continuous sheets; each begins as part of the roof/upper doors and remains attached along one lower outer edge. No sheet originates above the car. STATE CHANGE \u2014 Immediately behind each moving seam, rigid blue-gray surface becomes thin flexible pearly-pink edible membrane and rotates upward around its still-attached edge. SHOT PROOF \u2014 Wide passenger-side three-quarter at the instant all four moving boundaries are visible: blue rigid surface ahead, pink flexible sheet behind, tiny hands on the seams, Tina delighted inside. LITERALIZATION HAZARDS / VETO \u2014 no flower, petals, leaves, wings, botanical forms, freestanding canopy, convertible mechanism, torn metal, giant hand.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, not a collage or design sheet. Obey the countable mechanical specification before making the frame pretty. Keep one causal action readable through physical contact, tension, attached edges, and a visible active boundary. Preserve declared reference authorities. No captions, labels, watermarks, invented packaging, gore, weapons, generic gummy bears, generic magical glow, or unexplained finished transformations.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+      "../batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+      "../batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/01-lychee-peel-car-seam-authority.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/02-car-peel-to-parasail-progression.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-four-attached-car-sheets-follow-moving-seams_7bd098e2",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-four-attached-car-sheets-follow-moving-seams_7bd098e2/01-four-attached-car-sheets-follow-moving-seams_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-19-render-compiler-test/outputs/2026-07-14/gemini-31-flash-lite-image/01_01-four-attached-car-sheets-follow-moving-seams_7bd098e2/01-four-attached-car-sheets-follow-moving-seams_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "created_at": "2026-05-24T03:22:45-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "job_count": 1,
+  "failure_count": 0,
+  "results": [
+    {
+      "status": "ok",
+      "created_at": "2026-05-24T03:22:45-07:00",
+      "started_at": "2026-05-24T03:22:24-07:00",
+      "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+      "source_index": 1,
+      "mode": "image",
+      "title": "hephaestus-kit01-nbpro",
+      "model": "gemini-3-pro-image-preview",
+      "prompt": "You are reconstructing ONE finished storyboard frame from a full written spec.\n\nREFERENCES (house grammar \u2014 borrow / do NOT borrow):\n- IMAGE 1 = STYLE REFERENCE (clean original). BORROW: its exact painterly concept-art style, palette, brushwork, finish. DO NOT BORROW: its specific composition or subject arrangement.\n- IMAGE 2 = STORYBOARD PAGE of this scene (composition + world). BORROW: the staging/layout of this shot, the world, and cross-shot consistency of the character and the gold automata. DO NOT BORROW: its grid, panels, labels, or any draft grain/noise/texture (treat those as artifacts \u2014 render clean and intentional, NOT gritty).\n\nSTORY CONTEXT (reason over this): a cast-out smith, Hephaestus, builds golden beings for others \u2014 the only Olympian who ever worked, finally needed, taking quiet pride. Beneath the warmth, the first unease: the line never ends and the figures file away and don't return. OPENING register \u2014 warm and proud on its face, the dark only glimpsed.\n\nWORLD (constant across all panels \u2014 match exactly for consistency): a vast cavernous forge-hall in cool electric-blue and violet gloom, volumetric haze, a tall red furnace column; a long assembly line of identical burnished-gold automata (classical serene blank faces, hand-wrought seams); overhead robotic welder-arms throwing orange sparks; Hephaestus is a bearded, fair-haired smith in a pale cream work-robe off one shoulder.\n\nRender ONE finished full-frame cinematic image, 16:9 \u2014 no grid, no panels, no borders, no text, no labels.\n\nTHE SHOT \u2014 WIDE ESTABLISHER: the whole hall; the line recedes to a distant vanishing point; Hephaestus small lower-left at his station working a fresh automaton; deep one-point perspective; monumental, lonely.",
+      "resolved_params": {
+        "aspect_ratio": "16:9",
+        "image_size": null,
+        "temperature": null,
+        "system_prompt": "Render in clean, smooth, finished painterly concept-art \u2014 cool blue/violet shadow, warm gold, orange spark-light, volumetric haze; intentional brushwork, no grain or noise. Match Image 1's style; reproduce the composition cleanly.",
+        "num_outputs": 1,
+        "image": null,
+        "images": [
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+          "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-9up-rerender-nbpro_31e4557a/hephaestus-9up-rerender-nbpro_01.png"
+        ],
+        "config": {}
+      },
+      "input_count": 2,
+      "inputs": [
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+        "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-9up-rerender-nbpro_31e4557a/hephaestus-9up-rerender-nbpro_01.png"
+      ],
+      "attempts": 1,
+      "text": null,
+      "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-kit01-nbpro_a54e29b0",
+      "outputs": [
+        {
+          "index": 1,
+          "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-kit01-nbpro_a54e29b0/hephaestus-kit01-nbpro_01.png",
+          "width": 1376,
+          "height": 768
+        }
+      ]
+    }
+  ]
+}

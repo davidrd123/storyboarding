@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T15:04:04-07:00",
+  "started_at": "2026-05-24T15:03:21-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "hephaestus-character-sheet",
+  "model": "gemini-3-pro-image-preview",
+  "prompt": "A character model sheet / animation turntable, on a clean plain white studio background.\n\nSUBJECT \u2014 extract and render ONLY the bearded, fair-haired smith on the LEFT of the reference image. Ignore the gold automata and the industrial background entirely. He is HEPHAESTUS: a MIDDLE-AGED smith (not an old man, not white-haired), broad and stooped in build, fair/blond shoulder-length hair, a full beard, a weary tender watchful expression. He wears a pale cream work-robe draped off one shoulder. He is lame \u2014 he favors one stiff leg and stands with a stooped, off-balance stance. Keep his exact face, hair, beard, build and costume identical across every view.\n\nLAYOUT \u2014 a multi-angle turntable spread, evenly and identically lit across all views:\n- full-body FRONT view\n- full-body THREE-QUARTER FRONT view\n- full-body BACK view\nplus two detail callout panels: a head-and-shoulders close-up of his face, and a close-up of his lamed/favored leg and stance.\n\nSTYLE \u2014 painterly cinematic concept-art rendering matching the reference image's medium and palette (warm gold skin tones against cool light, rich brushwork). NOT photoreal, NOT a flat line drawing.\n\nClean white background, no environment, no other characters, no props beyond his costume, only faint angle markers. 16:9 aspect ratio.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 2,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet_b6749aa1",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet_b6749aa1/hephaestus-character-sheet_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_hephaestus-character-sheet_b6749aa1/hephaestus-character-sheet_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

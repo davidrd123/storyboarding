@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-06-20T15:54:15-07:00",
+  "started_at": "2026-06-20T15:52:11-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "riso-relettered-halo-rex-regvm",
+  "model": "gemini-3-pro-image-preview",
+  "prompt": "Transform this engraving of a robed, crowned king into a TWO-COLOR RISOGRAPH print on warm off-white paper. Inks: FEDERAL BLUE for the king's line work, with a FLUORESCENT PINK halo disc behind him; where the two inks overlap they MULTIPLY into deep purple. Keep the crisp engraved cross-hatch lines of the original. Add visible riso character: slight registration offset between the blue and pink layers (pink shifted ~3px up-left), subtle paper grain, faint roller streaks.\n\nRe-letter the circular halo: replace the old saint name with bold inscriptional Roman capitals reading \"REX \u00b7 REGVM \u00b7 DOMINVS\" arcing clockwise around the nimbus, epigraphic style with raised center-dot separators, matching the antique engraved letterforms. A small five-point star at the top of the arc. Keep the king's stern frontal face, spiked crown, and raised blessing hand exactly as in the source.\n\nDevotional holy-card composition, centered, thin keyline border. 8.5x11 zine page feel.",
+  "resolved_params": {
+    "aspect_ratio": "3:4",
+    "image_size": "2K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 2,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/ddickinson_a_robed_king_mid-command_ring_hand_extended_stern__b1520847-7642-4903-9a12-9770df54dcbf_2 (1).png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/ddickinson_a_robed_king_mid-command_ring_hand_extended_stern__b1520847-7642-4903-9a12-9770df54dcbf_2 (1).png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/outputs/2026-06-20/gemini-3-pro-image-preview/01_riso-relettered-halo-rex-regvm_439083c6",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/outputs/2026-06-20/gemini-3-pro-image-preview/01_riso-relettered-halo-rex-regvm_439083c6/riso-relettered-halo-rex-regvm_01.png",
+      "width": 1792,
+      "height": 2400
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/risograph/outputs/2026-06-20/gemini-3-pro-image-preview/01_riso-relettered-halo-rex-regvm_439083c6/riso-relettered-halo-rex-regvm_02.png",
+      "width": 1792,
+      "height": 2400
+    }
+  ]
+}

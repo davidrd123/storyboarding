@@ -1,0 +1,9 @@
+{
+  "frame": ["world event"],
+  "encounter": ["Tina in the back of a car", "Raul and Meg in football bleachers", "Liz and John on campus steps"],
+  "what_changes": ["the weather system", "the city's scale hierarchy", "the crowd's daily routines", "the ground and horizon", "all architecture", "the local passage of time"],
+  "governing_verb": ["migrates", "rehearses", "ripens", "remembers", "breathes", "molts"],
+  "far_domain": ["animal migration", "geological uplift", "a municipal election", "an orchestra tuning", "a tidal ecosystem", "a public festival"],
+  "invariant": ["one held gummy", "the eater's unhurried bite", "a circular camera move", "one product-color line", "the talent's original seat", "eye contact"],
+  "register": ["impossible documentary", "1970s Japanese psychedelic film", "high-end practical miniature", "classical epic panorama", "youth anime spectacle", "deadpan suburban realism"]
+}

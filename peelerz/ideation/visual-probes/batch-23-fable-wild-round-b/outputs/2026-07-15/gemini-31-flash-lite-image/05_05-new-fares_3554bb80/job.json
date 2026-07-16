@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:10:14-07:00",
+  "started_at": "2026-07-15T15:10:08-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/scenes.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "05 new fares",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Image 1 locks the ordinary dark sedan and rideshare register but Tina is not present. Image 2 supplies only the scale of small fruit-like gummy passengers. At dusk, a middle-aged rideshare driver leans on his completely ordinary sedan while a polite single-file queue of small lychee, mango, and grape gummy fruit people boards through the open rear door exactly like bus passengers. One pays him with a long curl of edible candy peel held like a fare ticket. Everything else is mundane documentary reality. No miniature neighborhood, transformed car, mascot party, glowing magic, giant candy, or readable app UI.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or character sheet. Treat the impossible idea as one physical rule photographed in one world. Preserve only declared reference roles. Raul and Meg remain together in high-school football bleachers. Liz and John remain together on campus. Mango helpers are irregular translucent fruit-like gummy pieces with minimal features, not gummy bears or preschool mascots. Driver scenes use restrained, deadpan documentary realism with exactly one impossible channel. Candy stretches rather than tears. Benign, appetizing, youthful, visually legible. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-11-tina-gummy-hands-region/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-miniature-gummy-neighborhood-crew_35621a5a/06-miniature-gummy-neighborhood-crew_01.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-new-fares_3554bb80",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-23-fable-wild-round-b/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-new-fares_3554bb80/05-new-fares_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

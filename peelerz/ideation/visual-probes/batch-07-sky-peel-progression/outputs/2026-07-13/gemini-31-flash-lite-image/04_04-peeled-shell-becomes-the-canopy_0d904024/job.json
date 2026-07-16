@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T19:09:33-07:00",
+  "started_at": "2026-07-13T19:09:27-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-07-sky-peel-progression/prompts.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "04 peeled shell becomes the canopy",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: compositing. Asset type: cinematic storyboard transition frame. Image 1 controls Tina's identity, pink lychee product, sky membrane, neighborhood, and fruit-night opening. Image 2 supplies only the readable low-angle silhouette of a person lifted beneath a canopy; reject its generic rainbow fabric and empty blue background. Show Tina just above the same residential street, secured in the recognizable detached rear car seat, holding the glowing lychee gummy and Peelerz bag. Above her, the car's peeled roof and the translucent pink-edged sky membrane have joined into one enormous soft lychee-skin canopy, pale pearl outside and luminous blush inside. Behind it, part of the afternoon sky remains peeled back to reveal the sparse fruit-night cosmos. This is the earned beginning of flight, not a separate parachute appearing from nowhere.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one frame from a coherent live-action Peelerz commercial sequence. Maintain Tina as the same young woman with long brown hair, blue jacket, black top, pink lychee gummy, and pink Peelerz package. Photoreal cinematic advertising with tactile real-world materials. The sky behaves as one peelable atmospheric membrane. Elegant, buoyant, and benign; no generic rainbow, candyland, explosion, disaster, captions, panel borders, watermarks, or extra characters.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/13_tina-sky-peels-into-fruit-night_d4a7ad26/tina-sky-peels-into-fruit-night_01.png",
+      "../../../script/PEELERZ - 04 - parachute flight.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/13_tina-sky-peels-into-fruit-night_d4a7ad26/tina-sky-peels-into-fruit-night_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 04 - parachute flight.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-07-sky-peel-progression/outputs/2026-07-13/gemini-31-flash-lite-image/04_04-peeled-shell-becomes-the-canopy_0d904024",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-07-sky-peel-progression/outputs/2026-07-13/gemini-31-flash-lite-image/04_04-peeled-shell-becomes-the-canopy_0d904024/04-peeled-shell-becomes-the-canopy_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T03:20:54-07:00",
+  "started_at": "2026-07-14T03:20:40-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/scenes.yaml",
+  "source_index": 8,
+  "mode": "image",
+  "title": "08 anime effect reaches the game",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks the wide geography. Image 3 supplies only the localized anime propagation across the football field. Image 4 locks Raul's mecha. BEAT \u2014 Wide view over Raul and Meg's shoulders from the top row. Mecha-Raul glows softly at frame right while a visible orange wave travels down the empty seats and reaches the live football play. Only the active play becomes anime: one runner gains controlled speed lines, pompoms pop into small orange graphic bursts, and the scoreboard emits a stylized pulse. The physical field and people remain recognizable. Meg watches the effect reach the game. AVOID \u2014 real fire, destruction, entire candyland replacement, empty play, anime teenagers in the foreground, illegible geography.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished cinematic live-action Peelerz commercial styleframe, never a collage, contact sheet, or storyboard grid. Treat each attached image only according to its declared authority. Preserve Raul and Meg as the same teenagers, and preserve the established top-of-bleachers world, dusk light, clothing, and geography. Attached ingredient sheets are exact character or object design authorities; reproduce them faithfully rather than redesigning them from prose. Keep the surreal event localized and legible inside the live-action stadium. Candy remains tactile, translucent, appetizing, and benign. No anatomy, gore, generic gummy bears, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+      "../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 4,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/01_09-top-bleachers-world-plate_883af590/09-top-bleachers-world-plate_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/08_08-anime-effect-reaches-the-game_e01c1c83",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/08_08-anime-effect-reaches-the-game_e01c1c83/08-anime-effect-reaches-the-game_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/08_08-anime-effect-reaches-the-game_e01c1c83/08-anime-effect-reaches-the-game_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

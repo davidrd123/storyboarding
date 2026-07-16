@@ -1,0 +1,42 @@
+{
+  "status": "ok",
+  "created_at": "2026-05-24T15:04:41-07:00",
+  "started_at": "2026-05-24T15:04:04-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/riff-mcp/<inline>",
+  "source_index": 1,
+  "mode": "image",
+  "title": "automaton-model-sheet",
+  "model": "gemini-3-pro-image-preview",
+  "prompt": "A hero-prop / character model sheet for animation production, on a clean plain white studio background.\n\nSUBJECT \u2014 extract and render ONLY the GOLD AUTOMATON design from the reference image. Ignore Hephaestus and the industrial background. It is one of a line of identical burnished-gold humanoid automata: a CLASSICAL, SERENE GREEK-STATUE FACE \u2014 calm, noble, smooth, blank/closed eyes \u2014 on a hammered-gold humanoid body with classical proportions and VISIBLE HAND-WROUGHT SEAMS at the joints. This is the canonical design \u2014 clarify and lock it. Resolve any ambiguity toward a clean classical-faced gold figure. It must NOT have a domed or C-3PO-style robot head, NOT a blank featureless mannequin head, NOT any hat, crown, crest or headgear, NOT glowing eyes.\n\nLAYOUT \u2014 a multi-angle turntable spread, evenly and identically lit across all views:\n- full-body FRONT view\n- full-body THREE-QUARTER FRONT view\n- full-body BACK view\nplus two detail callout panels: a head/face close-up showing the serene classical features, and a close-up of the hand-wrought seams and joint construction.\n\nSTYLE \u2014 painterly cinematic concept-art rendering matching the reference image's medium: warm burnished gold, painterly brushwork. NOT photoreal, NOT a flat line drawing.\n\nClean white background, no environment, no other characters, only faint angle markers. 16:9 aspect ratio.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": null,
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 2,
+    "image": "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/MidJourney/2026-05-23/ddickinson_Hephaestuss_automata_assembly_line_a_long_industri_3c793ade-f764-4e6b-9097-f60fec91e3c1_0.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_automaton-model-sheet_97c8e783",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_automaton-model-sheet_97c8e783/automaton-model-sheet_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/style-control-probe/outputs/2026-05-24/gemini-3-pro-image-preview/01_automaton-model-sheet_97c8e783/automaton-model-sheet_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

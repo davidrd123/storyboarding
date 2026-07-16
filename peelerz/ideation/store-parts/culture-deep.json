@@ -1,0 +1,281 @@
+{"fragments": [
+  {"id": "c201",
+   "text": "In the Epic of Gilgamesh, the snake steals the plant of youth and immediately sheds its skin, sliding away renewed, leaving the husk behind.",
+   "source": "Epic of Gilgamesh, Tablet XI (Mesopotamia, c. 2100 BCE)",
+   "tags": {
+     "physical-operation": ["shed"],
+     "material-behavior": ["skin"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["power"]
+   }},
+  {"id": "c202",
+   "text": "Ovid's Marsyas, flayed by Apollo, cries 'Why do you tear me from myself?' — his whole body one wound, the skin peeled away entire.",
+   "source": "Ovid, Metamorphoses VI (Rome, 1st c. CE)",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["skin"],
+     "spatial-relation": ["inside-out"],
+     "social-configuration": ["witnessed"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "c203",
+   "text": "In Ovid's Metamorphoses, thin bark closes over Daphne's breast as she runs; skin hardens to rind, hair to leaves, the girl still warm underneath.",
+   "source": "Ovid, Metamorphoses I (Rome, 1st c. CE)",
+   "tags": {
+     "physical-operation": ["laminate"],
+     "material-behavior": ["rind"],
+     "spatial-relation": ["layered"],
+     "temporal-behavior": ["gradual"],
+     "emotional-fantasy": ["escape"]
+   }},
+  {"id": "c204",
+   "text": "In Orkney selkie tales, the seal-wife finds her hidden sealskin in the locked chest, slips it on, and returns to the sea forever.",
+   "source": "Orkney/Shetland selkie folklore (recorded 19th c.)",
+   "tags": {
+     "physical-operation": ["shed"],
+     "material-behavior": ["skin"],
+     "spatial-relation": ["threshold"],
+     "emotional-fantasy": ["escape"],
+     "temporal-behavior": ["delayed"]
+   }},
+  {"id": "c205",
+   "text": "In the Noh play Hagoromo, a fisherman withholds the celestial maiden's feather robe; without it she cannot ascend — the garment is the border between worlds.",
+   "source": "Hagoromo, Noh theater (Japan, 15th c.)",
+   "tags": {
+     "material-behavior": ["fabric"],
+     "spatial-relation": ["threshold"],
+     "emotional-fantasy": ["belonging"],
+     "social-configuration": ["paired"]
+   }},
+  {"id": "c206",
+   "text": "In Barrie's Peter Pan, Peter's shadow, torn off by a slamming window, is rolled up in a drawer until Wendy sews it back to his heels.",
+   "source": "J.M. Barrie, Peter Pan (London, 1904/1911)",
+   "tags": {
+     "physical-operation": ["split"],
+     "material-behavior": ["fabric"],
+     "emotional-fantasy": ["mischief"],
+     "transition-affordance": ["rupture"]
+   }},
+  {"id": "c207",
+   "text": "In Heda's Dutch vanitas still lifes, a lemon's peel hangs off the table edge in one unbroken spiral, pale flesh exposed, rind curling into shadow.",
+   "source": "Willem Claesz Heda, banketje still lifes (Netherlands, 1630s)",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["rind"],
+     "spatial-relation": ["suspended"],
+     "temporal-behavior": ["already-over"],
+     "product-fact": ["fruit-form"]
+   }},
+  {"id": "c208",
+   "text": "Gijsbrechts's 1670 trompe-l'oeil shows only the back of a painting — stretcher, canvas, inventory tag; turning it over would reveal just another back.",
+   "source": "Cornelis Norbertus Gijsbrechts, Reverse of a Framed Painting (Copenhagen, 1670)",
+   "tags": {
+     "spatial-relation": ["inside-out"],
+     "formal-medium": ["oil-painting"],
+     "transition-affordance": ["peel-reveal"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "c209",
+   "text": "Seventeenth-century quodlibet trompe-l'oeil engravings render printed sheets whose corners curl up with false shadows, forever promising a liftable page and another image beneath.",
+   "source": "Quodlibet / letter-rack trompe-l'oeil prints (Flanders and Netherlands, 17th c.)",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["layered"],
+     "formal-medium": ["engraving"],
+     "transition-affordance": ["peel-reveal"]
+   }},
+  {"id": "c210",
+   "text": "Magritte's The Human Condition: a canvas on an easel exactly continues the landscape behind it — removing the painting would remove the view itself.",
+   "source": "René Magritte, La Condition humaine (Belgium, 1933)",
+   "tags": {
+     "spatial-relation": ["layered"],
+     "formal-medium": ["oil-painting"],
+     "transition-affordance": ["match-cut"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "c211",
+   "text": "In Perrault's Donkeyskin, the princess flees wrapped in a donkey's hide, sun-and-moon dresses hidden beneath; a ring baked into a cake unmasks her.",
+   "source": "Charles Perrault, Peau d'Âne (France, 1694)",
+   "tags": {
+     "material-behavior": ["skin"],
+     "spatial-relation": ["layered"],
+     "emotional-fantasy": ["escape", "recognition"],
+     "temporal-behavior": ["delayed"]
+   }},
+  {"id": "c212",
+   "text": "In Holbein's The Ambassadors, a grey smear across the floor resolves into a skull only from one oblique standpoint; step aside and death vanishes.",
+   "source": "Hans Holbein the Younger, The Ambassadors (London, 1533)",
+   "tags": {
+     "transition-affordance": ["rotation"],
+     "formal-medium": ["oil-painting"],
+     "emotional-fantasy": ["recognition", "awe"],
+     "temporal-behavior": ["instantaneous"]
+   }},
+  {"id": "c213",
+   "text": "A matryoshka splits at the waist to release a smaller identical self, again and again, until the last doll — solid wood, unopenable.",
+   "source": "Russian matryoshka, Zvyozdochkin and Malyutin (Sergiev Posad, 1890s)",
+   "tags": {
+     "physical-operation": ["split"],
+     "material-behavior": ["wood"],
+     "spatial-relation": ["nested"],
+     "temporal-behavior": ["recursive"],
+     "product-fact": ["layers"]
+   }},
+  {"id": "c214",
+   "text": "The German advent calendar rations revelation: twenty-four paper doors, each hiding one small picture, each forbidden until its numbered day arrives.",
+   "source": "German Adventskalender, Gerhard Lang's printed versions (Munich, c. 1908)",
+   "tags": {
+     "physical-operation": ["unlock"],
+     "material-behavior": ["paper"],
+     "temporal-behavior": ["delayed", "rehearsed"],
+     "transition-affordance": ["peel-reveal"]
+   }},
+  {"id": "c215",
+   "text": "Victorian tunnel books stage the 1843 Thames Tunnel as stacked cut-paper layers seen through a peephole — a whole tunnel compressed into a paper accordion.",
+   "source": "Thames Tunnel peepshow books (London, 1840s)",
+   "tags": {
+     "physical-operation": ["fold"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["compressed", "nested"],
+     "formal-medium": ["toy-theater"]
+   }},
+  {"id": "c216",
+   "text": "Apian's Astronomicum Caesareum (1540) builds the heavens from stacked rotating paper discs — volvelles — layers of the cosmos turned by a silk thread.",
+   "source": "Petrus Apianus, Astronomicum Caesareum (Ingolstadt, 1540)",
+   "tags": {
+     "material-behavior": ["paper"],
+     "spatial-relation": ["layered"],
+     "transition-affordance": ["rotation"],
+     "formal-medium": ["diagram"],
+     "temporal-behavior": ["looping"]
+   }},
+  {"id": "c217",
+   "text": "Pollock's toy theaters — 'penny plain, twopence coloured' — shrink Drury Lane to a tabletop proscenium; cardboard actors slide on wires into a miniature storm.",
+   "source": "Pollock's juvenile drama sheets (London, 19th c.)",
+   "tags": {
+     "formal-medium": ["toy-theater"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["compressed"],
+     "social-configuration": ["witnessed"]
+   }},
+  {"id": "c218",
+   "text": "In the Tale of Genji, the lady slips free of her robe to escape Genji, who keeps the shed garment and names her Utsusemi — cicada shell.",
+   "source": "Murasaki Shikibu, Genji Monogatari, ch. 3 'Utsusemi' (Japan, c. 1008)",
+   "tags": {
+     "physical-operation": ["shed"],
+     "material-behavior": ["fabric"],
+     "emotional-fantasy": ["escape"],
+     "temporal-behavior": ["already-over"]
+   }},
+  {"id": "c219",
+   "text": "The arm reliquary of Charlemagne shapes its jeweled case as the arm it contains — the body's outside remade in silver around the bone inside.",
+   "source": "Arm reliquary of Charlemagne, Aachen Cathedral Treasury (1481)",
+   "tags": {
+     "spatial-relation": ["nested"],
+     "emotional-fantasy": ["awe"],
+     "social-configuration": ["broadcast"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "c220",
+   "text": "A Noh ko-omote mask, tilted down, grieves; tilted up, it smiles — one carved wooden face holding both expressions, released by angle alone.",
+   "source": "Noh ko-omote mask tradition (Japan, from 14th c.)",
+   "tags": {
+     "material-behavior": ["wood"],
+     "transition-affordance": ["rotation"],
+     "temporal-behavior": ["instantaneous"],
+     "emotional-fantasy": ["recognition"]
+   }},
+  {"id": "c221",
+   "text": "Vesalius-era fugitive sheets: anatomical engravings with paper flaps — lift the chest door of the printed man and his viscera open layer by layer.",
+   "source": "Anatomical fugitive sheets, Heinrich Vogtherr and successors (Strasbourg, 1538 onward)",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["layered"],
+     "formal-medium": ["engraving"],
+     "transition-affordance": ["peel-reveal"]
+   }},
+  {"id": "c222",
+   "text": "Houdon's écorché (1767): a flayed man stands calmly, arm outstretched, every muscle exposed — the skin gone, the inside now the permanent outside.",
+   "source": "Jean-Antoine Houdon, L'Écorché (Rome/Paris, 1767)",
+   "tags": {
+     "physical-operation": ["peel"],
+     "material-behavior": ["skin"],
+     "spatial-relation": ["inside-out"],
+     "temporal-behavior": ["already-over"],
+     "productive-contradiction": ["tactile-spectacle"]
+   }},
+  {"id": "c223",
+   "text": "The Archimedes Palimpsest: tenth-century geometry scraped from parchment and overwritten as a prayer book — the older text ghosting beneath, recoverable by raking light.",
+   "source": "Archimedes Palimpsest (Byzantium, 10th c.; overwritten 13th c.)",
+   "tags": {
+     "physical-operation": ["dissolve"],
+     "material-behavior": ["paper"],
+     "spatial-relation": ["layered"],
+     "temporal-behavior": ["delayed"],
+     "emotional-fantasy": ["recognition"]
+   }},
+  {"id": "c224",
+   "text": "Cornell's Medici Slot Machine: a Renaissance boy stands behind crosshair-etched glass among compartments of marbles and jacks — a princeling sealed in a penny arcade.",
+   "source": "Joseph Cornell, Medici Slot Machine (New York, 1942)",
+   "tags": {
+     "material-behavior": ["glass"],
+     "spatial-relation": ["nested", "compressed"],
+     "emotional-fantasy": ["intimacy"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "c225",
+   "text": "In Carroll's Alice in Wonderland, behind a low curtain waits a fifteen-inch door; through it Alice sees the loveliest garden — at her size, unreachable.",
+   "source": "Lewis Carroll, Alice's Adventures in Wonderland, ch. 1 (Oxford, 1865)",
+   "tags": {
+     "physical-operation": ["unlock"],
+     "spatial-relation": ["threshold", "compressed"],
+     "emotional-fantasy": ["escape"],
+     "social-configuration": ["alone"]
+   }},
+  {"id": "c226",
+   "text": "In Carroll's Through the Looking-Glass, the mirror over the mantel softens to bright silvery mist, and Alice climbs through the melting glass into the reversed room.",
+   "source": "Lewis Carroll, Through the Looking-Glass, ch. 1 (Oxford, 1871)",
+   "tags": {
+     "physical-operation": ["dissolve"],
+     "material-behavior": ["glass"],
+     "spatial-relation": ["mirrored", "threshold"],
+     "transition-affordance": ["reflection"]
+   }},
+  {"id": "c227",
+   "text": "Borges's Aleph: a small iridescent sphere on a cellar stair, two or three centimetres wide, containing every point of the universe seen at once.",
+   "source": "Jorge Luis Borges, El Aleph (Buenos Aires, 1945)",
+   "tags": {
+     "spatial-relation": ["compressed", "nested"],
+     "emotional-fantasy": ["awe"],
+     "temporal-behavior": ["instantaneous"],
+     "social-configuration": ["alone"]
+   }},
+  {"id": "c228",
+   "text": "Calvino's Olinda, in Invisible Cities, grows in concentric rings like a trunk; at the center a new tiny Olinda swells, pushing the old outward.",
+   "source": "Italo Calvino, Le città invisibili (Italy, 1972)",
+   "tags": {
+     "spatial-relation": ["nested", "layered"],
+     "temporal-behavior": ["recursive", "gradual"],
+     "emotional-fantasy": ["awe"]
+   }},
+  {"id": "c229",
+   "text": "In Gogol's The Nose, the barber finds Kovalyov's nose baked inside his breakfast loaf; days later it rides a carriage in a state councillor's uniform.",
+   "source": "Nikolai Gogol, Nos (St. Petersburg, 1836)",
+   "tags": {
+     "physical-operation": ["split"],
+     "emotional-fantasy": ["mischief"],
+     "transition-affordance": ["rupture"],
+     "productive-contradiction": ["lucid-weirdness"]
+   }},
+  {"id": "c230",
+   "text": "In Grimm's Allerleirauh, the princess folds three dresses — gold as sun, silver as moon, glittering as stars — into a nutshell, then cloaks herself in a thousand furs.",
+   "source": "Brothers Grimm, Allerleirauh, KHM 65 (Germany, 1812)",
+   "tags": {
+     "physical-operation": ["fold"],
+     "material-behavior": ["fabric", "skin"],
+     "spatial-relation": ["compressed", "nested"],
+     "emotional-fantasy": ["escape"]
+   }}
+]}

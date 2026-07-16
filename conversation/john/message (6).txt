@@ -1,0 +1,97 @@
+Create a finished 3:2 landscape comic page with four panels:
+top full-width, middle-left, middle-right, bottom full-width.
+
+## Reference Authority
+
+Use attached character sheets for likeness and costume:
+- Mike sheet: Mike's face, hair, jacket, line economy, simplified rendering.
+- Charlie sheet: Charlie's face, hair, beard, white shirt, short/wiry build.
+- charlie-ref.png: face and expression reference for Panel 2 only — use for expression quality and tone and framing, not for clothing or setting.
+- Prior finished page: page finish, gutters, caption box color and style, lettering, color grouping, print grain, overall comic integration.
+
+Do not invent a new style. Match the series look.
+
+## Series Style
+
+Warm muted printed-comic page.
+Clean confident contour lines.
+Grouped black shadows.
+Simplified forms, designed shapes, restrained interior detail.
+Design readable silhouettes and clear foreground / midground / background staging.
+No painterly rendering, no photorealism, no glossy modern finish.
+
+All captions:
+same handwritten all-caps lettering, same size, same light yellow caption-box tone.
+Speech bubbles: same all-caps lettering, clean comic balloon.
+Emphasis is heavier ink only, never larger text size.
+
+## Global Continuity
+
+Topanga Canyon commune exterior, 1967. Night throughout, except Panel 1 which has the last thin light at the horizon.
+
+Mike: barely 20, clean-shaven, dark shaggy short hair, lambskin suede jacket, cream t-shirt, straight jeans, dusty brown boots.
+Charlie: short, wiry, intense, magnetic — Charles Manson likeness. Shoulder-length wavy dark hair, trimmed full dark beard, white open-collar shirt, dark brown pants. 
+
+The bus: solid black painted conventional school bus — long hood, engine in front of cab. Headlights on throughout. Small hanging Christmas lights along its body. No other markings or decorations.
+The bus headlights are the primary light source for Panels 1, 3, and 4. Render the headlight beams as stylized graphic cone shapes — hard-edged flat fills, sharp boundaries, vintage comic style. Not atmospheric glow, not volumetric fog, not gradient falloff. The spotlight circle they motivate on the ground is a designed flat shape, not a naturalistic lighting effect.
+Distant commune campfire and small family group remain in the background throughout — secondary, never the focus.
+
+
+## Panel 1 — Top, Full-Width
+
+Wide exterior. The very last thin remnant of light sits low at the horizon — after this panel the page is night.
+Charlie and Mike stand face to face inside the headlight spotlight near the bus.
+The headlight beams form a hard-edged graphic cone shape between them against the deepening dark.
+FG: dirt road at edge of commune, long hard-edged shadows thrown toward the viewer.
+MG center: Charlie and Mike facing each other inside the spotlight shape.
+MG right: the black bus angled so that its lit headlights light the confrontation, small hanging Christmas lights.
+BG left: distant campfire, small family group, dim commune structure.
+BG horizon: last thin light before night, low behind dark canyon shapes.
+Eyelines: Charlie and Mike toward each other.
+
+Caption top-left: "EVENTUALLY CHARLIE GOT AROUND TO ME."
+
+## Panel 2 — Middle Left
+
+Night.
+Use charlie-ref.png as the primary reference for framing, angle, and expression in this panel.
+Use the Charlie turnaround sheet for costume and build continuity only.
+Charlie  (frame left) is playing his trickster archetype — the knowing, slightly amused quality in charlie-ref.png. Running a game, not heavy threat.
+BG: deep black night. Charlie has a warm rim of headlight edge glow.
+Charlie looks directly at the reader — not toward Mike, not panel-right. Direct camera address.
+A hatched halo effect behind Charlie — warm yellow ground rendered through sparse crosshatching near him, increasing in density toward the panel edges where it becomes solid black vignette. Not a glowing aura — a graphic printed effect. black Crosshatching consuming the yellow field: heavy, gestural marks eating into the shape, raw rather than precise, in the manner of Robert Crumb.
+
+Speech bubble (frame right of Charlie): "WOULD YOU DIE FOR ME?"
+Subtle Emphasis: "DIE"
+
+
+## Panel 3 — Middle Right
+
+Low angle. Close on feet and legs only. Night.
+Charlie and Mike's feet and legs face each other inside the headlight pool.
+Ground: the headlight spotlight as a hard-edged flat shape — dust, long hard shadows stretching across the panel.
+BG: darkness beyond the spotlight edge — no background action.
+No faces visible. The confrontation is implied through stance and opposing feet.
+
+Caption top-left: "I ASKED HIM 'UNDER WHAT CIRCUMSTANCES?'"
+
+## Panel 4 — Bottom, Full-Width
+
+Wide exterior night.
+Mike stands alone near the bus, seen from behind or three-quarter back.
+Charlie walks away from Mike toward the distant commune fire.
+FG right: Mike alone at the edge of the headlight spotlight shape.
+FG/MG right: the black bus, headlights on, Christmas lights.
+MG center: the headlight spotlight on dusty ground — its hard-edged flat circle emptier now, the space Charlie has left.
+MG to BG left: Charlie walking out of the light, back towards the distant commune fire.
+BG left: distant fire, small family group, dark Topanga trees, night sky.
+Eyelines: Mike toward Charlie; Charlie toward the fire.
+
+Caption top-left: "WRONG ANSWER."
+Caption bottom-right: "I REMEMBER HIM QUOTING NIETZSCHE. I'M SURE HE HAD IT EXACTLY RIGHT."
+Subtle Emphasis: "WRONG"
+Subtle Emphasis: "NIETZSCHE."
+## Avoid
+
+Do not allow emphasized lettering to be larger than surrounding words. Lettering is always a consistent size.
+Do not decorate the bus beyond the small hanging Christmas lights.

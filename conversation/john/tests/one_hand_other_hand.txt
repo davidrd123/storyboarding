@@ -1,0 +1,27 @@
+Create a two-panel comic with two equal rectangular panels side by side, separated by a clear vertical gutter.
+
+Style: midcentury American television animation, flat retro colors, bold clean outlines, simple graphic shapes, expressive character acting.
+
+Coordinate convention:
+All left/right directions below are screen directions from the viewer’s perspective. “Screen-left” means the left side of the finished image. “Screen-right” means the right side of the finished image. Do not use anatomical left/right unless explicitly stated.
+
+Use the same cartoon character (a housewife) in both panels, shown waist-up, same camera distance, same scale, same costume, same simple face and body design.
+
+Left panel:
+The character stands slightly to the right side of the panel and faces screen-left. The character smiles confidently and presents a small red sphere using the hand that appears on screen-left, closest to the left edge of this panel. That active screen-left hand must be clearly visible and central to the pose. Add a speech bubble that says: “ON THE ONE HAND...”
+
+Right panel:
+The same character stands slightly to the left side of the panel and faces screen-right. The character looks skeptical or uncertain and presents a small blue cube using the hand that appears on screen-right, closest to the right edge of this panel. That active screen-right hand must be clearly visible and central to the pose. Add a speech bubble that says: “BUT ON THE OTHER HAND...”
+
+The two panels must read as mirrored opposites across the central gutter:
+left panel uses the screen-left hand;
+right panel uses the screen-right hand;
+opposite facing direction;
+opposite mood;
+opposite object shape;
+contrasting background colors.
+
+The central visual joke is literal:
+Panel 1 shows “one hand.”
+Panel 2 shows “the other hand.”
+Do not make the panels merely different. Make the active hand switch obvious at first glance.

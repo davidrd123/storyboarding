@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:11:06-07:00",
+  "started_at": "2026-07-15T15:10:59-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/scenes.yaml",
+  "source_index": 13,
+  "mode": "image",
+  "title": "13 bag is bigger inside",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Images lock Liz and John, campus wardrobe, bags, and warm chemistry. Camera is deep inside one open Peelerz bag looking upward toward its bright ordinary opening, where Liz and John peer down together. The bag's interior is an impossibly vast but continuous atmospheric world: pastel fog, full-size tropical fruit islands, waterfalls, distant boats, and tiny weather systems recede for miles behind the rim. The printed bag wall remains visible around the frame to prove scale. No mouth, cave, portal ring, package-copy changes, floating product shot, or separate outside panel.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one polished, coherent cinematic Peelerz commercial styleframe, never a collage, storyboard, contact sheet, or design sheet. Treat every impossible event as a physical rule inside one photographed world. Preserve only the reference roles declared in each job. Keep Tina in the back seat whenever she appears in a car; Raul and Meg belong together in high-school football bleachers; Liz and John belong together on campus. Both gummy center and peel are edible. Candy stretches rather than tears. Favor good weirdness, readable scale, benign wonder, and appetizing tactile materials. No weapons, gore, horror, generic portals, rainbow arches, captions, borders, watermarks, or invented package copy.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 09 - campus walk.png",
+      "../../../script/PEELERZ - 10 - campus connection.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 09 - campus walk.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 10 - campus connection.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/13_13-bag-is-bigger-inside_410250d2",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-22-fable-wild-round-a/outputs/2026-07-15/gemini-31-flash-lite-image/13_13-bag-is-bigger-inside_410250d2/13-bag-is-bigger-inside_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

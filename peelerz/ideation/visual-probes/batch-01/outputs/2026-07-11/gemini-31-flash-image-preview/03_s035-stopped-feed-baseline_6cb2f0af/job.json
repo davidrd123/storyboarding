@@ -1,0 +1,36 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T14:41:01-07:00",
+  "started_at": "2026-07-11T14:40:53-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/prompts.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "s035 stopped feed baseline",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a clear photoreal commercial styleframe using the reference image's same Tina, wardrobe, Uber, pink Peelerz candy and package. From inside the car, the passenger window behaves like a physical vertical social-media feed: the passing neighborhood is divided into several tall, translucent story-like panels sliding past with vertical motion blur, while exactly one real house outside is perfectly sharp, centered, and held still beneath a simple universal pause icon embedded in the glass. Tina holds the freshly bitten Peelerz close to the window; a subtle crisp circular contact ripple connects the candy to the paused panel so the product is visibly causal. The visual metaphor must be understandable without readable captions. Graphic hierarchy: bitten candy in foreground, paused sharp house as the main exterior subject, other houses visibly scrolling. Grounded teen commercial photography, not futuristic interface spectacle. No illegible generated text, no phone, no candyland, no generic color explosion, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": "../../../script/PEELERZ - 01 - Tina in car.png",
+    "images": null,
+    "config": {}
+  },
+  "input_count": 1,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/03_s035-stopped-feed-baseline_6cb2f0af",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-01/outputs/2026-07-11/gemini-31-flash-image-preview/03_s035-stopped-feed-baseline_6cb2f0af/s035-stopped-feed-baseline_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-14T03:27:22-07:00",
+  "started_at": "2026-07-14T03:27:10-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/targeted-corrections.yaml",
+  "source_index": 2,
+  "mode": "image",
+  "title": "19 hero frame mecha fidelity correction",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use case: ads-marketing. Replace only Raul's orange suit in Image 1 with the exact articulated mango mecha from Image 2, scaled to the same standing figure and retaining Raul's real uncovered face. Preserve the wide camera, top-row position, Meg, ten mango helpers, field, sky, and all lighting. No weapon, helmet, bodybuilder anatomy, or change to the helper line.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Make only the requested delta to Image 1. Preserve its camera, composition, people, identity, expressions, environment, geography, lighting, color grade, and every unmentioned element. Image 2, when attached, is exact design authority for the replacement. Return one clean cinematic 16:9 frame, no collage, captions, labels, borders, or watermark.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "outputs/2026-07-14/gemini-31-flash-lite-image/07_07-finished-mecha-and-hype-crew_e9fb2c27/07-finished-mecha-and-hype-crew_01.png",
+      "../batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/07_07-finished-mecha-and-hype-crew_e9fb2c27/07-finished-mecha-and-hype-crew_01.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-15-raul-meg-assets-grape/outputs/2026-07-14/gemini-31-flash-lite-image/04_04-mango-mecha-design-sheet_7a048a3f/04-mango-mecha-design-sheet_01.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_19-hero-frame-mecha-fidelity-correction_73ed4273",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_19-hero-frame-mecha-fidelity-correction_73ed4273/19-hero-frame-mecha-fidelity-correction_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-16-raul-meg-locked-progression/outputs/2026-07-14/gemini-31-flash-lite-image/02_19-hero-frame-mecha-fidelity-correction_73ed4273/19-hero-frame-mecha-fidelity-correction_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{"fragments": [
+ {"id": "c401", "text": "Multiverse fall (Dr Strange MoM): two figures held center-frame while ~17 universes swap around them in one continuous 46-second camera plunge", "source": "peelerz/references/CZI5V2VRc7s (00:10-00:56)",
+  "tags": {"spatial-relation": ["suspended"], "social-configuration": ["paired"], "emotional-fantasy": ["awe"], "temporal-behavior": ["gradual"]}},
+ {"id": "c402", "text": "Every universe boundary is a crystalline plane the camera pierces; the membrane breaks like glass with an impact whoosh", "source": "reference frames t20.5, t29.958-30.042",
+  "tags": {"material-behavior": ["glass"], "transition-affordance": ["rupture"], "temporal-behavior": ["instantaneous"], "physical-operation": ["split"]}},
+ {"id": "c403", "text": "A red cape stays legible through every medium swap — one costume color as the thread of identity across visually noisy worlds", "source": "reference, throughout",
+  "tags": {"material-behavior": ["fabric"], "emotional-fantasy": ["recognition"], "spatial-relation": ["suspended"]}},
+ {"id": "c404", "text": "The falling couple is re-mediated mid-fall: 2D animation, then geometric voxels, then liquid paint — material state swapped while trajectory and silhouette hold", "source": "reference t41.5-53.0",
+  "tags": {"formal-medium": ["cel-animation"], "physical-operation": ["dissolve"], "temporal-behavior": ["gradual"], "emotional-fantasy": ["awe"]}},
+ {"id": "c405", "text": "Amber honeycomb universe with giant bees: a world defined entirely by one material and its geometry, traversed in under two seconds", "source": "reference t24.75-26.0",
+  "tags": {"material-behavior": ["wax"], "spatial-relation": ["nested"], "temporal-behavior": ["instantaneous"]}},
+ {"id": "c406", "text": "A contemporary street identical to ours but tilted diagonally — the cheapest universe: exactly one physics parameter wrong, everything else documentary", "source": "reference t30.042-33.042",
+  "tags": {"productive-contradiction": ["lucid-weirdness"], "spatial-relation": ["suspended"], "formal-medium": ["live-action"]}},
+ {"id": "c407", "text": "Two bodies as swirling liquid paint, still recognizably falling — identity carried by motion alone when material is gone", "source": "reference t49.75-52.79",
+  "tags": {"material-behavior": ["syrup"], "physical-operation": ["dissolve"], "emotional-fantasy": ["awe"], "temporal-behavior": ["gradual"]}},
+ {"id": "c408", "text": "A blown-out white frame between worlds: over-exposure as the blank page before the next universe loads", "source": "reference t55.667",
+  "tags": {"transition-affordance": ["wipe"], "formal-medium": ["live-action"], "temporal-behavior": ["instantaneous"]}}
+]}

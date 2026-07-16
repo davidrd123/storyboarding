@@ -1,0 +1,34 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 2
+  system_prompt: >
+    Create one polished cinematic live-action Peelerz commercial styleframe, never a collage or
+    storyboard grid. Preserve the attached teenagers' identities, age, hair, and clothing. Establish a
+    reusable world plate with clear geography and generous negative space. No transformation, anime
+    energy, candy characters, surreal effects, captions, borders, watermarks, or added package copy.
+
+jobs:
+  - title: 09 top bleachers world plate
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../batch-13-raul-meg-fable-adapted/outputs/2026-07-14/gemini-31-flash-lite-image/06_06-football-game-goes-anime_e98cf4b9/06-football-game-goes-anime_01.png
+    prompt: >
+      Use case: ads-marketing.
+      REFERENCE AUTHORITY — Image 1 controls Raul and Meg's faces, hair, age, clothing, friendship, and
+      Peelerz product. Do not reproduce its park. Image 2 controls only the high-school football field,
+      descending aluminum bleachers, evening floodlights, and distant-game scale. Remove every orange
+      glow, anime effect, altered player, firework, and supernatural event from Image 2.
+      WORLD GEOGRAPHY — Place Raul and Meg together on the very top row of unusually tall bleachers.
+      They occupy the upper-right third of a wide frame. Several completely empty aluminum rows descend
+      below and around them before reaching the ordinary crowd much farther down; the small live game is
+      visible on the field beyond. Open evening sky fills nearly half the image. No seats or people exist
+      above them.
+      BEAT — A quiet moment before anything changes. They casually share Peelerz, relaxed and familiar,
+      looking intermittently toward the distant game. Natural body language, not posing for camera.
+      CAMERA — cinematic wide establishing shot from slightly below and across their row, 35mm lens,
+      readable faces but environment dominant, soft blue-gold dusk and practical stadium light.
+      AVOID — crowded row around them, park bench, daytime noon, empty stadium, giant teenagers, romance,
+      looking into camera, transformation effects, gummy creatures.

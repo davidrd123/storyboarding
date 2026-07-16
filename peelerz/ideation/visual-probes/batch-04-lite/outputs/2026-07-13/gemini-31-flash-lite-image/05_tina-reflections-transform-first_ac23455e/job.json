@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-13T17:26:10-07:00",
+  "started_at": "2026-07-13T17:26:01-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/prompts.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "tina reflections transform first",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "Use Image 1 as the edit target and preserve Tina, wardrobe, face, hair, pose, product, car, camera, and ordinary street. Image 2 only reinforces Tina identity and the pink lychee gummy. The actual neighborhood outside remains normal, but the reflection layered across the passenger window shows the same street as a lush tropical Gummyverse with glowing mango trees, enormous flowers, warm jewel light, and distant airborne gummy fish. The two realities overlap across Tina face in the glass while remaining spatially readable. She notices the reflection before the real world changes. Subtle photographic double exposure grounded in real glass reflection, cinematic and mysterious, no duplicated Tina, no portal, no text.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Generate exploratory cinematic candy-commercial styleframes. Follow the stated role of each reference image. When Image 1 is named as the edit target, preserve its subject, face, wardrobe, car interior, camera position, and photographic realism unless the prompt explicitly changes them. Avoid captions, panel borders, watermarks, generic candyland, and random rainbow effects.\n",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 01 - Tina in car.png",
+      "../../../script/PEELERZ - 02 - Tina takes bite.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 01 - Tina in car.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 02 - Tina takes bite.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/05_tina-reflections-transform-first_ac23455e",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-04-lite/outputs/2026-07-13/gemini-31-flash-lite-image/05_tina-reflections-transform-first_ac23455e/tina-reflections-transform-first_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

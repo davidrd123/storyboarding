@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T17:56:12-07:00",
+  "started_at": "2026-07-11T17:55:58-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/prompts.yaml",
+  "source_index": 3,
+  "mode": "image",
+  "title": "raul social flavor mecha mutation",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a cinematic commercial styleframe that mutates the candy mecha from generic armor into a social assembly rule. Preserve Raul and Meg's faces, age, wardrobe, Peelerz packaging, and the high-school football bleachers. Raul stands centered inside an original translucent candy exoskeleton. Four different students around him each hold a different Peelerz flavor and feed ONE long curled peel-strip into exactly one matching body module: mango-gold leg, lychee-pink torso, green-apple arm, grape-purple arm. The colored strips remain visibly continuous from each student's candy to Raul's matching module, like friends plugging their choices into a shared avatar. Raul's real face is visible; Meg supplies the final mango leg with a dry expression. Make the social cause and flavor mapping readable before spectacle. No franchise likeness, no weapons, no energy beams, no generic rainbow aura, no candyland, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/03_raul-multi-flavor-candy-mecha-baseline_44ce0155/raul-multi-flavor-candy-mecha-baseline_01.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/03_raul-multi-flavor-candy-mecha-baseline_44ce0155/raul-multi-flavor-candy-mecha-baseline_01.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/03_raul-social-flavor-mecha-mutation_0ad9945b",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-03/outputs/2026-07-11/gemini-31-flash-image-preview/03_raul-social-flavor-mecha-mutation_0ad9945b/raul-social-flavor-mecha-mutation_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

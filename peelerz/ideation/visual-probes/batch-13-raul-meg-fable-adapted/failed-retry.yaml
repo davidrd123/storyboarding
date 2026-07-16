@@ -1,0 +1,55 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 1
+  system_prompt: >
+    Create one polished cinematic Peelerz commercial styleframe, never a collage or storyboard grid.
+    Follow each prompt's stated reference roles. Preserve Raul as the same dark-haired teenage boy and
+    Meg as the same blonde teenage girl in the source images, but always relocate their encounter from
+    the park bench to crowded high-school football bleachers. Raul's flavor is mango-orange. Meg's
+    working flavor is acid-green apple. Mango minions are energetic translucent gummy hype-men; Meg has
+    exactly one sardonic green gummy imp. Preserve live-action teenage identities while using anime
+    energy or tactile candy characters where requested. Mouth-passage imagery must remain wholly
+    confectionary and never anatomical. Avoid generic robot armor, weapons, preschool mascots, horror,
+    captions, borders, watermarks, and added package copy.
+
+jobs:
+  - title: 07 meg not impressed retry
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 06 - anime transformation.png
+      - ../../../script/PEELERZ - 08 - Meg reaction.png
+    prompt: >
+      Use case: ads-marketing. Image 1 controls Raul and Meg identity and seating relationship but move
+      them to crowded football bleachers. Image 2 supplies the enormous orange anime transformation
+      around Raul. Image 3 supports Meg's face only; reject its extreme wide-angle mouth crop. Create a
+      comedic two-depth frame. Raul transforms amid orange lightning in the middle background while
+      foreground Meg calmly eats her acid-green apple gummy and raises one eyebrow, dry and almost
+      unimpressed. Keep both characters legible. No boredom, phone, contempt, extra green creature,
+      isolated portrait, or park setting.
+
+  - title: 08 green imp arrives retry
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 08 - Meg reaction.png
+    prompt: >
+      Use case: ads-marketing. Preserve Meg's blonde identity and yellow outfit from the references but
+      place her among crowded football bleachers in soft evening stadium light. Create an intimate
+      medium frame. Exactly one small acid-green translucent gummy imp with tiny hands sits upright on
+      Meg's knee and looks up at her. Meg looks back with dry curiosity. Other spectators continue
+      watching the game and do not notice the imp. Make it charming, sardonic, jewel-like candy—not a
+      demon, frog, baby mascot, plush toy, or green swarm.
+
+  - title: 09 green imp dives in retry
+    images:
+      - ../../../script/PEELERZ - 05 - park bench.png
+      - ../../../script/PEELERZ - 08 - Meg reaction.png
+    prompt: >
+      Use case: ads-marketing. Preserve Meg's identity from both references and relocate her to
+      football bleachers at night. Create a dynamic tasteful macro frame. Meg holds her hand raised near
+      her face while the single glowing green gummy imp performs a joyful swan dive from her palm toward
+      her smiling open mouth. Its tiny body and extended arms remain fully visible; one short green light
+      arc traces the motion. Stadium lights and crowd form soft bokeh. No literal falling human, fear,
+      forced feeding, giant mouth, visible throat, tongue emphasis, or extra imps.

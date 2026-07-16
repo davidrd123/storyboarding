@@ -1,0 +1,162 @@
+defaults:
+  mode: image
+  model: gemini-3.1-flash-lite-image
+  aspect_ratio: "16:9"
+  image_size: 1K
+  num_outputs: 1
+  system_prompt: >
+    Create one cinematic advertising styleframe, never a collage or storyboard grid. Image 1 and
+    Image 2 establish Tina as the same bookish eighteen-year-old young woman with long brown hair,
+    blue jacket, black top, pink lychee gummy, and pink Peelerz pouch. Preserve her identity and the
+    product, but obey each prompt's new composition and creative situation. Every job is an independent
+    idea after Tina eats the candy; it does not need to preserve the car-peel, parachute, tropical,
+    miniature, or gummy-fish ideas from other rounds. Make the single situation immediately legible,
+    benign, youthful, visually bold, and plausible as a polished commercial styleframe. No captions,
+    borders, split screens, watermarks, random candyland, or added package copy.
+
+jobs:
+  - title: 01 time freezes outside
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Image 1 controls Tina, wardrobe, product, and real car continuity. Image
+      2 supports her face and the gummy only. Create a new cinematic view just after the bite. Tina and
+      her moving car are the only things continuing through time. Outside the passenger window, an
+      ordinary neighborhood is frozen at one vivid instant: sprinkler water suspended as individual
+      glasslike beads, a skateboarder motionless in midair, birds stopped between wingbeats, windblown
+      leaves hanging in space. Tina notices calmly. Make frozen motion and moving car simultaneously
+      readable through photographic depth and motion cues. No tropical world, miniatures, or parachute.
+
+  - title: 02 gravity turns sideways
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Preserve Tina's identity, wardrobe, gummy, pouch, and normal level rear
+      seat from the references, but allow a wider camera. Gravity outside has rotated ninety degrees.
+      Parked cars, people, trees, bicycles, and lawn furniture fall calmly sideways up the face of the
+      blue sky while the houses cling to a suburban street that now appears vertical. Inside the car,
+      Tina and the gummy remain level and serene. Lucid daylight impossible physics, playful rather
+      than catastrophic. No injuries, storm, tropical fantasy, or parachute.
+
+  - title: 03 giant tina looks inside
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Use both references for Tina's exact face, hair, blue jacket, black top,
+      gummy, and pouch. Create a wide exterior view of the normal dark car stopped on an ordinary
+      neighborhood street. An enormous gentle duplicate of Tina kneels outside and peers curiously
+      through the rear passenger window at normal-sized Tina holding the candy inside. The two Tinas
+      clearly recognize one another. Precise playful forced-scale photography, warm afternoon light,
+      deadpan wonder. No giant disembodied hand, destruction, candyland, or horror.
+
+  - title: 04 three tinas three choices
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Preserve Tina's identity and clothing in all repetitions. Create one
+      continuous impossible car interior, not panels or split screen. The rear seat has widened to hold
+      exactly three identical Tinas side by side at the same moment of choice. The first carefully peels
+      the lychee gummy, the second bites it whole, and the third holds it to the window light. Each action
+      produces a distinct restrained atmosphere around that Tina while the upholstery and perspective
+      remain one coherent physical space. Elegant live-action multiplicity, no extra unrelated people.
+
+  - title: 05 tina redraws live action
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Image 1 controls live-action Tina, product, car, and starting world. Image
+      2 supports identity and candy. Tina uses the translucent pink gummy like a drawing tool against
+      the passenger window. Everything her gesture passes over changes from live-action photography
+      into exuberant hand-drawn animation: loose black ink, painted color fields, scribbled trees, and
+      lively drawn creatures. Preserve one clear transformation boundary across the real neighborhood.
+      Tina and the car foreground remain photographic. Tactile mixed media, no default tropical motif.
+
+  - title: 06 city inside the gummy
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Both images support Tina, the product, and car setting, but create an
+      extreme photographic macro. Tina holds one translucent pink lychee gummy close to the lens and
+      peers through it. Within the gummy itself is a vast complete luminous city following its curved
+      fruit surface, with a tiny version of Tina's dark car driving along a street inside. Her magnified
+      eye and the real car interior remain visible beyond the candy. Nested scale must read without a
+      glowing portal ring. Make the gummy appetizing, translucent, and materially specific.
+
+  - title: 07 neighborhood peels everything
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Preserve Tina in the rear seat with gummy and pouch, watching through the
+      window. Create a wider view of an otherwise ordinary neighborhood where everyone calmly peels the
+      outer surface from everyday things as if they learned the candy's behavior. One woman peels a
+      mailbox to reveal polished chrome, one child peels a lawn into a bright patterned floor, and a
+      delivery driver peels the side of a house into saturated color. Deadpan social surrealism with
+      three readable actions, benign and orderly, no destruction, giant fruit, jungle, or candyland.
+
+  - title: 08 infinite library back seat
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Preserve Tina, wardrobe, gummy, pouch, and the recognizable dark car.
+      Create a view through the open rear passenger door. The small ordinary back seat extends
+      impossibly into a vast warm library with endless bookshelves, rolling ladders, staircases, and
+      pools of amber reading light. Tina sits exactly at the threshold holding the candy while the
+      normal contemporary neighborhood remains visible through the opposite window. Impossible
+      architecture tailored to a bookish young woman, intimate rather than fantasy-epic. No castle,
+      tropical foliage, or miniature stage.
+
+  - title: 09 street becomes accordion
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Use the references for Tina, product, and dark car continuity but create
+      a wide exterior music-video composition. After the bite, the suburban street ahead has physically
+      folded into a giant architectural accordion. Rows of real houses compress and expand in rhythmic
+      pleats, the road bends into bellows, and streetlights become oversized keys. Tina's car rides one
+      moving fold. Bold practical production design, geometric and joyful, no musicians, printed notes,
+      tropical transformation, or candyland.
+
+  - title: 10 shadows escape first
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Preserve Tina, gummy, pouch, rear seat, and ordinary neighborhood. In long
+      late-afternoon light, every physical object remains normal but its shadow has detached and begun
+      behaving independently. A hydrant's shadow gallops like an animal, a bicycle's shadow becomes a
+      bird and flies across a wall, tree shadows dance down the sidewalk, and Tina's own shadow reaches
+      toward the gummy while she watches. Poetic photographic surrealism, playful not sinister. No dark
+      monsters, tropical world, or full object transformation.
+
+  - title: 11 world drops away
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Preserve Tina, product, and the intact dark rear seat, but create a clean
+      hero wide shot. Tina and the car remain at exactly their original street height while the entire
+      neighborhood sinks gently downward beneath them like a vast stage elevator. Rooftops, roads,
+      trees, and cars recede toward a cloud layer below as open blue sky appears around Tina. She seems
+      airborne only because the world has moved. Serene and exhilarating, no parachute, flying-car
+      machinery, wreckage, or floating candy islands.
+
+  - title: 12 car becomes a flock
+    images:
+      - ../../../script/PEELERZ - 01 - Tina in car.png
+      - ../../../script/PEELERZ - 02 - Tina takes bite.png
+    prompt: >
+      Use case: ads-marketing. Use both references for Tina, clothing, gummy, pouch, dark car material,
+      and rear seat. Create a cinematic transformation frame in open air. Most of the dark car has
+      dissolved into a sweeping flock of translucent pink and white birds, while the intact rear seat
+      carrying Tina is gently borne among them. At one trailing edge, dark automotive paint and metal
+      visibly transition into luminous feathers so the transformation reads. The ordinary city is far
+      below. Graceful physical surrealism, no parachute, giant hand, tropical island, crash, or debris.

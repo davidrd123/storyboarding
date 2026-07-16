@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-15T15:00:04-07:00",
+  "started_at": "2026-07-15T14:59:51-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/scenes.yaml",
+  "source_index": 5,
+  "mode": "image",
+  "title": "05 repeated plays become stadium geology",
+  "model": "gemini-3.1-flash-lite-image",
+  "prompt": "REFERENCE AUTHORITY \u2014 Image 1 locks Raul and Meg. Image 2 locks daylight bleachers, football game, and upper-row viewpoint. Raul remains ordinary; no anime armor occurs. ONE RULE \u2014 Every time the team repeats a play, the field deposits another complete turf layer above the last. Repetition accumulates into vertical geology containing the memory of every performance. FRAME \u2014 Daylight super-wide across a stadium transformed into a canyon of twelve connected full-size football fields stacked vertically like geological strata, not floating separately. Each horizontal turf layer contains the same live play frozen at a different one-second phase: snap, handoff, run, block, tackle. Yard lines align as continuous sediment bands down the canyon wall. Dense jewel-like candy units form thin structural seams between layers without faces or limbs. At the top, the current field is visibly growing one fresh green layer while Raul and Meg observe from the one remaining bleacher ledge. VISUAL PROOF \u2014 twelve connected field strata; chronological phases readable; current layer forming; observers small against immense accumulated memory. AVOID \u2014 floating field islands, animal carriers, scoreboard components, ordinary multi-level stadium, mecha, candy workers, landslide.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "Create one extraordinary coherent cinematic Peelerz commercial styleframe, never a collage, contact sheet, storyboard grid, or design sheet. Treat the prompt as one continuous physical world photographed from one camera position. Favor the new whole-world rule over any existing car-peel, parachute, mecha, helper-crew, floating-field-island, sleeping-fruit-face, or paper-camera concept. Preserve only declared talent/location authorities. Make the impossible rule readable at a glance through large-scale spatial organization and specific ordinary details continuing inside it. Youthful, surprising, benign, appetizing, and not preschool-coded. No captions, labels, borders, watermarks, invented package copy, gore, weapons, portals, rainbow arches, generic magical particles, or gummy bears.\n",
+    "num_outputs": 2,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-17-reference-authorities/outputs/06-daylight-top-bleachers-world-plate.png"
+  ],
+  "attempts": 2,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-repeated-plays-become-stadium-geology_2235469a",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-repeated-plays-become-stadium-geology_2235469a/05-repeated-plays-become-stadium-geology_01.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "index": 2,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-21-ben-open-canvas-02/outputs/2026-07-15/gemini-31-flash-lite-image/05_05-repeated-plays-become-stadium-geology_2235469a/05-repeated-plays-become-stadium-geology_02.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}

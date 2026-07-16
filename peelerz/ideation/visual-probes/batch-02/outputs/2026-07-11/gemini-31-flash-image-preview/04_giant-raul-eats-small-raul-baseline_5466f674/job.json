@@ -1,0 +1,40 @@
+{
+  "status": "ok",
+  "created_at": "2026-07-11T15:53:26-07:00",
+  "started_at": "2026-07-11T15:53:16-07:00",
+  "batch_file": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/prompts.yaml",
+  "source_index": 4,
+  "mode": "image",
+  "title": "giant raul eats small raul baseline",
+  "model": "gemini-3.1-flash-image-preview",
+  "prompt": "Create a photoreal surreal candy-commercial styleframe answering the director's literal scale gag: a giant version of Raul leans down into frame and eats him. Preserve Raul and Meg's faces, age, wardrobe, mango Peelerz candy and packaging from the references, on high-school football bleachers. Normal-size Raul sits in the foreground holding a freshly bitten mango candy. From above the stadium, a forty-foot mango-powered version of the SAME Raul bends down into frame, face enormous and clearly recognizable, opening his mouth as his fingers gently lift the tiny Raul toward it like another candy. Meg looks up, dryly unimpressed. Make both scales and the identity match unmistakable in one frame. The tone is mischievous and impossible, never horror: no teeth close-up, no injury, no distress, no gore. No extra magic, no candyland, no text, no watermark.",
+  "resolved_params": {
+    "aspect_ratio": "16:9",
+    "image_size": "1K",
+    "temperature": null,
+    "system_prompt": "",
+    "num_outputs": 1,
+    "image": null,
+    "images": [
+      "../../../script/PEELERZ - 05 - park bench.png",
+      "../../../script/PEELERZ - 07 - mango voltron.png"
+    ],
+    "config": {}
+  },
+  "input_count": 2,
+  "inputs": [
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 05 - park bench.png",
+    "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/script/PEELERZ - 07 - mango voltron.png"
+  ],
+  "attempts": 1,
+  "text": null,
+  "job_dir": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/04_giant-raul-eats-small-raul-baseline_5466f674",
+  "outputs": [
+    {
+      "index": 1,
+      "path": "/Users/daviddickinson/Projects/Lora/Storyboarding/peelerz/ideation/visual-probes/batch-02/outputs/2026-07-11/gemini-31-flash-image-preview/04_giant-raul-eats-small-raul-baseline_5466f674/giant-raul-eats-small-raul-baseline_01.png",
+      "width": 1376,
+      "height": 768
+    }
+  ]
+}
